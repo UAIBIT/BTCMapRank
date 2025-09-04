@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Get BTC MAP Areas
+        id: getArea
+        run: bash getArea.sh
       - name: Get BTC MAP Rank1
         id: getRank
         run: bash genRank.sh
