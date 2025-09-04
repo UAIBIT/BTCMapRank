@@ -12,7 +12,8 @@ do
       echo "$areaItem"
     }
     if jq -e ".[$i] | null | not" <<< "$rankingItems" >/dev/null; then
-      rankingItems[i]=$areaItem
+      rankingItems+=$areaItem
+      #rankingItems[$i]=$areaItem
       echo "here1"
     else
       rankingItems+=$areaItem
