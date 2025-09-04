@@ -12,7 +12,7 @@ do
       echo "$areaItem"
     }
     if jq -e ".[$i] | null | not" <<< "$rankingItems" >/dev/null; then
-      rankingItems=$(echo $rankingItems | jq '.['$i'] = ['"$areaItem"']')
+      rankingItems=$(echo $rankingItems | jq '.['$i'] = '"$areaItem"'')
       #rankingItems[$i]=$areaItem
       echo "here1"
     else
