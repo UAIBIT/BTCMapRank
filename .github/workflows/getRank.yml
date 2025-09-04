@@ -2,6 +2,7 @@ name: get BTCMAP rank
 
 on:
  workflow_call:
+ workflow_dispatch:
 
 jobs:
   genRank:
