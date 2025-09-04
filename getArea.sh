@@ -18,3 +18,5 @@ do
     fi
 done
 echo "$rankingItems" > rankingItems.json
+echo "===="
+echo "$rankingItems"
