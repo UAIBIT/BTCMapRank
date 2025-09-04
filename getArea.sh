@@ -11,14 +11,7 @@ do
       areaItem=$(echo "$response" | jq 'del(.tags.geo_json)' | jq '.tags')
       echo "$areaItem"
     }
-    if jq -e ".[$i] | null | not" <<< "$rankingItems" >/dev/null; then
-      rankingItems=$(echo $rankingItems | jq '.['$i'] = '"$areaItem"'')
-      #rankingItems[$i]=$areaItem
-      echo "here1"
-    else
-      rankingItems=$(echo $rankingItems | jq '. += ['"$areaItem"']')
-      echo "here2"
-    fi
+   rankingItems=$(echo $rankingItems | jq '.['$i'] = '"$areaItem"'')
 done
 echo "$rankingItems" > rankingItems.json
 echo "===="
