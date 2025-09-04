@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
       - name: Get BTC MAP Rank1
         id: getRank
-        run: curl --location 'https://api.btcmap.org/rpc' --header 'Content-Type:application/json' --data '{"jsonrpc":"2.0","method":"get_area_dashboard","params":{"area_id":868},"id":1}'
+        run: bash genRank.sh
