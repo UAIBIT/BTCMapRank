@@ -18,3 +18,15 @@ jobs:
       - name: Get BTC MAP Rank1
         id: getRank
         run: bash genRank.sh
+      - name: Upload to git
+        id: uploadGit
+        run: |
+          if [[ `git status --porcelain` ]]; then
+            git config --global user.name "juancolchete"
+            git config --global user.email "juancolchete@gmail.com"
+            git add . 
+            git commit -m "chore: add title ${{github.event.head_commit.message}}"
+            git push
+          else
+            echo "no changes to push"
+          fi
