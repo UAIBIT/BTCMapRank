@@ -1,13 +1,20 @@
+touch "rankingItems.json"
+[[ $(jq -e . <<< rankingItems.json >/dev/null 2>&1; echo $?) -ne 0 ]] && {
+   echo "[]" > rankingItems.json
+}
+rankingItems=$(jq "." rankingItems.json)
 for i in $(seq 1 10);
 do
-    touch "rankingItems.json"
-    rankingItems=$(jq "." rankingItems.json)
-    [[ $(jq -e . <<<"$response" >/dev/null 2>&1; echo $?) -ne 0 ]] && {
-       echo "[]" > rankingItems.json
-    }
     response=$(curl -s --location 'https://api.btcmap.org/v3/areas/'$i'' --header 'Content-Type:application/json')
+    areaItem='{"type":null}'
     [[ $(jq -e . <<<"$response" >/dev/null 2>&1; echo $?) -eq 0 && $(echo "$response" | jq 'has("tags")' -r) = "true" ]] && {
       areaItem=$(echo "$response" | jq 'del(.tags.geo_json)' | jq '.tags')
       echo "$areaItem"
     }
+    if jq -e ".[$i] | null | not" <<< "$rankingItems" >/dev/null; then
+      rankingItems[i]=$areaItem
+    else
+      rankingItems+=$areaItem
+    fi
 done
+echo "$rankingItems" > rankingItems.json
