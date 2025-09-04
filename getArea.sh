@@ -1,7 +1,7 @@
 for i in $(seq 1 10);
 do
     touch "rankingItems.json"
-    rankingItems=$(jq rankingItems.json)
+    rankingItems=$(jq "." rankingItems.json)
     [[ $(jq -e . <<<"$response" >/dev/null 2>&1; echo $?) -ne 0 ]] && {
        echo "[]" > rankingItems.json
     }
