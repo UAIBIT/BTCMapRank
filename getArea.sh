@@ -13,8 +13,10 @@ do
     }
     if jq -e ".[$i] | null | not" <<< "$rankingItems" >/dev/null; then
       rankingItems[i]=$areaItem
+      echo "here1"
     else
       rankingItems+=$areaItem
+      echo "here2"
     fi
 done
 echo "$rankingItems" > rankingItems.json
