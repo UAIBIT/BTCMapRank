@@ -9,6 +9,8 @@ do
     areaItem='{"type":null}'
     [[ $(jq -e . <<<"$response" >/dev/null 2>&1; echo $?) -eq 0 && $(echo "$response" | jq 'has("tags")' -r) = "true" ]] && {
       areaItem=$(echo "$response" | jq 'del(.tags.geo_json)' | jq '.tags')
+      merchantCount=$(curl -s --location 'https://api.btcmap.org/rpc' --header 'Content-Type:application/json' --data '{"jsonrpc":"2.0","method":"get_area_dashboard","params":{"area_id":'$i'},"id":1}' | jq '.result.total_elements')
+      areaItem=$(echo "areaItem" | jq '.merchantCount  = '"$merchantCount"'')
       echo "$areaItem"
     }
    rankingItems=$(echo $rankingItems | jq '.['$i'] = '"$areaItem"'')
