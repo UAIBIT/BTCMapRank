@@ -1,6 +1,6 @@
 touch "rankingItems.json"
 touch "ranking.json"
-[[ $(jq -e . <<< rankingItems.json >/dev/null 2>&1; echo $?) -ne 0 ]] && {
+[[ $(jq -e . <<< rankingItems.json >/dev/null 2>&1; echo $?) -ne 0 && $(cat rankingItems.json | jq 'length') -eq 0 ]] && {
    echo "[]" > rankingItems.json
 }
 rankingItems=$(jq "." rankingItems.json)
