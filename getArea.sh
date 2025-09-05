@@ -4,7 +4,7 @@ touch "ranking.json"
    echo "[]" > rankingItems.json
 }
 rankingItems=$(jq "." rankingItems.json)
-for i in $(seq 0 10);
+for i in $(seq 0 1000);
 do
     response=$(curl -s --location 'https://api.btcmap.org/v3/areas/'$i'' --header 'Content-Type:application/json')
     areaItem='{"id":'$i',"type":null,"merchantCount":0, "name": null}'
