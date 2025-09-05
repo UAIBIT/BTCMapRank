@@ -11,7 +11,7 @@ do
       areaItem=$(echo "$response" | jq 'del(.tags.geo_json)' | jq '.tags')
       merchantCount=$(curl -s --location 'https://api.btcmap.org/rpc' --header 'Content-Type:application/json' --data '{"jsonrpc":"2.0","method":"get_area_dashboard","params":{"area_id":'$i'},"id":1}' | jq '.result.total_elements')
       areaItemId=$(echo "$response" | jq '.id')
-      areaItem=$(echo "$areaItem" | jq '.id  = '"$merchantCount"'')
+      areaItem=$(echo "$areaItem" | jq '.id  = '"$areaItemId"'')
       areaItem=$(echo "$areaItem" | jq '.merchantCount  = '"$merchantCount"'')
       echo "$areaItem"
     }
