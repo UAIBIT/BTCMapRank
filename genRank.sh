@@ -9,4 +9,5 @@ jq -c '.' rankingCommunity.json | while read -r i; do
     echo "$(jq '. += {"'"$org"'": {"name":"'"$org"'","merchantCount":'"$oldMerchantCount"'}}' orgs.json)" > orgs.json
     echo "$(jq '."'"$org"'".merchantCount += '"$merchantCount"'' orgs.json)" > orgs.json
 done
+echo "$(jq 'to_entries | map(.value)' orgs.json)" > orgs.json
 jq 'sort_by(-.merchantCount)' orgs.json > rankingOrgs.json
