@@ -26,13 +26,12 @@ jq 'sort_by(-.merchantCount)' rankingItems.json > ranking.json
 jq '.[] | select(.type == "country")' ranking.json > rankingCountry.json
 jq '.[] | select(.type == "community")' ranking.json > rankingCommunity.json
 echo "{}" > orgs.json
-jq -c -R '.' rankingCommunity.json | while read i; do
-    
-    # echo "a"
+jq -c -S -R '.' rankingCommunity.json | while read i; do
+    echo "a"
     echo "$i"
-    # org=$(echo "$i" | jq '.organization // "noOrg"' -r)
-    # echo "b"
-    # merchantCount=$(echo $i | jq '.merchantCount // 0')
-    # echo "$(jq '. += {"'"$org"'": {"name":"'"$org"'","merchantCount":'"$merchantCount"'}}' orgs.json)" > orgs.json
-    # echo "$(jq '."'"$org"'".merchantCount += 1' orgs.json)" > orgs.json
+    org=$(echo "$i" | jq '.organization // "noOrg"' -r)
+    echo "b"
+    merchantCount=$(echo $i | jq '.merchantCount // 0')
+    echo "$(jq '. += {"'"$org"'": {"name":"'"$org"'","merchantCount":'"$merchantCount"'}}' orgs.json)" > orgs.json
+    echo "$(jq '."'"$org"'".merchantCount += 1' orgs.json)" > orgs.json
 done
