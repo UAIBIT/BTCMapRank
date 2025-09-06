@@ -26,7 +26,7 @@ jq 'sort_by(-.merchantCount)' rankingItems.json > ranking.json
 jq '.[] | select(.type == "country")' ranking.json > rankingCountry.json
 jq '.[] | select(.type == "community")' ranking.json > rankingCommunity.json
 echo "{}" > orgs.json
-jq -c -s '.' rankingCommunity.json | while read i; do
+jq -c -S '.' rankingCommunity.json | while read i; do
     echo "a"
     echo "$i"
     org=$(echo $i | jq '.organization // "noOrg"' -r)
