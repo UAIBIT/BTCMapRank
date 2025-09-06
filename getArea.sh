@@ -1,6 +1,7 @@
 touch "rankingItems.json"
 touch "ranking.json"
 touch "rankingCountry.json"
+touch "rankingCommunity.json"
 # [[ $(jq -e . <<< rankingItems.json >/dev/null 2>&1; echo $?) -ne 0 && $(cat rankingItems.json | jq 'length') -eq 0 ]] && {
 #    echo "[]" > rankingItems.json
 # }
@@ -22,4 +23,4 @@ touch "rankingCountry.json"
 # echo "$rankingItems" > rankingItems.json
 jq 'sort_by(-.merchantCount)' rankingItems.json > ranking.json
 jq '.[] | select(.type == "country")' ranking.json > rankingCountry.json
-jq '.[] | select(.type == "community")' ranking.json > rankingCountry.json
+jq '.[] | select(.type == "community")' ranking.json > rankingCommunity.json
