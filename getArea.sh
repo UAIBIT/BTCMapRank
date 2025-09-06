@@ -28,7 +28,7 @@ jq '.[] | select(.type == "community")' ranking.json > rankingCommunity.json
 echo "{}" > orgs.json
 jq -c '.' rankingCommunity.json | while read i; do
     org=$(echo $i | jq '.organization // "noOrg"' -r)
-    merchantCount=$(echo $i | jq '.merchantCount // 0' -r)
+    merchantCount=$(echo $i | jq '.merchantCount // 0')
     echo "$(jq '. += {"'"$org"'": {"name":"'"$org"'","merchantCount":'"$merchantCount"'}}' orgs.json)" > orgs.json
     echo "$(jq '."'"$org"'".merchantCount += 1' orgs.json)" > orgs.json
 done
