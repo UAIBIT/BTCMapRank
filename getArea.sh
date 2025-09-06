@@ -19,6 +19,6 @@ touch "rankingCountry.json"
 #     }
 #    rankingItems=$(echo $rankingItems | jq '.['$i'] = '"$areaItem"'')
 # done
-echo "$rankingItems" > rankingItems.json
-echo "$rankingItems" | jq 'sort_by(-.merchantCount)' > ranking.json
+# echo "$rankingItems" > rankingItems.json
+jq 'sort_by(-.merchantCount)' rankingItems.json > ranking.json
 jq 'select(.type == "country")' ranking.json > rankingCountry.json
