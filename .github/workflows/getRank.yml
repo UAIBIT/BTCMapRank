@@ -14,6 +14,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Get BTC MAP Areas
         id: getArea
+        if: vars.GETENV == 'Y'
         run: bash getArea.sh
       - name: Get BTC MAP Rank1
         id: getRank
