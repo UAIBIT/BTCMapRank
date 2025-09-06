@@ -28,5 +28,6 @@ jq '.[] | select(.type == "community")' ranking.json > rankingCommunity.json
 echo "{}" > orgs.json
 jq -c '.' rankingCommunity.json | while read i; do
     echo $i
-    echo "$(jq '. += {"'$(echo $i | jq '.organization')'": {}}' orgs.json)" > orgs.json
+    echo $i | jq '.organization'
+    echo "$(jq '. += {"test": {}}' orgs.json)" > orgs.json
 done
