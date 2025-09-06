@@ -29,7 +29,7 @@ echo "{}" > orgs.json
 jq -c '.' rankingCommunity.json | while read -r i; do
     org=$(echo "$i" | jq '.organization // "noOrg"' -r)
     merchantCount=$(echo $i | jq '.merchantCount // 0')
-    oldMerchantCount=$(echo $i | jq '."'"$org"'".merchantCount // 0')
+    oldMerchantCount=$(jq '."'"$org"'".merchantCount // 0' orgs.json)
     echo "$(jq '. += {"'"$org"'": {"name":"'"$org"'","merchantCount":'"$oldMerchantCount"'}}' orgs.json)" > orgs.json
     echo "$(jq '."'"$org"'".merchantCount += '"$merchantCount"'' orgs.json)" > orgs.json
 done
