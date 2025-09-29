@@ -23,7 +23,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 1974
+    "merchantCount": 1983
   },
   {
     "sovereignt": "United States of America",
@@ -49,7 +49,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1458
+    "merchantCount": 1457
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1291
+    "merchantCount": 1302
   },
   {
     "gdp_md": 351431,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1208
+    "merchantCount": 1214
   },
   {
     "population:rank": 14,
@@ -127,7 +127,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1088
+    "merchantCount": 1085
   },
   {
     "subregion": "Southern Europe",
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1013
+    "merchantCount": 1015
   },
   {
     "iso_a2": "CH",
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 781
+    "merchantCount": 801
   },
   {
     "name": "Germany",
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 607
+    "merchantCount": 608
   },
   {
     "region_un": "Americas",
@@ -231,7 +231,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 522
+    "merchantCount": 523
   },
   {
     "sovereignt": "Canada",
@@ -257,7 +257,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 506
+    "merchantCount": 507
   },
   {
     "country_type": "Sovereign country",
@@ -286,30 +286,31 @@
     "merchantCount": 376
   },
   {
-    "iso_a2": "NL",
-    "continent": "Europe",
-    "gdp_year": 2019,
-    "income_grp": "1. High income: OECD",
-    "region_wb": "Europe & Central Asia",
-    "name": "Netherlands",
-    "economy": "2. Developed region: nonG7",
-    "region_un": "Europe",
-    "area_km2": 37215.5,
-    "sovereignt": "Netherlands",
-    "subregion": "Western Europe",
-    "type": "country",
-    "lat": 52.422211,
-    "lon": 5.61144,
-    "iso_a3": "NLD",
-    "population": 17332850,
-    "country_type": "Country",
-    "wikidataid": "Q55",
-    "population:rank": 14,
+    "gdp_md": 543548,
+    "continent": "Asia",
+    "region_un": "Asia",
+    "subregion": "South-Eastern Asia",
     "population:year": 2019,
-    "gdp_md": 907050,
-    "url_alias": "nl",
-    "id": 507,
-    "merchantCount": 367
+    "area_km2": 516883.52,
+    "sovereignt": "Thailand",
+    "lat": 15.45974,
+    "type": "country",
+    "gdp_year": 2019,
+    "population": 69625582,
+    "lon": 101.073198,
+    "iso_a3": "THA",
+    "population:rank": 16,
+    "economy": "5. Emerging region: G20",
+    "income_grp": "3. Upper middle income",
+    "country_type": "Sovereign country",
+    "region_wb": "East Asia & Pacific",
+    "iso_a2": "TH",
+    "wikidataid": "Q869",
+    "name": "Thailand",
+    "url_alias": "th",
+    "icon:square": "https://static.btcmap.org/images/areas/610.svg",
+    "id": 610,
+    "merchantCount": 370
   },
   {
     "population": 47076781,
@@ -335,34 +336,33 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 365
+    "merchantCount": 366
   },
   {
-    "gdp_md": 543548,
-    "continent": "Asia",
-    "region_un": "Asia",
-    "subregion": "South-Eastern Asia",
-    "population:year": 2019,
-    "area_km2": 516883.52,
-    "sovereignt": "Thailand",
-    "lat": 15.45974,
-    "type": "country",
+    "iso_a2": "NL",
+    "continent": "Europe",
     "gdp_year": 2019,
-    "population": 69625582,
-    "lon": 101.073198,
-    "iso_a3": "THA",
-    "population:rank": 16,
-    "economy": "5. Emerging region: G20",
-    "income_grp": "3. Upper middle income",
-    "country_type": "Sovereign country",
-    "region_wb": "East Asia & Pacific",
-    "iso_a2": "TH",
-    "wikidataid": "Q869",
-    "name": "Thailand",
-    "url_alias": "th",
-    "icon:square": "https://static.btcmap.org/images/areas/610.svg",
-    "id": 610,
-    "merchantCount": 357
+    "income_grp": "1. High income: OECD",
+    "region_wb": "Europe & Central Asia",
+    "name": "Netherlands",
+    "economy": "2. Developed region: nonG7",
+    "region_un": "Europe",
+    "area_km2": 37215.5,
+    "sovereignt": "Netherlands",
+    "subregion": "Western Europe",
+    "type": "country",
+    "lat": 52.422211,
+    "lon": 5.61144,
+    "iso_a3": "NLD",
+    "population": 17332850,
+    "country_type": "Country",
+    "wikidataid": "Q55",
+    "population:rank": 14,
+    "population:year": 2019,
+    "gdp_md": 907050,
+    "url_alias": "nl",
+    "id": 507,
+    "merchantCount": 361
   },
   {
     "region_un": "Europe",
@@ -388,7 +388,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 339
+    "merchantCount": 346
   },
   {
     "wikidataid": "Q45",
@@ -414,7 +414,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 324
+    "merchantCount": 326
   },
   {
     "area_km2": 636466.7,
@@ -521,6 +521,32 @@
     "merchantCount": 271
   },
   {
+    "lat": 48.734044,
+    "gdp_year": 2019,
+    "area_km2": 48447.87,
+    "wikidataid": "Q214",
+    "income_grp": "1. High income: OECD",
+    "region_wb": "Europe & Central Asia",
+    "iso_a2": "SK",
+    "economy": "2. Developed region: nonG7",
+    "gdp_md": 105079,
+    "population:year": 2019,
+    "country_type": "Sovereign country",
+    "subregion": "Eastern Europe",
+    "population": 5454073,
+    "lon": 19.049868,
+    "type": "country",
+    "iso_a3": "SVK",
+    "region_un": "Europe",
+    "name": "Slovakia",
+    "population:rank": 13,
+    "sovereignt": "Slovakia",
+    "continent": "Europe",
+    "url_alias": "sk",
+    "id": 587,
+    "merchantCount": 263
+  },
+  {
     "sovereignt": "Argentina",
     "region_wb": "Latin America & Caribbean",
     "population:rank": 15,
@@ -545,32 +571,6 @@
     "url_alias": "ar",
     "id": 26,
     "merchantCount": 249
-  },
-  {
-    "lat": 48.734044,
-    "gdp_year": 2019,
-    "area_km2": 48447.87,
-    "wikidataid": "Q214",
-    "income_grp": "1. High income: OECD",
-    "region_wb": "Europe & Central Asia",
-    "iso_a2": "SK",
-    "economy": "2. Developed region: nonG7",
-    "gdp_md": 105079,
-    "population:year": 2019,
-    "country_type": "Sovereign country",
-    "subregion": "Eastern Europe",
-    "population": 5454073,
-    "lon": 19.049868,
-    "type": "country",
-    "iso_a3": "SVK",
-    "region_un": "Europe",
-    "name": "Slovakia",
-    "population:rank": 13,
-    "sovereignt": "Slovakia",
-    "continent": "Europe",
-    "url_alias": "sk",
-    "id": 587,
-    "merchantCount": 222
   },
   {
     "gdp_year": 2019,
@@ -622,7 +622,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 191
+    "merchantCount": 190
   },
   {
     "sovereignt": "Australia",
@@ -648,7 +648,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 178
+    "merchantCount": 177
   },
   {
     "continent": "Africa",
@@ -804,7 +804,33 @@
     "gdp_md": 376795,
     "url_alias": "ph",
     "id": 528,
-    "merchantCount": 78
+    "merchantCount": 79
+  },
+  {
+    "type": "country",
+    "region_wb": "East Asia & Pacific",
+    "lon": 172.787,
+    "population:rank": 12,
+    "region_un": "Oceania",
+    "continent": "Oceania",
+    "area_km2": 267452.09,
+    "gdp_md": 206928,
+    "gdp_year": 2019,
+    "iso_a3": "NZL",
+    "iso_a2": "NZ",
+    "economy": "2. Developed region: nonG7",
+    "income_grp": "1. High income: OECD",
+    "name": "New Zealand",
+    "population:year": 2019,
+    "lat": -39.759,
+    "sovereignt": "New Zealand",
+    "population": 4917000,
+    "country_type": "Country",
+    "subregion": "Australia and New Zealand",
+    "wikidataid": "Q664",
+    "url_alias": "nz",
+    "id": 514,
+    "merchantCount": 72
   },
   {
     "gdp_year": 2019,
@@ -831,32 +857,6 @@
     "url_alias": "ro",
     "id": 552,
     "merchantCount": 72
-  },
-  {
-    "type": "country",
-    "region_wb": "East Asia & Pacific",
-    "lon": 172.787,
-    "population:rank": 12,
-    "region_un": "Oceania",
-    "continent": "Oceania",
-    "area_km2": 267452.09,
-    "gdp_md": 206928,
-    "gdp_year": 2019,
-    "iso_a3": "NZL",
-    "iso_a2": "NZ",
-    "economy": "2. Developed region: nonG7",
-    "income_grp": "1. High income: OECD",
-    "name": "New Zealand",
-    "population:year": 2019,
-    "lat": -39.759,
-    "sovereignt": "New Zealand",
-    "population": 4917000,
-    "country_type": "Country",
-    "subregion": "Australia and New Zealand",
-    "wikidataid": "Q664",
-    "url_alias": "nz",
-    "id": 514,
-    "merchantCount": 71
   },
   {
     "population:rank": 13,
@@ -986,7 +986,7 @@
     "economy": "5. Emerging region: G20",
     "url_alias": "bo",
     "id": 168,
-    "merchantCount": 59
+    "merchantCount": 63
   },
   {
     "sovereignt": "Colombia",
@@ -1015,6 +1015,32 @@
     "merchantCount": 59
   },
   {
+    "type": "country",
+    "region_un": "Asia",
+    "country_type": "Sovereign country",
+    "subregion": "Eastern Asia",
+    "region_wb": "East Asia & Pacific",
+    "sovereignt": "Japan",
+    "continent": "Asia",
+    "lon": 138.44217,
+    "iso_a2": "JP",
+    "wikidataid": "Q17",
+    "name": "Japan",
+    "population": 126264931,
+    "population:rank": 17,
+    "iso_a3": "JPN",
+    "gdp_md": 5081769,
+    "economy": "1. Developed region: G7",
+    "population:year": 2019,
+    "lat": 36.142538,
+    "income_grp": "1. High income: OECD",
+    "gdp_year": 2019,
+    "area_km2": 370927.36,
+    "url_alias": "jp",
+    "id": 414,
+    "merchantCount": 58
+  },
+  {
     "subregion": "South America",
     "area_km2": 1299185.71,
     "gdp_year": 2019,
@@ -1039,32 +1065,6 @@
     "url_alias": "pe",
     "id": 524,
     "merchantCount": 58
-  },
-  {
-    "type": "country",
-    "region_un": "Asia",
-    "country_type": "Sovereign country",
-    "subregion": "Eastern Asia",
-    "region_wb": "East Asia & Pacific",
-    "sovereignt": "Japan",
-    "continent": "Asia",
-    "lon": 138.44217,
-    "iso_a2": "JP",
-    "wikidataid": "Q17",
-    "name": "Japan",
-    "population": 126264931,
-    "population:rank": 17,
-    "iso_a3": "JPN",
-    "gdp_md": 5081769,
-    "economy": "1. Developed region: G7",
-    "population:year": 2019,
-    "lat": 36.142538,
-    "income_grp": "1. High income: OECD",
-    "gdp_year": 2019,
-    "area_km2": 370927.36,
-    "url_alias": "jp",
-    "id": 414,
-    "merchantCount": 57
   },
   {
     "lat": 50.785392,
@@ -1220,7 +1220,7 @@
     "economy": "2. Developed region: nonG7",
     "url_alias": "hu",
     "id": 395,
-    "merchantCount": 37
+    "merchantCount": 38
   },
   {
     "gdp_md": 7491,
@@ -1275,6 +1275,32 @@
     "merchantCount": 32
   },
   {
+    "population": 270625568,
+    "economy": "4. Emerging region: MIKT",
+    "iso_a2": "ID",
+    "population:rank": 17,
+    "subregion": "South-Eastern Asia",
+    "area_km2": 1876351.23,
+    "country_type": "Sovereign country",
+    "type": "country",
+    "lon": 101.892949,
+    "name": "Indonesia",
+    "income_grp": "4. Lower middle income",
+    "continent": "Asia",
+    "gdp_md": 1119190,
+    "region_un": "Asia",
+    "gdp_year": 2019,
+    "wikidataid": "Q252",
+    "lat": -0.954404,
+    "population:year": 2019,
+    "sovereignt": "Indonesia",
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "IDN",
+    "url_alias": "id",
+    "id": 396,
+    "merchantCount": 31
+  },
+  {
     "area_km2": 385110.87,
     "continent": "Europe",
     "country_type": "Sovereign country",
@@ -1299,32 +1325,6 @@
     "wikidataid": "Q20",
     "id": 686,
     "merchantCount": 31
-  },
-  {
-    "population": 270625568,
-    "economy": "4. Emerging region: MIKT",
-    "iso_a2": "ID",
-    "population:rank": 17,
-    "subregion": "South-Eastern Asia",
-    "area_km2": 1876351.23,
-    "country_type": "Sovereign country",
-    "type": "country",
-    "lon": 101.892949,
-    "name": "Indonesia",
-    "income_grp": "4. Lower middle income",
-    "continent": "Asia",
-    "gdp_md": 1119190,
-    "region_un": "Asia",
-    "gdp_year": 2019,
-    "wikidataid": "Q252",
-    "lat": -0.954404,
-    "population:year": 2019,
-    "sovereignt": "Indonesia",
-    "region_wb": "East Asia & Pacific",
-    "iso_a3": "IDN",
-    "url_alias": "id",
-    "id": 396,
-    "merchantCount": 30
   },
   {
     "gdp_year": 2018,
@@ -1740,7 +1740,7 @@
     "gdp_md": 530883,
     "url_alias": "se",
     "id": 582,
-    "merchantCount": 15
+    "merchantCount": 16
   },
   {
     "region_un": "Asia",
@@ -1899,6 +1899,32 @@
     "merchantCount": 10
   },
   {
+    "population:rank": 7,
+    "country_type": "Sovereign country",
+    "population:year": 2019,
+    "gdp_year": 2018,
+    "income_grp": "2. High income: nonOECD",
+    "region_un": "Europe",
+    "area_km2": 138.26,
+    "name": "Liechtenstein",
+    "region_wb": "Europe & Central Asia",
+    "gdp_md": 6876,
+    "type": "country",
+    "sovereignt": "Liechtenstein",
+    "lat": 47.111405,
+    "continent": "Europe",
+    "lon": 9.559439,
+    "economy": "2. Developed region: nonG7",
+    "wikidataid": "Q347",
+    "iso_a3": "LIE",
+    "subregion": "Western Europe",
+    "iso_a2": "LI",
+    "population": 38019,
+    "url_alias": "li",
+    "id": 437,
+    "merchantCount": 10
+  },
+  {
     "lat": 23.466285,
     "population": 9770529,
     "income_grp": "2. High income: nonOECD",
@@ -2001,32 +2027,6 @@
     "url_alias": "sg",
     "id": 584,
     "merchantCount": 9
-  },
-  {
-    "population:rank": 7,
-    "country_type": "Sovereign country",
-    "population:year": 2019,
-    "gdp_year": 2018,
-    "income_grp": "2. High income: nonOECD",
-    "region_un": "Europe",
-    "area_km2": 138.26,
-    "name": "Liechtenstein",
-    "region_wb": "Europe & Central Asia",
-    "gdp_md": 6876,
-    "type": "country",
-    "sovereignt": "Liechtenstein",
-    "lat": 47.111405,
-    "continent": "Europe",
-    "lon": 9.559439,
-    "economy": "2. Developed region: nonG7",
-    "wikidataid": "Q347",
-    "iso_a3": "LIE",
-    "subregion": "Western Europe",
-    "iso_a2": "LI",
-    "population": 38019,
-    "url_alias": "li",
-    "id": 437,
-    "merchantCount": 8
   },
   {
     "type": "country",
@@ -2267,6 +2267,32 @@
     "merchantCount": 6
   },
   {
+    "country_type": "Country",
+    "population": 5818553,
+    "population:year": 2019,
+    "iso_a2": "DK",
+    "region_un": "Europe",
+    "lat": 55.966965,
+    "income_grp": "1. High income: OECD",
+    "lon": 9.018163,
+    "continent": "Europe",
+    "population:rank": 13,
+    "subregion": "Northern Europe",
+    "wikidataid": "Q35",
+    "gdp_md": 350104,
+    "region_wb": "Europe & Central Asia",
+    "sovereignt": "Denmark",
+    "economy": "2. Developed region: nonG7",
+    "name": "Denmark",
+    "type": "country",
+    "iso_a3": "DNK",
+    "gdp_year": 2019,
+    "area_km2": 42511.96,
+    "url_alias": "dk",
+    "id": 230,
+    "merchantCount": 6
+  },
+  {
     "subregion": "Eastern Asia",
     "income_grp": "2. High income: nonOECD",
     "lon": 114.097769,
@@ -2369,32 +2395,6 @@
     "url_alias": "pr",
     "id": 537,
     "merchantCount": 6
-  },
-  {
-    "country_type": "Country",
-    "population": 5818553,
-    "population:year": 2019,
-    "iso_a2": "DK",
-    "region_un": "Europe",
-    "lat": 55.966965,
-    "income_grp": "1. High income: OECD",
-    "lon": 9.018163,
-    "continent": "Europe",
-    "population:rank": 13,
-    "subregion": "Northern Europe",
-    "wikidataid": "Q35",
-    "gdp_md": 350104,
-    "region_wb": "Europe & Central Asia",
-    "sovereignt": "Denmark",
-    "economy": "2. Developed region: nonG7",
-    "name": "Denmark",
-    "type": "country",
-    "iso_a3": "DNK",
-    "gdp_year": 2019,
-    "area_km2": 42511.96,
-    "url_alias": "dk",
-    "id": 230,
-    "merchantCount": 5
   },
   {
     "name": "Luxembourg",
