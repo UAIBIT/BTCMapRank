@@ -3,6 +3,9 @@ name: get BTCMAP rank
 on:
  workflow_call:
  workflow_dispatch:
+ schedule:
+   - cron: "30 * * * *"
+ 
 
 jobs:
   genRank:
