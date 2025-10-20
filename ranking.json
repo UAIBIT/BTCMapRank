@@ -6806,19 +6806,6 @@
     "merchantCount": 8
   },
   {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/satoshi-team.png",
-    "name": "Satoshi Team - Comuna 14",
-    "population": 160000,
-    "population:date": "2025-01-01",
-    "url_alias": "comuna_14",
-    "organization": "satoshi-team",
-    "type": "community",
-    "area_km2": 14.77,
-    "id": 913,
-    "merchantCount": 8
-  },
-  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-westwald.jpg",
     "name": "Bitcoin Westerwald",
@@ -17249,6 +17236,12 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
+  },
+  {
+    "id": 913,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 916,
