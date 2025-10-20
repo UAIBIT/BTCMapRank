@@ -21,4 +21,10 @@ do
     }
    rankingItems=$(echo $rankingItems | jq '.['$i'] = '"$areaItem"'')
 done
-echo "$rankingItems" > rankingItems.json
+WORDCOUNT=$(echo "$rankingItems" | wc -w)
+if [[ "$WORDCOUNT" -gt 10 ]]; then
+  echo "$rankingItems" > rankingItems.json
+else
+  echo "The file does not have more than one line (it has 0 or 1 line)."
+fi
+
