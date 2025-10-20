@@ -5895,20 +5895,6 @@
     "merchantCount": 10
   },
   {
-    "type": "community",
-    "url_alias": "einundzwanzig-liechtenstein",
-    "population:date": "2021-12-31",
-    "contact:telegram": "https://t.me/joinchat/0UnzuwPmiitlMzE0",
-    "population": 38700,
-    "name": "Einundzwanzig Liechtenstein",
-    "continent": "europe",
-    "language": "de",
-    "organization": "einundzwanzig",
-    "area_km2": 160.75,
-    "id": 292,
-    "merchantCount": 10
-  },
-  {
     "continent": "europe",
     "organization": "einundzwanzig",
     "url_alias": "einundzwanzig-mecklenburg-vorpommern",
@@ -13815,6 +13801,12 @@
     "url_alias": "einundzwanzig-kempten",
     "id": 287,
     "merchantCount": 0
+  },
+  {
+    "id": 292,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 69.77,
