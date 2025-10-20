@@ -23,7 +23,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 1992
+    "merchantCount": 2001
   },
   {
     "sovereignt": "United States of America",
@@ -49,7 +49,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1457
+    "merchantCount": 1466
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1307
+    "merchantCount": 1321
   },
   {
     "gdp_md": 351431,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1217
+    "merchantCount": 1224
   },
   {
     "population:rank": 14,
@@ -127,7 +127,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1089
+    "merchantCount": 1090
   },
   {
     "subregion": "Southern Europe",
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1017
+    "merchantCount": 1025
   },
   {
     "iso_a2": "CH",
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 802
+    "merchantCount": 805
   },
   {
     "name": "Germany",
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 610
+    "merchantCount": 606
   },
   {
     "region_un": "Americas",
@@ -231,7 +231,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 525
+    "merchantCount": 526
   },
   {
     "sovereignt": "Canada",
@@ -257,33 +257,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 509
-  },
-  {
-    "country_type": "Sovereign country",
-    "subregion": "Central America",
-    "wikidataid": "Q800",
-    "continent": "North America",
-    "economy": "5. Emerging region: G20",
-    "population:rank": 13,
-    "region_wb": "Latin America & Caribbean",
-    "income_grp": "3. Upper middle income",
-    "population": 5047561,
-    "lat": 10.0651,
-    "population:year": 2019,
-    "gdp_md": 61801,
-    "type": "country",
-    "gdp_year": 2019,
-    "region_un": "Americas",
-    "iso_a2": "CR",
-    "lon": -84.077922,
-    "iso_a3": "CRI",
-    "sovereignt": "Costa Rica",
-    "area_km2": 51628.28,
-    "name": "Costa Rica",
-    "url_alias": "cr",
-    "id": 211,
-    "merchantCount": 384
+    "merchantCount": 514
   },
   {
     "gdp_md": 543548,
@@ -310,7 +284,33 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 378
+    "merchantCount": 400
+  },
+  {
+    "country_type": "Sovereign country",
+    "subregion": "Central America",
+    "wikidataid": "Q800",
+    "continent": "North America",
+    "economy": "5. Emerging region: G20",
+    "population:rank": 13,
+    "region_wb": "Latin America & Caribbean",
+    "income_grp": "3. Upper middle income",
+    "population": 5047561,
+    "lat": 10.0651,
+    "population:year": 2019,
+    "gdp_md": 61801,
+    "type": "country",
+    "gdp_year": 2019,
+    "region_un": "Americas",
+    "iso_a2": "CR",
+    "lon": -84.077922,
+    "iso_a3": "CRI",
+    "sovereignt": "Costa Rica",
+    "area_km2": 51628.28,
+    "name": "Costa Rica",
+    "url_alias": "cr",
+    "id": 211,
+    "merchantCount": 385
   },
   {
     "population": 47076781,
@@ -336,7 +336,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 367
+    "merchantCount": 369
   },
   {
     "iso_a2": "NL",
@@ -362,7 +362,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 361
+    "merchantCount": 356
   },
   {
     "region_un": "Europe",
@@ -388,7 +388,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 349
+    "merchantCount": 340
   },
   {
     "wikidataid": "Q45",
@@ -414,7 +414,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 333
+    "merchantCount": 338
   },
   {
     "area_km2": 636466.7,
@@ -440,7 +440,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 306
+    "merchantCount": 309
   },
   {
     "name": "Poland",
@@ -466,7 +466,7 @@
     "area_km2": 313243.76,
     "url_alias": "pl",
     "id": 530,
-    "merchantCount": 299
+    "merchantCount": 296
   },
   {
     "gdp_md": 17477,
@@ -492,7 +492,7 @@
     "wikidataid": "Q230",
     "url_alias": "ge",
     "id": 366,
-    "merchantCount": 288
+    "merchantCount": 289
   },
   {
     "population": 16604026,
@@ -518,7 +518,7 @@
     "type": "country",
     "url_alias": "gt",
     "id": 384,
-    "merchantCount": 272
+    "merchantCount": 273
   },
   {
     "lat": 48.734044,
@@ -544,7 +544,7 @@
     "continent": "Europe",
     "url_alias": "sk",
     "id": 587,
-    "merchantCount": 266
+    "merchantCount": 267
   },
   {
     "sovereignt": "Argentina",
@@ -570,7 +570,7 @@
     "lon": -64.173331,
     "url_alias": "ar",
     "id": 26,
-    "merchantCount": 249
+    "merchantCount": 248
   },
   {
     "gdp_year": 2019,
@@ -596,7 +596,7 @@
     "population:rank": 13,
     "url_alias": "at",
     "id": 31,
-    "merchantCount": 198
+    "merchantCount": 199
   },
   {
     "income_grp": "3. Upper middle income",
@@ -622,7 +622,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 191
+    "merchantCount": 192
   },
   {
     "sovereignt": "Australia",
@@ -648,7 +648,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 178
+    "merchantCount": 182
   },
   {
     "continent": "Africa",
@@ -703,32 +703,6 @@
     "merchantCount": 127
   },
   {
-    "iso_a2": "SR",
-    "continent": "South America",
-    "iso_a3": "SUR",
-    "region_un": "Americas",
-    "lat": 4.143987,
-    "sovereignt": "Suriname",
-    "population:year": 2019,
-    "country_type": "Sovereign country",
-    "region_wb": "Latin America & Caribbean",
-    "income_grp": "3. Upper middle income",
-    "population": 581363,
-    "area_km2": 163759.18,
-    "subregion": "South America",
-    "population:rank": 11,
-    "name": "Suriname",
-    "gdp_md": 3697,
-    "type": "country",
-    "lon": -55.91094,
-    "wikidataid": "Q730",
-    "gdp_year": 2019,
-    "economy": "6. Developing region",
-    "url_alias": "sr",
-    "id": 593,
-    "merchantCount": 122
-  },
-  {
     "lon": -70.653998,
     "gdp_md": 88941,
     "gdp_year": 2019,
@@ -752,7 +726,33 @@
     "population:rank": 14,
     "url_alias": "do",
     "id": 232,
-    "merchantCount": 121
+    "merchantCount": 125
+  },
+  {
+    "iso_a2": "SR",
+    "continent": "South America",
+    "iso_a3": "SUR",
+    "region_un": "Americas",
+    "lat": 4.143987,
+    "sovereignt": "Suriname",
+    "population:year": 2019,
+    "country_type": "Sovereign country",
+    "region_wb": "Latin America & Caribbean",
+    "income_grp": "3. Upper middle income",
+    "population": 581363,
+    "area_km2": 163759.18,
+    "subregion": "South America",
+    "population:rank": 11,
+    "name": "Suriname",
+    "gdp_md": 3697,
+    "type": "country",
+    "lon": -55.91094,
+    "wikidataid": "Q730",
+    "gdp_year": 2019,
+    "economy": "6. Developing region",
+    "url_alias": "sr",
+    "id": 593,
+    "merchantCount": 123
   },
   {
     "gdp_year": 2019,
@@ -778,7 +778,7 @@
     "sovereignt": "Netherlands",
     "url_alias": "cw",
     "id": 216,
-    "merchantCount": 89
+    "merchantCount": 91
   },
   {
     "continent": "Asia",
@@ -830,7 +830,7 @@
     "wikidataid": "Q664",
     "url_alias": "nz",
     "id": 514,
-    "merchantCount": 73
+    "merchantCount": 75
   },
   {
     "gdp_year": 2019,
@@ -859,6 +859,32 @@
     "merchantCount": 72
   },
   {
+    "sovereignt": "Colombia",
+    "iso_a3": "COL",
+    "name": "Colombia",
+    "economy": "6. Developing region",
+    "type": "country",
+    "population:year": 2019,
+    "iso_a2": "CO",
+    "population": 50339443,
+    "region_wb": "Latin America & Caribbean",
+    "lon": -73.174347,
+    "region_un": "Americas",
+    "population:rank": 16,
+    "gdp_md": 323615,
+    "gdp_year": 2019,
+    "continent": "South America",
+    "income_grp": "3. Upper middle income",
+    "area_km2": 1141982.41,
+    "wikidataid": "Q739",
+    "lat": 3.373111,
+    "country_type": "Sovereign country",
+    "subregion": "South America",
+    "url_alias": "co",
+    "id": 205,
+    "merchantCount": 70
+  },
+  {
     "population:rank": 13,
     "gdp_md": 25095,
     "income_grp": "4. Lower middle income",
@@ -885,32 +911,6 @@
     "merchantCount": 70
   },
   {
-    "lon": 128.129504,
-    "region_wb": "East Asia & Pacific",
-    "iso_a3": "KOR",
-    "region_un": "Asia",
-    "population": 51709098,
-    "continent": "Asia",
-    "population:rank": 16,
-    "iso_a2": "KR",
-    "wikidataid": "Q884",
-    "type": "country",
-    "name": "South Korea",
-    "country_type": "Sovereign country",
-    "sovereignt": "South Korea",
-    "gdp_year": 2019,
-    "subregion": "Eastern Asia",
-    "population:year": 2019,
-    "lat": 36.384924,
-    "area_km2": 97367.16,
-    "economy": "4. Emerging region: MIKT",
-    "income_grp": "1. High income: OECD",
-    "gdp_md": 1646739,
-    "url_alias": "kr",
-    "id": 425,
-    "merchantCount": 67
-  },
-  {
     "population:rank": 12,
     "iso_a2": "SI",
     "region_wb": "Europe & Central Asia",
@@ -934,6 +934,58 @@
     "gdp_year": 2019,
     "url_alias": "si",
     "id": 586,
+    "merchantCount": 68
+  },
+  {
+    "region_wb": "Latin America & Caribbean",
+    "type": "country",
+    "wikidataid": "Q750",
+    "lat": -16.666015,
+    "lon": -64.593433,
+    "population:year": 2019,
+    "iso_a3": "BOL",
+    "name": "Bolivia",
+    "continent": "South America",
+    "gdp_year": 2019,
+    "sovereignt": "Bolivia",
+    "region_un": "Americas",
+    "population:rank": 14,
+    "area_km2": 1092709.98,
+    "income_grp": "4. Lower middle income",
+    "country_type": "Sovereign country",
+    "iso_a2": "BO",
+    "subregion": "South America",
+    "population": 11513100,
+    "gdp_md": 40895,
+    "economy": "5. Emerging region: G20",
+    "url_alias": "bo",
+    "id": 168,
+    "merchantCount": 67
+  },
+  {
+    "lon": 128.129504,
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "KOR",
+    "region_un": "Asia",
+    "population": 51709098,
+    "continent": "Asia",
+    "population:rank": 16,
+    "iso_a2": "KR",
+    "wikidataid": "Q884",
+    "type": "country",
+    "name": "South Korea",
+    "country_type": "Sovereign country",
+    "sovereignt": "South Korea",
+    "gdp_year": 2019,
+    "subregion": "Eastern Asia",
+    "population:year": 2019,
+    "lat": 36.384924,
+    "area_km2": 97367.16,
+    "economy": "4. Emerging region: MIKT",
+    "income_grp": "1. High income: OECD",
+    "gdp_md": 1646739,
+    "url_alias": "kr",
+    "id": 425,
     "merchantCount": 67
   },
   {
@@ -963,58 +1015,6 @@
     "merchantCount": 65
   },
   {
-    "region_wb": "Latin America & Caribbean",
-    "type": "country",
-    "wikidataid": "Q750",
-    "lat": -16.666015,
-    "lon": -64.593433,
-    "population:year": 2019,
-    "iso_a3": "BOL",
-    "name": "Bolivia",
-    "continent": "South America",
-    "gdp_year": 2019,
-    "sovereignt": "Bolivia",
-    "region_un": "Americas",
-    "population:rank": 14,
-    "area_km2": 1092709.98,
-    "income_grp": "4. Lower middle income",
-    "country_type": "Sovereign country",
-    "iso_a2": "BO",
-    "subregion": "South America",
-    "population": 11513100,
-    "gdp_md": 40895,
-    "economy": "5. Emerging region: G20",
-    "url_alias": "bo",
-    "id": 168,
-    "merchantCount": 64
-  },
-  {
-    "sovereignt": "Colombia",
-    "iso_a3": "COL",
-    "name": "Colombia",
-    "economy": "6. Developing region",
-    "type": "country",
-    "population:year": 2019,
-    "iso_a2": "CO",
-    "population": 50339443,
-    "region_wb": "Latin America & Caribbean",
-    "lon": -73.174347,
-    "region_un": "Americas",
-    "population:rank": 16,
-    "gdp_md": 323615,
-    "gdp_year": 2019,
-    "continent": "South America",
-    "income_grp": "3. Upper middle income",
-    "area_km2": 1141982.41,
-    "wikidataid": "Q739",
-    "lat": 3.373111,
-    "country_type": "Sovereign country",
-    "subregion": "South America",
-    "url_alias": "co",
-    "id": 205,
-    "merchantCount": 63
-  },
-  {
     "type": "country",
     "region_un": "Asia",
     "country_type": "Sovereign country",
@@ -1038,7 +1038,7 @@
     "area_km2": 370927.36,
     "url_alias": "jp",
     "id": 414,
-    "merchantCount": 58
+    "merchantCount": 59
   },
   {
     "subregion": "South America",
@@ -1116,7 +1116,7 @@
     "population:year": 2019,
     "url_alias": "py",
     "id": 543,
-    "merchantCount": 47
+    "merchantCount": 48
   },
   {
     "type": "country",
@@ -1142,7 +1142,7 @@
     "sovereignt": "Cuba",
     "url_alias": "cu",
     "id": 213,
-    "merchantCount": 44
+    "merchantCount": 45
   },
   {
     "iso_a3": "GRC",
@@ -1220,7 +1220,7 @@
     "economy": "2. Developed region: nonG7",
     "url_alias": "hu",
     "id": 395,
-    "merchantCount": 38
+    "merchantCount": 37
   },
   {
     "gdp_md": 7491,
@@ -1249,32 +1249,6 @@
     "merchantCount": 36
   },
   {
-    "population": 270625568,
-    "economy": "4. Emerging region: MIKT",
-    "iso_a2": "ID",
-    "population:rank": 17,
-    "subregion": "South-Eastern Asia",
-    "area_km2": 1876351.23,
-    "country_type": "Sovereign country",
-    "type": "country",
-    "lon": 101.892949,
-    "name": "Indonesia",
-    "income_grp": "4. Lower middle income",
-    "continent": "Asia",
-    "gdp_md": 1119190,
-    "region_un": "Asia",
-    "gdp_year": 2019,
-    "wikidataid": "Q252",
-    "lat": -0.954404,
-    "population:year": 2019,
-    "sovereignt": "Indonesia",
-    "region_wb": "East Asia & Pacific",
-    "iso_a3": "IDN",
-    "url_alias": "id",
-    "id": 396,
-    "merchantCount": 32
-  },
-  {
     "name": "India",
     "region_wb": "South Asia",
     "gdp_md": 2868929,
@@ -1298,7 +1272,33 @@
     "iso_a2": "IN",
     "url_alias": "in",
     "id": 400,
-    "merchantCount": 32
+    "merchantCount": 34
+  },
+  {
+    "population": 270625568,
+    "economy": "4. Emerging region: MIKT",
+    "iso_a2": "ID",
+    "population:rank": 17,
+    "subregion": "South-Eastern Asia",
+    "area_km2": 1876351.23,
+    "country_type": "Sovereign country",
+    "type": "country",
+    "lon": 101.892949,
+    "name": "Indonesia",
+    "income_grp": "4. Lower middle income",
+    "continent": "Asia",
+    "gdp_md": 1119190,
+    "region_un": "Asia",
+    "gdp_year": 2019,
+    "wikidataid": "Q252",
+    "lat": -0.954404,
+    "population:year": 2019,
+    "sovereignt": "Indonesia",
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "IDN",
+    "url_alias": "id",
+    "id": 396,
+    "merchantCount": 33
   },
   {
     "area_km2": 385110.87,
@@ -1324,7 +1324,7 @@
     "url_alias": "no",
     "wikidataid": "Q20",
     "id": 686,
-    "merchantCount": 31
+    "merchantCount": 32
   },
   {
     "area_km2": 781554.63,
@@ -1379,32 +1379,6 @@
     "merchantCount": 29
   },
   {
-    "iso_a3": "FIN",
-    "type": "country",
-    "wikidataid": "Q33",
-    "income_grp": "1. High income: OECD",
-    "region_wb": "Europe & Central Asia",
-    "name": "Finland",
-    "subregion": "Northern Europe",
-    "lon": 27.276449,
-    "iso_a2": "FI",
-    "gdp_md": 269296,
-    "area_km2": 331233.66,
-    "continent": "Europe",
-    "population": 5520314,
-    "gdp_year": 2019,
-    "lat": 63.252361,
-    "sovereignt": "Finland",
-    "country_type": "Country",
-    "population:rank": 13,
-    "region_un": "Europe",
-    "population:year": 2019,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "fi",
-    "id": 356,
-    "merchantCount": 26
-  },
-  {
     "income_grp": "1. High income: OECD",
     "country_type": "Sovereign country",
     "area_km2": 68853.38,
@@ -1428,6 +1402,32 @@
     "population:year": 2019,
     "url_alias": "ie",
     "id": 397,
+    "merchantCount": 27
+  },
+  {
+    "iso_a3": "FIN",
+    "type": "country",
+    "wikidataid": "Q33",
+    "income_grp": "1. High income: OECD",
+    "region_wb": "Europe & Central Asia",
+    "name": "Finland",
+    "subregion": "Northern Europe",
+    "lon": 27.276449,
+    "iso_a2": "FI",
+    "gdp_md": 269296,
+    "area_km2": 331233.66,
+    "continent": "Europe",
+    "population": 5520314,
+    "gdp_year": 2019,
+    "lat": 63.252361,
+    "sovereignt": "Finland",
+    "country_type": "Country",
+    "population:rank": 13,
+    "region_un": "Europe",
+    "population:year": 2019,
+    "economy": "2. Developed region: nonG7",
+    "url_alias": "fi",
+    "id": 356,
     "merchantCount": 26
   },
   {
@@ -1613,32 +1613,6 @@
     "merchantCount": 19
   },
   {
-    "continent": "Asia",
-    "gdp_md": 261921,
-    "type": "country",
-    "name": "Vietnam",
-    "country_type": "Sovereign country",
-    "economy": "5. Emerging region: G20",
-    "region_wb": "East Asia & Pacific",
-    "population:rank": 16,
-    "income_grp": "4. Lower middle income",
-    "population": 96462106,
-    "iso_a3": "VNM",
-    "sovereignt": "Vietnam",
-    "wikidataid": "Q881",
-    "subregion": "South-Eastern Asia",
-    "population:year": 2019,
-    "region_un": "Asia",
-    "iso_a2": "VN",
-    "gdp_year": 2019,
-    "area_km2": 329677.25,
-    "lon": 105.387292,
-    "lat": 21.715416,
-    "url_alias": "vn",
-    "id": 647,
-    "merchantCount": 19
-  },
-  {
     "gdp_md": 282318,
     "country_type": "Sovereign country",
     "area_km2": 739098.84,
@@ -1662,6 +1636,32 @@
     "name": "Chile",
     "url_alias": "cl",
     "id": 200,
+    "merchantCount": 18
+  },
+  {
+    "continent": "Asia",
+    "gdp_md": 261921,
+    "type": "country",
+    "name": "Vietnam",
+    "country_type": "Sovereign country",
+    "economy": "5. Emerging region: G20",
+    "region_wb": "East Asia & Pacific",
+    "population:rank": 16,
+    "income_grp": "4. Lower middle income",
+    "population": 96462106,
+    "iso_a3": "VNM",
+    "sovereignt": "Vietnam",
+    "wikidataid": "Q881",
+    "subregion": "South-Eastern Asia",
+    "population:year": 2019,
+    "region_un": "Asia",
+    "iso_a2": "VN",
+    "gdp_year": 2019,
+    "area_km2": 329677.25,
+    "lon": 105.387292,
+    "lat": 21.715416,
+    "url_alias": "vn",
+    "id": 647,
     "merchantCount": 18
   },
   {
@@ -2029,6 +2029,36 @@
     "merchantCount": 9
   },
   {
+    "name": "Taiwan",
+    "type": "country",
+    "box:north": 26.389444,
+    "box:east": 122.107778,
+    "box:south": 21.733333,
+    "box:west": 118.115255566105,
+    "url_alias": "tw",
+    "population": 23568378,
+    "lat": 23.652408,
+    "subregion": "Eastern Asia",
+    "region_wb": "East Asia & Pacific",
+    "gdp_md": 1127000,
+    "economy": "2. Developed region: nonG7",
+    "population:rank": 15,
+    "area_km2": 36073,
+    "iso_a3": "TWN",
+    "gdp_year": 2016,
+    "wikidataid": "Q865",
+    "sovereignt": "Taiwan",
+    "continent": "Asia",
+    "iso_a2": "TW",
+    "population:year": 2020,
+    "income_grp": "2. High income: nonOECD",
+    "region_un": "Asia",
+    "lon": 120.868204,
+    "country_type": "Sovereign country",
+    "id": 627,
+    "merchantCount": 9
+  },
+  {
     "type": "country",
     "income_grp": "3. Upper middle income",
     "population:year": 2019,
@@ -2078,36 +2108,6 @@
     "sovereignt": "Senegal",
     "url_alias": "sn",
     "id": 591,
-    "merchantCount": 8
-  },
-  {
-    "name": "Taiwan",
-    "type": "country",
-    "box:north": 26.389444,
-    "box:east": 122.107778,
-    "box:south": 21.733333,
-    "box:west": 118.115255566105,
-    "url_alias": "tw",
-    "population": 23568378,
-    "lat": 23.652408,
-    "subregion": "Eastern Asia",
-    "region_wb": "East Asia & Pacific",
-    "gdp_md": 1127000,
-    "economy": "2. Developed region: nonG7",
-    "population:rank": 15,
-    "area_km2": 36073,
-    "iso_a3": "TWN",
-    "gdp_year": 2016,
-    "wikidataid": "Q865",
-    "sovereignt": "Taiwan",
-    "continent": "Asia",
-    "iso_a2": "TW",
-    "population:year": 2020,
-    "income_grp": "2. High income: nonOECD",
-    "region_un": "Asia",
-    "lon": 120.868204,
-    "country_type": "Sovereign country",
-    "id": 627,
     "merchantCount": 8
   },
   {
@@ -2397,6 +2397,32 @@
     "merchantCount": 6
   },
   {
+    "gdp_year": 2019,
+    "income_grp": "1. High income: OECD",
+    "subregion": "Northern Europe",
+    "economy": "2. Developed region: nonG7",
+    "region_un": "Europe",
+    "population": 361313,
+    "lon": -18.673711,
+    "type": "country",
+    "country_type": "Sovereign country",
+    "iso_a2": "IS",
+    "region_wb": "Europe & Central Asia",
+    "population:rank": 10,
+    "population:year": 2019,
+    "gdp_md": 24188,
+    "iso_a3": "ISL",
+    "continent": "Europe",
+    "area_km2": 101387.37,
+    "name": "Iceland",
+    "wikidataid": "Q189",
+    "sovereignt": "Iceland",
+    "lat": 64.779286,
+    "url_alias": "is",
+    "id": 405,
+    "merchantCount": 5
+  },
+  {
     "name": "Luxembourg",
     "sovereignt": "Luxembourg",
     "population:rank": 11,
@@ -2447,32 +2473,6 @@
     "url_alias": "pf",
     "id": 526,
     "merchantCount": 5
-  },
-  {
-    "gdp_year": 2019,
-    "income_grp": "1. High income: OECD",
-    "subregion": "Northern Europe",
-    "economy": "2. Developed region: nonG7",
-    "region_un": "Europe",
-    "population": 361313,
-    "lon": -18.673711,
-    "type": "country",
-    "country_type": "Sovereign country",
-    "iso_a2": "IS",
-    "region_wb": "Europe & Central Asia",
-    "population:rank": 10,
-    "population:year": 2019,
-    "gdp_md": 24188,
-    "iso_a3": "ISL",
-    "continent": "Europe",
-    "area_km2": 101387.37,
-    "name": "Iceland",
-    "wikidataid": "Q189",
-    "sovereignt": "Iceland",
-    "lat": 64.779286,
-    "url_alias": "is",
-    "id": 405,
-    "merchantCount": 4
   },
   {
     "subregion": "Northern Africa",
@@ -2732,6 +2732,32 @@
     "name": "Republic of Serbia",
     "url_alias": "rs",
     "id": 557,
+    "merchantCount": 3
+  },
+  {
+    "lat": -18.91164,
+    "economy": "5. Emerging region: G20",
+    "income_grp": "5. Low income",
+    "wikidataid": "Q954",
+    "continent": "Africa",
+    "region_un": "Africa",
+    "region_wb": "Sub-Saharan Africa",
+    "subregion": "Eastern Africa",
+    "population": 14645468,
+    "iso_a2": "ZW",
+    "country_type": "Sovereign country",
+    "population:year": 2019,
+    "iso_a3": "ZWE",
+    "sovereignt": "Zimbabwe",
+    "name": "Zimbabwe",
+    "gdp_year": 2019,
+    "lon": 29.925444,
+    "population:rank": 14,
+    "area_km2": 391057.23,
+    "gdp_md": 21440,
+    "type": "country",
+    "url_alias": "zw",
+    "id": 659,
     "merchantCount": 3
   },
   {
@@ -3070,32 +3096,6 @@
     "gdp_year": 2019,
     "url_alias": "st",
     "id": 595,
-    "merchantCount": 2
-  },
-  {
-    "lat": -18.91164,
-    "economy": "5. Emerging region: G20",
-    "income_grp": "5. Low income",
-    "wikidataid": "Q954",
-    "continent": "Africa",
-    "region_un": "Africa",
-    "region_wb": "Sub-Saharan Africa",
-    "subregion": "Eastern Africa",
-    "population": 14645468,
-    "iso_a2": "ZW",
-    "country_type": "Sovereign country",
-    "population:year": 2019,
-    "iso_a3": "ZWE",
-    "sovereignt": "Zimbabwe",
-    "name": "Zimbabwe",
-    "gdp_year": 2019,
-    "lon": 29.925444,
-    "population:rank": 14,
-    "area_km2": 391057.23,
-    "gdp_md": 21440,
-    "type": "country",
-    "url_alias": "zw",
-    "id": 659,
     "merchantCount": 2
   },
   {
@@ -3550,6 +3550,32 @@
     "area_km2": 1930153.01,
     "url_alias": "sa",
     "id": 560,
+    "merchantCount": 1
+  },
+  {
+    "income_grp": "2. High income: nonOECD",
+    "country_type": "Sovereign country",
+    "lon": 12.441206,
+    "iso_a3": "SMR",
+    "gdp_year": 2018,
+    "economy": "2. Developed region: nonG7",
+    "sovereignt": "San Marino",
+    "population:rank": 7,
+    "gdp_md": 1655,
+    "wikidataid": "Q238",
+    "lat": 43.933916,
+    "iso_a2": "SM",
+    "region_wb": "Europe & Central Asia",
+    "region_un": "Europe",
+    "subregion": "Southern Europe",
+    "type": "country",
+    "continent": "Europe",
+    "area_km2": 68.41,
+    "name": "San Marino",
+    "population": 33860,
+    "population:year": 2019,
+    "url_alias": "sm",
+    "id": 590,
     "merchantCount": 1
   },
   {
@@ -5500,32 +5526,6 @@
     "name": "Sierra Leone",
     "url_alias": "sl",
     "id": 588,
-    "merchantCount": 0
-  },
-  {
-    "income_grp": "2. High income: nonOECD",
-    "country_type": "Sovereign country",
-    "lon": 12.441206,
-    "iso_a3": "SMR",
-    "gdp_year": 2018,
-    "economy": "2. Developed region: nonG7",
-    "sovereignt": "San Marino",
-    "population:rank": 7,
-    "gdp_md": 1655,
-    "wikidataid": "Q238",
-    "lat": 43.933916,
-    "iso_a2": "SM",
-    "region_wb": "Europe & Central Asia",
-    "region_un": "Europe",
-    "subregion": "Southern Europe",
-    "type": "country",
-    "continent": "Europe",
-    "area_km2": 68.41,
-    "name": "San Marino",
-    "population": 33860,
-    "population:year": 2019,
-    "url_alias": "sm",
-    "id": 590,
     "merchantCount": 0
   },
   {
