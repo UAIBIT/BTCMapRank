@@ -1141,6 +1141,27 @@
     "merchantCount": 133
   },
   {
+    "area_km2": 122125.25,
+    "contact:email": "info@bitcoindominicana.com",
+    "contact:instagram": "https://www.instagram.com/bitcoindominicana/",
+    "contact:telegram": "https://t.me/bitcoindominicana",
+    "contact:twitter": "https://x.com/btcdominicana",
+    "contact:website": "https://bitcoindominicana.com/",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-dominicana.png",
+    "language": "es, fr, en",
+    "name": "Bitcoin Dominicana",
+    "population": 11330000,
+    "population:date": "2023-01-01",
+    "tips:lightning_address": "bitcoindominicana@blink.sv",
+    "type": "community",
+    "url_alias": "bitcoin-dominicana",
+    "tips:url": "https://geyser.fund/project/dominicanrepublic",
+    "contact:nostr": "npub1wx0stgry8qs5vph59zz0v2kv0keqqtdtkc28uf3247g9leq6l4ysnmq5mk",
+    "id": 774,
+    "merchantCount": 133
+  },
+  {
     "area_km2": 596166.85,
     "economy": "5. Emerging region: G20",
     "population": 52573973,
@@ -9749,6 +9770,32 @@
     "merchantCount": 2
   },
   {
+    "country_type": "Sovereign country",
+    "lat": -1.858167,
+    "economy": "7. Least developed region",
+    "wikidataid": "Q974",
+    "region_wb": "Sub-Saharan Africa",
+    "region_un": "Africa",
+    "gdp_year": 2019,
+    "iso_a3": "COD",
+    "name": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "population:year": 2019,
+    "gdp_md": 50400,
+    "population": 86790567,
+    "lon": 23.458829,
+    "iso_a2": "CD",
+    "income_grp": "5. Low income",
+    "population:rank": 16,
+    "type": "country",
+    "area_km2": 2339852.84,
+    "sovereignt": "Democratic Republic of the Congo",
+    "subregion": "Middle Africa",
+    "url_alias": "cd",
+    "id": 191,
+    "merchantCount": 2
+  },
+  {
     "subregion": "Northern Africa",
     "wikidataid": "Q262",
     "country_type": "Sovereign country",
@@ -13373,12 +13420,6 @@
     "merchantCount": 0
   },
   {
-    "id": 191,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "iso_a3": "COG",
     "continent": "Africa",
     "type": "country",
@@ -16930,12 +16971,6 @@
   },
   {
     "id": 751,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 774,
     "type": null,
     "merchantCount": 0,
     "name": null
