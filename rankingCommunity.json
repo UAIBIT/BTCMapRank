@@ -261,7 +261,7 @@
     "contact:website": "https://bitcoinvictoriafalls.com/",
     "contact:nostr": "npub1xxcyzef28e5qcjncwmn6z2nmwaezs2apxc2v2f7unnvxw3r5edfsactfly",
     "id": 707,
-    "merchantCount": 166
+    "merchantCount": 167
   },
   {
     "box:south": 32.62782,
@@ -286,7 +286,7 @@
     "tips:lightning_address": "freemadeira@blink.sv",
     "contact:meetup": "https://www.meetup.com/madeira-bitcoin-meetup-group/",
     "id": 361,
-    "merchantCount": 164
+    "merchantCount": 165
   },
   {
     "contact:twitter": "https://twitter.com/BitcoinJungleCR",
@@ -461,6 +461,20 @@
     "merchantCount": 107
   },
   {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-plett.jpg",
+    "name": "Bitcoin Plett",
+    "population": 65240,
+    "population:date": "2024-08-09",
+    "url_alias": "bitcoin-plett",
+    "contact:email": "mrjonesza@gmail.com",
+    "area_km2": 996.94,
+    "contact:twitter": "https://x.com/BitcoinPlett",
+    "type": "community",
+    "id": 857,
+    "merchantCount": 96
+  },
+  {
     "contact:twitter": "https://twitter.com/btc_dada",
     "population": "10400676",
     "contact:facebook": "https://www.facebook.com/bitcoindada/",
@@ -500,20 +514,6 @@
     "type": "community",
     "url_alias": "the-core",
     "id": 720,
-    "merchantCount": 95
-  },
-  {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-plett.jpg",
-    "name": "Bitcoin Plett",
-    "population": 65240,
-    "population:date": "2024-08-09",
-    "url_alias": "bitcoin-plett",
-    "contact:email": "mrjonesza@gmail.com",
-    "area_km2": 996.94,
-    "contact:twitter": "https://x.com/BitcoinPlett",
-    "type": "community",
-    "id": 857,
     "merchantCount": 95
   },
   {
@@ -1781,6 +1781,26 @@
     "merchantCount": 33
   },
   {
+    "area_km2": 5748,
+    "contact:email": "info@bitcoinfriesland.com",
+    "contact:nostr": "npub15qgfat6kkmzecup683u64lalqdceaejq97d8z8njhwk0c68umx6qcs5dcm",
+    "contact:telegram": "https://t.me/BitcoinFriesland",
+    "contact:twitter": "https://x.com/BitcoinFryslan",
+    "contact:website": "https://bitcoinfriesland.com",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-friesland.png",
+    "name": "Bitcoin Friesland",
+    "population": 661904,
+    "population:date": "2024-01-01",
+    "tips:lightning_address": "yearlylicense09@walletofsatoshi.com",
+    "type": "community",
+    "url_alias": "bitcoin-friesland",
+    "contact:phone": "+31515444422",
+    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
+    "id": 709,
+    "merchantCount": 33
+  },
+  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-research.png",
     "name": "Bitcoin Research",
@@ -1834,6 +1854,24 @@
     "merchantCount": 31
   },
   {
+    "area_km2": 254,
+    "contact:instagram": "https://www.instagram.com/bitcoinparaguay/",
+    "contact:nostr": "npub1l57mdhhlkuulspszd6qarjxennpytglns6kth2agmjvrwyx8aqdqgj645x",
+    "contact:twitter": "https://x.com/BTCParaguay",
+    "contact:website": "https://bitcoinparaguay.org/",
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-asu.webp",
+    "name": "Bitcoin ASU",
+    "population": 477346,
+    "population:date": "2022-01-01",
+    "tips:lightning_address": "donaciones@ln.bitcoinparaguay.org",
+    "type": "community",
+    "url_alias": "bitcoin-asu",
+    "organization": "bitcoin-paraguay",
+    "id": 730,
+    "merchantCount": 31
+  },
+  {
     "area_km2": 675.76,
     "contact:email": "floripacoin@vyp.li",
     "contact:instagram": "https://www.instagram.com/floripacoin/",
@@ -1872,26 +1910,6 @@
     "merchantCount": 30
   },
   {
-    "area_km2": 5748,
-    "contact:email": "info@bitcoinfriesland.com",
-    "contact:nostr": "npub15qgfat6kkmzecup683u64lalqdceaejq97d8z8njhwk0c68umx6qcs5dcm",
-    "contact:telegram": "https://t.me/BitcoinFriesland",
-    "contact:twitter": "https://x.com/BitcoinFryslan",
-    "contact:website": "https://bitcoinfriesland.com",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-friesland.png",
-    "name": "Bitcoin Friesland",
-    "population": 661904,
-    "population:date": "2024-01-01",
-    "tips:lightning_address": "yearlylicense09@walletofsatoshi.com",
-    "type": "community",
-    "url_alias": "bitcoin-friesland",
-    "contact:phone": "+31515444422",
-    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
-    "id": 709,
-    "merchantCount": 30
-  },
-  {
     "area_km2": 306,
     "contact:email": "mel@bitcoinforte.com",
     "contact:instagram": "https://www.instagram.com/bitcoinforte",
@@ -1904,24 +1922,6 @@
     "type": "community",
     "url_alias": "bitcoin-forte",
     "id": 710,
-    "merchantCount": 30
-  },
-  {
-    "area_km2": 254,
-    "contact:instagram": "https://www.instagram.com/bitcoinparaguay/",
-    "contact:nostr": "npub1l57mdhhlkuulspszd6qarjxennpytglns6kth2agmjvrwyx8aqdqgj645x",
-    "contact:twitter": "https://x.com/BTCParaguay",
-    "contact:website": "https://bitcoinparaguay.org/",
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-asu.webp",
-    "name": "Bitcoin ASU",
-    "population": 477346,
-    "population:date": "2022-01-01",
-    "tips:lightning_address": "donaciones@ln.bitcoinparaguay.org",
-    "type": "community",
-    "url_alias": "bitcoin-asu",
-    "organization": "bitcoin-paraguay",
-    "id": 730,
     "merchantCount": 30
   },
   {
@@ -2725,6 +2725,24 @@
     "merchantCount": 17
   },
   {
+    "area_km2": 29906,
+    "contact:discord": "https://discord.com/invite/42XT34pWb4",
+    "contact:telegram": "https://t.me/NormandieBTC",
+    "contact:twitter": "https://twitter.com/NormandieBTC",
+    "contact:website": "https://normandiebitcoin.com/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/normandie.png",
+    "language": "fr",
+    "name": "Normandie Bitcoin",
+    "organization": "normandie-bitcoin",
+    "population": 3325032,
+    "population:date": "2020-01-01",
+    "type": "community",
+    "url_alias": "normandie",
+    "id": 718,
+    "merchantCount": 17
+  },
+  {
     "continent": "north-america",
     "icon:square": "https://i.imgur.com/zUSUHIt.jpeg",
     "name": "Bitcoin La Laguna",
@@ -2859,24 +2877,6 @@
     "merchantCount": 16
   },
   {
-    "area_km2": 29906,
-    "contact:discord": "https://discord.com/invite/42XT34pWb4",
-    "contact:telegram": "https://t.me/NormandieBTC",
-    "contact:twitter": "https://twitter.com/NormandieBTC",
-    "contact:website": "https://normandiebitcoin.com/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/normandie.png",
-    "language": "fr",
-    "name": "Normandie Bitcoin",
-    "organization": "normandie-bitcoin",
-    "population": 3325032,
-    "population:date": "2020-01-01",
-    "type": "community",
-    "url_alias": "normandie",
-    "id": 718,
-    "merchantCount": 16
-  },
-  {
     "area_km2": 472.66,
     "contact:telegram": "https://t.me/Einundzwanzig_Seeland",
     "type": "community",
@@ -2925,23 +2925,6 @@
     "json": "{\"foo\":\"bar\"}",
     "box:west": "-6.2162017822265625",
     "id": 235,
-    "merchantCount": 15
-  },
-  {
-    "population": 181440,
-    "contact:telegram": "https://t.me/zwollebitcoinstad",
-    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
-    "population:date": "2021-01-01",
-    "url_alias": "zwolle-bitcoinstad",
-    "type": "community",
-    "name": "Zwolle Bitcoinstad",
-    "contact:website": "https://zwollebitcoinstad.nl/",
-    "organization": "eenentwintig",
-    "icon:square": "https://static.btcmap.org/images/communities/zwolle-bitcoinstad.jpeg",
-    "contact:email": "info@zwollebitcoinstad.nl",
-    "area_km2": 176.44,
-    "continent": "europe",
-    "id": 660,
     "merchantCount": 15
   },
   {
@@ -3108,6 +3091,23 @@
     "icon:square": "https://static.btcmap.org/images/communities/trigo-conecta.png",
     "type": "community",
     "id": 624,
+    "merchantCount": 14
+  },
+  {
+    "population": 181440,
+    "contact:telegram": "https://t.me/zwollebitcoinstad",
+    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
+    "population:date": "2021-01-01",
+    "url_alias": "zwolle-bitcoinstad",
+    "type": "community",
+    "name": "Zwolle Bitcoinstad",
+    "contact:website": "https://zwollebitcoinstad.nl/",
+    "organization": "eenentwintig",
+    "icon:square": "https://static.btcmap.org/images/communities/zwolle-bitcoinstad.jpeg",
+    "contact:email": "info@zwollebitcoinstad.nl",
+    "area_km2": 176.44,
+    "continent": "europe",
+    "id": 660,
     "merchantCount": 14
   },
   {
@@ -3545,6 +3545,24 @@
     "merchantCount": 12
   },
   {
+    "area_km2": 1936,
+    "contact:discord": "https://discord.com/invite/42XT34pWb4",
+    "contact:telegram": "https://t.me/NormandieBTC",
+    "contact:twitter": "https://twitter.com/NormandieBTC",
+    "contact:website": "https://normandiebitcoin.com/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/rouen.png",
+    "language": "fr",
+    "name": "Rouen",
+    "organization": "normandie-bitcoin",
+    "population": 639363,
+    "population:date": "2021-01-01",
+    "type": "community",
+    "url_alias": "rouen",
+    "id": 715,
+    "merchantCount": 12
+  },
+  {
     "area_km2": 873.79,
     "contact:email": "nitra@dvadsatjeden.org",
     "contact:website": "https://www.dvadsatjeden.org/",
@@ -3722,24 +3740,6 @@
     "icon:square": "https://static.btcmap.org/images/communities/reichenbach-an-der-fils.webp",
     "language": "de",
     "id": 548,
-    "merchantCount": 11
-  },
-  {
-    "area_km2": 1936,
-    "contact:discord": "https://discord.com/invite/42XT34pWb4",
-    "contact:telegram": "https://t.me/NormandieBTC",
-    "contact:twitter": "https://twitter.com/NormandieBTC",
-    "contact:website": "https://normandiebitcoin.com/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/rouen.png",
-    "language": "fr",
-    "name": "Rouen",
-    "organization": "normandie-bitcoin",
-    "population": 639363,
-    "population:date": "2021-01-01",
-    "type": "community",
-    "url_alias": "rouen",
-    "id": 715,
     "merchantCount": 11
   },
   {

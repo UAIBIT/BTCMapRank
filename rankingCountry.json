@@ -23,7 +23,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2003
+    "merchantCount": 2004
   },
   {
     "sovereignt": "United States of America",
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1321
+    "merchantCount": 1323
   },
   {
     "gdp_md": 351431,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1224
+    "merchantCount": 1225
   },
   {
     "population:rank": 14,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1025
+    "merchantCount": 1026
   },
   {
     "iso_a2": "CH",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 400
+    "merchantCount": 399
   },
   {
     "country_type": "Sovereign country",
@@ -362,7 +362,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 356
+    "merchantCount": 359
   },
   {
     "region_un": "Europe",
@@ -414,7 +414,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 337
+    "merchantCount": 338
   },
   {
     "area_km2": 636466.7,
@@ -440,7 +440,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 309
+    "merchantCount": 311
   },
   {
     "name": "Poland",
@@ -674,7 +674,7 @@
     "population:year": 2019,
     "url_alias": "zm",
     "id": 657,
-    "merchantCount": 170
+    "merchantCount": 171
   },
   {
     "area_km2": 596166.85,
@@ -911,6 +911,32 @@
     "merchantCount": 70
   },
   {
+    "region_wb": "Latin America & Caribbean",
+    "type": "country",
+    "wikidataid": "Q750",
+    "lat": -16.666015,
+    "lon": -64.593433,
+    "population:year": 2019,
+    "iso_a3": "BOL",
+    "name": "Bolivia",
+    "continent": "South America",
+    "gdp_year": 2019,
+    "sovereignt": "Bolivia",
+    "region_un": "Americas",
+    "population:rank": 14,
+    "area_km2": 1092709.98,
+    "income_grp": "4. Lower middle income",
+    "country_type": "Sovereign country",
+    "iso_a2": "BO",
+    "subregion": "South America",
+    "population": 11513100,
+    "gdp_md": 40895,
+    "economy": "5. Emerging region: G20",
+    "url_alias": "bo",
+    "id": 168,
+    "merchantCount": 68
+  },
+  {
     "population:rank": 12,
     "iso_a2": "SI",
     "region_wb": "Europe & Central Asia",
@@ -935,32 +961,6 @@
     "url_alias": "si",
     "id": 586,
     "merchantCount": 68
-  },
-  {
-    "region_wb": "Latin America & Caribbean",
-    "type": "country",
-    "wikidataid": "Q750",
-    "lat": -16.666015,
-    "lon": -64.593433,
-    "population:year": 2019,
-    "iso_a3": "BOL",
-    "name": "Bolivia",
-    "continent": "South America",
-    "gdp_year": 2019,
-    "sovereignt": "Bolivia",
-    "region_un": "Americas",
-    "population:rank": 14,
-    "area_km2": 1092709.98,
-    "income_grp": "4. Lower middle income",
-    "country_type": "Sovereign country",
-    "iso_a2": "BO",
-    "subregion": "South America",
-    "population": 11513100,
-    "gdp_md": 40895,
-    "economy": "5. Emerging region: G20",
-    "url_alias": "bo",
-    "id": 168,
-    "merchantCount": 67
   },
   {
     "lon": 128.129504,
@@ -1116,7 +1116,7 @@
     "population:year": 2019,
     "url_alias": "py",
     "id": 543,
-    "merchantCount": 49
+    "merchantCount": 50
   },
   {
     "type": "country",
@@ -2501,6 +2501,32 @@
     "merchantCount": 4
   },
   {
+    "sovereignt": "North Macedonia",
+    "iso_a3": "MKD",
+    "continent": "Europe",
+    "region_wb": "Europe & Central Asia",
+    "lat": 41.558223,
+    "population:year": 2019,
+    "area_km2": 25420.91,
+    "population:rank": 12,
+    "name": "North Macedonia",
+    "country_type": "Sovereign country",
+    "economy": "6. Developing region",
+    "gdp_md": 12547,
+    "population": 2083459,
+    "gdp_year": 2019,
+    "type": "country",
+    "subregion": "Southern Europe",
+    "lon": 21.555839,
+    "income_grp": "3. Upper middle income",
+    "region_un": "Europe",
+    "wikidataid": "Q221",
+    "iso_a2": "MK",
+    "url_alias": "mk",
+    "id": 476,
+    "merchantCount": 4
+  },
+  {
     "iso_a3": "TTO",
     "gdp_year": 2019,
     "area_km2": 5113.92,
@@ -2680,32 +2706,6 @@
     "country_type": "Sovereign country",
     "url_alias": "lk",
     "id": 444,
-    "merchantCount": 3
-  },
-  {
-    "sovereignt": "North Macedonia",
-    "iso_a3": "MKD",
-    "continent": "Europe",
-    "region_wb": "Europe & Central Asia",
-    "lat": 41.558223,
-    "population:year": 2019,
-    "area_km2": 25420.91,
-    "population:rank": 12,
-    "name": "North Macedonia",
-    "country_type": "Sovereign country",
-    "economy": "6. Developing region",
-    "gdp_md": 12547,
-    "population": 2083459,
-    "gdp_year": 2019,
-    "type": "country",
-    "subregion": "Southern Europe",
-    "lon": 21.555839,
-    "income_grp": "3. Upper middle income",
-    "region_un": "Europe",
-    "wikidataid": "Q221",
-    "iso_a2": "MK",
-    "url_alias": "mk",
-    "id": 476,
     "merchantCount": 3
   },
   {
