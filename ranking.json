@@ -8955,21 +8955,6 @@
   },
   {
     "type": "community",
-    "organization": "einundzwanzig",
-    "contact:telegram": "https://t.me/einundzwanzig_bonn",
-    "continent": "europe",
-    "area_km2": 140.41,
-    "population:date": "2021-12-31",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-bonn.webp",
-    "language": "de",
-    "population": 331885,
-    "name": "Einundzwanzig Bonn",
-    "url_alias": "einundzwanzig-bonn",
-    "id": 259,
-    "merchantCount": 3
-  },
-  {
-    "type": "community",
     "area_km2": 188.53,
     "language": "de",
     "population": 183154,
@@ -13704,6 +13689,12 @@
     "url_alias": "einundzwanzig-bitburg",
     "id": 258,
     "merchantCount": 0
+  },
+  {
+    "id": 259,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "europe",
