@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 18485
+    "merchantCount": 18483
   },
   {
     "wikidataid": "Q155",
@@ -96,7 +96,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1323
+    "merchantCount": 1322
   },
   {
     "gdp_md": 351431,
@@ -500,7 +500,21 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 359
+    "merchantCount": 357
+  },
+  {
+    "name": "Einundzwanzig Portugal",
+    "continent": "europe",
+    "contact:telegram": "https://t.me/EinundzwanzigPortugal",
+    "type": "trash",
+    "population:date": "2021-12-31",
+    "language": "pt",
+    "population": 10356117,
+    "url_alias": "einundzwanzig-portugal",
+    "area_km2": 155452.15,
+    "organization": "einundzwanzig",
+    "id": 316,
+    "merchantCount": 340
   },
   {
     "region_un": "Europe",
@@ -529,20 +543,6 @@
     "merchantCount": 340
   },
   {
-    "name": "Einundzwanzig Portugal",
-    "continent": "europe",
-    "contact:telegram": "https://t.me/EinundzwanzigPortugal",
-    "type": "trash",
-    "population:date": "2021-12-31",
-    "language": "pt",
-    "population": 10356117,
-    "url_alias": "einundzwanzig-portugal",
-    "area_km2": 155452.15,
-    "organization": "einundzwanzig",
-    "id": 316,
-    "merchantCount": 339
-  },
-  {
     "wikidataid": "Q45",
     "sovereignt": "Portugal",
     "population": 10269417,
@@ -566,7 +566,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 338
+    "merchantCount": 339
   },
   {
     "url_alias": "vinte-e-um",
@@ -578,7 +578,7 @@
     "icon:square": "https://static.btcmap.org/images/communities/vinte-e-um.jpg",
     "area_km2": 149349.44,
     "id": 646,
-    "merchantCount": 338
+    "merchantCount": 339
   },
   {
     "population:date": "2022-01-01",
@@ -841,25 +841,6 @@
     "merchantCount": 201
   },
   {
-    "name": "Vancouver Bitcoiners",
-    "box:south": "48.81861991362668",
-    "population": "2642825",
-    "url_alias": "vancouver-bitcoiners",
-    "box:north": "49.60003042758964",
-    "box:west": "-124.41604614257814",
-    "contact:twitter": "https://twitter.com/VanBitcoiners",
-    "population:date": "2021-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/vancouver-bitcoiners.jpg",
-    "box:east": "-121.77932739257814",
-    "continent": "north-america",
-    "type": "community",
-    "area_km2": 187.14,
-    "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
-    "contact:website": "https://linktr.ee/VancouverBitcoiners",
-    "id": 639,
-    "merchantCount": 200
-  },
-  {
     "gdp_year": 2019,
     "region_un": "Europe",
     "subregion": "Western Europe",
@@ -883,7 +864,26 @@
     "population:rank": 13,
     "url_alias": "at",
     "id": 31,
-    "merchantCount": 199
+    "merchantCount": 200
+  },
+  {
+    "name": "Vancouver Bitcoiners",
+    "box:south": "48.81861991362668",
+    "population": "2642825",
+    "url_alias": "vancouver-bitcoiners",
+    "box:north": "49.60003042758964",
+    "box:west": "-124.41604614257814",
+    "contact:twitter": "https://twitter.com/VanBitcoiners",
+    "population:date": "2021-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/vancouver-bitcoiners.jpg",
+    "box:east": "-121.77932739257814",
+    "continent": "north-america",
+    "type": "community",
+    "area_km2": 187.14,
+    "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
+    "contact:website": "https://linktr.ee/VancouverBitcoiners",
+    "id": 639,
+    "merchantCount": 200
   },
   {
     "type": "community",
@@ -898,7 +898,39 @@
     "population": "6815962",
     "url_alias": "bitcoin-bulgaria",
     "id": 82,
-    "merchantCount": 198
+    "merchantCount": 197
+  },
+  {
+    "url_alias": "bitcoin-austria",
+    "continent": "europe",
+    "contact:website": "https://bitcoin-austria.at/",
+    "contact:email": "office@bitcoin-austria.at",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-austria.png",
+    "name": "Bitcoin Austria",
+    "contact:rss": "https://bitcoin-austria.at/feed/",
+    "contact:twitter": "https://twitter.com/bitcoin_at",
+    "population": "9027999",
+    "population:date": "2022-04-01",
+    "area_km2": 83900.1,
+    "type": "community",
+    "id": 73,
+    "merchantCount": 193
+  },
+  {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-coast.png",
+    "name": "Bitcoin Coast",
+    "population": 100000,
+    "population:date": "2025-01-01",
+    "url_alias": "bitcoin_coast",
+    "contact:website": "https://bitcoincoast.sv/",
+    "contact:twitter": "https://x.com/bitcoincoast_sv",
+    "contact:instagram": "https://instagram.com/bitcoincoast_s",
+    "contact:phone": "+50370204642",
+    "type": "community",
+    "area_km2": 100.59,
+    "id": 910,
+    "merchantCount": 192
   },
   {
     "income_grp": "3. Upper middle income",
@@ -924,39 +956,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 192
-  },
-  {
-    "url_alias": "bitcoin-austria",
-    "continent": "europe",
-    "contact:website": "https://bitcoin-austria.at/",
-    "contact:email": "office@bitcoin-austria.at",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-austria.png",
-    "name": "Bitcoin Austria",
-    "contact:rss": "https://bitcoin-austria.at/feed/",
-    "contact:twitter": "https://twitter.com/bitcoin_at",
-    "population": "9027999",
-    "population:date": "2022-04-01",
-    "area_km2": 83900.1,
-    "type": "community",
-    "id": 73,
-    "merchantCount": 192
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-coast.png",
-    "name": "Bitcoin Coast",
-    "population": 100000,
-    "population:date": "2025-01-01",
-    "url_alias": "bitcoin_coast",
-    "contact:website": "https://bitcoincoast.sv/",
-    "contact:twitter": "https://x.com/bitcoincoast_sv",
-    "contact:instagram": "https://instagram.com/bitcoincoast_s",
-    "contact:phone": "+50370204642",
-    "type": "community",
-    "area_km2": 100.59,
-    "id": 910,
-    "merchantCount": 192
+    "merchantCount": 191
   },
   {
     "contact:email": "tokyocitadel.npm6r@aleeas.com",
@@ -1104,7 +1104,7 @@
     "tips:lightning_address": "freemadeira@blink.sv",
     "contact:meetup": "https://www.meetup.com/madeira-bitcoin-meetup-group/",
     "id": 361,
-    "merchantCount": 165
+    "merchantCount": 166
   },
   {
     "contact:twitter": "https://twitter.com/BitcoinJungleCR",
@@ -7677,23 +7677,6 @@
     "merchantCount": 6
   },
   {
-    "area_km2": 1665,
-    "contact:email": "info@bitcointwente.net",
-    "contact:meetup": "https://www.meetup.com/bitcoin-twente-meetup-group/",
-    "contact:telegram": "https://t.me/+V_oIaBYDrxU3ZTE0",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-twente-2.png",
-    "name": "Bitcoin Twente",
-    "organization": "eenentwintig",
-    "population": 626586,
-    "population:date": "2012-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-twente",
-    "contact:website": "https://www.bitcointwente.net/",
-    "id": 712,
-    "merchantCount": 6
-  },
-  {
     "area_km2": 240.03,
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/satoshi-cde.webp",
@@ -8163,6 +8146,23 @@
     "url_alias": "valence",
     "area_km2": 1894.79,
     "id": 673,
+    "merchantCount": 5
+  },
+  {
+    "area_km2": 1665,
+    "contact:email": "info@bitcointwente.net",
+    "contact:meetup": "https://www.meetup.com/bitcoin-twente-meetup-group/",
+    "contact:telegram": "https://t.me/+V_oIaBYDrxU3ZTE0",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-twente-2.png",
+    "name": "Bitcoin Twente",
+    "organization": "eenentwintig",
+    "population": 626586,
+    "population:date": "2012-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-twente",
+    "contact:website": "https://www.bitcointwente.net/",
+    "id": 712,
     "merchantCount": 5
   },
   {
