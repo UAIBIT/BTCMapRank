@@ -12137,22 +12137,6 @@
     "merchantCount": 1
   },
   {
-    "contact:telegram": "https://t.co/1fVvfdP1l3",
-    "continent": "europe",
-    "name": "Strasbourg",
-    "url_alias": "strasbourg",
-    "area_km2": 4798.25,
-    "population:date": "2020-01-01",
-    "language": "fr",
-    "contact:twitter": "https://twitter.com/ElsassBitcoin",
-    "organization": "decouvre-bitcoin",
-    "icon:square": "https://static.btcmap.org/images/communities/strasbourg.png",
-    "type": "community",
-    "population": 853110,
-    "id": 597,
-    "merchantCount": 1
-  },
-  {
     "icon:square": "https://static.btcmap.org/images/communities/tours.png",
     "type": "community",
     "continent": "europe",
@@ -15788,6 +15772,12 @@
     "url_alias": "ss",
     "id": 594,
     "merchantCount": 0
+  },
+  {
+    "id": 597,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "contact:twitter": "https://twitter.com/bitcoinboomer12",
