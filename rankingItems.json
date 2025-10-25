@@ -2257,7 +2257,7 @@
     "url_alias": "bitcoin-munich",
     "type": "community",
     "id": 124,
-    "merchantCount": 30
+    "merchantCount": 29
   },
   {
     "url_alias": "bitcoin-murcia-2140",
@@ -3068,7 +3068,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2006
+    "merchantCount": 2008
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -10497,7 +10497,7 @@
     "population": 19356544,
     "url_alias": "ro",
     "id": 552,
-    "merchantCount": 72
+    "merchantCount": 51
   },
   {
     "name": "Roanne Bitcoin Ancien",
@@ -12191,7 +12191,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1467
+    "merchantCount": 1470
   },
   {
     "population": 1734000,
@@ -12801,7 +12801,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 18495
+    "merchantCount": 18480
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -16666,24 +16666,10 @@
     "merchantCount": 21
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoincomoxvalley.jpg",
-    "name": "Bitcoin Comox Valley",
-    "population": 72445,
-    "population:date": "2023-12-02",
-    "url_alias": "bitcoincomoxvalley",
-    "area_km2": 2494.27,
-    "tips:lightning_address": "bitcoinvalley@coinos.io",
-    "contact:website": "https://bitcoincomoxvalley.ca/",
-    "contact:twitter": "https://x.com/btccomoxvalley",
-    "contact:instagram": "https://www.instagram.com/bitcoincomoxvalley",
-    "contact:email": "info@bitcoincomoxvalley.ca",
-    "contact:meetup": "https://www.meetup.com/bitcoinvanisle/",
-    "tips:url": "https://geyser.fund/project/bitcoinvalleycirculareconomy",
-    "language": "en, fr",
-    "type": "community",
     "id": 898,
-    "merchantCount": 17
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "south-america",

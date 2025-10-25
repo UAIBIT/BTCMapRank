@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 18495
+    "merchantCount": 18480
   },
   {
     "wikidataid": "Q155",
@@ -29,7 +29,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2006
+    "merchantCount": 2008
   },
   {
     "type": "trash",
@@ -70,7 +70,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1467
+    "merchantCount": 1470
   },
   {
     "population:year": 2019,
@@ -1746,32 +1746,6 @@
     "merchantCount": 74
   },
   {
-    "gdp_year": 2019,
-    "income_grp": "3. Upper middle income",
-    "population:year": 2019,
-    "continent": "Europe",
-    "economy": "2. Developed region: nonG7",
-    "lat": 45.733237,
-    "wikidataid": "Q218",
-    "population:rank": 14,
-    "iso_a3": "ROU",
-    "type": "country",
-    "region_un": "Europe",
-    "country_type": "Sovereign country",
-    "name": "Romania",
-    "subregion": "Eastern Europe",
-    "area_km2": 236299.71,
-    "sovereignt": "Romania",
-    "gdp_md": 250077,
-    "lon": 24.972624,
-    "region_wb": "Europe & Central Asia",
-    "iso_a2": "RO",
-    "population": 19356544,
-    "url_alias": "ro",
-    "id": 552,
-    "merchantCount": 72
-  },
-  {
     "type": "community",
     "box:north": 51.69389,
     "url_alias": "london-bitcoin-space",
@@ -2385,6 +2359,32 @@
     "contact:youtube": "https://www.youtube.com/channel/UCPVfJPbeA45jX8WocMrOcew",
     "id": 571,
     "merchantCount": 52
+  },
+  {
+    "gdp_year": 2019,
+    "income_grp": "3. Upper middle income",
+    "population:year": 2019,
+    "continent": "Europe",
+    "economy": "2. Developed region: nonG7",
+    "lat": 45.733237,
+    "wikidataid": "Q218",
+    "population:rank": 14,
+    "iso_a3": "ROU",
+    "type": "country",
+    "region_un": "Europe",
+    "country_type": "Sovereign country",
+    "name": "Romania",
+    "subregion": "Eastern Europe",
+    "area_km2": 236299.71,
+    "sovereignt": "Romania",
+    "gdp_md": 250077,
+    "lon": 24.972624,
+    "region_wb": "Europe & Central Asia",
+    "iso_a2": "RO",
+    "population": 19356544,
+    "url_alias": "ro",
+    "id": 552,
+    "merchantCount": 51
   },
   {
     "continent": "europe",
@@ -3358,26 +3358,6 @@
     "merchantCount": 31
   },
   {
-    "contact:telegram": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
-    "contact:twitter": "https://twitter.com/bitcoinmuc",
-    "area_km2": 308.94,
-    "box:west": "11.566114425659181",
-    "contact:email": "btcmap@mep.li",
-    "name": "Bitcoin Munich",
-    "box:north": "48.15114182660959",
-    "population": "5991144",
-    "contact:meetup": "https://www.meetup.com/bitcoin-munich/",
-    "box:east": "11.617269515991213",
-    "box:south": "48.125595958040776",
-    "continent": "europe",
-    "population:date": "2022-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-munich.jpg",
-    "url_alias": "bitcoin-munich",
-    "type": "community",
-    "id": 124,
-    "merchantCount": 30
-  },
-  {
     "area_km2": 781554.63,
     "region_un": "Asia",
     "iso_a2": "TR",
@@ -3435,6 +3415,26 @@
     "type": "community",
     "contact:meetup": "https://www.meetup.com/dresdner-bitcoin-stammtisch",
     "id": 94,
+    "merchantCount": 29
+  },
+  {
+    "contact:telegram": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
+    "contact:twitter": "https://twitter.com/bitcoinmuc",
+    "area_km2": 308.94,
+    "box:west": "11.566114425659181",
+    "contact:email": "btcmap@mep.li",
+    "name": "Bitcoin Munich",
+    "box:north": "48.15114182660959",
+    "population": "5991144",
+    "contact:meetup": "https://www.meetup.com/bitcoin-munich/",
+    "box:east": "11.617269515991213",
+    "box:south": "48.125595958040776",
+    "continent": "europe",
+    "population:date": "2022-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-munich.jpg",
+    "url_alias": "bitcoin-munich",
+    "type": "community",
+    "id": 124,
     "merchantCount": 29
   },
   {
@@ -4637,26 +4637,6 @@
     "contact:telegram": "https://t.co/UzFUrrlhzq",
     "type": "community",
     "id": 875,
-    "merchantCount": 17
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoincomoxvalley.jpg",
-    "name": "Bitcoin Comox Valley",
-    "population": 72445,
-    "population:date": "2023-12-02",
-    "url_alias": "bitcoincomoxvalley",
-    "area_km2": 2494.27,
-    "tips:lightning_address": "bitcoinvalley@coinos.io",
-    "contact:website": "https://bitcoincomoxvalley.ca/",
-    "contact:twitter": "https://x.com/btccomoxvalley",
-    "contact:instagram": "https://www.instagram.com/bitcoincomoxvalley",
-    "contact:email": "info@bitcoincomoxvalley.ca",
-    "contact:meetup": "https://www.meetup.com/bitcoinvanisle/",
-    "tips:url": "https://geyser.fund/project/bitcoinvalleycirculareconomy",
-    "language": "en, fr",
-    "type": "community",
-    "id": 898,
     "merchantCount": 17
   },
   {
@@ -17303,6 +17283,12 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
+  },
+  {
+    "id": 898,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 916,
