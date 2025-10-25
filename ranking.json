@@ -3702,6 +3702,23 @@
     "merchantCount": 26
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/satoshi-team.png",
+    "name": "Satoshi Team - Antioquia",
+    "population": 4055296,
+    "population:date": "2025-01-01",
+    "url_alias": "antioquia",
+    "contact:instagram": "https://www.instagram.com/satoshiteam_",
+    "contact:youtube": "https://youtube.com/@satoshiteam1",
+    "contact:email": "coo@trokera.com",
+    "contact:telegram": "https://t.me/satoshiteam21",
+    "type": "community",
+    "area_km2": 1651.39,
+    "organization": "satoshi-team",
+    "id": 915,
+    "merchantCount": 26
+  },
+  {
     "contact:meetup": "https://www.meetup.com/lisbon-bitcoin-maximalists/",
     "population:date": "2021-01-01",
     "continent": "europe",
@@ -8578,22 +8595,6 @@
     "type": "community",
     "url_alias": "tehran",
     "id": 674,
-    "merchantCount": 4
-  },
-  {
-    "area_km2": 2046.59,
-    "contact:telegram": "https://t.me/PontarlierBTC",
-    "contact:twitter": "https://twitter.com/pontarlierBTC",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/pontarlier.png",
-    "language": "fr",
-    "name": "Pontarlier",
-    "organization": "decouvre-bitcoin",
-    "population": 539465,
-    "population:date": "2020-01-01",
-    "type": "community",
-    "url_alias": "pontarlier",
-    "id": 717,
     "merchantCount": 4
   },
   {
@@ -16827,6 +16828,12 @@
     "merchantCount": 0
   },
   {
+    "id": 717,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "area_km2": 4.43,
     "contact:meetup": "https://www.meetup.com/houilles-bitcoin-meetup/",
     "contact:telegram": "https://t.me/HouillesBitcoinMeetup",
@@ -17286,12 +17293,6 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
-  },
-  {
-    "id": 915,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "id": 916,
