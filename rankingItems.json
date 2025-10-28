@@ -141,7 +141,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1791
+    "merchantCount": 1793
   },
   {
     "subregion": "Caribbean",
@@ -906,7 +906,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 21
+    "merchantCount": 24
   },
   {
     "population": 287025,
@@ -3068,7 +3068,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2009
+    "merchantCount": 2010
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -3346,7 +3346,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 514
+    "merchantCount": 515
   },
   {
     "url_alias": "cafeteros-bitcoiners",
@@ -4058,7 +4058,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 608
+    "merchantCount": 609
   },
   {
     "contact:reddit": "https://www.reddit.com/r/debitcoinshow",
@@ -4373,7 +4373,7 @@
     "continent": "europe",
     "contact:twitter": "https://twitter.com/21BitcoinPolska",
     "id": 238,
-    "merchantCount": 288
+    "merchantCount": 290
   },
   {
     "name": "Dwadzieścia Jeden Poznań",
@@ -4809,7 +4809,7 @@
     "population": "83695430",
     "continent": "europe",
     "id": 262,
-    "merchantCount": 615
+    "merchantCount": 616
   },
   {
     "continent": "europe",
@@ -5167,7 +5167,7 @@
     "name": "Einundzwanzig Kassel Bitcoin",
     "continent": "europe",
     "id": 286,
-    "merchantCount": 0
+    "merchantCount": 1
   },
   {
     "population:date": "2021-12-31",
@@ -5616,7 +5616,7 @@
     "area_km2": 155452.15,
     "organization": "einundzwanzig",
     "id": 316,
-    "merchantCount": 343
+    "merchantCount": 342
   },
   {
     "type": "community",
@@ -6180,7 +6180,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 370
+    "merchantCount": 372
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/escuelita-bitcoin.webp",
@@ -9577,7 +9577,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 356
+    "merchantCount": 355
   },
   {
     "population": 393027,
@@ -9774,7 +9774,7 @@
     "population:date": "2011-01-01",
     "contact:twitter": "https://twitter.com/talvasconcelos",
     "id": 516,
-    "merchantCount": 17
+    "merchantCount": 16
   },
   {
     "lon": 57.336553,
@@ -10065,7 +10065,7 @@
     "area_km2": 313243.76,
     "url_alias": "pl",
     "id": 530,
-    "merchantCount": 296
+    "merchantCount": 298
   },
   {
     "iso_a2": "PM",
@@ -10286,7 +10286,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 342
+    "merchantCount": 341
   },
   {
     "wikidataid": "Q695",
@@ -10497,7 +10497,7 @@
     "population": 19356544,
     "url_alias": "ro",
     "id": 552,
-    "merchantCount": 51
+    "merchantCount": 69
   },
   {
     "name": "Roanne Bitcoin Ancien",
@@ -10770,20 +10770,10 @@
     "merchantCount": 3
   },
   {
-    "contact:meetup": "https://www.meetup.com/sdbitcoiners/",
-    "url_alias": "san-diego-bitcoiners",
-    "area_km2": 11714.93,
-    "population:date": "2022-04-01",
-    "contact:email": "coreyedwards@pm.me",
-    "type": "community",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/san-diego-bitcoiners.png",
-    "population": "3298634",
-    "contact:twitter": "https://twitter.com/sdbitcoiners",
-    "name": "San Diego Bitcoiners",
-    "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 12
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "south-america",
@@ -11467,7 +11457,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1321
+    "merchantCount": 1323
   },
   {
     "lat": 18.04088,
@@ -11903,10 +11893,21 @@
     "merchantCount": 9
   },
   {
+    "type": "community",
+    "contact:meetup": "https://www.meetup.com/toulouse-bitcoin/",
+    "icon:square": "https://static.btcmap.org/images/communities/rennes.webp",
+    "organization": "decouvre-bitcoin",
+    "url_alias": "bitcoin-only-tolosa",
+    "continent": "europe",
+    "population": 498003,
+    "name": "Bitcoin Only Tolosa",
+    "language": "fr",
+    "contact:telegram": "https://t.me/bitcointolosa",
+    "population:date": "2020-01-01",
+    "area_km2": 3576.59,
+    "contact:twitter": "https://twitter.com/Bitcoin_Tolosa",
     "id": 620,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 9
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/tours.png",
@@ -12180,7 +12181,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1470
+    "merchantCount": 1474
   },
   {
     "population": 1734000,
@@ -12309,7 +12310,7 @@
     "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
     "contact:website": "https://linktr.ee/VancouverBitcoiners",
     "id": 639,
-    "merchantCount": 200
+    "merchantCount": 201
   },
   {
     "population:rank": 9,
@@ -12459,7 +12460,7 @@
     "icon:square": "https://static.btcmap.org/images/communities/vinte-e-um.jpg",
     "area_km2": 149349.44,
     "id": 646,
-    "merchantCount": 342
+    "merchantCount": 341
   },
   {
     "continent": "Asia",
@@ -12686,7 +12687,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1226
+    "merchantCount": 1228
   },
   {
     "continent": "Africa",
@@ -12790,7 +12791,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 18478
+    "merchantCount": 18509
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -14109,7 +14110,7 @@
     "url_alias": "bitcoin-asu",
     "organization": "bitcoin-paraguay",
     "id": 730,
-    "merchantCount": 31
+    "merchantCount": 32
   },
   {
     "area_km2": 1954.84,
@@ -14456,7 +14457,7 @@
     "type": "community",
     "url_alias": "bitcoin-cape-town",
     "id": 752,
-    "merchantCount": 201
+    "merchantCount": 202
   },
   {
     "area_km2": 61.41,
@@ -14644,7 +14645,7 @@
     "type": "community",
     "url_alias": "punto-mango",
     "id": 764,
-    "merchantCount": 3
+    "merchantCount": 5
   },
   {
     "area_km2": 505.62,
@@ -17130,7 +17131,7 @@
     "type": "community",
     "area_km2": 150.68,
     "id": 929,
-    "merchantCount": 2
+    "merchantCount": 3
   },
   {
     "continent": "north-america",

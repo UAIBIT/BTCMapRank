@@ -145,7 +145,7 @@
     "type": "community",
     "url_alias": "bitcoin-cape-town",
     "id": 752,
-    "merchantCount": 201
+    "merchantCount": 202
   },
   {
     "name": "Vancouver Bitcoiners",
@@ -164,7 +164,7 @@
     "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
     "contact:website": "https://linktr.ee/VancouverBitcoiners",
     "id": 639,
-    "merchantCount": 200
+    "merchantCount": 201
   },
   {
     "type": "community",
@@ -1839,21 +1839,6 @@
     "merchantCount": 32
   },
   {
-    "url_alias": "einundzwanzig-tirol",
-    "name": "Einundzwanzig Tirol",
-    "area_km2": 12635.18,
-    "type": "community",
-    "language": "de",
-    "population:date": "2021-12-31",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-tirol.webp",
-    "population": 1813400,
-    "contact:telegram": "https://bitcoin-tirol.at/",
-    "continent": "europe",
-    "organization": "einundzwanzig",
-    "id": 340,
-    "merchantCount": 31
-  },
-  {
     "area_km2": 254,
     "contact:instagram": "https://www.instagram.com/bitcoinparaguay/",
     "contact:nostr": "npub1l57mdhhlkuulspszd6qarjxennpytglns6kth2agmjvrwyx8aqdqgj645x",
@@ -1869,6 +1854,21 @@
     "url_alias": "bitcoin-asu",
     "organization": "bitcoin-paraguay",
     "id": 730,
+    "merchantCount": 32
+  },
+  {
+    "url_alias": "einundzwanzig-tirol",
+    "name": "Einundzwanzig Tirol",
+    "area_km2": 12635.18,
+    "type": "community",
+    "language": "de",
+    "population:date": "2021-12-31",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-tirol.webp",
+    "population": 1813400,
+    "contact:telegram": "https://bitcoin-tirol.at/",
+    "continent": "europe",
+    "organization": "einundzwanzig",
+    "id": 340,
     "merchantCount": 31
   },
   {
@@ -2195,6 +2195,22 @@
     "merchantCount": 25
   },
   {
+    "contact:twitter": "https://twitter.com/bayareabtc",
+    "url_alias": "bay-area-bitcoiners",
+    "population": 7760000,
+    "area_km2": 27969.12,
+    "name": "Bay Area Bitcoiners",
+    "population:date": "2025-01-01",
+    "continent": "north-america",
+    "type": "community",
+    "contact:meetup": "https://www.meetup.com/bay-area-bitcoiners/",
+    "icon:square": "https://static.btcmap.org/images/communities/bay-area-bitcoiners.jpeg",
+    "language": "en",
+    "contact:website": "https://www.bayareabitcoiners.com/",
+    "id": 47,
+    "merchantCount": 24
+  },
+  {
     "url_alias": "cafeteros-bitcoiners",
     "organization": "2140-meetups",
     "area_km2": 236.21,
@@ -2359,22 +2375,6 @@
     "contact:twitter": "https://twitter.com/yycbitcoin",
     "id": 655,
     "merchantCount": 22
-  },
-  {
-    "contact:twitter": "https://twitter.com/bayareabtc",
-    "url_alias": "bay-area-bitcoiners",
-    "population": 7760000,
-    "area_km2": 27969.12,
-    "name": "Bay Area Bitcoiners",
-    "population:date": "2025-01-01",
-    "continent": "north-america",
-    "type": "community",
-    "contact:meetup": "https://www.meetup.com/bay-area-bitcoiners/",
-    "icon:square": "https://static.btcmap.org/images/communities/bay-area-bitcoiners.jpeg",
-    "language": "en",
-    "contact:website": "https://www.bayareabitcoiners.com/",
-    "id": 47,
-    "merchantCount": 21
   },
   {
     "area_km2": 216.68,
@@ -2708,21 +2708,6 @@
     "merchantCount": 17
   },
   {
-    "type": "community",
-    "population": 362540,
-    "icon:square": "https://static.btcmap.org/images/communities/oeste-bitcoin-maxi-meetup.svg",
-    "contact:telegram": "https://t.me/OesteBitcoinMeetUp",
-    "continent": "europe",
-    "name": "Oeste Bitcoin Maxi MeetUp",
-    "url_alias": "oeste-bitcoin-maxi-meetup",
-    "area_km2": 2455.06,
-    "contact:email": "talvasconcelos@gmail.com",
-    "population:date": "2011-01-01",
-    "contact:twitter": "https://twitter.com/talvasconcelos",
-    "id": 516,
-    "merchantCount": 17
-  },
-  {
     "population": 1734000,
     "url_alias": "uusimaa",
     "area_km2": 17338.83,
@@ -2833,6 +2818,21 @@
     "icon:square": "https://static.btcmap.org/images/communities/neuchatel.png",
     "population": 44531,
     "id": 501,
+    "merchantCount": 16
+  },
+  {
+    "type": "community",
+    "population": 362540,
+    "icon:square": "https://static.btcmap.org/images/communities/oeste-bitcoin-maxi-meetup.svg",
+    "contact:telegram": "https://t.me/OesteBitcoinMeetUp",
+    "continent": "europe",
+    "name": "Oeste Bitcoin Maxi MeetUp",
+    "url_alias": "oeste-bitcoin-maxi-meetup",
+    "area_km2": 2455.06,
+    "contact:email": "talvasconcelos@gmail.com",
+    "population:date": "2011-01-01",
+    "contact:twitter": "https://twitter.com/talvasconcelos",
+    "id": 516,
     "merchantCount": 16
   },
   {
@@ -3516,22 +3516,6 @@
     "merchantCount": 12
   },
   {
-    "contact:meetup": "https://www.meetup.com/sdbitcoiners/",
-    "url_alias": "san-diego-bitcoiners",
-    "area_km2": 11714.93,
-    "population:date": "2022-04-01",
-    "contact:email": "coreyedwards@pm.me",
-    "type": "community",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/san-diego-bitcoiners.png",
-    "population": "3298634",
-    "contact:twitter": "https://twitter.com/sdbitcoiners",
-    "name": "San Diego Bitcoiners",
-    "contact:website": "https://blog.sdbitcoiners.com/",
-    "id": 568,
-    "merchantCount": 12
-  },
-  {
     "name": "Arezzo Bitcoin Meetup",
     "contact:telegram": "https://t.me/arezzobitcoinmeetup",
     "population:date": "2020-01-01",
@@ -4182,6 +4166,23 @@
     "icon:square": "https://static.btcmap.org/images/communities/toulouse.png",
     "name": "Toulouse",
     "id": 619,
+    "merchantCount": 9
+  },
+  {
+    "type": "community",
+    "contact:meetup": "https://www.meetup.com/toulouse-bitcoin/",
+    "icon:square": "https://static.btcmap.org/images/communities/rennes.webp",
+    "organization": "decouvre-bitcoin",
+    "url_alias": "bitcoin-only-tolosa",
+    "continent": "europe",
+    "population": 498003,
+    "name": "Bitcoin Only Tolosa",
+    "language": "fr",
+    "contact:telegram": "https://t.me/bitcointolosa",
+    "population:date": "2020-01-01",
+    "area_km2": 3576.59,
+    "contact:twitter": "https://twitter.com/Bitcoin_Tolosa",
+    "id": 620,
     "merchantCount": 9
   },
   {
@@ -5561,6 +5562,19 @@
     "merchantCount": 5
   },
   {
+    "area_km2": 4.84,
+    "contact:twitter": "https://x.com/Citadel_ofhope",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/citadel-of-hope.png",
+    "name": "Citadel of Hope",
+    "population": 1500,
+    "population:date": "2024-01-01",
+    "type": "community",
+    "url_alias": "punto-mango",
+    "id": 764,
+    "merchantCount": 5
+  },
+  {
     "area_km2": 1589.39,
     "contact:signal": "https://signal.group/#CjQKINldUD7mEb3xFT672GJFmlmrEC1eqvrDFhzUdTUeS0OoEhCDutJWAofDBAC31AFf7pdX",
     "continent": "europe",
@@ -6431,19 +6445,6 @@
     "merchantCount": 3
   },
   {
-    "area_km2": 4.84,
-    "contact:twitter": "https://x.com/Citadel_ofhope",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/citadel-of-hope.png",
-    "name": "Citadel of Hope",
-    "population": 1500,
-    "population:date": "2024-01-01",
-    "type": "community",
-    "url_alias": "punto-mango",
-    "id": 764,
-    "merchantCount": 3
-  },
-  {
     "area_km2": 252.35,
     "contact:email": "nathan.trustman@gmail.com",
     "contact:telegram": "https://t.me/+1MOMlOPtlycyYTYx",
@@ -6546,6 +6547,20 @@
     "type": "community",
     "area_km2": 3564.31,
     "id": 895,
+    "merchantCount": 3
+  },
+  {
+    "continent": "europe",
+    "icon:square": "https://raw.githubusercontent.com/2140Tenerife/Files/refs/heads/main/2140Tenerife.jpg",
+    "name": "2140 Tenerife",
+    "population": 208563,
+    "population:date": "2022-04-19",
+    "url_alias": "2140-tenerife",
+    "contact:telegram": "https://t.me/+-tXjKS7ZY8c0OGE0",
+    "description": "Organizamos meetups todos los segundos viernes de mes.",
+    "type": "community",
+    "area_km2": 150.68,
+    "id": 929,
     "merchantCount": 3
   },
   {
@@ -7515,20 +7530,6 @@
     "merchantCount": 2
   },
   {
-    "continent": "europe",
-    "icon:square": "https://raw.githubusercontent.com/2140Tenerife/Files/refs/heads/main/2140Tenerife.jpg",
-    "name": "2140 Tenerife",
-    "population": 208563,
-    "population:date": "2022-04-19",
-    "url_alias": "2140-tenerife",
-    "contact:telegram": "https://t.me/+-tXjKS7ZY8c0OGE0",
-    "description": "Organizamos meetups todos los segundos viernes de mes.",
-    "type": "community",
-    "area_km2": 150.68,
-    "id": 929,
-    "merchantCount": 2
-  },
-  {
     "continent": "north-america",
     "icon:square": "https://secure.meetupstatic.com/photos/event/b/2/1/6/clean_529605590.webp",
     "name": "Central Florida Bitcoiners",
@@ -7951,6 +7952,21 @@
     "name": "Einundzwanzig Hennef",
     "language": "de",
     "id": 281,
+    "merchantCount": 1
+  },
+  {
+    "population:date": "2021-12-31",
+    "organization": "einundzwanzig",
+    "population": 200406,
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-kassel-bitcoin.webp",
+    "url_alias": "einundzwanzig-kassel-bitcoin",
+    "language": "de",
+    "contact:telegram": "https://t.me/einundzwanzig_kassel",
+    "area_km2": 106.41,
+    "name": "Einundzwanzig Kassel Bitcoin",
+    "continent": "europe",
+    "id": 286,
     "merchantCount": 1
   },
   {
@@ -9453,21 +9469,6 @@
     "continent": "europe",
     "population": 306502,
     "id": 285,
-    "merchantCount": 0
-  },
-  {
-    "population:date": "2021-12-31",
-    "organization": "einundzwanzig",
-    "population": 200406,
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-kassel-bitcoin.webp",
-    "url_alias": "einundzwanzig-kassel-bitcoin",
-    "language": "de",
-    "contact:telegram": "https://t.me/einundzwanzig_kassel",
-    "area_km2": 106.41,
-    "name": "Einundzwanzig Kassel Bitcoin",
-    "continent": "europe",
-    "id": 286,
     "merchantCount": 0
   },
   {
