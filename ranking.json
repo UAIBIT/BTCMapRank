@@ -2586,21 +2586,6 @@
     "merchantCount": 43
   },
   {
-    "area_km2": 414.61,
-    "type": "community",
-    "name": "Einundzwanzig Wien",
-    "contact:telegram": "https://t.me/+kM_-ZHlOS-44YWNk",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-wien.webp",
-    "url_alias": "einundzwanzig-wien",
-    "language": "de",
-    "organization": "einundzwanzig",
-    "population": 1931593,
-    "population:date": "2022-01-01",
-    "id": 348,
-    "merchantCount": 42
-  },
-  {
     "box:west": "-5.39703369140625",
     "url_alias": "málaga-2140",
     "name": "Málaga 2140",
@@ -14118,6 +14103,12 @@
     "continent": "europe",
     "id": 347,
     "merchantCount": 0
+  },
+  {
+    "id": 348,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "iso_a3": "ERI",
