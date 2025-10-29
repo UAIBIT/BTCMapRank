@@ -10949,30 +10949,10 @@
     "merchantCount": 1
   },
   {
-    "sovereignt": "Solomon Islands",
-    "iso_a2": "SB",
-    "gdp_year": 2019,
-    "income_grp": "4. Lower middle income",
-    "population:rank": 11,
-    "region_wb": "East Asia & Pacific",
-    "lon": 159.170468,
-    "type": "country",
-    "lat": -8.029548,
-    "iso_a3": "SLB",
-    "name": "Solomon Islands",
-    "population:year": 2019,
-    "economy": "7. Least developed region",
-    "population": 669823,
-    "gdp_md": 1589,
-    "country_type": "Sovereign country",
-    "continent": "Oceania",
-    "area_km2": 25797.94,
-    "wikidataid": "Q685",
-    "subregion": "Melanesia",
-    "region_un": "Oceania",
-    "url_alias": "sb",
     "id": 579,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population:year": 2019,
@@ -16967,10 +16947,19 @@
     "name": null
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-westwald.jpg",
+    "name": "Bitcoin Westerwald",
+    "population": 206709,
+    "population:date": "2023-12-31",
+    "url_alias": "BitcoinWesterwald",
+    "tips:lightning_address": "staunchcricket87@walletofsatoshi.com",
+    "contact:telegram": "https://t.me/BitcoinWesterWald",
+    "type": "community",
+    "area_km2": 3523.66,
+    "language": "de",
     "id": 917,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 8
   },
   {
     "continent": "north-america",
