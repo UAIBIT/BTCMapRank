@@ -1167,19 +1167,10 @@
     "merchantCount": 7
   },
   {
-    "area_km2": 11.73,
-    "url_alias": "biarritz",
-    "icon:square": "https://static.btcmap.org/images/communities/biarritz.png",
-    "continent": "europe",
-    "population:date": "2020-01-01",
-    "type": "community",
-    "language": "fr",
-    "name": "Biarritz",
-    "organization": "decouvre-bitcoin",
-    "population": 118258,
-    "contact:meetup": "https://www.meetup.com/fr-FR/surfinbitcoin/",
     "id": 60,
-    "merchantCount": 1
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 216.68,
@@ -14727,16 +14718,44 @@
     "merchantCount": 4
   },
   {
+    "area_km2": 312.8,
+    "contact:email": "wesley@bitcoinbay.foundation",
+    "contact:github": "https://github.com/bitcoinbayfoundation",
+    "contact:instagram": "https://www.instagram.com/bitcoinbaytpa",
+    "contact:linkedin": "https://www.linkedin.com/company/bitcoin-bay-foundation/",
+    "contact:nostr": "npub1tampasjf5z0rllvrh8nlqckrjtzzj9590uljzeuu6ymsr8hq9pjsrw0ynt",
+    "contact:telegram": "https://t.me/+6TaP_y99LpM3NmIx",
+    "contact:twitter": "https://twitter.com/bitcoinbaytpa",
+    "contact:website": "https://www.bitcoinbay.foundation/",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-bay.png",
+    "name": "Bitcoin Bay",
+    "population": 403364,
+    "population:date": "2023-01-01",
+    "tips:lightning_address": "bitcoinbay@zuespay.com",
+    "tips:url": "https://geyser.fund/project/bitcoinbayfoundation?hero=geyser",
+    "type": "community",
+    "url_alias": "bitcoin-bay",
     "id": 769,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 8
   },
   {
+    "area_km2": 675.76,
+    "contact:email": "floripacoin@vyp.li",
+    "contact:instagram": "https://www.instagram.com/floripacoin/",
+    "contact:website": "https://FloripaCoin.vyp.li",
+    "continent": "south-america",
+    "description": "A Comunidade Bitcoiner de Floripa",
+    "icon:square": "https://static.btcmap.org/images/communities/floripacoin.png",
+    "language": "br",
+    "name": "FloripaCoin",
+    "population": 537211,
+    "population:date": "2022-01-01",
+    "tips:lightning_address": "limpingsecond48@walletofsatoshi.com",
+    "type": "community",
+    "url_alias": "floripacoin",
     "id": 770,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 31
   },
   {
     "area_km2": 252.35,
