@@ -3828,10 +3828,30 @@
     "merchantCount": 1
   },
   {
+    "country_type": "Sovereign country",
+    "subregion": "Central America",
+    "wikidataid": "Q800",
+    "continent": "North America",
+    "economy": "5. Emerging region: G20",
+    "population:rank": 13,
+    "region_wb": "Latin America & Caribbean",
+    "income_grp": "3. Upper middle income",
+    "population": 5047561,
+    "lat": 10.0651,
+    "population:year": 2019,
+    "gdp_md": 61801,
+    "type": "country",
+    "gdp_year": 2019,
+    "region_un": "Americas",
+    "iso_a2": "CR",
+    "lon": -84.077922,
+    "iso_a3": "CRI",
+    "sovereignt": "Costa Rica",
+    "area_km2": 51628.28,
+    "name": "Costa Rica",
+    "url_alias": "cr",
     "id": 211,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 385
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/crypto-mar-del-plata-argentina.png",
@@ -17365,10 +17385,18 @@
     "merchantCount": 3
   },
   {
+    "continent": "oceania",
+    "icon:square": "https://raw.githubusercontent.com/BitcoinAdelaide/Files/refs/heads/main/BitcoinAdelaide.png",
+    "name": "Bitcoin Adelaide",
+    "population": 1203873,
+    "population:date": "2010-03-30",
+    "url_alias": "bitcoin-adelaide",
+    "contact:website": "https://bitcoinadelaide.net/",
+    "contact:meetup": "https://www.meetup.com/Adelaide-BTC/",
+    "type": "community",
+    "area_km2": 1669.08,
     "id": 948,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
     "id": 949,
