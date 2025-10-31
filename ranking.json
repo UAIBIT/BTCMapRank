@@ -10756,6 +10756,22 @@
     "merchantCount": 2
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://btcmap.org/.netlify/images?url=https://static.btcmap.org/images/communities/bitcoin-asu.webp&fit=cover&w=256&h=256",
+    "name": "Bitcoin Encarnación",
+    "population": 449642,
+    "population:date": "2022-01-01",
+    "url_alias": "bitcoin-encarnacion",
+    "contact:email": "enc@bitcoinparaguay.org",
+    "tips:lightning_address": "enc@ln.bitcoinparaguay.org",
+    "organization": "bitcoin-paraguay",
+    "area_km2": 15900.06,
+    "contact:whatsapp": "https://chat.whatsapp.com/Ji46qKv13WE1nGioxyodTH",
+    "type": "community",
+    "id": 826,
+    "merchantCount": 2
+  },
+  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-blah-blah.png",
     "name": "Bitcoin Blah Blah",
@@ -14453,30 +14469,10 @@
     "merchantCount": 0
   },
   {
-    "subregion": "Western Africa",
-    "iso_a2": "GW",
-    "population:rank": 12,
-    "income_grp": "5. Low income",
-    "gdp_year": 2019,
-    "area_km2": 32127.61,
-    "name": "Guinea-Bissau",
-    "wikidataid": "Q1007",
-    "lon": -14.52413,
-    "country_type": "Sovereign country",
-    "iso_a3": "GNB",
-    "region_wb": "Sub-Saharan Africa",
-    "gdp_md": 1339,
-    "continent": "Africa",
-    "population:year": 2019,
-    "type": "country",
-    "economy": "7. Least developed region",
-    "sovereignt": "Guinea-Bissau",
-    "region_un": "Africa",
-    "lat": 12.163712,
-    "population": 1920922,
-    "url_alias": "gw",
     "id": 386,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "sovereignt": "Australia",
@@ -17156,12 +17152,6 @@
   },
   {
     "id": 823,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 826,
     "type": null,
     "merchantCount": 0,
     "name": null
