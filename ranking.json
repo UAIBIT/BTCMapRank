@@ -4872,27 +4872,6 @@
     "merchantCount": 15
   },
   {
-    "area_km2": 6591.11,
-    "contact:discord": "https://discord.gg/EqhrpmCn",
-    "contact:email": "info@bitcoinvalais.ch",
-    "contact:facebook": "https://www.facebook.com/BitcoinValais",
-    "contact:instagram": "https://www.instagram.com/bitcoin.valais/",
-    "contact:linkedin": "https://www.linkedin.com/company/76477717/",
-    "contact:telegram": "https://t.me/bitcoinvalais",
-    "contact:twitter": "https://twitter.com/bitcoin_valais",
-    "contact:website": "https://bitcoinvalais.ch/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-valais.png",
-    "name": "Bitcoin Valais",
-    "population": 348503,
-    "population:date": "2020-12-01",
-    "tips:lightning_address": "bitcoinvalais@blink.sv",
-    "type": "community",
-    "url_alias": "bitcoin-valais",
-    "id": 750,
-    "merchantCount": 15
-  },
-  {
     "continent": "africa",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-babies.jpg",
     "name": "Bitcoin Babies",
@@ -11937,6 +11916,32 @@
     "merchantCount": 1
   },
   {
+    "gdp_md": 2376,
+    "sovereignt": "Lesotho",
+    "population:rank": 12,
+    "population": 2125268,
+    "type": "country",
+    "country_type": "Sovereign country",
+    "wikidataid": "Q1013",
+    "subregion": "Southern Africa",
+    "iso_a2": "LS",
+    "area_km2": 30094.81,
+    "iso_a3": "LSO",
+    "region_wb": "Sub-Saharan Africa",
+    "population:year": 2019,
+    "region_un": "Africa",
+    "lat": -29.480158,
+    "name": "Lesotho",
+    "lon": 28.246639,
+    "continent": "Africa",
+    "economy": "7. Least developed region",
+    "income_grp": "4. Lower middle income",
+    "gdp_year": 2019,
+    "url_alias": "ls",
+    "id": 448,
+    "merchantCount": 1
+  },
+  {
     "region_wb": "Sub-Saharan Africa",
     "lon": 46.704241,
     "population:year": 2019,
@@ -14848,12 +14853,6 @@
     "merchantCount": 0
   },
   {
-    "id": 448,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "continent": "Africa",
     "income_grp": "3. Upper middle income",
     "region_wb": "Middle East & North Africa",
@@ -17043,6 +17042,12 @@
   },
   {
     "id": 746,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 750,
     "type": null,
     "merchantCount": 0,
     "name": null
