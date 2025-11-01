@@ -570,7 +570,7 @@
     "population:rank": 13,
     "url_alias": "at",
     "id": 31,
-    "merchantCount": 200
+    "merchantCount": 201
   },
   {
     "area_km2": 579.4,
@@ -984,7 +984,7 @@
     "population": 11484055,
     "url_alias": "be",
     "id": 50,
-    "merchantCount": 56
+    "merchantCount": 57
   },
   {
     "contact:twitter": "https://twitter.com/BelgianBitcoin",
@@ -1006,7 +1006,7 @@
     "population": "11584008",
     "type": "community",
     "id": 51,
-    "merchantCount": 55
+    "merchantCount": 56
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/benin.jpg",
@@ -1390,7 +1390,7 @@
     "area_km2": 83900.1,
     "type": "community",
     "id": 73,
-    "merchantCount": 193
+    "merchantCount": 194
   },
   {
     "url_alias": "bitcoin-beach",
@@ -1439,7 +1439,7 @@
     "contact:website": "http://www.bitcoinyucatan.com/",
     "type": "community",
     "id": 76,
-    "merchantCount": 19
+    "merchantCount": 18
   },
   {
     "language": "es, en",
@@ -3550,7 +3550,7 @@
     "contact:website": "https://www.bitcoinchiangmai.org/",
     "contact:email": "info@bitcoinchiangmai.org",
     "id": 196,
-    "merchantCount": 26
+    "merchantCount": 27
   },
   {
     "language": "fr",
@@ -4058,7 +4058,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 610
+    "merchantCount": 611
   },
   {
     "contact:reddit": "https://www.reddit.com/r/debitcoinshow",
@@ -4809,7 +4809,7 @@
     "population": "83695430",
     "continent": "europe",
     "id": 262,
-    "merchantCount": 617
+    "merchantCount": 618
   },
   {
     "continent": "europe",
@@ -5572,7 +5572,7 @@
     "continent": "europe",
     "language": "de",
     "id": 313,
-    "merchantCount": 0
+    "merchantCount": 1
   },
   {
     "name": "Einundzwanzig Pfarrkirchen",
@@ -5979,7 +5979,7 @@
     "continent": "europe",
     "organization": "einundzwanzig",
     "id": 340,
-    "merchantCount": 31
+    "merchantCount": 32
   },
   {
     "language": "de",
@@ -9209,10 +9209,30 @@
     "merchantCount": 0
   },
   {
+    "lat": -13.386737,
+    "population:year": 2019,
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "population:rank": 14,
+    "lon": 33.608082,
+    "area_km2": 120063.31,
+    "economy": "7. Least developed region",
+    "wikidataid": "Q1020",
+    "type": "country",
+    "gdp_year": 2019,
+    "country_type": "Sovereign country",
+    "region_wb": "Sub-Saharan Africa",
+    "population": 18628747,
+    "region_un": "Africa",
+    "sovereignt": "Malawi",
+    "iso_a3": "MWI",
+    "name": "Malawi",
+    "gdp_md": 7666,
+    "income_grp": "5. Low income",
+    "iso_a2": "MW",
+    "url_alias": "mw",
     "id": 492,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "region_un": "Americas",
@@ -9238,7 +9258,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 527
+    "merchantCount": 526
   },
   {
     "iso_a2": "MY",
@@ -9557,7 +9577,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 355
+    "merchantCount": 354
   },
   {
     "population": 393027,
@@ -11153,7 +11173,7 @@
     "continent": "Europe",
     "url_alias": "sk",
     "id": 587,
-    "merchantCount": 267
+    "merchantCount": 268
   },
   {
     "income_grp": "5. Low income",
@@ -11447,7 +11467,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1329
+    "merchantCount": 1330
   },
   {
     "lat": 18.04088,
@@ -11681,7 +11701,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 399
+    "merchantCount": 400
   },
   {
     "lat": 38.199835,
@@ -12171,7 +12191,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1493
+    "merchantCount": 1498
   },
   {
     "population": 1734000,
@@ -12781,7 +12801,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 18541
+    "merchantCount": 18550
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -16017,7 +16037,7 @@
     "type": "community",
     "contact:simplex": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2Fs8mOfkuMKjPNiJSPX1EBsLIdB0J9RFPv%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEA-rUzLoavGMeYO39ANja4nB65MBdSOivryfsQzkYzalE%3D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B\"type\"%3A\"group\"%2C\"groupLinkId\"%3A\"F_bhhzNqG55mN98zabATPw%3D%3D\"%7D",
     "id": 856,
-    "merchantCount": 1
+    "merchantCount": 2
   },
   {
     "continent": "africa",
@@ -16826,7 +16846,7 @@
     "type": "community",
     "area_km2": 128.17,
     "id": 908,
-    "merchantCount": 6
+    "merchantCount": 7
   },
   {
     "continent": "africa",
@@ -17389,7 +17409,7 @@
     "type": "community",
     "area_km2": 23.87,
     "id": 949,
-    "merchantCount": null
+    "merchantCount": 5
   },
   {
     "id": 950,
