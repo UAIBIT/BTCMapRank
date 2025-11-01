@@ -6503,21 +6503,6 @@
     "merchantCount": 9
   },
   {
-    "continent": "asia",
-    "icon:square": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/2048px-Bitcoin.svg.png",
-    "name": "Samui Bits",
-    "population": 70059,
-    "population:date": "2019-12-31",
-    "url_alias": "samui-bits",
-    "type": "community",
-    "area_km2": 236.28,
-    "contact:email": "samuibits@samuiweb.net",
-    "contact:nostr": "npub1gkptc8cngu94yl7unndmptdgcqk5zs6vcu9kcwpqlmqrc6py9gqqdv2e6r",
-    "tips:lightning_address": "bronzehusky2@primal.net",
-    "id": 923,
-    "merchantCount": 9
-  },
-  {
     "area_km2": 13.15,
     "box:north": "47.49842",
     "type": "community",
@@ -17375,6 +17360,12 @@
   },
   {
     "id": 922,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 923,
     "type": null,
     "merchantCount": 0,
     "name": null
