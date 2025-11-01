@@ -6503,6 +6503,21 @@
     "merchantCount": 9
   },
   {
+    "continent": "asia",
+    "icon:square": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/2048px-Bitcoin.svg.png",
+    "name": "Samui Bits",
+    "population": 70059,
+    "population:date": "2019-12-31",
+    "url_alias": "samui-bits",
+    "type": "community",
+    "area_km2": 236.28,
+    "contact:email": "samuibits@samuiweb.net",
+    "contact:nostr": "npub1gkptc8cngu94yl7unndmptdgcqk5zs6vcu9kcwpqlmqrc6py9gqqdv2e6r",
+    "tips:lightning_address": "bronzehusky2@primal.net",
+    "id": 923,
+    "merchantCount": 9
+  },
+  {
     "area_km2": 13.15,
     "box:north": "47.49842",
     "type": "community",
@@ -14983,30 +14998,10 @@
     "merchantCount": 0
   },
   {
-    "iso_a3": "MDA",
-    "population:year": 2019,
-    "lon": 28.487904,
-    "gdp_md": 11968,
-    "lat": 47.434999,
-    "sovereignt": "Moldova",
-    "area_km2": 33190.98,
-    "economy": "6. Developing region",
-    "wikidataid": "Q217",
-    "income_grp": "4. Lower middle income",
-    "type": "country",
-    "region_wb": "Europe & Central Asia",
-    "population": 2657637,
-    "population:rank": 12,
-    "subregion": "Eastern Europe",
-    "country_type": "Sovereign country",
-    "iso_a2": "MD",
-    "region_un": "Europe",
-    "gdp_year": 2019,
-    "name": "Moldova",
-    "continent": "Europe",
-    "url_alias": "md",
     "id": 466,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 470,
@@ -17360,12 +17355,6 @@
   },
   {
     "id": 922,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 923,
     "type": null,
     "merchantCount": 0,
     "name": null
