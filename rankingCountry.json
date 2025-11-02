@@ -23,7 +23,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2015
+    "merchantCount": 2016
   },
   {
     "sovereignt": "United States of America",
@@ -49,7 +49,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1498
+    "merchantCount": 1508
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1330
+    "merchantCount": 1324
   },
   {
     "gdp_md": 351431,
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 805
+    "merchantCount": 806
   },
   {
     "name": "Germany",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 400
+    "merchantCount": 401
   },
   {
     "country_type": "Sovereign country",
@@ -1015,32 +1015,6 @@
     "merchantCount": 65
   },
   {
-    "type": "country",
-    "region_un": "Asia",
-    "country_type": "Sovereign country",
-    "subregion": "Eastern Asia",
-    "region_wb": "East Asia & Pacific",
-    "sovereignt": "Japan",
-    "continent": "Asia",
-    "lon": 138.44217,
-    "iso_a2": "JP",
-    "wikidataid": "Q17",
-    "name": "Japan",
-    "population": 126264931,
-    "population:rank": 17,
-    "iso_a3": "JPN",
-    "gdp_md": 5081769,
-    "economy": "1. Developed region: G7",
-    "population:year": 2019,
-    "lat": 36.142538,
-    "income_grp": "1. High income: OECD",
-    "gdp_year": 2019,
-    "area_km2": 370927.36,
-    "url_alias": "jp",
-    "id": 414,
-    "merchantCount": 59
-  },
-  {
     "subregion": "South America",
     "area_km2": 1299185.71,
     "gdp_year": 2019,
@@ -1065,6 +1039,32 @@
     "url_alias": "pe",
     "id": 524,
     "merchantCount": 59
+  },
+  {
+    "type": "country",
+    "region_un": "Asia",
+    "country_type": "Sovereign country",
+    "subregion": "Eastern Asia",
+    "region_wb": "East Asia & Pacific",
+    "sovereignt": "Japan",
+    "continent": "Asia",
+    "lon": 138.44217,
+    "iso_a2": "JP",
+    "wikidataid": "Q17",
+    "name": "Japan",
+    "population": 126264931,
+    "population:rank": 17,
+    "iso_a3": "JPN",
+    "gdp_md": 5081769,
+    "economy": "1. Developed region: G7",
+    "population:year": 2019,
+    "lat": 36.142538,
+    "income_grp": "1. High income: OECD",
+    "gdp_year": 2019,
+    "area_km2": 370927.36,
+    "url_alias": "jp",
+    "id": 414,
+    "merchantCount": 58
   },
   {
     "lat": 50.785392,

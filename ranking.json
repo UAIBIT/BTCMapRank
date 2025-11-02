@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 18550
+    "merchantCount": 18556
   },
   {
     "wikidataid": "Q155",
@@ -29,7 +29,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2015
+    "merchantCount": 2016
   },
   {
     "type": "trash",
@@ -70,7 +70,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1498
+    "merchantCount": 1508
   },
   {
     "population:year": 2019,
@@ -96,7 +96,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1330
+    "merchantCount": 1324
   },
   {
     "gdp_md": 351431,
@@ -204,7 +204,7 @@
     "continent": "europe",
     "organization": "einundzwanzig",
     "id": 331,
-    "merchantCount": 826
+    "merchantCount": 827
   },
   {
     "population": "8636896",
@@ -222,7 +222,7 @@
     "url_alias": "bitcoin-association-switzerland",
     "contact:telegram": "https://t.me/rogerdarin",
     "id": 71,
-    "merchantCount": 823
+    "merchantCount": 824
   },
   {
     "contact:website": "https://dezentralschweiz.ch/",
@@ -238,7 +238,7 @@
     "continent": "europe",
     "contact:telegram": "http://t.me/+ETWFIUzxnlNkZDg0",
     "id": 226,
-    "merchantCount": 823
+    "merchantCount": 824
   },
   {
     "iso_a2": "CH",
@@ -264,7 +264,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 805
+    "merchantCount": 806
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-deutschland.jpg",
@@ -404,7 +404,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 400
+    "merchantCount": 401
   },
   {
     "country_type": "Sovereign country",
@@ -899,7 +899,7 @@
     "type": "community",
     "area_km2": 100.59,
     "id": 910,
-    "merchantCount": 197
+    "merchantCount": 196
   },
   {
     "url_alias": "bitcoin-austria",
@@ -1021,24 +1021,6 @@
     "merchantCount": 179
   },
   {
-    "language": "es, en",
-    "name": "Bitcoin Berlín SV",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-berlin.jpeg",
-    "population:date": "2007-01-01",
-    "population": "17787",
-    "area_km2": 7.75,
-    "continent": "north-america",
-    "url_alias": "bitcoin-berlin",
-    "contact:twitter": "https://twitter.com/bitcoinberlinsv",
-    "contact:facebook": "https://www.facebook.com/BerlinesesEnAccion",
-    "contact:youtube": "https://youtube.com/@bitcoinberlinsv",
-    "contact:telegram": "https://t.me/EconomiaBitcoin2024",
-    "tips:lightning_address": "bitcoinberlin@blink.sv",
-    "id": 77,
-    "merchantCount": 171
-  },
-  {
     "continent": "Africa",
     "sovereignt": "Zambia",
     "region_un": "Africa",
@@ -1105,6 +1087,24 @@
     "contact:nostr": "npub1xxcyzef28e5qcjncwmn6z2nmwaezs2apxc2v2f7unnvxw3r5edfsactfly",
     "id": 707,
     "merchantCount": 167
+  },
+  {
+    "language": "es, en",
+    "name": "Bitcoin Berlín SV",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-berlin.jpeg",
+    "population:date": "2007-01-01",
+    "population": "17787",
+    "area_km2": 7.75,
+    "continent": "north-america",
+    "url_alias": "bitcoin-berlin",
+    "contact:twitter": "https://twitter.com/bitcoinberlinsv",
+    "contact:facebook": "https://www.facebook.com/BerlinesesEnAccion",
+    "contact:youtube": "https://youtube.com/@bitcoinberlinsv",
+    "contact:telegram": "https://t.me/EconomiaBitcoin2024",
+    "tips:lightning_address": "bitcoinberlin@blink.sv",
+    "id": 77,
+    "merchantCount": 166
   },
   {
     "contact:twitter": "https://twitter.com/BitcoinJungleCR",
@@ -2153,32 +2153,6 @@
     "merchantCount": 59
   },
   {
-    "type": "country",
-    "region_un": "Asia",
-    "country_type": "Sovereign country",
-    "subregion": "Eastern Asia",
-    "region_wb": "East Asia & Pacific",
-    "sovereignt": "Japan",
-    "continent": "Asia",
-    "lon": 138.44217,
-    "iso_a2": "JP",
-    "wikidataid": "Q17",
-    "name": "Japan",
-    "population": 126264931,
-    "population:rank": 17,
-    "iso_a3": "JPN",
-    "gdp_md": 5081769,
-    "economy": "1. Developed region: G7",
-    "population:year": 2019,
-    "lat": 36.142538,
-    "income_grp": "1. High income: OECD",
-    "gdp_year": 2019,
-    "area_km2": 370927.36,
-    "url_alias": "jp",
-    "id": 414,
-    "merchantCount": 59
-  },
-  {
     "subregion": "South America",
     "area_km2": 1299185.71,
     "gdp_year": 2019,
@@ -2220,6 +2194,32 @@
     "population": "4342212",
     "id": 555,
     "merchantCount": 59
+  },
+  {
+    "type": "country",
+    "region_un": "Asia",
+    "country_type": "Sovereign country",
+    "subregion": "Eastern Asia",
+    "region_wb": "East Asia & Pacific",
+    "sovereignt": "Japan",
+    "continent": "Asia",
+    "lon": 138.44217,
+    "iso_a2": "JP",
+    "wikidataid": "Q17",
+    "name": "Japan",
+    "population": 126264931,
+    "population:rank": 17,
+    "iso_a3": "JPN",
+    "gdp_md": 5081769,
+    "economy": "1. Developed region: G7",
+    "population:year": 2019,
+    "lat": 36.142538,
+    "income_grp": "1. High income: OECD",
+    "gdp_year": 2019,
+    "area_km2": 370927.36,
+    "url_alias": "jp",
+    "id": 414,
+    "merchantCount": 58
   },
   {
     "lat": 50.785392,
@@ -2624,27 +2624,6 @@
     "merchantCount": 42
   },
   {
-    "box:north": 35.91467,
-    "box:east": 139.99601,
-    "url_alias": "tokyo-citadel",
-    "contact:telegram": "https://t.me/+AakoUSPpw11mM2M1",
-    "contact:email": "tokyocitadel.npm6r@aleeas.com",
-    "continent": "asia",
-    "type": "community",
-    "contact:website": "http://tokyocitadel.com/",
-    "population": "40700000",
-    "box:west": 138.8809,
-    "box:south": 35.45735,
-    "contact:twitter": "https://twitter.com/tokyocitadel",
-    "area_km2": 2509.29,
-    "population:date": "2022-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/tokyo-citadel.jpg",
-    "contact:nostr": "npub1cl42c2k2j7zw2upef2c2qjpd7sz7ks0r5nkvjag7k86q8zev8l0qwmgf39",
-    "name": "Tokyo Citadel",
-    "id": 617,
-    "merchantCount": 42
-  },
-  {
     "continent": "europe",
     "icon:square": "https://img1.wsimg.com/isteam/ip/f3f920f5-1109-4d4a-a9d2-aeaba69152c9/Bitcoin%20Kitui.jpg",
     "name": "Twenty One Kickoff",
@@ -2683,6 +2662,27 @@
     "gdp_year": 2019,
     "url_alias": "gr",
     "id": 377,
+    "merchantCount": 41
+  },
+  {
+    "box:north": 35.91467,
+    "box:east": 139.99601,
+    "url_alias": "tokyo-citadel",
+    "contact:telegram": "https://t.me/+AakoUSPpw11mM2M1",
+    "contact:email": "tokyocitadel.npm6r@aleeas.com",
+    "continent": "asia",
+    "type": "community",
+    "contact:website": "http://tokyocitadel.com/",
+    "population": "40700000",
+    "box:west": 138.8809,
+    "box:south": 35.45735,
+    "contact:twitter": "https://twitter.com/tokyocitadel",
+    "area_km2": 2509.29,
+    "population:date": "2022-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/tokyo-citadel.jpg",
+    "contact:nostr": "npub1cl42c2k2j7zw2upef2c2qjpd7sz7ks0r5nkvjag7k86q8zev8l0qwmgf39",
+    "name": "Tokyo Citadel",
+    "id": 617,
     "merchantCount": 41
   },
   {
@@ -2801,6 +2801,22 @@
     "merchantCount": 38
   },
   {
+    "contact:website": "https://donate.montanhabitcoin.org/",
+    "url_alias": "montanha-bitcoin",
+    "population": 7120,
+    "name": "Montanha Bitcoin",
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/montanha-bitcoin.png",
+    "population:date": "2022-01-01",
+    "contact:twitter": "https://twitter.com/montanhabitcoin",
+    "contact:email": "montanhabitcoin@gmail.com",
+    "area_km2": 481.88,
+    "type": "community",
+    "contact:instagram": "https://www.instagram.com/montanhabitcoin/",
+    "id": 482,
+    "merchantCount": 38
+  },
+  {
     "box:north": "45.89574303912447",
     "url_alias": "bitcoin-montreal",
     "contact:facebook": "https://www.facebook.com/bitcoinembassy/",
@@ -2860,22 +2876,6 @@
     "economy": "2. Developed region: nonG7",
     "url_alias": "hu",
     "id": 395,
-    "merchantCount": 37
-  },
-  {
-    "contact:website": "https://donate.montanhabitcoin.org/",
-    "url_alias": "montanha-bitcoin",
-    "population": 7120,
-    "name": "Montanha Bitcoin",
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/montanha-bitcoin.png",
-    "population:date": "2022-01-01",
-    "contact:twitter": "https://twitter.com/montanhabitcoin",
-    "contact:email": "montanhabitcoin@gmail.com",
-    "area_km2": 481.88,
-    "type": "community",
-    "contact:instagram": "https://www.instagram.com/montanhabitcoin/",
-    "id": 482,
     "merchantCount": 37
   },
   {
@@ -3566,6 +3566,30 @@
     "merchantCount": 28
   },
   {
+    "population": "1198000",
+    "area_km2": 22263.82,
+    "url_alias": "chiang-mai",
+    "type": "community",
+    "box:north": "18.86515",
+    "icon:square": "https://static.btcmap.org/images/communities/chiang-mai.svg",
+    "box:south": "18.70702",
+    "box:west": "98.92883",
+    "name:ru": "Биткойнеры в Чиангмае",
+    "population:date": "2019-01-01",
+    "name": "Bitcoin Chiang Mai",
+    "box:east": "99.07234",
+    "continent": "asia",
+    "meetup_lon": 98.9942421721421,
+    "meetup_lat": 18.782328144329,
+    "description": "Come talk about Bitcoin and related topics with us every Thursday at Sababa. It is an informal get-together for discussion and trades. If you are a beginner, arrive at 7 p.m., and we can help you get started.",
+    "contact:facebook": "https://www.facebook.com/groups/chiangmaiweb3/",
+    "contact:meetup": "https://www.meetup.com/bitcoinsinchiangmai/",
+    "contact:website": "https://www.bitcoinchiangmai.org/",
+    "contact:email": "info@bitcoinchiangmai.org",
+    "id": 196,
+    "merchantCount": 28
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/satoshi-spritz-bologna.png",
     "name": "Satoshi Spritz Bologna",
@@ -3608,30 +3632,6 @@
     "contact:telegram": "https://t.me/AuxerreBitcoinMeetup",
     "continent": "europe",
     "id": 35,
-    "merchantCount": 27
-  },
-  {
-    "population": "1198000",
-    "area_km2": 22263.82,
-    "url_alias": "chiang-mai",
-    "type": "community",
-    "box:north": "18.86515",
-    "icon:square": "https://static.btcmap.org/images/communities/chiang-mai.svg",
-    "box:south": "18.70702",
-    "box:west": "98.92883",
-    "name:ru": "Биткойнеры в Чиангмае",
-    "population:date": "2019-01-01",
-    "name": "Bitcoin Chiang Mai",
-    "box:east": "99.07234",
-    "continent": "asia",
-    "meetup_lon": 98.9942421721421,
-    "meetup_lat": 18.782328144329,
-    "description": "Come talk about Bitcoin and related topics with us every Thursday at Sababa. It is an informal get-together for discussion and trades. If you are a beginner, arrive at 7 p.m., and we can help you get started.",
-    "contact:facebook": "https://www.facebook.com/groups/chiangmaiweb3/",
-    "contact:meetup": "https://www.meetup.com/bitcoinsinchiangmai/",
-    "contact:website": "https://www.bitcoinchiangmai.org/",
-    "contact:email": "info@bitcoinchiangmai.org",
-    "id": 196,
     "merchantCount": 27
   },
   {
@@ -8687,6 +8687,24 @@
     "merchantCount": 4
   },
   {
+    "area_km2": 4544.04,
+    "contact:email": "plebstogetherstrong@gmail.com",
+    "contact:nostr": "npub1ygxyuhdqpdnhhatdrtwxnzs4je733v3n2s0wd8zfzhuneyvgxaasn3pet7",
+    "contact:twitter": "https://x.com/plebstogether",
+    "contact:website": "https://www.plebstogetherstrong.com/",
+    "continent": "asia",
+    "icon:square": "https://static.btcmap.org/images/communities/plebstogetherstrong.png",
+    "name": "Bitcoin Beach Goa",
+    "population": 1458545,
+    "population:date": "2011-01-01",
+    "tips:lightning_address": "pleb21@blink.sv",
+    "type": "community",
+    "url_alias": "plebstogetherstrong",
+    "description": "Plebs Strong Together",
+    "id": 768,
+    "merchantCount": 4
+  },
+  {
     "area_km2": 5502.95,
     "contact:instagram": "https://www.instagram.com/norfolkbitcoin/",
     "contact:twitter": "https://x.com/NorfolkBitcoin",
@@ -10751,6 +10769,22 @@
     "merchantCount": 2
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/cleveland-bitcoin.png",
+    "name": "Cleveland Bitcoin",
+    "population": 362656,
+    "population:date": "2023-01-01",
+    "url_alias": "cleveland-bitcoin",
+    "contact:telegram": "https://web.telegram.org/k/#@ClevelandBitcoin",
+    "area_km2": 449.67,
+    "contact:email": "dinger56412@yahoo.com",
+    "contact:twitter": "https://twitter.com/CleBitcoinClub",
+    "description": "The Cleveland Bitcoin Club has public, free meetups twice a month. One is typically a bar/social meetup and another is an education/demonstration/planning type meetup at a Public Library. Cleveland Bitcoin hosted the 2024 Halving Party at Town Hall in Ohio City in April 2024 with 60+ attendees and several vendors who accept Bitcoin attended. All are welcome - Bitcoin only.",
+    "type": "community",
+    "id": 819,
+    "merchantCount": 2
+  },
+  {
     "continent": "south-america",
     "icon:square": "https://btcmap.org/.netlify/images?url=https://static.btcmap.org/images/communities/bitcoin-asu.webp&fit=cover&w=256&h=256",
     "name": "Bitcoin Encarnación",
@@ -12573,22 +12607,6 @@
     "type": "community",
     "area_km2": 41.25,
     "id": 813,
-    "merchantCount": 1
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/cleveland-bitcoin.png",
-    "name": "Cleveland Bitcoin",
-    "population": 362656,
-    "population:date": "2023-01-01",
-    "url_alias": "cleveland-bitcoin",
-    "contact:telegram": "https://web.telegram.org/k/#@ClevelandBitcoin",
-    "area_km2": 449.67,
-    "contact:email": "dinger56412@yahoo.com",
-    "contact:twitter": "https://twitter.com/CleBitcoinClub",
-    "description": "The Cleveland Bitcoin Club has public, free meetups twice a month. One is typically a bar/social meetup and another is an education/demonstration/planning type meetup at a Public Library. Cleveland Bitcoin hosted the 2024 Halving Party at Town Hall in Ohio City in April 2024 with 60+ attendees and several vendors who accept Bitcoin attended. All are welcome - Bitcoin only.",
-    "type": "community",
-    "id": 819,
     "merchantCount": 1
   },
   {
@@ -17051,12 +17069,6 @@
   },
   {
     "id": 751,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 768,
     "type": null,
     "merchantCount": 0,
     "name": null
