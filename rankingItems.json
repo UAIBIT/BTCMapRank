@@ -8562,22 +8562,10 @@
     "merchantCount": 14
   },
   {
-    "language": "fr",
-    "population:date": "2020-01-01",
-    "contact:telegram": "https://t.me/MarseilleBitcoinMeetup",
-    "continent": "europe",
-    "population": 870321,
-    "name": "Marseille",
-    "icon:square": "https://static.btcmap.org/images/communities/marseille.jpg",
-    "url_alias": "marseille",
-    "area_km2": 668.11,
-    "type": "community",
-    "organization": "decouvre-bitcoin",
-    "contact:twitter": "https://twitter.com/MarseilleBTC",
-    "contact:nostr": "npub1cevrlqet9delnmkz9sa6n0agc0wwwk4dxdyteanedxmqkezy5n0sgu63m9",
-    "contact:website": "https://marseillebitcoin.org/",
     "id": 462,
-    "merchantCount": 7
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "name": "Mass Adoption",
@@ -11747,10 +11735,30 @@
     "merchantCount": 5
   },
   {
+    "population": 1293119,
+    "gdp_year": 2019,
+    "iso_a3": "TLS",
+    "continent": "Asia",
+    "region_wb": "East Asia & Pacific",
+    "sovereignt": "East Timor",
+    "country_type": "Sovereign country",
+    "lat": -8.803705,
+    "population:year": 2019,
+    "iso_a2": "TL",
+    "region_un": "Asia",
+    "population:rank": 12,
+    "type": "country",
+    "income_grp": "4. Lower middle income",
+    "wikidataid": "Q574",
+    "lon": 125.854679,
+    "subregion": "South-Eastern Asia",
+    "gdp_md": 2017,
+    "name": "East Timor",
+    "area_km2": 15054.5,
+    "economy": "7. Least developed region",
+    "url_alias": "tl",
     "id": 613,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "wikidataid": "Q874",
@@ -17392,10 +17400,18 @@
     "merchantCount": 5
   },
   {
+    "continent": "europe",
+    "icon:square": "https://raw.githubusercontent.com/EinundzwanzigAugsburg/Files/refs/heads/main/EinundzwanzigAugsburg.jpg",
+    "name": "Einundzwanzig Augsburg",
+    "population": 286000,
+    "population:date": "2015-01-01",
+    "url_alias": "einundzwanzig-augsburg",
+    "contact:telegram": "https://t.me/Einundzwanzig_Augsburg",
+    "organization": "einundzwanzig",
+    "type": "community",
+    "area_km2": 157.94,
     "id": 950,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
     "id": 951,
