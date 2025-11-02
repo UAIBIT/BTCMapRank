@@ -11416,19 +11416,6 @@
     "merchantCount": 1
   },
   {
-    "type": "community",
-    "contact:email": "bitcoinstudygroup@protonmail.com",
-    "area_km2": 86.16,
-    "continent": "north-america",
-    "contact:twitter": "https://twitter.com/Bitcoinlovesyou",
-    "population": "55638",
-    "population:date": "2020-01-01",
-    "url_alias": "durango-bitcoiners",
-    "name": "Durango Bitcoiners",
-    "id": 236,
-    "merchantCount": 1
-  },
-  {
     "country_type": "Sovereign country",
     "iso_a3": "EST",
     "population": 1326590,
@@ -13751,6 +13738,12 @@
   },
   {
     "id": 233,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 236,
     "type": null,
     "merchantCount": 0,
     "name": null
