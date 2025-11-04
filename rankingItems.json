@@ -8785,30 +8785,10 @@
     "merchantCount": 1
   },
   {
-    "gdp_md": 221,
-    "economy": "6. Developing region",
-    "type": "country",
-    "lat": 7.082568,
-    "gdp_year": 2018,
-    "area_km2": 237.97,
-    "name": "Marshall Islands",
-    "iso_a2": "MH",
-    "continent": "Oceania",
-    "population:year": 2019,
-    "income_grp": "4. Lower middle income",
-    "region_wb": "East Asia & Pacific",
-    "sovereignt": "Marshall Islands",
-    "iso_a3": "MHL",
-    "region_un": "Oceania",
-    "country_type": "Sovereign country",
-    "lon": 171.193609,
-    "wikidataid": "Q709",
-    "population": 58791,
-    "subregion": "Micronesia",
-    "population:rank": 8,
-    "url_alias": "mh",
     "id": 473,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "south-america",
@@ -16911,10 +16891,17 @@
     "merchantCount": 11
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/satoshi-team.png",
+    "name": "Satoshi Team - Comuna 14",
+    "population": 160000,
+    "population:date": "2025-01-01",
+    "url_alias": "comuna_14",
+    "organization": "satoshi-team",
+    "type": "community",
+    "area_km2": 14.77,
     "id": 913,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 8
   },
   {
     "continent": "south-america",
