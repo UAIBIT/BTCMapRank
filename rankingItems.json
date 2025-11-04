@@ -2223,10 +2223,21 @@
     "merchantCount": 37
   },
   {
+    "area_km2": 28301.28,
+    "box:east": "9.506804606644438",
+    "continent": "africa",
+    "box:north": "4.704349917425828",
+    "box:south": "3.89365586806571",
+    "population:date": "2015-01-01",
+    "name": "Bitcoin Mountain",
+    "url_alias": "bitcoin-mountain",
+    "contact:twitter": "https://twitter.com/_BitcoinMt",
+    "type": "community",
+    "box:west": "8.693816325394438",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-mountain.jpg",
+    "population": "1553320",
     "id": 123,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "contact:telegram": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
@@ -16408,26 +16419,10 @@
     "merchantCount": 34
   },
   {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-famba.jpg",
-    "name": "Bitcoin Famba",
-    "population": 61531,
-    "population:date": "2017-06-30",
-    "url_alias": "bitcoin-famba",
-    "type": "community",
-    "area_km2": 780.38,
-    "tips:lightning_address": "bitcoinfamba@blink.sv",
-    "contact:website": "https://linktr.ee/BitcoinFamba",
-    "contact:email": "bitcoinfamba@gmail.com",
-    "contact:twitter": "https://x.com/BitcoinFamba",
-    "tips:url": "https://geyser.fund/project/bitcoinfamba",
-    "contact:instagram": "https://www.instagram.com/bitcoinfamba",
-    "contact:nostr": "nprofile1qqspa6xq9dp3enac8d04ejwpczgnfzp6jqw6apcmxk0wdn3wfvmtmccuy30r4",
-    "contact:linkedin": "https://www.linkedin.com/in/bitcoin-famba-82a050365/",
-    "contact:youtube": "https://www.youtube.com/@bitcoinfamba",
-    "contact:facebook": "https://www.facebook.com/bitcoinfamba",
     "id": 882,
-    "merchantCount": 6
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 883,
