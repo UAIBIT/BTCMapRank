@@ -1457,7 +1457,7 @@
     "contact:telegram": "https://t.me/EconomiaBitcoin2024",
     "tips:lightning_address": "bitcoinberlin@blink.sv",
     "id": 77,
-    "merchantCount": 166
+    "merchantCount": 165
   },
   {
     "population:date": "2021-01-01",
@@ -1814,7 +1814,7 @@
     "contact:facebook": "https://www.facebook.com/bitcoinembassylondon",
     "population": "14257962",
     "id": 100,
-    "merchantCount": 68
+    "merchantCount": 69
   },
   {
     "contact:email": "info@bitembassy.org",
@@ -2838,7 +2838,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 38
+    "merchantCount": 39
   },
   {
     "type": "community",
@@ -3526,7 +3526,7 @@
     "name": "Chalchuapa Bitcoin",
     "population": 74038,
     "id": 195,
-    "merchantCount": 37
+    "merchantCount": 38
   },
   {
     "population": "1198000",
@@ -3810,7 +3810,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 38
+    "merchantCount": 39
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/compiegne.png",
@@ -5739,19 +5739,10 @@
     "merchantCount": 1
   },
   {
-    "name": "Einundzwanzig Saarland Stammtisch St. Wendel",
-    "type": "community",
-    "continent": "europe",
-    "language": "de",
-    "contact:telegram": "https://t.me/+O4QRQXEEo_Y0MTZi",
-    "organization": "einundzwanzig",
-    "population:date": "2021-12-31",
-    "population": 25337,
-    "url_alias": "einundzwanzig-saarland-stammtisch-st-wendel",
-    "area_km2": 113.25,
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-saarland-stammtisch-st-wendel.webp",
     "id": 325,
-    "merchantCount": 1
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "contact:website": "https://twitter.com/21Saarlouis",
@@ -8230,7 +8221,7 @@
     "box:west": -0.54791,
     "continent": "europe",
     "id": 445,
-    "merchantCount": 71
+    "merchantCount": 72
   },
   {
     "type": "community",
@@ -8596,7 +8587,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 15
+    "merchantCount": 19
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/mayasbitcoiners.png",
@@ -10686,7 +10677,7 @@
     "url_alias": "sactown-bitcoin",
     "icon:square": "https://static.btcmap.org/images/communities/sactown-bitcoin.jpeg",
     "id": 561,
-    "merchantCount": 2
+    "merchantCount": 3
   },
   {
     "contact:telegram": "https://t.me/StBrieucBitcoin",
@@ -10770,10 +10761,20 @@
     "merchantCount": 3
   },
   {
+    "contact:meetup": "https://www.meetup.com/sdbitcoiners/",
+    "url_alias": "san-diego-bitcoiners",
+    "area_km2": 11714.93,
+    "population:date": "2022-04-01",
+    "contact:email": "coreyedwards@pm.me",
+    "type": "community",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/san-diego-bitcoiners.png",
+    "population": "3298634",
+    "contact:twitter": "https://twitter.com/sdbitcoiners",
+    "name": "San Diego Bitcoiners",
+    "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 12
   },
   {
     "continent": "south-america",
@@ -11457,7 +11458,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1324
+    "merchantCount": 1325
   },
   {
     "lat": 18.04088,
@@ -12181,7 +12182,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1537
+    "merchantCount": 1576
   },
   {
     "population": 1734000,
@@ -12310,7 +12311,7 @@
     "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
     "contact:website": "https://linktr.ee/VancouverBitcoiners",
     "id": 639,
-    "merchantCount": 202
+    "merchantCount": 203
   },
   {
     "population:rank": 9,
@@ -12542,7 +12543,7 @@
     "contact:twitter": "https://twitter.com/MassBitcoin",
     "url_alias": "western-mass-bitcoin",
     "id": 650,
-    "merchantCount": 3
+    "merchantCount": 4
   },
   {
     "iso_a2": "WF",
@@ -12791,7 +12792,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 18596
+    "merchantCount": 18637
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -12820,7 +12821,7 @@
     "contact:email": "bitcoin@unpulmonmas.com",
     "contact:twitter": "https://x.com/comunidadbtc_sv",
     "id": 664,
-    "merchantCount": 92
+    "merchantCount": 93
   },
   {
     "contact:twitter": "https://twitter.com/enogtyvedk",
@@ -13301,7 +13302,7 @@
     "type": "community",
     "url_alias": "bitcoin-eindhoven",
     "id": 687,
-    "merchantCount": 6
+    "merchantCount": 5
   },
   {
     "area_km2": 1266,
@@ -13745,7 +13746,7 @@
     "contact:phone": "+31515444422",
     "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
     "id": 709,
-    "merchantCount": 33
+    "merchantCount": 34
   },
   {
     "area_km2": 306,
@@ -17431,7 +17432,7 @@
     "type": "community",
     "area_km2": 632.39,
     "id": 951,
-    "merchantCount": null
+    "merchantCount": 5
   },
   {
     "continent": "europe",
@@ -17449,7 +17450,7 @@
     "type": "community",
     "area_km2": 303.8,
     "id": 952,
-    "merchantCount": null
+    "merchantCount": 0
   },
   {
     "id": 953,
