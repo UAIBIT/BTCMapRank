@@ -3277,21 +3277,6 @@
     "merchantCount": 33
   },
   {
-    "url_alias": "einundzwanzig-tirol",
-    "name": "Einundzwanzig Tirol",
-    "area_km2": 12635.18,
-    "type": "community",
-    "language": "de",
-    "population:date": "2021-12-31",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-tirol.webp",
-    "population": 1813400,
-    "contact:telegram": "https://bitcoin-tirol.at/",
-    "continent": "europe",
-    "organization": "einundzwanzig",
-    "id": 340,
-    "merchantCount": 32
-  },
-  {
     "contact:website": "https://www.bitcoinonly.melbourne/",
     "icon:square": "https://static.btcmap.org/images/communities/melbourne-bitcoin-only.jpg",
     "type": "community",
@@ -6865,19 +6850,6 @@
     "type": "community",
     "area_km2": 774.79,
     "id": 894,
-    "merchantCount": 8
-  },
-  {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/satoshi-team.png",
-    "name": "Satoshi Team - Comuna 14",
-    "population": 160000,
-    "population:date": "2025-01-01",
-    "url_alias": "comuna_14",
-    "organization": "satoshi-team",
-    "type": "community",
-    "area_km2": 14.77,
-    "id": 913,
     "merchantCount": 8
   },
   {
@@ -14169,6 +14141,12 @@
     "merchantCount": 0
   },
   {
+    "id": 340,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "name": "Einundzwanzig Wacken",
     "population": 1990,
     "contact:telegram": "https://t.me/einundzwanzigWOA",
@@ -17409,6 +17387,12 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
+  },
+  {
+    "id": 913,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 916,
