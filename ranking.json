@@ -685,6 +685,27 @@
     "merchantCount": 291
   },
   {
+    "url_alias": "dwadzieścia-jeden",
+    "box:west": "12.63427734375",
+    "population:date": "2022-01-01",
+    "contact:telegram": "https://t.me/DwadziesciaJeden",
+    "organization": "dwadziescia-jeden",
+    "contact:website": "https://dwadziesciajeden.pl/",
+    "icon:square": "https://static.btcmap.org/images/communities/dwadzies%CC%81cia-jeden.svg",
+    "type": "trash",
+    "box:north": "54.96500166110205",
+    "area_km2": 322113.9,
+    "population": "37796000",
+    "box:east": "25.72998046875",
+    "box:south": "48.936934954094035",
+    "name": "Dwadzieścia Jeden",
+    "tips:lightning_address": "dwadziesciajeden@getalby.com",
+    "continent": "europe",
+    "contact:twitter": "https://twitter.com/21BitcoinPolska",
+    "id": 238,
+    "merchantCount": 290
+  },
+  {
     "gdp_md": 17477,
     "economy": "6. Developing region",
     "population:year": 2019,
@@ -12486,28 +12507,6 @@
     "merchantCount": 1
   },
   {
-    "area_km2": 2419,
-    "contact:email": "info@bitcoinindonesia.xyz",
-    "contact:facebook": "https://www.facebook.com/bitcoinindo21",
-    "contact:instagram": "https://www.instagram.com/bitcoinindo21",
-    "contact:nostr": "npub1y4qd2zhtn05gnsaaq5xfejzfk4a32638tx6gpp9g8k6e42g9d66qaxhcr3",
-    "contact:telegram": "https://t.me/+miAiJI6HJ7AxZjI8",
-    "contact:twitter": "https://twitter.com/bitcoinindo21",
-    "contact:website": "http://www.bitcoinindonesia.xyz",
-    "contact:youtube": "https://www.youtube.com/@BitcoinIndo21",
-    "continent": "asia",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-natuna-islands.jpeg",
-    "name": "Bitcoin Natuna Islands",
-    "organization": "bitcoin-indonesia",
-    "population": 85446,
-    "population:date": "2022-01-01",
-    "tips:lightning_address": "bitcoinindonesia@getalby.com",
-    "type": "community",
-    "url_alias": "bitcoin-natuna-islands",
-    "id": 701,
-    "merchantCount": 1
-  },
-  {
     "area_km2": 264,
     "contact:email": "bisforbosa@gmail.com",
     "contact:telegram": "https://t.me/bisforbosa",
@@ -13799,12 +13798,6 @@
   },
   {
     "id": 237,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 238,
     "type": null,
     "merchantCount": 0,
     "name": null
@@ -16878,6 +16871,12 @@
     "url_alias": "bitcoin-batam",
     "id": 698,
     "merchantCount": 0
+  },
+  {
+    "id": 701,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 575,
