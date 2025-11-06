@@ -2554,6 +2554,22 @@
   },
   {
     "type": "community",
+    "continent": "europe",
+    "name": "Grand Paris",
+    "icon:square": "https://static.btcmap.org/images/communities/grand-paris.jpg",
+    "population": 7086619,
+    "population:date": "2020-01-01",
+    "url_alias": "grand-paris",
+    "organization": "decouvre-bitcoin",
+    "contact:telegram": "https://t.me/+iSHiaA62T0w2MzQ0",
+    "area_km2": 12012,
+    "language": "fr",
+    "contact:twitter": "https://x.com/parisbtcmeetup",
+    "id": 379,
+    "merchantCount": 44
+  },
+  {
+    "type": "community",
     "url_alias": "algarve",
     "icon:square": "https://static.btcmap.org/images/communities/algarve.jpg",
     "name": "Bitcoin Algarve",
@@ -14501,12 +14517,6 @@
     "url_alias": "gq",
     "id": 376,
     "merchantCount": 0
-  },
-  {
-    "id": 379,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "type": "country",
