@@ -1428,20 +1428,6 @@
   },
   {
     "continent": "north-america",
-    "url_alias": "santa-ana",
-    "area_km2": 104,
-    "population": 272554,
-    "icon:square": "https://static.btcmap.org/images/communities/santa-ana-2.png",
-    "population:date": "2022-01-01",
-    "name": "Comunidad Bitcoin Santa Ana",
-    "type": "community",
-    "contact:email": "bitcoin@unpulmonmas.com",
-    "contact:twitter": "https://x.com/comunidadbtc_sv",
-    "id": 664,
-    "merchantCount": 93
-  },
-  {
-    "continent": "north-america",
     "population": "155000",
     "box:east": "-68.72560430731521",
     "population:date": "2021-01-01",
@@ -16592,6 +16578,12 @@
     "name": "Zoolook ",
     "id": 658,
     "merchantCount": 0
+  },
+  {
+    "id": 664,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 707,
