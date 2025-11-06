@@ -10833,22 +10833,6 @@
     "merchantCount": 2
   },
   {
-    "continent": "south-america",
-    "icon:square": "https://btcmap.org/.netlify/images?url=https://static.btcmap.org/images/communities/bitcoin-asu.webp&fit=cover&w=256&h=256",
-    "name": "Bitcoin Encarnación",
-    "population": 449642,
-    "population:date": "2022-01-01",
-    "url_alias": "bitcoin-encarnacion",
-    "contact:email": "enc@bitcoinparaguay.org",
-    "tips:lightning_address": "enc@ln.bitcoinparaguay.org",
-    "organization": "bitcoin-paraguay",
-    "area_km2": 15900.06,
-    "contact:whatsapp": "https://chat.whatsapp.com/Ji46qKv13WE1nGioxyodTH",
-    "type": "community",
-    "id": 826,
-    "merchantCount": 2
-  },
-  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-blah-blah.png",
     "name": "Bitcoin Blah Blah",
@@ -17234,6 +17218,12 @@
   },
   {
     "id": 823,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 826,
     "type": null,
     "merchantCount": 0,
     "name": null
