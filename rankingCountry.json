@@ -49,7 +49,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1590
+    "merchantCount": 1622
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1326
+    "merchantCount": 1327
   },
   {
     "gdp_md": 351431,
@@ -127,7 +127,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1092
+    "merchantCount": 1091
   },
   {
     "subregion": "Southern Europe",
@@ -336,7 +336,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 373
+    "merchantCount": 372
   },
   {
     "iso_a2": "NL",
@@ -388,7 +388,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 341
+    "merchantCount": 342
   },
   {
     "wikidataid": "Q45",
@@ -414,7 +414,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 341
+    "merchantCount": 342
   },
   {
     "area_km2": 636466.7,
@@ -440,7 +440,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 312
+    "merchantCount": 311
   },
   {
     "name": "Poland",
@@ -469,6 +469,32 @@
     "merchantCount": 298
   },
   {
+    "gdp_md": 17477,
+    "economy": "6. Developing region",
+    "population:year": 2019,
+    "income_grp": "4. Lower middle income",
+    "gdp_year": 2019,
+    "type": "country",
+    "subregion": "Western Asia",
+    "lon": 43.735724,
+    "lat": 41.870087,
+    "area_km2": 69460.61,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "region_un": "Asia",
+    "population": 3720382,
+    "iso_a3": "GEO",
+    "sovereignt": "Georgia",
+    "population:rank": 12,
+    "name": "Georgia",
+    "region_wb": "Europe & Central Asia",
+    "iso_a2": "GE",
+    "wikidataid": "Q230",
+    "url_alias": "ge",
+    "id": 366,
+    "merchantCount": 289
+  },
+  {
     "population": 16604026,
     "subregion": "Central America",
     "sovereignt": "Guatemala",
@@ -492,7 +518,7 @@
     "type": "country",
     "url_alias": "gt",
     "id": 384,
-    "merchantCount": 272
+    "merchantCount": 273
   },
   {
     "lat": 48.734044,
@@ -830,7 +856,7 @@
     "wikidataid": "Q664",
     "url_alias": "nz",
     "id": 514,
-    "merchantCount": 75
+    "merchantCount": 76
   },
   {
     "gdp_year": 2019,
@@ -2501,6 +2527,32 @@
     "merchantCount": 4
   },
   {
+    "iso_a3": "SRB",
+    "region_un": "Europe",
+    "wikidataid": "Q403",
+    "region_wb": "Europe & Central Asia",
+    "lat": 44.189919,
+    "sovereignt": "Republic of Serbia",
+    "lon": 20.787989,
+    "type": "country",
+    "population:rank": 13,
+    "economy": "6. Developing region",
+    "population:year": 2019,
+    "gdp_md": 51475,
+    "subregion": "Southern Europe",
+    "population": 6944975,
+    "continent": "Europe",
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "iso_a2": "RS",
+    "income_grp": "3. Upper middle income",
+    "area_km2": 77663.62,
+    "name": "Republic of Serbia",
+    "url_alias": "rs",
+    "id": 557,
+    "merchantCount": 4
+  },
+  {
     "iso_a3": "TTO",
     "gdp_year": 2019,
     "area_km2": 5113.92,
@@ -2680,32 +2732,6 @@
     "country_type": "Sovereign country",
     "url_alias": "lk",
     "id": 444,
-    "merchantCount": 3
-  },
-  {
-    "iso_a3": "SRB",
-    "region_un": "Europe",
-    "wikidataid": "Q403",
-    "region_wb": "Europe & Central Asia",
-    "lat": 44.189919,
-    "sovereignt": "Republic of Serbia",
-    "lon": 20.787989,
-    "type": "country",
-    "population:rank": 13,
-    "economy": "6. Developing region",
-    "population:year": 2019,
-    "gdp_md": 51475,
-    "subregion": "Southern Europe",
-    "population": 6944975,
-    "continent": "Europe",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "iso_a2": "RS",
-    "income_grp": "3. Upper middle income",
-    "area_km2": 77663.62,
-    "name": "Republic of Serbia",
-    "url_alias": "rs",
-    "id": 557,
     "merchantCount": 3
   },
   {

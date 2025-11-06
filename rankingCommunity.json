@@ -251,7 +251,7 @@
     "tips:lightning_address": "freemadeira@blink.sv",
     "contact:meetup": "https://www.meetup.com/madeira-bitcoin-meetup-group/",
     "id": 361,
-    "merchantCount": 168
+    "merchantCount": 169
   },
   {
     "area_km2": 699.45,
@@ -668,7 +668,7 @@
     "population": "2812569",
     "area_km2": 521054.76,
     "id": 515,
-    "merchantCount": 84
+    "merchantCount": 85
   },
   {
     "continent": "north-america",
@@ -1435,6 +1435,21 @@
     "merchantCount": 39
   },
   {
+    "type": "community",
+    "url_alias": "chalchuapa-bitcoin",
+    "language": "es",
+    "contact:telegram": "https://t.me/chalchuapabitcoin",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/chalchuapa-bitcoin.jpg",
+    "organization": "plan-b-network",
+    "population:date": "2020-01-01",
+    "area_km2": 186.81,
+    "name": "Chalchuapa Bitcoin",
+    "population": 74038,
+    "id": 195,
+    "merchantCount": 39
+  },
+  {
     "continent": "south-america",
     "icon:square": "https://raw.githubusercontent.com/BTCConecta/Files/refs/heads/main/BTCConecta.jpg",
     "name": "BTC Conecta",
@@ -1450,6 +1465,43 @@
     "area_km2": 5808.74,
     "id": 953,
     "merchantCount": 39
+  },
+  {
+    "box:north": "45.89574303912447",
+    "url_alias": "bitcoin-montreal",
+    "contact:facebook": "https://www.facebook.com/bitcoinembassy/",
+    "box:south": "45.03665569548622",
+    "continent": "north-america",
+    "type": "community",
+    "contact:meetup": "https://www.meetup.com/bitcoin-montreal/",
+    "box:west": "-74.40765380859376",
+    "contact:twitter": "https://www.twitter.com/pouliotfrancis_",
+    "name": "Bitcoin Montreal",
+    "population:date": "2021-01-01",
+    "box:east": "-72.77069091796876",
+    "population": "4291732",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-montreal.jpg",
+    "contact:website": "http://bitcoinembassy.ca/",
+    "contact:email": "kevin@satoshiportal.com",
+    "area_km2": 624.29,
+    "id": 122,
+    "merchantCount": 38
+  },
+  {
+    "contact:website": "https://donate.montanhabitcoin.org/",
+    "url_alias": "montanha-bitcoin",
+    "population": 7120,
+    "name": "Montanha Bitcoin",
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/montanha-bitcoin.png",
+    "population:date": "2022-01-01",
+    "contact:twitter": "https://twitter.com/montanhabitcoin",
+    "contact:email": "montanhabitcoin@gmail.com",
+    "area_km2": 481.88,
+    "type": "community",
+    "contact:instagram": "https://www.instagram.com/montanhabitcoin/",
+    "id": 482,
+    "merchantCount": 38
   },
   {
     "contact:instagram": "https://www.instagram.com/bitcoinbarcelonaxyz/",
@@ -1477,59 +1529,7 @@
     "contact:website": "https://bitcoinbarcelona.xyz/",
     "contact:linkedin": "https://www.linkedin.com/company/bcnbitcoinonly",
     "id": 46,
-    "merchantCount": 38
-  },
-  {
-    "box:north": "45.89574303912447",
-    "url_alias": "bitcoin-montreal",
-    "contact:facebook": "https://www.facebook.com/bitcoinembassy/",
-    "box:south": "45.03665569548622",
-    "continent": "north-america",
-    "type": "community",
-    "contact:meetup": "https://www.meetup.com/bitcoin-montreal/",
-    "box:west": "-74.40765380859376",
-    "contact:twitter": "https://www.twitter.com/pouliotfrancis_",
-    "name": "Bitcoin Montreal",
-    "population:date": "2021-01-01",
-    "box:east": "-72.77069091796876",
-    "population": "4291732",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-montreal.jpg",
-    "contact:website": "http://bitcoinembassy.ca/",
-    "contact:email": "kevin@satoshiportal.com",
-    "area_km2": 624.29,
-    "id": 122,
-    "merchantCount": 38
-  },
-  {
-    "type": "community",
-    "url_alias": "chalchuapa-bitcoin",
-    "language": "es",
-    "contact:telegram": "https://t.me/chalchuapabitcoin",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/chalchuapa-bitcoin.jpg",
-    "organization": "plan-b-network",
-    "population:date": "2020-01-01",
-    "area_km2": 186.81,
-    "name": "Chalchuapa Bitcoin",
-    "population": 74038,
-    "id": 195,
-    "merchantCount": 38
-  },
-  {
-    "contact:website": "https://donate.montanhabitcoin.org/",
-    "url_alias": "montanha-bitcoin",
-    "population": 7120,
-    "name": "Montanha Bitcoin",
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/montanha-bitcoin.png",
-    "population:date": "2022-01-01",
-    "contact:twitter": "https://twitter.com/montanhabitcoin",
-    "contact:email": "montanhabitcoin@gmail.com",
-    "area_km2": 481.88,
-    "type": "community",
-    "contact:instagram": "https://www.instagram.com/montanhabitcoin/",
-    "id": 482,
-    "merchantCount": 38
+    "merchantCount": 37
   },
   {
     "area_km2": 208.92,
@@ -1663,6 +1663,22 @@
     "merchantCount": 35
   },
   {
+    "continent": "oceania",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-basin.jpg",
+    "name": "Bitcoin Basin",
+    "population": 52900,
+    "population:date": "2024-06-30",
+    "url_alias": "bitcoin-basin",
+    "contact:email": "hello@bitcoinbasin.nz",
+    "contact:website": "https://bitcoinbasin.nz/",
+    "contact:twitter": "https://x.com/TheBitcoinBasin",
+    "contact:nostr": "nprofile1qqs8ppjzxruhfgvke6w9vekusnnnx8f4nxw9nm0gmrfhw4239a6q43qfmpz4q",
+    "type": "community",
+    "area_km2": 9345.28,
+    "id": 881,
+    "merchantCount": 35
+  },
+  {
     "population": "2480394",
     "contact:twitter": "https://twitter.com/BitDevsAms",
     "contact:email": "bitdevsamsterdam@proton.me",
@@ -1731,22 +1747,6 @@
     "type": "community",
     "url_alias": "salento-bitcoin",
     "id": 749,
-    "merchantCount": 34
-  },
-  {
-    "continent": "oceania",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-basin.jpg",
-    "name": "Bitcoin Basin",
-    "population": 52900,
-    "population:date": "2024-06-30",
-    "url_alias": "bitcoin-basin",
-    "contact:email": "hello@bitcoinbasin.nz",
-    "contact:website": "https://bitcoinbasin.nz/",
-    "contact:twitter": "https://x.com/TheBitcoinBasin",
-    "contact:nostr": "nprofile1qqs8ppjzxruhfgvke6w9vekusnnnx8f4nxw9nm0gmrfhw4239a6q43qfmpz4q",
-    "type": "community",
-    "area_km2": 9345.28,
-    "id": 881,
     "merchantCount": 34
   },
   {
@@ -2306,6 +2306,25 @@
     "type": "community",
     "url_alias": "jednadvacet-olomouc",
     "id": 773,
+    "merchantCount": 23
+  },
+  {
+    "area_km2": 313.96,
+    "contact:email": "info@bitcoindistrict.org",
+    "contact:meetup": "https://www.meetup.com/bitcoin-district",
+    "contact:twitter": "https://x.com/BTCDistrict",
+    "contact:website": "https://bitcoindistrict.org",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-district.png",
+    "name": "Bitcoin District",
+    "population": 678972,
+    "population:date": "2023-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-district",
+    "contact:nostr": "npub1mcke7stw5mrqp97lmdu0qdrfcz2uertdsy2n9pzvfnsdutx3hvkq7d5mnw",
+    "language": "en",
+    "contact:github": "https://github.com/bitcoindistrict",
+    "id": 785,
     "merchantCount": 23
   },
   {
@@ -4781,6 +4800,20 @@
     "merchantCount": 7
   },
   {
+    "continent": "europe",
+    "area_km2": 3046.41,
+    "type": "community",
+    "contact:twitter": "https://twitter.com/cambsbitcoin",
+    "url_alias": "cambridgeshire-bitcoin",
+    "name": "Cambridgeshire Bitcoin",
+    "population:date": "2021-01-01",
+    "contact:email": "cambsbitcoin@gmail.com",
+    "icon:square": "https://static.btcmap.org/images/communities/cambridgeshire-bitcoin.jpeg",
+    "population": 852523,
+    "id": 189,
+    "merchantCount": 7
+  },
+  {
     "name": "Einundzwanzig Frankfurt am Main",
     "population:date": "2021-12-31",
     "contact:telegram": "https://t.me/einundzwanzigffm",
@@ -5082,20 +5115,6 @@
     "merchantCount": 6
   },
   {
-    "continent": "europe",
-    "area_km2": 3046.41,
-    "type": "community",
-    "contact:twitter": "https://twitter.com/cambsbitcoin",
-    "url_alias": "cambridgeshire-bitcoin",
-    "name": "Cambridgeshire Bitcoin",
-    "population:date": "2021-01-01",
-    "contact:email": "cambsbitcoin@gmail.com",
-    "icon:square": "https://static.btcmap.org/images/communities/cambridgeshire-bitcoin.jpeg",
-    "population": 852523,
-    "id": 189,
-    "merchantCount": 6
-  },
-  {
     "organization": "plan-b-network",
     "contact:email": "nouroukta@protonmail.com",
     "tips:lightning_address": "bitcoinsen@getalby.com",
@@ -5267,25 +5286,6 @@
     "type": "community",
     "url_alias": "bitcoin-gorlitz",
     "id": 778,
-    "merchantCount": 6
-  },
-  {
-    "area_km2": 313.96,
-    "contact:email": "info@bitcoindistrict.org",
-    "contact:meetup": "https://www.meetup.com/bitcoin-district",
-    "contact:twitter": "https://x.com/BTCDistrict",
-    "contact:website": "https://bitcoindistrict.org",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-district.png",
-    "name": "Bitcoin District",
-    "population": 678972,
-    "population:date": "2023-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-district",
-    "contact:nostr": "npub1mcke7stw5mrqp97lmdu0qdrfcz2uertdsy2n9pzvfnsdutx3hvkq7d5mnw",
-    "language": "en",
-    "contact:github": "https://github.com/bitcoindistrict",
-    "id": 785,
     "merchantCount": 6
   },
   {
@@ -6748,22 +6748,6 @@
     "merchantCount": 3
   },
   {
-    "population": 147122,
-    "area_km2": 1665.64,
-    "contact:telegram": "https://t.me/aixbitcoin21",
-    "name": "Aix-en-Provence",
-    "continent": "europe",
-    "organization": "decouvre-bitcoin",
-    "icon:square": "https://static.btcmap.org/images/communities/aix-en-provence.png",
-    "language": "fr",
-    "url_alias": "aix-en-provence",
-    "population:date": "2020-01-01",
-    "type": "community",
-    "contact:twitter": "https://twitter.com/AixBitcoin21",
-    "id": 13,
-    "merchantCount": 2
-  },
-  {
     "language": "fr",
     "name": "Avignon",
     "contact:telegram": "https://t.me/Avignon_Bitcoin_meet_up",
@@ -7710,6 +7694,22 @@
     "merchantCount": 2
   },
   {
+    "population": 147122,
+    "area_km2": 1665.64,
+    "contact:telegram": "https://t.me/aixbitcoin21",
+    "name": "Aix-en-Provence",
+    "continent": "europe",
+    "organization": "decouvre-bitcoin",
+    "icon:square": "https://static.btcmap.org/images/communities/aix-en-provence.png",
+    "language": "fr",
+    "url_alias": "aix-en-provence",
+    "population:date": "2020-01-01",
+    "type": "community",
+    "contact:twitter": "https://twitter.com/AixBitcoin21",
+    "id": 13,
+    "merchantCount": 1
+  },
+  {
     "area_km2": 1707.03,
     "continent": "north-america",
     "population:date": "2020-01-01",
@@ -8586,6 +8586,20 @@
     "population": 137850,
     "name": "Tours",
     "id": 621,
+    "merchantCount": 1
+  },
+  {
+    "url_alias": "west-michigan-bitcoin-meetup",
+    "population:date": "2020-01-01",
+    "continent": "north-america",
+    "population": 154316,
+    "contact:twitter": "https://twitter.com/dvhaley",
+    "icon:square": "https://static.btcmap.org/images/communities/west-michigan-bitcoin-meetup.png",
+    "type": "community",
+    "name": "West Michigan Bitcoin Meetup",
+    "contact:meetup": "https://www.meetup.com/michigan-bitcoin-meetup/",
+    "area_km2": 1831.76,
+    "id": 649,
     "merchantCount": 1
   },
   {
@@ -10037,20 +10051,6 @@
     "contact:email": "topcitybitcoiner@gmail.com",
     "type": "community",
     "id": 618,
-    "merchantCount": 0
-  },
-  {
-    "url_alias": "west-michigan-bitcoin-meetup",
-    "population:date": "2020-01-01",
-    "continent": "north-america",
-    "population": 154316,
-    "contact:twitter": "https://twitter.com/dvhaley",
-    "icon:square": "https://static.btcmap.org/images/communities/west-michigan-bitcoin-meetup.png",
-    "type": "community",
-    "name": "West Michigan Bitcoin Meetup",
-    "contact:meetup": "https://www.meetup.com/michigan-bitcoin-meetup/",
-    "area_km2": 1831.76,
-    "id": 649,
     "merchantCount": 0
   },
   {
