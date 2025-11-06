@@ -1428,6 +1428,20 @@
   },
   {
     "continent": "north-america",
+    "url_alias": "santa-ana",
+    "area_km2": 104,
+    "population": 272554,
+    "icon:square": "https://static.btcmap.org/images/communities/santa-ana-2.png",
+    "population:date": "2022-01-01",
+    "name": "Comunidad Bitcoin Santa Ana",
+    "type": "community",
+    "contact:email": "bitcoin@unpulmonmas.com",
+    "contact:twitter": "https://x.com/comunidadbtc_sv",
+    "id": 664,
+    "merchantCount": 93
+  },
+  {
+    "continent": "north-america",
     "population": "155000",
     "box:east": "-68.72560430731521",
     "population:date": "2021-01-01",
@@ -2206,32 +2220,6 @@
     "url_alias": "jp",
     "id": 414,
     "merchantCount": 58
-  },
-  {
-    "lat": 50.785392,
-    "region_wb": "Europe & Central Asia",
-    "name": "Belgium",
-    "gdp_md": 533097,
-    "income_grp": "1. High income: OECD",
-    "country_type": "Sovereign country",
-    "area_km2": 30699.29,
-    "population:rank": 14,
-    "gdp_year": 2019,
-    "type": "country",
-    "iso_a3": "BEL",
-    "lon": 4.800448,
-    "region_un": "Europe",
-    "population:year": 2019,
-    "sovereignt": "Belgium",
-    "wikidataid": "Q31",
-    "subregion": "Western Europe",
-    "iso_a2": "BE",
-    "economy": "2. Developed region: nonG7",
-    "continent": "Europe",
-    "population": 11484055,
-    "url_alias": "be",
-    "id": 50,
-    "merchantCount": 57
   },
   {
     "contact:email": "valerio.vaccaro@gmail.com",
@@ -13223,6 +13211,12 @@
     "merchantCount": 0
   },
   {
+    "id": 50,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "icon:square": "https://static.btcmap.org/images/communities/benin.jpg",
     "population": 2000000,
     "area_km2": 484.98,
@@ -16578,12 +16572,6 @@
     "name": "Zoolook ",
     "id": 658,
     "merchantCount": 0
-  },
-  {
-    "id": 664,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "area_km2": 707,

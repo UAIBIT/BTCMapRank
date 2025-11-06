@@ -961,30 +961,10 @@
     "merchantCount": 1
   },
   {
-    "lat": 50.785392,
-    "region_wb": "Europe & Central Asia",
-    "name": "Belgium",
-    "gdp_md": 533097,
-    "income_grp": "1. High income: OECD",
-    "country_type": "Sovereign country",
-    "area_km2": 30699.29,
-    "population:rank": 14,
-    "gdp_year": 2019,
-    "type": "country",
-    "iso_a3": "BEL",
-    "lon": 4.800448,
-    "region_un": "Europe",
-    "population:year": 2019,
-    "sovereignt": "Belgium",
-    "wikidataid": "Q31",
-    "subregion": "Western Europe",
-    "iso_a2": "BE",
-    "economy": "2. Developed region: nonG7",
-    "continent": "Europe",
-    "population": 11484055,
-    "url_alias": "be",
     "id": 50,
-    "merchantCount": 57
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "contact:twitter": "https://twitter.com/BelgianBitcoin",
@@ -12819,10 +12799,18 @@
     "merchantCount": 49
   },
   {
+    "continent": "north-america",
+    "url_alias": "santa-ana",
+    "area_km2": 104,
+    "population": 272554,
+    "icon:square": "https://static.btcmap.org/images/communities/santa-ana-2.png",
+    "population:date": "2022-01-01",
+    "name": "Comunidad Bitcoin Santa Ana",
+    "type": "community",
+    "contact:email": "bitcoin@unpulmonmas.com",
+    "contact:twitter": "https://x.com/comunidadbtc_sv",
     "id": 664,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 93
   },
   {
     "contact:twitter": "https://twitter.com/enogtyvedk",
