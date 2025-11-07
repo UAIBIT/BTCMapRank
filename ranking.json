@@ -4831,21 +4831,6 @@
     "merchantCount": 16
   },
   {
-    "area_km2": 472.66,
-    "contact:telegram": "https://t.me/Einundzwanzig_Seeland",
-    "type": "community",
-    "population:date": "2021-12-31",
-    "url_alias": "32-einezwaenzg-seeland",
-    "continent": "europe",
-    "name": "32-Einezwänzg Seeland",
-    "icon:square": "https://static.btcmap.org/images/communities/32-einezwaenzg-seeland.webp",
-    "population": 80000,
-    "organization": "einundzwanzig",
-    "language": "fr",
-    "id": 2,
-    "merchantCount": 15
-  },
-  {
     "contact:twitter": "https://twitter.com/bitcointoronto_",
     "contact:meetup": "https://www.meetup.com/bitcointoronto/",
     "contact:youtube": "https://www.youtube.com/channel/UCqb28syPQJYIFWFRvREwJBA",
@@ -12987,6 +12972,12 @@
   },
   {
     "id": 0,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 2,
     "type": null,
     "merchantCount": 0,
     "name": null
