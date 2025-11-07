@@ -10012,24 +10012,6 @@
     "merchantCount": 2
   },
   {
-    "name": "Einundzwanzig Freising",
-    "population": 181144,
-    "continent": "europe",
-    "contact:nostr": "npub1lj4j5sfj4tpnx6zg9fqpvfa4psst7xdkstystmhnmrgeasfj7h5s437up5",
-    "contact:website": "https://einundzwanzig.freising.money",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-freising.webp",
-    "type": "community",
-    "area_km2": 799.87,
-    "contact:twitter": "https://twitter.com/einundzwanzigfs",
-    "organization": "einundzwanzig",
-    "contact:telegram": "https://t.me/Einundzwanzig_FS",
-    "language": "de",
-    "url_alias": "einundzwanzig-freising",
-    "population:date": "2021-12-31",
-    "id": 271,
-    "merchantCount": 2
-  },
-  {
     "population:date": "2021-12-31",
     "type": "community",
     "language": "de",
@@ -13927,6 +13909,12 @@
     "url_alias": "einundzwanzig-ellwangen",
     "id": 267,
     "merchantCount": 0
+  },
+  {
+    "id": 271,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population": 68462,
