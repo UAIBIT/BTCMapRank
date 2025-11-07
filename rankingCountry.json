@@ -49,7 +49,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1622
+    "merchantCount": 1697
   },
   {
     "population:year": 2019,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1027
+    "merchantCount": 1028
   },
   {
     "iso_a2": "CH",
@@ -336,7 +336,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 372
+    "merchantCount": 373
   },
   {
     "iso_a2": "NL",
@@ -440,7 +440,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 311
+    "merchantCount": 310
   },
   {
     "name": "Poland",
@@ -544,7 +544,7 @@
     "continent": "Europe",
     "url_alias": "sk",
     "id": 587,
-    "merchantCount": 268
+    "merchantCount": 270
   },
   {
     "sovereignt": "Argentina",
@@ -2761,6 +2761,32 @@
     "merchantCount": 3
   },
   {
+    "sovereignt": "United Kingdom",
+    "iso_a3": "AIA",
+    "population:rank": 6,
+    "gdp_year": 2009,
+    "population:year": 2018,
+    "name": "Anguilla",
+    "economy": "6. Developing region",
+    "lat": 18.242979,
+    "lon": -63.026361,
+    "region_un": "Americas",
+    "wikidataid": "Q25228",
+    "continent": "North America",
+    "country_type": "Dependency",
+    "subregion": "Caribbean",
+    "population": 14731,
+    "gdp_md": 175,
+    "area_km2": 83.47,
+    "income_grp": "3. Upper middle income",
+    "type": "country",
+    "region_wb": "Latin America & Caribbean",
+    "iso_a2": "AI",
+    "url_alias": "ai",
+    "id": 12,
+    "merchantCount": 2
+  },
+  {
     "region_un": "Europe",
     "population": 2854191,
     "lon": 20.11384,
@@ -3123,32 +3149,6 @@
     "url_alias": "st",
     "id": 595,
     "merchantCount": 2
-  },
-  {
-    "sovereignt": "United Kingdom",
-    "iso_a3": "AIA",
-    "population:rank": 6,
-    "gdp_year": 2009,
-    "population:year": 2018,
-    "name": "Anguilla",
-    "economy": "6. Developing region",
-    "lat": 18.242979,
-    "lon": -63.026361,
-    "region_un": "Americas",
-    "wikidataid": "Q25228",
-    "continent": "North America",
-    "country_type": "Dependency",
-    "subregion": "Caribbean",
-    "population": 14731,
-    "gdp_md": 175,
-    "area_km2": 83.47,
-    "income_grp": "3. Upper middle income",
-    "type": "country",
-    "region_wb": "Latin America & Caribbean",
-    "iso_a2": "AI",
-    "url_alias": "ai",
-    "id": 12,
-    "merchantCount": 1
   },
   {
     "iso_a2": "AO",
