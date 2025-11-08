@@ -1765,6 +1765,25 @@
     "merchantCount": 71
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-bratislava.svg",
+    "name": "21 Bratislava",
+    "population": 475000,
+    "population:date": "2021-01-01",
+    "url_alias": "dvadsatjeden-bratislava",
+    "area_km2": 368.1,
+    "contact:email": "bratislava@dvadsatjeden.org",
+    "contact:facebook": "https://www.facebook.com/Dvadsatjeden.org",
+    "contact:website": "https://www.dvadsatjeden.org/",
+    "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
+    "contact:twitter": "https://x.com/Dvadsatjeden",
+    "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
+    "type": "community",
+    "organization": "dvadsatjeden",
+    "id": 802,
+    "merchantCount": 71
+  },
+  {
     "population:rank": 13,
     "gdp_md": 25095,
     "income_grp": "4. Lower middle income",
@@ -8383,21 +8402,6 @@
     "type": "community",
     "area_km2": 126.46,
     "id": 847,
-    "merchantCount": 5
-  },
-  {
-    "continent": "europe",
-    "icon:square": "https://pbs.twimg.com/profile_images/1891054716668243968/dlPMtFWo_400x400.jpg",
-    "name": "Bitcoin Academy Club",
-    "population": 214158,
-    "population:date": "2021-06-30",
-    "url_alias": "bitcoin-academy-club",
-    "tips:lightning_address": "bitcoinacademyclub@getalby.com",
-    "contact:website": "https://bitcoinacademyclub.com/",
-    "contact:email": "info@bitcoinacademyclub.com",
-    "type": "community",
-    "area_km2": 97.84,
-    "id": 901,
     "merchantCount": 5
   },
   {
@@ -17182,12 +17186,6 @@
     "name": null
   },
   {
-    "id": 802,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "id": 806,
     "type": null,
     "merchantCount": 0,
@@ -17396,6 +17394,12 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
+  },
+  {
+    "id": 901,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 916,
