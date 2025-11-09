@@ -23,7 +23,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2023
+    "merchantCount": 2024
   },
   {
     "sovereignt": "United States of America",
@@ -49,7 +49,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1700
+    "merchantCount": 1709
   },
   {
     "population:year": 2019,
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 806
+    "merchantCount": 807
   },
   {
     "name": "Germany",
@@ -257,7 +257,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 515
+    "merchantCount": 516
   },
   {
     "gdp_md": 543548,
@@ -362,33 +362,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 354
-  },
-  {
-    "region_un": "Europe",
-    "gdp_md": 2829108,
-    "subregion": "Northern Europe",
-    "iso_a2": "GB",
-    "wikidataid": "Q145",
-    "population:rank": 16,
-    "population:year": "2019",
-    "region_wb": "Europe & Central Asia",
-    "continent": "Europe",
-    "population": 66834405,
-    "gdp_year": 2019,
-    "lon": -2.116346,
-    "sovereignt": "United Kingdom",
-    "iso_a3": "GBR",
-    "country_type": "Country",
-    "name": "United Kingdom",
-    "income_grp": "1. High income: OECD",
-    "area_km2": 240644.66,
-    "lat": 54.402739,
-    "economy": "1. Developed region: G7",
-    "type": "country",
-    "url_alias": "gb",
-    "id": 364,
-    "merchantCount": 342
+    "merchantCount": 355
   },
   {
     "wikidataid": "Q45",
@@ -414,6 +388,32 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
+    "merchantCount": 343
+  },
+  {
+    "region_un": "Europe",
+    "gdp_md": 2829108,
+    "subregion": "Northern Europe",
+    "iso_a2": "GB",
+    "wikidataid": "Q145",
+    "population:rank": 16,
+    "population:year": "2019",
+    "region_wb": "Europe & Central Asia",
+    "continent": "Europe",
+    "population": 66834405,
+    "gdp_year": 2019,
+    "lon": -2.116346,
+    "sovereignt": "United Kingdom",
+    "iso_a3": "GBR",
+    "country_type": "Country",
+    "name": "United Kingdom",
+    "income_grp": "1. High income: OECD",
+    "area_km2": 240644.66,
+    "lat": 54.402739,
+    "economy": "1. Developed region: G7",
+    "type": "country",
+    "url_alias": "gb",
+    "id": 364,
     "merchantCount": 342
   },
   {
@@ -466,7 +466,7 @@
     "area_km2": 313243.76,
     "url_alias": "pl",
     "id": 530,
-    "merchantCount": 298
+    "merchantCount": 297
   },
   {
     "gdp_md": 17477,
@@ -544,7 +544,7 @@
     "continent": "Europe",
     "url_alias": "sk",
     "id": 587,
-    "merchantCount": 270
+    "merchantCount": 269
   },
   {
     "sovereignt": "Argentina",
@@ -570,7 +570,7 @@
     "lon": -64.173331,
     "url_alias": "ar",
     "id": 26,
-    "merchantCount": 243
+    "merchantCount": 244
   },
   {
     "gdp_year": 2019,
@@ -1041,6 +1041,32 @@
     "merchantCount": 59
   },
   {
+    "lat": 50.785392,
+    "region_wb": "Europe & Central Asia",
+    "name": "Belgium",
+    "gdp_md": 533097,
+    "income_grp": "1. High income: OECD",
+    "country_type": "Sovereign country",
+    "area_km2": 30699.29,
+    "population:rank": 14,
+    "gdp_year": 2019,
+    "type": "country",
+    "iso_a3": "BEL",
+    "lon": 4.800448,
+    "region_un": "Europe",
+    "population:year": 2019,
+    "sovereignt": "Belgium",
+    "wikidataid": "Q31",
+    "subregion": "Western Europe",
+    "iso_a2": "BE",
+    "economy": "2. Developed region: nonG7",
+    "continent": "Europe",
+    "population": 11484055,
+    "url_alias": "be",
+    "id": 50,
+    "merchantCount": 58
+  },
+  {
     "type": "country",
     "region_un": "Asia",
     "country_type": "Sovereign country",
@@ -1065,32 +1091,6 @@
     "url_alias": "jp",
     "id": 414,
     "merchantCount": 58
-  },
-  {
-    "lat": 50.785392,
-    "region_wb": "Europe & Central Asia",
-    "name": "Belgium",
-    "gdp_md": 533097,
-    "income_grp": "1. High income: OECD",
-    "country_type": "Sovereign country",
-    "area_km2": 30699.29,
-    "population:rank": 14,
-    "gdp_year": 2019,
-    "type": "country",
-    "iso_a3": "BEL",
-    "lon": 4.800448,
-    "region_un": "Europe",
-    "population:year": 2019,
-    "sovereignt": "Belgium",
-    "wikidataid": "Q31",
-    "subregion": "Western Europe",
-    "iso_a2": "BE",
-    "economy": "2. Developed region: nonG7",
-    "continent": "Europe",
-    "population": 11484055,
-    "url_alias": "be",
-    "id": 50,
-    "merchantCount": 57
   },
   {
     "economy": "5. Emerging region: G20",
