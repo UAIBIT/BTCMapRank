@@ -9841,19 +9841,6 @@
     "merchantCount": 2
   },
   {
-    "contact:telegram": "https://t.me/bitcoinmanagua",
-    "population:date": "2020-01-01",
-    "name": "Bitcoin Managua",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-managua.jpeg",
-    "population": 1401687,
-    "area_km2": 438.13,
-    "type": "community",
-    "url_alias": "bitcoin-managua",
-    "id": 119,
-    "merchantCount": 2
-  },
-  {
     "name": "Bitcoin - Orihuela Costa",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-orihuela-costa.png",
     "population": "80784",
@@ -13386,6 +13373,12 @@
     "tips:lightning_address": "btcmeetupbe@getalby.com",
     "id": 117,
     "merchantCount": 0
+  },
+  {
+    "id": 119,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 28301.28,
