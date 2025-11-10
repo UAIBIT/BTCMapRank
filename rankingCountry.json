@@ -49,7 +49,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1709
+    "merchantCount": 1714
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1329
+    "merchantCount": 1330
   },
   {
     "gdp_md": 351431,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1029
+    "merchantCount": 1028
   },
   {
     "iso_a2": "CH",
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 807
+    "merchantCount": 808
   },
   {
     "name": "Germany",
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 611
+    "merchantCount": 610
   },
   {
     "region_un": "Americas",
@@ -336,7 +336,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 373
+    "merchantCount": 374
   },
   {
     "iso_a2": "NL",
@@ -365,6 +365,32 @@
     "merchantCount": 355
   },
   {
+    "region_un": "Europe",
+    "gdp_md": 2829108,
+    "subregion": "Northern Europe",
+    "iso_a2": "GB",
+    "wikidataid": "Q145",
+    "population:rank": 16,
+    "population:year": "2019",
+    "region_wb": "Europe & Central Asia",
+    "continent": "Europe",
+    "population": 66834405,
+    "gdp_year": 2019,
+    "lon": -2.116346,
+    "sovereignt": "United Kingdom",
+    "iso_a3": "GBR",
+    "country_type": "Country",
+    "name": "United Kingdom",
+    "income_grp": "1. High income: OECD",
+    "area_km2": 240644.66,
+    "lat": 54.402739,
+    "economy": "1. Developed region: G7",
+    "type": "country",
+    "url_alias": "gb",
+    "id": 364,
+    "merchantCount": 343
+  },
+  {
     "wikidataid": "Q45",
     "sovereignt": "Portugal",
     "population": 10269417,
@@ -389,32 +415,6 @@
     "url_alias": "pt",
     "id": 541,
     "merchantCount": 343
-  },
-  {
-    "region_un": "Europe",
-    "gdp_md": 2829108,
-    "subregion": "Northern Europe",
-    "iso_a2": "GB",
-    "wikidataid": "Q145",
-    "population:rank": 16,
-    "population:year": "2019",
-    "region_wb": "Europe & Central Asia",
-    "continent": "Europe",
-    "population": 66834405,
-    "gdp_year": 2019,
-    "lon": -2.116346,
-    "sovereignt": "United Kingdom",
-    "iso_a3": "GBR",
-    "country_type": "Country",
-    "name": "United Kingdom",
-    "income_grp": "1. High income: OECD",
-    "area_km2": 240644.66,
-    "lat": 54.402739,
-    "economy": "1. Developed region: G7",
-    "type": "country",
-    "url_alias": "gb",
-    "id": 364,
-    "merchantCount": 342
   },
   {
     "area_km2": 636466.7,
@@ -622,7 +622,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 180
+    "merchantCount": 182
   },
   {
     "income_grp": "3. Upper middle income",
