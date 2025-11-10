@@ -4012,6 +4012,20 @@
     "merchantCount": 23
   },
   {
+    "area_km2": 102.13,
+    "contact:signal": "https://signal.group/#CjQKIKjU9GK60QXNQyMqSDOizIl5L5WESmJRwM4fG3-ANAP7EhBS3FvBjUDUTjlreHoPfc9Y",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-olomouc.svg",
+    "name": "Jednadvacet Olomouc",
+    "organization": "jednadvacet",
+    "population": 106063,
+    "population:date": "2021-01-01",
+    "type": "community",
+    "url_alias": "jednadvacet-olomouc",
+    "id": 773,
+    "merchantCount": 23
+  },
+  {
     "continent": "africa",
     "icon:square": "https://static.btcmap.org/images/communities/afribit-kibera.png",
     "name": "Afribit Kibera",
@@ -8663,23 +8677,6 @@
     "name": "Republic of Serbia",
     "url_alias": "rs",
     "id": 557,
-    "merchantCount": 4
-  },
-  {
-    "continent": "europe",
-    "contact:discord": "https://discord.com/invite/CwqE5n8UG3/",
-    "name": "Saint-Malo",
-    "organization": "breizh-bitcoin",
-    "contact:telegram": "https://t.me/SaintMaloBitcoinMeetup",
-    "language": "fr",
-    "population": 46995,
-    "contact:twitter": "https://twitter.com/stMaloBTCMeetup",
-    "population:date": "2020-01-01",
-    "area_km2": 1080.49,
-    "icon:square": "https://static.btcmap.org/images/communities/saint-malo.jpg",
-    "type": "community",
-    "url_alias": "saint-malo",
-    "id": 566,
     "merchantCount": 4
   },
   {
@@ -15739,6 +15736,12 @@
     "name": null
   },
   {
+    "id": 566,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "area_km2": 214.11,
     "organization": "satoshi-spritz",
     "population": "58863",
@@ -17104,12 +17107,6 @@
   },
   {
     "id": 751,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 773,
     "type": null,
     "merchantCount": 0,
     "name": null
