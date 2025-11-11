@@ -8356,21 +8356,6 @@
     "merchantCount": 5
   },
   {
-    "area_km2": 357.1,
-    "contact:email": "hello@bitcoinsheffield.org",
-    "contact:website": "https://bitcoinsheffield.org/",
-    "continent": "europe",
-    "icon:square": "https://sheffieldbitcoin.org/wp-content/uploads/2024/12/Glowing-Bitcoin-Logo.jpg",
-    "name": "Bitcoin Sheffield",
-    "population": 585000,
-    "population:date": "2024-01-01",
-    "tips:lightning_address": "bitcoinsheffield@getalby.com",
-    "type": "community",
-    "url_alias": "bitcoin-sheffield",
-    "id": 794,
-    "merchantCount": 5
-  },
-  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-manaus.png",
     "name": "Bitcoin Manaus",
@@ -17196,6 +17181,12 @@
   },
   {
     "id": 791,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 794,
     "type": null,
     "merchantCount": 0,
     "name": null
