@@ -4677,6 +4677,23 @@
     "merchantCount": 17
   },
   {
+    "population": 1734000,
+    "url_alias": "uusimaa",
+    "area_km2": 17338.83,
+    "icon:square": "https://static.btcmap.org/images/communities/uusimaa.png",
+    "population:date": "2023-01-01",
+    "tips:lightning_address": "lahjoitus@salamaverkko.fi",
+    "continent": "europe",
+    "type": "community",
+    "contact:email": "salamaverkko@salamaverkko.fi",
+    "name": "Uusimaa",
+    "contact:telegram": "https://t.me/salamaverkko",
+    "contact:meetup": "https://www.meetup.com/salamaverkko/",
+    "contact:website": "http://www.salamaverkko.fi",
+    "id": 634,
+    "merchantCount": 17
+  },
+  {
     "area_km2": 29906,
     "contact:discord": "https://discord.com/invite/42XT34pWb4",
     "contact:telegram": "https://t.me/NormandieBTC",
@@ -13377,20 +13394,10 @@
     "merchantCount": 0
   },
   {
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-liège.png",
-    "contact:website": "https://liege.btcmeetup.be/",
-    "area_km2": 168.31,
-    "contact:email": "btcmeetupbe@protonmail.com",
-    "name": "Bitcoin Liège",
-    "population:date": "2022-01-01",
-    "type": "community",
-    "population": 195278,
-    "url_alias": "bitcoin-liège",
-    "contact:telegram": "https://t.me/LiegeBitcoinMeetup",
-    "continent": "europe",
-    "tips:lightning_address": "btcmeetupbe@getalby.com",
     "id": 117,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 28301.28,
@@ -16326,12 +16333,6 @@
     "area_km2": 49.26,
     "id": 632,
     "merchantCount": 0
-  },
-  {
-    "id": 634,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "economy": "6. Developing region",
