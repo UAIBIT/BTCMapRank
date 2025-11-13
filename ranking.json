@@ -1,11 +1,5 @@
 [
   {
-    "url_alias": "earth",
-    "type": "planet",
-    "id": 662,
-    "merchantCount": 18999
-  },
-  {
     "wikidataid": "Q155",
     "area_km2": 8518390.58,
     "country_type": "Sovereign country",
@@ -16606,6 +16600,12 @@
     "name": "Zoolook ",
     "id": 658,
     "merchantCount": 0
+  },
+  {
+    "id": 662,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 707,
