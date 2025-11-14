@@ -1,31 +1,5 @@
 [
   {
-    "wikidataid": "Q155",
-    "area_km2": 8518390.58,
-    "country_type": "Sovereign country",
-    "region_wb": "Latin America & Caribbean",
-    "lat": -12.098687,
-    "gdp_md": 1839758,
-    "continent": "South America",
-    "region_un": "Americas",
-    "gdp_year": 2019,
-    "population:rank": 17,
-    "type": "country",
-    "population:year": 2019,
-    "sovereignt": "Brazil",
-    "income_grp": "3. Upper middle income",
-    "name": "Brazil",
-    "subregion": "South America",
-    "iso_a3": "BRA",
-    "population": 211049527,
-    "economy": "3. Emerging region: BRIC",
-    "lon": -49.55945,
-    "iso_a2": "BR",
-    "url_alias": "br",
-    "id": 173,
-    "merchantCount": 2024
-  },
-  {
     "sovereignt": "United States of America",
     "iso_a3": "USA",
     "population:year": 2019,
@@ -49,7 +23,33 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 1932
+    "merchantCount": 2040
+  },
+  {
+    "wikidataid": "Q155",
+    "area_km2": 8518390.58,
+    "country_type": "Sovereign country",
+    "region_wb": "Latin America & Caribbean",
+    "lat": -12.098687,
+    "gdp_md": 1839758,
+    "continent": "South America",
+    "region_un": "Americas",
+    "gdp_year": 2019,
+    "population:rank": 17,
+    "type": "country",
+    "population:year": 2019,
+    "sovereignt": "Brazil",
+    "income_grp": "3. Upper middle income",
+    "name": "Brazil",
+    "subregion": "South America",
+    "iso_a3": "BRA",
+    "population": 211049527,
+    "economy": "3. Emerging region: BRIC",
+    "lon": -49.55945,
+    "iso_a2": "BR",
+    "url_alias": "br",
+    "id": 173,
+    "merchantCount": 2026
   },
   {
     "population:year": 2019,
@@ -127,7 +127,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1088
+    "merchantCount": 1099
   },
   {
     "subregion": "Southern Europe",
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 810
+    "merchantCount": 811
   },
   {
     "name": "Germany",
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 609
+    "merchantCount": 610
   },
   {
     "region_un": "Americas",
@@ -362,7 +362,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 356
+    "merchantCount": 355
   },
   {
     "region_un": "Europe",
@@ -492,7 +492,7 @@
     "wikidataid": "Q230",
     "url_alias": "ge",
     "id": 366,
-    "merchantCount": 289
+    "merchantCount": 290
   },
   {
     "population": 16604026,
@@ -596,7 +596,7 @@
     "population:rank": 13,
     "url_alias": "at",
     "id": 31,
-    "merchantCount": 202
+    "merchantCount": 203
   },
   {
     "sovereignt": "Australia",
