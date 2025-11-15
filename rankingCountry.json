@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 2040
+    "merchantCount": 2108
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2026
+    "merchantCount": 2027
   },
   {
     "population:year": 2019,
@@ -127,7 +127,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1099
+    "merchantCount": 1096
   },
   {
     "subregion": "Southern Europe",
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1031
+    "merchantCount": 1033
   },
   {
     "iso_a2": "CH",
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 811
+    "merchantCount": 813
   },
   {
     "name": "Germany",
@@ -257,7 +257,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 520
+    "merchantCount": 521
   },
   {
     "gdp_md": 543548,
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 405
+    "merchantCount": 407
   },
   {
     "country_type": "Sovereign country",
@@ -339,6 +339,32 @@
     "merchantCount": 374
   },
   {
+    "gdp_md": 17477,
+    "economy": "6. Developing region",
+    "population:year": 2019,
+    "income_grp": "4. Lower middle income",
+    "gdp_year": 2019,
+    "type": "country",
+    "subregion": "Western Asia",
+    "lon": 43.735724,
+    "lat": 41.870087,
+    "area_km2": 69460.61,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "region_un": "Asia",
+    "population": 3720382,
+    "iso_a3": "GEO",
+    "sovereignt": "Georgia",
+    "population:rank": 12,
+    "name": "Georgia",
+    "region_wb": "Europe & Central Asia",
+    "iso_a2": "GE",
+    "wikidataid": "Q230",
+    "url_alias": "ge",
+    "id": 366,
+    "merchantCount": 362
+  },
+  {
     "iso_a2": "NL",
     "continent": "Europe",
     "gdp_year": 2019,
@@ -388,7 +414,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 343
+    "merchantCount": 344
   },
   {
     "wikidataid": "Q45",
@@ -440,7 +466,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 315
+    "merchantCount": 319
   },
   {
     "name": "Poland",
@@ -467,32 +493,6 @@
     "url_alias": "pl",
     "id": 530,
     "merchantCount": 297
-  },
-  {
-    "gdp_md": 17477,
-    "economy": "6. Developing region",
-    "population:year": 2019,
-    "income_grp": "4. Lower middle income",
-    "gdp_year": 2019,
-    "type": "country",
-    "subregion": "Western Asia",
-    "lon": 43.735724,
-    "lat": 41.870087,
-    "area_km2": 69460.61,
-    "country_type": "Sovereign country",
-    "continent": "Asia",
-    "region_un": "Asia",
-    "population": 3720382,
-    "iso_a3": "GEO",
-    "sovereignt": "Georgia",
-    "population:rank": 12,
-    "name": "Georgia",
-    "region_wb": "Europe & Central Asia",
-    "iso_a2": "GE",
-    "wikidataid": "Q230",
-    "url_alias": "ge",
-    "id": 366,
-    "merchantCount": 290
   },
   {
     "population": 16604026,
@@ -544,7 +544,7 @@
     "continent": "Europe",
     "url_alias": "sk",
     "id": 587,
-    "merchantCount": 272
+    "merchantCount": 271
   },
   {
     "sovereignt": "Argentina",
@@ -570,7 +570,7 @@
     "lon": -64.173331,
     "url_alias": "ar",
     "id": 26,
-    "merchantCount": 248
+    "merchantCount": 250
   },
   {
     "gdp_year": 2019,
@@ -1272,7 +1272,7 @@
     "iso_a2": "IN",
     "url_alias": "in",
     "id": 400,
-    "merchantCount": 34
+    "merchantCount": 35
   },
   {
     "population": 270625568,
