@@ -711,6 +711,27 @@
     "merchantCount": 293
   },
   {
+    "url_alias": "dwadzieścia-jeden",
+    "box:west": "12.63427734375",
+    "population:date": "2022-01-01",
+    "contact:telegram": "https://t.me/DwadziesciaJeden",
+    "organization": "dwadziescia-jeden",
+    "contact:website": "https://dwadziesciajeden.pl/",
+    "icon:square": "https://static.btcmap.org/images/communities/dwadzies%CC%81cia-jeden.svg",
+    "type": "trash",
+    "box:north": "54.96500166110205",
+    "area_km2": 322113.9,
+    "population": "37796000",
+    "box:east": "25.72998046875",
+    "box:south": "48.936934954094035",
+    "name": "Dwadzieścia Jeden",
+    "tips:lightning_address": "dwadziesciajeden@getalby.com",
+    "continent": "europe",
+    "contact:twitter": "https://twitter.com/21BitcoinPolska",
+    "id": 238,
+    "merchantCount": 289
+  },
+  {
     "population": 16604026,
     "subregion": "Central America",
     "sovereignt": "Guatemala",
@@ -13855,12 +13876,6 @@
     "name": null
   },
   {
-    "id": 238,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "sovereignt": "Western Sahara",
     "region_un": "Africa",
     "area_km2": 90997.29,
@@ -17346,10 +17361,18 @@
     "name": null
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/southern-maryland-bitcoiners.jpg",
+    "name": "Southern Maryland Bitcoiners",
+    "population": 10159,
+    "population:date": "2020-04-01",
+    "url_alias": "southern-maryland-bitcoiners",
+    "contact:meetup": "https://www.meetup.com/southern-maryland-bitcoiners/",
+    "contact:email": "somdbtc@gmail.com",
+    "type": "community",
+    "area_km2": 19.02,
     "id": 866,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "id": 883,
