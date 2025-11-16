@@ -4397,6 +4397,24 @@
     "merchantCount": 18
   },
   {
+    "type": "community",
+    "continent": "asia",
+    "url_alias": "bitcoin-du-liban",
+    "tips:lightning_address": "LNURL1DP68GURN8GHJ7AMPD3KX2AR0VEEKZAR0WD5XJTNRDAKJ7TNHV4KXCTTTDEHHWM30D3H82UNVWQHHWETNW3JHYMNFVDJNGVCCVJZL8",
+    "name": "Bitcoin du Liban",
+    "contact:website": "https://bitcoinduliban.org/",
+    "contact:telegram": "https://t.me/+HpFz_OuqAn1iZjM0",
+    "contact:instagram": "https://instagram.com/bitcoinduliban",
+    "contact:facebook": "https://facebook.com/bitcoinduliban",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-du-liban.jpeg",
+    "contact:twitter": "https://twitter.com/bitcoinduliban",
+    "area_km2": 14821.05,
+    "population:date": "2022-01-01",
+    "population": "5296814",
+    "id": 95,
+    "merchantCount": 18
+  },
+  {
     "box:east": "-59.54589843750001",
     "box:north": "14.221788628397572",
     "box:south": "-4.762572524280269",
@@ -8131,21 +8149,6 @@
     "name": "Eenanzwanzeg Lëtzebuerg",
     "area_km2": 2585.44,
     "id": 247,
-    "merchantCount": 5
-  },
-  {
-    "icon:square": "https://static.btcmap.org/images/communities/eenanzwanzeg-lëtzebuerg.jpg",
-    "continent": "europe",
-    "area_km2": 2597.19,
-    "contact:telegram": "https://t.me/einundzwanzigLU",
-    "url_alias": "eenanzwanzeg-lëtzebuerg",
-    "population": "645397",
-    "contact:email": "eenanzwanzeg@protonmail.com",
-    "name": "Eenanzwanzeg Lëtzebuerg",
-    "type": "community",
-    "contact:twitter": "https://twitter.com/einundzwanziglu",
-    "population:date": "2022-01-01",
-    "id": 248,
     "merchantCount": 5
   },
   {
@@ -13397,12 +13400,6 @@
     "name": null
   },
   {
-    "id": 95,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "contact:email": "info@bitcoin-jamii.com",
     "name": "Goma",
     "population": 2000000,
@@ -13875,6 +13872,12 @@
   },
   {
     "id": 237,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 248,
     "type": null,
     "merchantCount": 0,
     "name": null
