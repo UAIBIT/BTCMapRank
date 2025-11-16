@@ -3904,32 +3904,6 @@
     "merchantCount": 25
   },
   {
-    "gdp_year": 2019,
-    "country_type": "Sovereign country",
-    "continent": "Asia",
-    "income_grp": "4. Lower middle income",
-    "name": "Armenia",
-    "iso_a2": "AM",
-    "iso_a3": "ARM",
-    "population:year": 2019,
-    "economy": "6. Developing region",
-    "population": 2957731,
-    "wikidataid": "Q399",
-    "region_wb": "Europe & Central Asia",
-    "region_un": "Asia",
-    "sovereignt": "Armenia",
-    "lat": 40.459077,
-    "population:rank": 12,
-    "lon": 44.800564,
-    "type": "country",
-    "gdp_md": 13672,
-    "area_km2": 29623.75,
-    "subregion": "Western Asia",
-    "url_alias": "am",
-    "id": 18,
-    "merchantCount": 23
-  },
-  {
     "population": "32103042",
     "contact:email": "bitcoincowries@gmail.com",
     "name": "Bitcoin Cowries",
@@ -5266,6 +5240,21 @@
     "url_alias": "bitcoin-safari",
     "contact:whatsapp": "https://wa.me/255676834366",
     "id": 681,
+    "merchantCount": 14
+  },
+  {
+    "area_km2": 1785,
+    "contact:email": "mail@bitcanario.com",
+    "contact:website": "https://bitcanario.com/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcanario-gran-canaria.png",
+    "name": "Bitcanario Gran Canaria",
+    "population": 862893,
+    "population:date": "2023-01-01",
+    "tips:lightning_address": "bitcanario@blink.sv",
+    "type": "community",
+    "url_alias": "bitcanario-gran-canaria",
+    "id": 708,
     "merchantCount": 14
   },
   {
@@ -13152,6 +13141,12 @@
     "merchantCount": 0
   },
   {
+    "id": 18,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "area_km2": 12284113.34,
     "continent": "Antarctica",
     "type": "country",
@@ -16947,12 +16942,6 @@
     "url_alias": "haiti",
     "id": 704,
     "merchantCount": 0
-  },
-  {
-    "id": 708,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "area_km2": 4.43,
