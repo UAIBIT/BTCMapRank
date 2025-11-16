@@ -16576,10 +16576,24 @@
     "merchantCount": 1
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/banska-bystrica.svg",
+    "name": "21 Banská Bystrica",
+    "population": 111946,
+    "population:date": "2003-06-30",
+    "url_alias": "dvadsatjeden-banska-bystrica",
+    "organization": "dvadsatjeden",
+    "contact:email": "banska.bystrica@dvadsatjeden.org",
+    "contact:facebook": "https://www.facebook.com/Dvadsatjeden.org",
+    "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
+    "contact:twitter": "https://x.com/Dvadsatjeden",
+    "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
+    "contact:website": "https://www.dvadsatjeden.org/",
+    "type": "community",
+    "area_km2": 809.16,
+    "tips:lightning_address": "bb@dvadsatjeden.org",
     "id": 893,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 9
   },
   {
     "continent": "europe",
@@ -17480,10 +17494,19 @@
     "merchantCount": 0
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://raw.githubusercontent.com/TrianguloBitcoin/Files/main/TrianguloBitcoin.jpg",
+    "name": "Triângulo Bitcoin",
+    "population": 1684894,
+    "population:date": "2022-12-25",
+    "url_alias": "triangulo-bitcoin",
+    "contact:email": "Arthurpatrocinio@gmail.com",
+    "description": "Comunidade do Triângulo Mineiro o Nariz de Minas",
+    "organization": "uaibit",
+    "type": "community",
+    "area_km2": 57324.94,
     "id": 955,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
     "id": 956,
