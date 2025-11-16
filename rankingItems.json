@@ -1490,19 +1490,10 @@
     "merchantCount": 6
   },
   {
-    "area_km2": 143.8,
-    "name": "Bitcoin Brunch Miami",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-brunch-miami.jpeg",
-    "contact:email": "bitcoinbrunchnetwork@gmail.com",
-    "contact:telegram": "https://t.me/bitcoinbrunchnetwork",
-    "contact:twitter": "https://twitter.com/brunchofbitcoin",
-    "population": "442241",
-    "continent": "north-america",
-    "population:date": "2020-01-01",
-    "url_alias": "bitcoin-brunch-miami",
-    "type": "community",
     "id": 80,
-    "merchantCount": 12
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 81,
@@ -4172,10 +4163,20 @@
     "merchantCount": 0
   },
   {
+    "organization": "decouvre-bitcoin",
+    "population:date": "2020-01-01",
+    "contact:twitter": "https://twitter.com/GabToken",
+    "icon:square": "https://static.btcmap.org/images/communities/dijon.png",
+    "population": 159106,
+    "area_km2": 2811.8,
+    "language": "fr",
+    "continent": "europe",
+    "type": "community",
+    "url_alias": "dijon",
+    "contact:telegram": "https://t.me/DijonBitcoinMeetup",
+    "name": "Dijon",
     "id": 228,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "population:year": 2019,
@@ -15825,10 +15826,21 @@
     "merchantCount": 14
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitdevs-cdmx.png",
+    "name": "Bitdevs CDMX",
+    "population": 9209944,
+    "population:date": "2024-01-01",
+    "url_alias": "bitdevs-cdmx",
+    "organization": "bit-devs",
+    "contact:website": "https://www.cdmxbitdevs.org/",
+    "description": "La Casa de Satoshi CDMX is a non-profit organization leading Bitcoin adoption in Mexico City.",
+    "contact:meetup": "https://lu.ma/lacasadesatoshi",
+    "area_km2": 985.26,
+    "contact:twitter": "https://x.com/LaCasaDeSatoshi",
+    "type": "community",
     "id": 844,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 64
   },
   {
     "continent": "south-america",
