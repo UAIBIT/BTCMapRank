@@ -5633,6 +5633,21 @@
     "merchantCount": 12
   },
   {
+    "area_km2": 143.8,
+    "name": "Bitcoin Brunch Miami",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-brunch-miami.jpeg",
+    "contact:email": "bitcoinbrunchnetwork@gmail.com",
+    "contact:telegram": "https://t.me/bitcoinbrunchnetwork",
+    "contact:twitter": "https://twitter.com/brunchofbitcoin",
+    "population": "442241",
+    "continent": "north-america",
+    "population:date": "2020-01-01",
+    "url_alias": "bitcoin-brunch-miami",
+    "type": "community",
+    "id": 80,
+    "merchantCount": 12
+  },
+  {
     "contact:telegram": "https://t.me/DwadziesciaJeden",
     "contact:twitter": "https://twitter.com/21BitcoinPolska",
     "population:date": "2022-01-01",
@@ -12200,22 +12215,6 @@
     "merchantCount": 1
   },
   {
-    "contact:meetup": "https://www.meetup.com/nevco-bitcoin-meetup/",
-    "name": "Nevada County Bitcoin",
-    "type": "community",
-    "contact:email": "nevadacountybtc@proton.me",
-    "contact:twitter": "https://twitter.com/nevcobtc",
-    "population": "102241",
-    "url_alias": "nevada-county-bitcoin",
-    "continent": "north-america",
-    "area_km2": 2531.23,
-    "population:date": "2020-01-01",
-    "contact:website": "https://nevadacountybitcoin.godaddysites.com/",
-    "icon:square": "https://static.btcmap.org/images/communities/nevada-county-bitcoin.webp",
-    "id": 502,
-    "merchantCount": 1
-  },
-  {
     "population:date": "2021-01-01",
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/newcastle-bitcoin-meetup.png",
@@ -13377,12 +13376,6 @@
   },
   {
     "id": 68,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 80,
     "type": null,
     "merchantCount": 0,
     "name": null
@@ -15384,6 +15377,12 @@
     "url_alias": "ne",
     "id": 500,
     "merchantCount": 0
+  },
+  {
+    "id": 502,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "iso_a2": "NF",
