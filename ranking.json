@@ -6586,26 +6586,6 @@
     "merchantCount": 9
   },
   {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/banska-bystrica.svg",
-    "name": "21 Banská Bystrica",
-    "population": 111946,
-    "population:date": "2003-06-30",
-    "url_alias": "dvadsatjeden-banska-bystrica",
-    "organization": "dvadsatjeden",
-    "contact:email": "banska.bystrica@dvadsatjeden.org",
-    "contact:facebook": "https://www.facebook.com/Dvadsatjeden.org",
-    "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
-    "contact:twitter": "https://x.com/Dvadsatjeden",
-    "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
-    "contact:website": "https://www.dvadsatjeden.org/",
-    "type": "community",
-    "area_km2": 809.16,
-    "tips:lightning_address": "bb@dvadsatjeden.org",
-    "id": 893,
-    "merchantCount": 9
-  },
-  {
     "continent": "africa",
     "icon:square": "https://pbs.twimg.com/profile_images/1767514112949395456/oD07hAdm_400x400.jpg",
     "name": "Bitbiashara",
@@ -17388,6 +17368,12 @@
   },
   {
     "id": 888,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 893,
     "type": null,
     "merchantCount": 0,
     "name": null
