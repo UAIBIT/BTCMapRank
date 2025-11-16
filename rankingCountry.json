@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 2108
+    "merchantCount": 2173
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2027
+    "merchantCount": 2028
   },
   {
     "population:year": 2019,
@@ -127,7 +127,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1096
+    "merchantCount": 1097
   },
   {
     "subregion": "Southern Europe",
@@ -231,7 +231,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 527
+    "merchantCount": 528
   },
   {
     "sovereignt": "Canada",
@@ -313,32 +313,6 @@
     "merchantCount": 387
   },
   {
-    "population": 47076781,
-    "population:year": 2019,
-    "iso_a3": "ESP",
-    "economy": "2. Developed region: nonG7",
-    "income_grp": "1. High income: OECD",
-    "area_km2": 507307.57,
-    "wikidataid": "Q29",
-    "region_wb": "Europe & Central Asia",
-    "name": "Spain",
-    "lat": 40.090953,
-    "iso_a2": "ES",
-    "type": "country",
-    "subregion": "Southern Europe",
-    "gdp_year": 2019,
-    "country_type": "Sovereign country",
-    "region_un": "Europe",
-    "continent": "Europe",
-    "population:rank": 15,
-    "lon": -3.464718,
-    "sovereignt": "Spain",
-    "gdp_md": 1393490,
-    "url_alias": "es",
-    "id": 352,
-    "merchantCount": 374
-  },
-  {
     "gdp_md": 17477,
     "economy": "6. Developing region",
     "population:year": 2019,
@@ -362,7 +336,33 @@
     "wikidataid": "Q230",
     "url_alias": "ge",
     "id": 366,
-    "merchantCount": 362
+    "merchantCount": 386
+  },
+  {
+    "population": 47076781,
+    "population:year": 2019,
+    "iso_a3": "ESP",
+    "economy": "2. Developed region: nonG7",
+    "income_grp": "1. High income: OECD",
+    "area_km2": 507307.57,
+    "wikidataid": "Q29",
+    "region_wb": "Europe & Central Asia",
+    "name": "Spain",
+    "lat": 40.090953,
+    "iso_a2": "ES",
+    "type": "country",
+    "subregion": "Southern Europe",
+    "gdp_year": 2019,
+    "country_type": "Sovereign country",
+    "region_un": "Europe",
+    "continent": "Europe",
+    "population:rank": 15,
+    "lon": -3.464718,
+    "sovereignt": "Spain",
+    "gdp_md": 1393490,
+    "url_alias": "es",
+    "id": 352,
+    "merchantCount": 375
   },
   {
     "iso_a2": "NL",
@@ -466,7 +466,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 319
+    "merchantCount": 329
   },
   {
     "name": "Poland",
@@ -1168,7 +1168,7 @@
     "gdp_year": 2019,
     "url_alias": "gr",
     "id": 377,
-    "merchantCount": 41
+    "merchantCount": 42
   },
   {
     "population": 58005463,
@@ -1298,7 +1298,7 @@
     "iso_a3": "IDN",
     "url_alias": "id",
     "id": 396,
-    "merchantCount": 33
+    "merchantCount": 34
   },
   {
     "area_km2": 385110.87,
