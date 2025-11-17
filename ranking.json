@@ -7501,6 +7501,19 @@
     "merchantCount": 7
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-p2p-gent.png",
+    "name": "Bitcoin P2P Gent",
+    "population": 269597,
+    "population:date": "2024-01-01",
+    "url_alias": "bitcoin-p2p-gent",
+    "contact:meetup": "https://www.meetup.com/p2p-gent",
+    "type": "community",
+    "area_km2": 128.17,
+    "id": 908,
+    "merchantCount": 7
+  },
+  {
     "contact:twitter": "https://twitter.com/BanskoBitcoin",
     "box:north": "41.866237149376",
     "population": "8873",
@@ -13950,20 +13963,10 @@
     "merchantCount": 0
   },
   {
-    "population": 15700,
-    "population:date": "2021-12-31",
-    "contact:telegram": "https://t.me/Einundzwanzigbitburg",
-    "name": "Einundzwanzig Bitburg",
-    "area_km2": 47.18,
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-bitburg.webp",
-    "language": "de",
-    "continent": "europe",
-    "organization": "einundzwanzig",
-    "contact:twitter": "https://twitter.com/EinundzwanzigBi",
-    "url_alias": "einundzwanzig-bitburg",
     "id": 258,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "europe",
@@ -17411,12 +17414,6 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
-  },
-  {
-    "id": 908,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "id": 916,
