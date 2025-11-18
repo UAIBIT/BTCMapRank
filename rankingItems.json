@@ -9938,30 +9938,10 @@
     "merchantCount": 6
   },
   {
-    "country_type": "Dependency",
-    "subregion": "Polynesia",
-    "lon": -149.46157,
-    "gdp_md": 5490,
-    "gdp_year": 2016,
-    "population": 279287,
-    "population:rank": 10,
-    "economy": "6. Developing region",
-    "iso_a2": "PF",
-    "wikidataid": "Q30971",
-    "region_wb": "East Asia & Pacific",
-    "income_grp": "2. High income: nonOECD",
-    "name": "French Polynesia",
-    "continent": "Oceania",
-    "area_km2": 2620.64,
-    "population:year": 2019,
-    "region_un": "Oceania",
-    "type": "country",
-    "sovereignt": "France",
-    "lat": -17.628081,
-    "iso_a3": "PYF",
-    "url_alias": "pf",
     "id": 526,
-    "merchantCount": 5
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "sovereignt": "Papua New Guinea",
@@ -14382,10 +14362,22 @@
     "name": null
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-txoko.webp",
+    "name": "Bitcoin Txoko",
+    "population": 3155597,
+    "population:date": "2017-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-txoko",
+    "contact:github": "https://github.com/bitcointxoko/",
+    "contact:simplex": "https://simplex.bitcointxoko.com",
+    "contact:website": "https://gugara.bitcointxoko.com",
+    "tips:lightning_address": "txoko@bitcointxoko.com",
+    "contact:email": "bitcointxoko@proton.me",
+    "contact:nostr": "npub1tx0k0a7lw62vvqax6p3ku90tccgdka7ul4radews2wrdsg0m865szf9fw6",
+    "area_km2": 21000,
     "id": 747,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 19
   },
   {
     "continent": "south-america",
