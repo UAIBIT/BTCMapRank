@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 2360
+    "merchantCount": 2494
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2029
+    "merchantCount": 2030
   },
   {
     "population:year": 2019,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1227
+    "merchantCount": 1228
   },
   {
     "population:rank": 14,
@@ -127,7 +127,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1098
+    "merchantCount": 1102
   },
   {
     "subregion": "Southern Europe",
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1033
+    "merchantCount": 1034
   },
   {
     "iso_a2": "CH",
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 813
+    "merchantCount": 811
   },
   {
     "name": "Germany",
@@ -388,7 +388,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 346
+    "merchantCount": 347
   },
   {
     "wikidataid": "Q45",
@@ -1535,32 +1535,6 @@
     "merchantCount": 23
   },
   {
-    "region_un": "Europe",
-    "gdp_md": 60752,
-    "economy": "2. Developed region: nonG7",
-    "income_grp": "2. High income: nonOECD",
-    "subregion": "Southern Europe",
-    "country_type": "Sovereign country",
-    "lon": 16.37241,
-    "continent": "Europe",
-    "population": 4067500,
-    "sovereignt": "Croatia",
-    "iso_a3": "HRV",
-    "region_wb": "Europe & Central Asia",
-    "population:rank": 12,
-    "type": "country",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "wikidataid": "Q224",
-    "iso_a2": "HR",
-    "area_km2": 54543.44,
-    "lat": 45.805799,
-    "name": "Croatia",
-    "url_alias": "hr",
-    "id": 393,
-    "merchantCount": 21
-  },
-  {
     "iso_a2": "MY",
     "region_un": "Asia",
     "population": 31949777,
@@ -1584,6 +1558,32 @@
     "name": "Malaysia",
     "url_alias": "my",
     "id": 494,
+    "merchantCount": 22
+  },
+  {
+    "region_un": "Europe",
+    "gdp_md": 60752,
+    "economy": "2. Developed region: nonG7",
+    "income_grp": "2. High income: nonOECD",
+    "subregion": "Southern Europe",
+    "country_type": "Sovereign country",
+    "lon": 16.37241,
+    "continent": "Europe",
+    "population": 4067500,
+    "sovereignt": "Croatia",
+    "iso_a3": "HRV",
+    "region_wb": "Europe & Central Asia",
+    "population:rank": 12,
+    "type": "country",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "wikidataid": "Q224",
+    "iso_a2": "HR",
+    "area_km2": 54543.44,
+    "lat": 45.805799,
+    "name": "Croatia",
+    "url_alias": "hr",
+    "id": 393,
     "merchantCount": 21
   },
   {
