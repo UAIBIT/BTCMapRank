@@ -2396,20 +2396,6 @@
     "merchantCount": 55
   },
   {
-    "organization": "einundzwanzig",
-    "area_km2": 890.91,
-    "type": "community",
-    "population": 3677472,
-    "contact:telegram": "https://t.me/Einundzwanzig_Berlin",
-    "continent": "europe",
-    "url_alias": "einundzwanzig-berlin",
-    "name": "Einundzwanzig Berlin",
-    "population:date": "2021-12-31",
-    "language": "de",
-    "id": 257,
-    "merchantCount": 52
-  },
-  {
     "box:west": "-86.8798828125",
     "tips:url": "https://ln.bitcoinbeach.com/criptobastardo",
     "area_km2": 1120.68,
@@ -2899,6 +2885,21 @@
     "contact:website": "https://bitcoinbarcelona.xyz/",
     "contact:linkedin": "https://www.linkedin.com/company/bcnbitcoinonly",
     "id": 46,
+    "merchantCount": 37
+  },
+  {
+    "population:date": "2022",
+    "url_alias": "bitcoin-social-club-madrid",
+    "organization": "2140-meetups",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-social-club-madrid.png",
+    "contact:telegram": "https://t.me/BitcoinSocialClubMADRID",
+    "continent": "europe",
+    "name": "Bitcoin Social Club MADRID",
+    "population": "3280782",
+    "area_km2": 915.86,
+    "contact:email": "hugowob@proton.me",
+    "id": 141,
     "merchantCount": 37
   },
   {
@@ -13585,12 +13586,6 @@
     "name": null
   },
   {
-    "id": 141,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "population": "320199",
     "name": "Bitcoin Wirral",
     "contact:telegram": "https://t.me/+A_QZ8d4Pyc8zMzZk",
@@ -13984,6 +13979,12 @@
     "area_km2": 90.19,
     "id": 254,
     "merchantCount": 0
+  },
+  {
+    "id": 257,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population": 15700,
