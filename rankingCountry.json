@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 2494
+    "merchantCount": 2565
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2030
+    "merchantCount": 2027
   },
   {
     "population:year": 2019,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1228
+    "merchantCount": 1229
   },
   {
     "population:rank": 14,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1034
+    "merchantCount": 1035
   },
   {
     "iso_a2": "CH",
@@ -336,7 +336,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 377
+    "merchantCount": 376
   },
   {
     "iso_a2": "NL",
@@ -466,7 +466,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 329
+    "merchantCount": 330
   },
   {
     "name": "Poland",
@@ -674,7 +674,7 @@
     "population:year": 2019,
     "url_alias": "zm",
     "id": 657,
-    "merchantCount": 171
+    "merchantCount": 172
   },
   {
     "area_km2": 596166.85,
@@ -1220,7 +1220,7 @@
     "economy": "2. Developed region: nonG7",
     "url_alias": "hu",
     "id": 395,
-    "merchantCount": 37
+    "merchantCount": 36
   },
   {
     "gdp_md": 7491,
@@ -1431,32 +1431,6 @@
     "merchantCount": 27
   },
   {
-    "lat": 19.431821,
-    "gdp_md": 18173,
-    "country_type": "Sovereign country",
-    "population": 7169455,
-    "sovereignt": "Laos",
-    "population:rank": 13,
-    "area_km2": 229457.73,
-    "economy": "7. Least developed region",
-    "region_wb": "East Asia & Pacific",
-    "gdp_year": 2019,
-    "type": "country",
-    "iso_a2": "LA",
-    "wikidataid": "Q819",
-    "subregion": "South-Eastern Asia",
-    "iso_a3": "LAO",
-    "lon": 102.533912,
-    "name": "Laos",
-    "population:year": 2019,
-    "income_grp": "4. Lower middle income",
-    "continent": "Asia",
-    "region_un": "Asia",
-    "url_alias": "la",
-    "id": 429,
-    "merchantCount": 25
-  },
-  {
     "sovereignt": "Panama",
     "continent": "North America",
     "population": 4246439,
@@ -1480,6 +1454,32 @@
     "lon": -80.352106,
     "url_alias": "pa",
     "id": 520,
+    "merchantCount": 26
+  },
+  {
+    "lat": 19.431821,
+    "gdp_md": 18173,
+    "country_type": "Sovereign country",
+    "population": 7169455,
+    "sovereignt": "Laos",
+    "population:rank": 13,
+    "area_km2": 229457.73,
+    "economy": "7. Least developed region",
+    "region_wb": "East Asia & Pacific",
+    "gdp_year": 2019,
+    "type": "country",
+    "iso_a2": "LA",
+    "wikidataid": "Q819",
+    "subregion": "South-Eastern Asia",
+    "iso_a3": "LAO",
+    "lon": 102.533912,
+    "name": "Laos",
+    "population:year": 2019,
+    "income_grp": "4. Lower middle income",
+    "continent": "Asia",
+    "region_un": "Asia",
+    "url_alias": "la",
+    "id": 429,
     "merchantCount": 25
   },
   {
