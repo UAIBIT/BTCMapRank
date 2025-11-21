@@ -10421,6 +10421,20 @@
     "merchantCount": 2
   },
   {
+    "contact:telegram": "https://t.me/Einundzwanzig_Rosenheim",
+    "name": "Einundzwanzig Rosenheim",
+    "language": "de",
+    "population:date": "2021-12-31",
+    "type": "community",
+    "organization": "einundzwanzig",
+    "continent": "europe",
+    "url_alias": "einundzwanzig-rosenheim",
+    "population": 63508,
+    "area_km2": 37.15,
+    "id": 322,
+    "merchantCount": 2
+  },
+  {
     "url_alias": "einundzwanzig-vulkaneifel",
     "organization": "einundzwanzig",
     "population": 61735,
@@ -10794,27 +10808,6 @@
     "type": "community",
     "url_alias": "tabriz",
     "id": 677,
-    "merchantCount": 2
-  },
-  {
-    "area_km2": 585,
-    "contact:email": "stupidrisks@gmail.com",
-    "contact:nostr": "npub1yy73ar2d4g0g07gx28ywh0x3zs5ymauzdwglnp006dql2afxvm6s9uhmd2",
-    "contact:rss": "feed://anchor.fm/s/6a28fc34/podcast/rss",
-    "contact:telegram": "https://t.me/stupid_risks",
-    "contact:twitter": "https://twitter.com/stupid_risks",
-    "contact:website": "https://bitcoind.me/",
-    "contact:youtube": "https://www.youtube.com/@ZiyaSadr",
-    "continent": "asia",
-    "icon:square": "https://static.btcmap.org/images/communities/shiraz.jpeg",
-    "name": "Shiraz",
-    "organization": "bitcoin-4-iranians",
-    "population": 1800000,
-    "population:date": "2016-01-01",
-    "tips:lightning_address": "echoingcrop43@walletofsatoshi.com",
-    "type": "community",
-    "url_alias": "shiraz",
-    "id": 678,
     "merchantCount": 2
   },
   {
@@ -14205,12 +14198,6 @@
     "merchantCount": 0
   },
   {
-    "id": 322,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "contact:website": "https://twitter.com/21Saarlouis",
     "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-saarlouis.webp",
     "population": 34445,
@@ -16813,6 +16800,12 @@
     "url_alias": "mashhad",
     "id": 676,
     "merchantCount": 0
+  },
+  {
+    "id": 678,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 400,
