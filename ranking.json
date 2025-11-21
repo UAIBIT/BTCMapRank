@@ -4126,21 +4126,6 @@
     "merchantCount": 22
   },
   {
-    "organization": "einundzwanzig",
-    "name": "Einundzwanzig Vreden",
-    "type": "community",
-    "contact:twitter": "https://twitter.com/",
-    "population": 535932,
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-vreden.png",
-    "url_alias": "einundzwanzig-vreden",
-    "area_km2": 203.46,
-    "continent": "europe",
-    "population:date": "2021-12-31",
-    "language": "de",
-    "id": 344,
-    "merchantCount": 22
-  },
-  {
     "iso_a2": "MY",
     "region_un": "Asia",
     "population": 31949777,
@@ -14295,6 +14280,12 @@
     "contact:telegram": "https://t.me/einundzwanzig_solingen",
     "id": 334,
     "merchantCount": 0
+  },
+  {
+    "id": 344,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "name": "Einundzwanzig Wacken",
