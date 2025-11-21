@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 2565
+    "merchantCount": 2675
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2027
+    "merchantCount": 2028
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1330
+    "merchantCount": 1331
   },
   {
     "gdp_md": 351431,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1035
+    "merchantCount": 1036
   },
   {
     "iso_a2": "CH",
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 610
+    "merchantCount": 611
   },
   {
     "region_un": "Americas",
@@ -231,7 +231,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 529
+    "merchantCount": 530
   },
   {
     "sovereignt": "Canada",
@@ -908,7 +908,7 @@
     "wikidataid": "Q783",
     "url_alias": "hn",
     "id": 392,
-    "merchantCount": 70
+    "merchantCount": 71
   },
   {
     "lon": 128.129504,
@@ -1015,6 +1015,32 @@
     "merchantCount": 65
   },
   {
+    "lat": 50.785392,
+    "region_wb": "Europe & Central Asia",
+    "name": "Belgium",
+    "gdp_md": 533097,
+    "income_grp": "1. High income: OECD",
+    "country_type": "Sovereign country",
+    "area_km2": 30699.29,
+    "population:rank": 14,
+    "gdp_year": 2019,
+    "type": "country",
+    "iso_a3": "BEL",
+    "lon": 4.800448,
+    "region_un": "Europe",
+    "population:year": 2019,
+    "sovereignt": "Belgium",
+    "wikidataid": "Q31",
+    "subregion": "Western Europe",
+    "iso_a2": "BE",
+    "economy": "2. Developed region: nonG7",
+    "continent": "Europe",
+    "population": 11484055,
+    "url_alias": "be",
+    "id": 50,
+    "merchantCount": 59
+  },
+  {
     "subregion": "South America",
     "area_km2": 1299185.71,
     "gdp_year": 2019,
@@ -1039,32 +1065,6 @@
     "url_alias": "pe",
     "id": 524,
     "merchantCount": 59
-  },
-  {
-    "lat": 50.785392,
-    "region_wb": "Europe & Central Asia",
-    "name": "Belgium",
-    "gdp_md": 533097,
-    "income_grp": "1. High income: OECD",
-    "country_type": "Sovereign country",
-    "area_km2": 30699.29,
-    "population:rank": 14,
-    "gdp_year": 2019,
-    "type": "country",
-    "iso_a3": "BEL",
-    "lon": 4.800448,
-    "region_un": "Europe",
-    "population:year": 2019,
-    "sovereignt": "Belgium",
-    "wikidataid": "Q31",
-    "subregion": "Western Europe",
-    "iso_a2": "BE",
-    "economy": "2. Developed region: nonG7",
-    "continent": "Europe",
-    "population": 11484055,
-    "url_alias": "be",
-    "id": 50,
-    "merchantCount": 58
   },
   {
     "type": "country",
@@ -1431,32 +1431,6 @@
     "merchantCount": 27
   },
   {
-    "sovereignt": "Panama",
-    "continent": "North America",
-    "population": 4246439,
-    "area_km2": 74410.93,
-    "country_type": "Sovereign country",
-    "wikidataid": "Q804",
-    "population:year": 2019,
-    "population:rank": 12,
-    "gdp_md": 66800,
-    "lat": 8.72198,
-    "type": "country",
-    "gdp_year": 2019,
-    "name": "Panama",
-    "region_un": "Americas",
-    "iso_a3": "PAN",
-    "subregion": "Central America",
-    "iso_a2": "PA",
-    "region_wb": "Latin America & Caribbean",
-    "economy": "6. Developing region",
-    "income_grp": "3. Upper middle income",
-    "lon": -80.352106,
-    "url_alias": "pa",
-    "id": 520,
-    "merchantCount": 26
-  },
-  {
     "lat": 19.431821,
     "gdp_md": 18173,
     "country_type": "Sovereign country",
@@ -1480,6 +1454,32 @@
     "region_un": "Asia",
     "url_alias": "la",
     "id": 429,
+    "merchantCount": 25
+  },
+  {
+    "sovereignt": "Panama",
+    "continent": "North America",
+    "population": 4246439,
+    "area_km2": 74410.93,
+    "country_type": "Sovereign country",
+    "wikidataid": "Q804",
+    "population:year": 2019,
+    "population:rank": 12,
+    "gdp_md": 66800,
+    "lat": 8.72198,
+    "type": "country",
+    "gdp_year": 2019,
+    "name": "Panama",
+    "region_un": "Americas",
+    "iso_a3": "PAN",
+    "subregion": "Central America",
+    "iso_a2": "PA",
+    "region_wb": "Latin America & Caribbean",
+    "economy": "6. Developing region",
+    "income_grp": "3. Upper middle income",
+    "lon": -80.352106,
+    "url_alias": "pa",
+    "id": 520,
     "merchantCount": 25
   },
   {
