@@ -4798,6 +4798,19 @@
   },
   {
     "continent": "north-america",
+    "icon:square": "https://i.imgur.com/zUSUHIt.jpeg",
+    "name": "Bitcoin La Laguna",
+    "population": 5240,
+    "population:date": "2025-01-01",
+    "url_alias": "bitcoin-la-laguna",
+    "area_km2": 1.13,
+    "contact:telegram": "https://t.co/UzFUrrlhzq",
+    "type": "community",
+    "id": 875,
+    "merchantCount": 17
+  },
+  {
+    "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoincomoxvalley.jpg",
     "name": "Bitcoin Comox Valley",
     "population": 72445,
@@ -17402,12 +17415,6 @@
     "area_km2": 19.02,
     "id": 866,
     "merchantCount": 0
-  },
-  {
-    "id": 875,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "id": 883,
