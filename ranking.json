@@ -8375,32 +8375,6 @@
     "merchantCount": 5
   },
   {
-    "country_type": "Dependency",
-    "subregion": "Polynesia",
-    "lon": -149.46157,
-    "gdp_md": 5490,
-    "gdp_year": 2016,
-    "population": 279287,
-    "population:rank": 10,
-    "economy": "6. Developing region",
-    "iso_a2": "PF",
-    "wikidataid": "Q30971",
-    "region_wb": "East Asia & Pacific",
-    "income_grp": "2. High income: nonOECD",
-    "name": "French Polynesia",
-    "continent": "Oceania",
-    "area_km2": 2620.64,
-    "population:year": 2019,
-    "region_un": "Oceania",
-    "type": "country",
-    "sovereignt": "France",
-    "lat": -17.628081,
-    "iso_a3": "PYF",
-    "url_alias": "pf",
-    "id": 526,
-    "merchantCount": 5
-  },
-  {
     "population": "70493",
     "url_alias": "st-charles",
     "icon:square": "https://static.btcmap.org/images/communities/st-charles.jpeg",
@@ -14056,10 +14030,19 @@
     "merchantCount": 0
   },
   {
+    "population": 68462,
+    "area_km2": 104.27,
+    "organization": "einundzwanzig",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-fulda.webp",
+    "language": "de",
+    "name": "Einundzwanzig Fulda",
+    "contact:telegram": "https://t.me/einundzwanzigFD",
+    "type": "community",
+    "population:date": "2021-12-31",
+    "url_alias": "einundzwanzig-fulda",
     "id": 273,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "language": "de",
@@ -15596,6 +15579,12 @@
   },
   {
     "id": 518,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 526,
     "type": null,
     "merchantCount": 0,
     "name": null
