@@ -5032,25 +5032,6 @@
     "merchantCount": 15
   },
   {
-    "type": "community",
-    "population:date": "2019-01-01",
-    "box:east": "-44.30445761527792",
-    "contact:telegram": "https://t.me/btcmaranhao",
-    "box:north": "-2.527466441271684",
-    "box:south": "-2.528259602556117",
-    "tips:lightning_address": "btcma@alby.com",
-    "contact:youtube": "https://www.youtube.com/channel/UCKjQXrfwv0UdmoJzRFZ9yLA",
-    "area_km2": 356647.89,
-    "icon:square": "https://static.btcmap.org/images/communities/maranhão.png",
-    "population": "7075181",
-    "continent": "south-america",
-    "url_alias": "maranhão",
-    "box:west": "-44.305326650998744",
-    "name": "Bitcoin Maranhão",
-    "id": 461,
-    "merchantCount": 15
-  },
-  {
     "iso_a3": "MLT",
     "country_type": "Sovereign country",
     "lon": 14.433005,
@@ -15147,6 +15128,12 @@
     "merchantCount": 0
   },
   {
+    "id": 461,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "population": 38964,
     "population:year": 2019,
     "gdp_year": 2018,
@@ -16878,10 +16865,23 @@
     "merchantCount": 0
   },
   {
+    "contact:telegram": "https://t.me/bitcoinlens",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/lens.png",
+    "language": "fr",
+    "name": "Lens",
+    "organization": "decouvre-bitcoin",
+    "population": 242000,
+    "population:date": "2021-01-01",
+    "type": "community",
+    "url_alias": "lens",
+    "area_km2": 12,
+    "contact:discord": "https://discord.gg/pHNq8QX9q9",
+    "contact:email": "bitcoinlille@gmail.com",
+    "contact:website": "https://bitcoinlille.fr",
+    "tips:lightning_address": "bitcoinlille@walletofsatoshi.com",
     "id": 683,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "area_km2": 894,
