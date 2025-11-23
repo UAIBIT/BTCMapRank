@@ -882,6 +882,25 @@
     "merchantCount": 202
   },
   {
+    "name": "Vancouver Bitcoiners",
+    "box:south": "48.81861991362668",
+    "population": "2642825",
+    "url_alias": "vancouver-bitcoiners",
+    "box:north": "49.60003042758964",
+    "box:west": "-124.41604614257814",
+    "contact:twitter": "https://twitter.com/VanBitcoiners",
+    "population:date": "2021-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/vancouver-bitcoiners.jpg",
+    "box:east": "-121.77932739257814",
+    "continent": "north-america",
+    "type": "community",
+    "area_km2": 187.14,
+    "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
+    "contact:website": "https://linktr.ee/VancouverBitcoiners",
+    "id": 639,
+    "merchantCount": 201
+  },
+  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-coast.png",
     "name": "Bitcoin Coast",
@@ -2051,23 +2070,6 @@
     "continent": "europe",
     "area_km2": 101.54,
     "id": 28,
-    "merchantCount": 64
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitdevs-cdmx.png",
-    "name": "Bitdevs CDMX",
-    "population": 9209944,
-    "population:date": "2024-01-01",
-    "url_alias": "bitdevs-cdmx",
-    "organization": "bit-devs",
-    "contact:website": "https://www.cdmxbitdevs.org/",
-    "description": "La Casa de Satoshi CDMX is a non-profit organization leading Bitcoin adoption in Mexico City.",
-    "contact:meetup": "https://lu.ma/lacasadesatoshi",
-    "area_km2": 985.26,
-    "contact:twitter": "https://x.com/LaCasaDeSatoshi",
-    "type": "community",
-    "id": 844,
     "merchantCount": 64
   },
   {
@@ -16468,12 +16470,6 @@
     "merchantCount": 0
   },
   {
-    "id": 639,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "population:rank": 9,
     "country_type": "Sovereign country",
     "region_un": "Americas",
@@ -17322,6 +17318,12 @@
     "area_km2": 409.4,
     "id": 838,
     "merchantCount": 0
+  },
+  {
+    "id": 844,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "europe",
