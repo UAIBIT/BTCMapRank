@@ -141,7 +141,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1795
+    "merchantCount": 1796
   },
   {
     "subregion": "Caribbean",
@@ -906,7 +906,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 61
+    "merchantCount": 65
   },
   {
     "population": 287025,
@@ -2838,7 +2838,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 71
+    "merchantCount": 73
   },
   {
     "type": "community",
@@ -3346,7 +3346,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 523
+    "merchantCount": 522
   },
   {
     "url_alias": "cafeteros-bitcoiners",
@@ -3810,7 +3810,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 67
+    "merchantCount": 68
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/compiegne.png",
@@ -5721,22 +5721,10 @@
     "merchantCount": 4
   },
   {
-    "continent": "europe",
-    "area_km2": 2566.83,
-    "contact:nostr": "npub1jaff4nnja4jhvntk22crt9axtl3n9vrrnxj5hgg2zsezrlp5jxyqexhtrt",
-    "contact:twitter": "https://twitter.com/einundzwanzigSL",
-    "name": "Einundzwanzig Saarland",
-    "population": 982348,
-    "type": "community",
-    "contact:website": "https://einundzwanzig.saarland",
-    "language": "de",
-    "population:date": "2021-12-31",
-    "url_alias": "einundzwanzig-saarland",
-    "organization": "einundzwanzig",
-    "contact:telegram": "https://t.me/einundzwanzigsaarland",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-saarland.webp",
     "id": 324,
-    "merchantCount": 1
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "name": "Einundzwanzig Saarland Stammtisch St. Wendel",
@@ -8596,7 +8584,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 34
+    "merchantCount": 35
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/mayasbitcoiners.png",
@@ -9258,7 +9246,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 530
+    "merchantCount": 529
   },
   {
     "iso_a2": "MY",
@@ -9525,7 +9513,7 @@
     "continent": "Africa",
     "url_alias": "ng",
     "id": 505,
-    "merchantCount": 14
+    "merchantCount": 15
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -10783,7 +10771,7 @@
     "name": "San Diego Bitcoiners",
     "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 22
+    "merchantCount": 24
   },
   {
     "continent": "south-america",
@@ -12191,7 +12179,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 2732
+    "merchantCount": 2789
   },
   {
     "population": 1734000,
@@ -12320,7 +12308,7 @@
     "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
     "contact:website": "https://linktr.ee/VancouverBitcoiners",
     "id": 639,
-    "merchantCount": 202
+    "merchantCount": 201
   },
   {
     "population:rank": 9,
@@ -12795,13 +12783,13 @@
     "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
     "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
     "id": 661,
-    "merchantCount": 6
+    "merchantCount": 7
   },
   {
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 19933
+    "merchantCount": 19989
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -14012,7 +14000,7 @@
     "contact:github": "https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/United%20States%20--%20Bismarck%20Bitcoin",
     "contact:email": "bismarckbitcoin@gmail.com",
     "id": 724,
-    "merchantCount": 1
+    "merchantCount": 2
   },
   {
     "area_km2": 144,
@@ -15353,7 +15341,7 @@
     "contact:meetup": "https://www.meetup.com/pl-PL/bitcoin-midland/?eventorigin=event_home_page",
     "type": "community",
     "id": 810,
-    "merchantCount": 1
+    "merchantCount": 2
   },
   {
     "continent": "north-america",
