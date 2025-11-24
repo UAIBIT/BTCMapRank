@@ -141,7 +141,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1796
+    "merchantCount": 1797
   },
   {
     "subregion": "Caribbean",
@@ -570,7 +570,7 @@
     "population:rank": 13,
     "url_alias": "at",
     "id": 31,
-    "merchantCount": 203
+    "merchantCount": 202
   },
   {
     "area_km2": 579.4,
@@ -613,7 +613,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 183
+    "merchantCount": 185
   },
   {
     "population:date": "2020-01-01",
@@ -1112,7 +1112,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 178
+    "merchantCount": 179
   },
   {
     "lat": 26.055972,
@@ -1374,7 +1374,7 @@
     "box:east": "162.33395",
     "box:south": "-46.10841",
     "id": 72,
-    "merchantCount": 191
+    "merchantCount": 193
   },
   {
     "url_alias": "bitcoin-austria",
@@ -1390,7 +1390,7 @@
     "area_km2": 83900.1,
     "type": "community",
     "id": 73,
-    "merchantCount": 196
+    "merchantCount": 195
   },
   {
     "url_alias": "bitcoin-beach",
@@ -1523,7 +1523,7 @@
     "population": "6815962",
     "url_alias": "bitcoin-bulgaria",
     "id": 82,
-    "merchantCount": 184
+    "merchantCount": 185
   },
   {
     "organization": "2140-meetups",
@@ -1792,7 +1792,7 @@
     "contact:nostr": "npub1zkr064avsxmxzaasppamps86ge0npwvft9yu3ymgxmk9umx3xyeq9sk6ec",
     "organization": "",
     "id": 99,
-    "merchantCount": 59
+    "merchantCount": 60
   },
   {
     "box:north": "51.45837579976947",
@@ -3068,7 +3068,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2029
+    "merchantCount": 2030
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -3810,7 +3810,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 68
+    "merchantCount": 69
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/compiegne.png",
@@ -4122,7 +4122,7 @@
     "url_alias": "detroit-bitcoin",
     "box:east": "-80.34301757812501",
     "id": 224,
-    "merchantCount": 14
+    "merchantCount": 15
   },
   {
     "name": "Detroit Bitcoin and Beer",
@@ -7420,7 +7420,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1036
+    "merchantCount": 1037
   },
   {
     "region_un": "Europe",
@@ -8724,7 +8724,7 @@
     "box:south": "-38.41271038284708",
     "continent": "oceania",
     "id": 469,
-    "merchantCount": 32
+    "merchantCount": 33
   },
   {
     "id": 470,
@@ -8838,7 +8838,7 @@
     "contact:twitter": "https://twitter.com/517Bitcoin",
     "area_km2": 7197.72,
     "id": 475,
-    "merchantCount": 2
+    "merchantCount": 3
   },
   {
     "sovereignt": "North Macedonia",
@@ -8986,7 +8986,7 @@
     "contact:twitter": "https://twitter.com/monaco_bitcoin",
     "contact:telegram": "https://t.me/MonacoBitcoinMeetup",
     "id": 481,
-    "merchantCount": 3
+    "merchantCount": 4
   },
   {
     "contact:website": "https://donate.montanhabitcoin.org/",
@@ -10094,10 +10094,30 @@
     "merchantCount": 0
   },
   {
+    "country_type": "Dependency",
+    "population:rank": 1,
+    "gdp_year": 2016,
+    "economy": "7. Least developed region",
+    "income_grp": "5. Low income",
+    "lon": -128.317536,
+    "gdp_md": 0,
+    "population:year": 2016,
+    "type": "country",
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "PCN",
+    "region_un": "Oceania",
+    "name": "Pitcairn Islands",
+    "sovereignt": "United Kingdom",
+    "iso_a2": "PN",
+    "lat": -24.364576,
+    "wikidataid": "Q35672",
+    "continent": "Oceania",
+    "subregion": "Polynesia",
+    "population": 54,
+    "area_km2": 38.76,
+    "url_alias": "pn",
     "id": 532,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "id": 533,
@@ -10792,7 +10812,7 @@
     "organization": "go-btc",
     "tips:lightning_address": "gobtcbr@getalby.com",
     "id": 570,
-    "merchantCount": 93
+    "merchantCount": 94
   },
   {
     "box:west": "-86.8798828125",
@@ -10833,7 +10853,7 @@
     "continent": "europe",
     "type": "trash",
     "id": 572,
-    "merchantCount": 1072
+    "merchantCount": 1073
   },
   {
     "name": "Arezzo Bitcoin Meetup",
@@ -12171,7 +12191,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 2789
+    "merchantCount": 2818
   },
   {
     "population": 1734000,
@@ -12781,7 +12801,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 19989
+    "merchantCount": 20024
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -13248,7 +13268,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 331
+    "merchantCount": 332
   },
   {
     "area_km2": 385110.87,
@@ -14951,7 +14971,7 @@
     "language": "en",
     "contact:github": "https://github.com/bitcoindistrict",
     "id": 785,
-    "merchantCount": 35
+    "merchantCount": 36
   },
   {
     "area_km2": 430.86,
@@ -15097,7 +15117,7 @@
     "type": "community",
     "url_alias": "northwest-arkansas-bitcoin",
     "id": 795,
-    "merchantCount": 2
+    "merchantCount": 3
   },
   {
     "area_km2": 669.6,
@@ -17528,7 +17548,7 @@
     "type": "community",
     "area_km2": 299.33,
     "id": 958,
-    "merchantCount": null
+    "merchantCount": 8
   },
   {
     "continent": "south-america",
@@ -17542,7 +17562,7 @@
     "type": "community",
     "area_km2": 299.33,
     "id": 959,
-    "merchantCount": null
+    "merchantCount": 8
   },
   {
     "id": 960,

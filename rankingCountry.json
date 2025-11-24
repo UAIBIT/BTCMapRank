@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 2789
+    "merchantCount": 2818
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2029
+    "merchantCount": 2030
   },
   {
     "population:year": 2019,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1036
+    "merchantCount": 1037
   },
   {
     "iso_a2": "CH",
@@ -466,7 +466,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 331
+    "merchantCount": 332
   },
   {
     "name": "Poland",
@@ -596,7 +596,7 @@
     "population:rank": 13,
     "url_alias": "at",
     "id": 31,
-    "merchantCount": 203
+    "merchantCount": 202
   },
   {
     "sovereignt": "Australia",
@@ -622,7 +622,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 183
+    "merchantCount": 185
   },
   {
     "income_grp": "3. Upper middle income",
@@ -648,7 +648,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 178
+    "merchantCount": 179
   },
   {
     "continent": "Africa",
@@ -5292,6 +5292,32 @@
     "subregion": "Northern America",
     "url_alias": "pm",
     "id": 531,
+    "merchantCount": 0
+  },
+  {
+    "country_type": "Dependency",
+    "population:rank": 1,
+    "gdp_year": 2016,
+    "economy": "7. Least developed region",
+    "income_grp": "5. Low income",
+    "lon": -128.317536,
+    "gdp_md": 0,
+    "population:year": 2016,
+    "type": "country",
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "PCN",
+    "region_un": "Oceania",
+    "name": "Pitcairn Islands",
+    "sovereignt": "United Kingdom",
+    "iso_a2": "PN",
+    "lat": -24.364576,
+    "wikidataid": "Q35672",
+    "continent": "Oceania",
+    "subregion": "Polynesia",
+    "population": 54,
+    "area_km2": 38.76,
+    "url_alias": "pn",
+    "id": 532,
     "merchantCount": 0
   },
   {
