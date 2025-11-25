@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 2818
+    "merchantCount": 2890
   },
   {
     "wikidataid": "Q155",
@@ -127,7 +127,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1102
+    "merchantCount": 1103
   },
   {
     "subregion": "Southern Europe",
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 811
+    "merchantCount": 812
   },
   {
     "name": "Germany",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 409
+    "merchantCount": 414
   },
   {
     "country_type": "Sovereign country",
@@ -336,7 +336,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 376
+    "merchantCount": 377
   },
   {
     "iso_a2": "NL",
@@ -414,7 +414,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 344
+    "merchantCount": 345
   },
   {
     "gdp_md": 17477,
@@ -440,7 +440,7 @@
     "wikidataid": "Q230",
     "url_alias": "ge",
     "id": 366,
-    "merchantCount": 343
+    "merchantCount": 344
   },
   {
     "area_km2": 636466.7,
@@ -544,7 +544,7 @@
     "continent": "Europe",
     "url_alias": "sk",
     "id": 587,
-    "merchantCount": 271
+    "merchantCount": 272
   },
   {
     "sovereignt": "Argentina",
@@ -648,7 +648,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 179
+    "merchantCount": 178
   },
   {
     "continent": "Africa",
@@ -700,7 +700,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 127
+    "merchantCount": 132
   },
   {
     "lon": -70.653998,
@@ -1431,6 +1431,32 @@
     "merchantCount": 27
   },
   {
+    "lat": 19.431821,
+    "gdp_md": 18173,
+    "country_type": "Sovereign country",
+    "population": 7169455,
+    "sovereignt": "Laos",
+    "population:rank": 13,
+    "area_km2": 229457.73,
+    "economy": "7. Least developed region",
+    "region_wb": "East Asia & Pacific",
+    "gdp_year": 2019,
+    "type": "country",
+    "iso_a2": "LA",
+    "wikidataid": "Q819",
+    "subregion": "South-Eastern Asia",
+    "iso_a3": "LAO",
+    "lon": 102.533912,
+    "name": "Laos",
+    "population:year": 2019,
+    "income_grp": "4. Lower middle income",
+    "continent": "Asia",
+    "region_un": "Asia",
+    "url_alias": "la",
+    "id": 429,
+    "merchantCount": 26
+  },
+  {
     "sovereignt": "Panama",
     "continent": "North America",
     "population": 4246439,
@@ -1455,32 +1481,6 @@
     "url_alias": "pa",
     "id": 520,
     "merchantCount": 26
-  },
-  {
-    "lat": 19.431821,
-    "gdp_md": 18173,
-    "country_type": "Sovereign country",
-    "population": 7169455,
-    "sovereignt": "Laos",
-    "population:rank": 13,
-    "area_km2": 229457.73,
-    "economy": "7. Least developed region",
-    "region_wb": "East Asia & Pacific",
-    "gdp_year": 2019,
-    "type": "country",
-    "iso_a2": "LA",
-    "wikidataid": "Q819",
-    "subregion": "South-Eastern Asia",
-    "iso_a3": "LAO",
-    "lon": 102.533912,
-    "name": "Laos",
-    "population:year": 2019,
-    "income_grp": "4. Lower middle income",
-    "continent": "Asia",
-    "region_un": "Asia",
-    "url_alias": "la",
-    "id": 429,
-    "merchantCount": 25
   },
   {
     "gdp_year": 2019,
@@ -1743,32 +1743,6 @@
     "merchantCount": 17
   },
   {
-    "iso_a3": "MLT",
-    "country_type": "Sovereign country",
-    "lon": 14.433005,
-    "continent": "Europe",
-    "name": "Malta",
-    "wikidataid": "Q233",
-    "population": 502653,
-    "subregion": "Southern Europe",
-    "population:rank": 11,
-    "population:year": 2019,
-    "gdp_md": 14989,
-    "region_wb": "Middle East & North Africa",
-    "sovereignt": "Malta",
-    "region_un": "Europe",
-    "type": "country",
-    "economy": "2. Developed region: nonG7",
-    "income_grp": "2. High income: nonOECD",
-    "gdp_year": 2019,
-    "lat": 35.892886,
-    "area_km2": 274.38,
-    "iso_a2": "MT",
-    "url_alias": "mt",
-    "id": 489,
-    "merchantCount": 15
-  },
-  {
     "lon": 7.50322,
     "area_km2": 913593.56,
     "type": "country",
@@ -1792,6 +1766,32 @@
     "continent": "Africa",
     "url_alias": "ng",
     "id": 505,
+    "merchantCount": 16
+  },
+  {
+    "iso_a3": "MLT",
+    "country_type": "Sovereign country",
+    "lon": 14.433005,
+    "continent": "Europe",
+    "name": "Malta",
+    "wikidataid": "Q233",
+    "population": 502653,
+    "subregion": "Southern Europe",
+    "population:rank": 11,
+    "population:year": 2019,
+    "gdp_md": 14989,
+    "region_wb": "Middle East & North Africa",
+    "sovereignt": "Malta",
+    "region_un": "Europe",
+    "type": "country",
+    "economy": "2. Developed region: nonG7",
+    "income_grp": "2. High income: nonOECD",
+    "gdp_year": 2019,
+    "lat": 35.892886,
+    "area_km2": 274.38,
+    "iso_a2": "MT",
+    "url_alias": "mt",
+    "id": 489,
     "merchantCount": 15
   },
   {
@@ -3605,6 +3605,32 @@
     "merchantCount": 1
   },
   {
+    "subregion": "Melanesia",
+    "population:year": 2019,
+    "income_grp": "4. Lower middle income",
+    "wikidataid": "Q686",
+    "name": "Vanuatu",
+    "region_un": "Oceania",
+    "iso_a2": "VU",
+    "type": "country",
+    "sovereignt": "Vanuatu",
+    "population:rank": 10,
+    "country_type": "Sovereign country",
+    "lat": -15.37153,
+    "population": 299882,
+    "gdp_md": 934,
+    "area_km2": 11317.57,
+    "lon": 166.908762,
+    "continent": "Oceania",
+    "economy": "7. Least developed region",
+    "gdp_year": 2019,
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "VUT",
+    "url_alias": "vu",
+    "id": 648,
+    "merchantCount": 1
+  },
+  {
     "area_km2": 10936.18,
     "continent": "Europe",
     "country_type": "Disputed",
@@ -4434,32 +4460,6 @@
     "population": 30,
     "url_alias": "gs",
     "id": 383,
-    "merchantCount": 0
-  },
-  {
-    "subregion": "Western Africa",
-    "iso_a2": "GW",
-    "population:rank": 12,
-    "income_grp": "5. Low income",
-    "gdp_year": 2019,
-    "area_km2": 32127.61,
-    "name": "Guinea-Bissau",
-    "wikidataid": "Q1007",
-    "lon": -14.52413,
-    "country_type": "Sovereign country",
-    "iso_a3": "GNB",
-    "region_wb": "Sub-Saharan Africa",
-    "gdp_md": 1339,
-    "continent": "Africa",
-    "population:year": 2019,
-    "type": "country",
-    "economy": "7. Least developed region",
-    "sovereignt": "Guinea-Bissau",
-    "region_un": "Africa",
-    "lat": 12.163712,
-    "population": 1920922,
-    "url_alias": "gw",
-    "id": 386,
     "merchantCount": 0
   },
   {
@@ -6058,32 +6058,6 @@
     "wikidataid": "Q11703",
     "url_alias": "vi",
     "id": 644,
-    "merchantCount": 0
-  },
-  {
-    "subregion": "Melanesia",
-    "population:year": 2019,
-    "income_grp": "4. Lower middle income",
-    "wikidataid": "Q686",
-    "name": "Vanuatu",
-    "region_un": "Oceania",
-    "iso_a2": "VU",
-    "type": "country",
-    "sovereignt": "Vanuatu",
-    "population:rank": 10,
-    "country_type": "Sovereign country",
-    "lat": -15.37153,
-    "population": 299882,
-    "gdp_md": 934,
-    "area_km2": 11317.57,
-    "lon": 166.908762,
-    "continent": "Oceania",
-    "economy": "7. Least developed region",
-    "gdp_year": 2019,
-    "region_wb": "East Asia & Pacific",
-    "iso_a3": "VUT",
-    "url_alias": "vu",
-    "id": 648,
     "merchantCount": 0
   },
   {
