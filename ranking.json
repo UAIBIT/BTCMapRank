@@ -1021,32 +1021,6 @@
     "merchantCount": 178
   },
   {
-    "continent": "Africa",
-    "sovereignt": "Zambia",
-    "region_un": "Africa",
-    "area_km2": 757283.84,
-    "iso_a3": "ZMB",
-    "wikidataid": "Q953",
-    "lat": -14.660804,
-    "subregion": "Eastern Africa",
-    "type": "country",
-    "iso_a2": "ZM",
-    "region_wb": "Sub-Saharan Africa",
-    "population": 17861030,
-    "lon": 26.395298,
-    "country_type": "Sovereign country",
-    "population:rank": 14,
-    "gdp_md": 23309,
-    "name": "Zambia",
-    "gdp_year": 2019,
-    "economy": "7. Least developed region",
-    "income_grp": "4. Lower middle income",
-    "population:year": 2019,
-    "url_alias": "zm",
-    "id": 657,
-    "merchantCount": 172
-  },
-  {
     "box:south": 32.62782,
     "icon:square": "https://static.btcmap.org/images/communities/freee-madeira.png",
     "population": "250769",
@@ -5026,21 +5000,6 @@
     "url_alias": "bitcoin-grove",
     "id": 725,
     "merchantCount": 16
-  },
-  {
-    "area_km2": 472.66,
-    "contact:telegram": "https://t.me/Einundzwanzig_Seeland",
-    "type": "community",
-    "population:date": "2021-12-31",
-    "url_alias": "32-einezwaenzg-seeland",
-    "continent": "europe",
-    "name": "32-Einezwänzg Seeland",
-    "icon:square": "https://static.btcmap.org/images/communities/32-einezwaenzg-seeland.webp",
-    "population": 80000,
-    "organization": "einundzwanzig",
-    "language": "fr",
-    "id": 2,
-    "merchantCount": 15
   },
   {
     "contact:nostr": "npub1theparkprcs70dcs437ke9zzwsr6u60f8flu7rg28m30438aep9sd94dha",
@@ -13234,6 +13193,12 @@
     "name": null
   },
   {
+    "id": 2,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "id": 3,
     "type": null,
     "merchantCount": 0,
@@ -16695,6 +16660,12 @@
     "url_alias": "ye",
     "id": 653,
     "merchantCount": 0
+  },
+  {
+    "id": 657,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/zoolook.webp",
