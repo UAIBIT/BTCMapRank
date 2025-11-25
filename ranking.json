@@ -3871,22 +3871,6 @@
     "merchantCount": 26
   },
   {
-    "contact:meetup": "https://www.meetup.com/sdbitcoiners/",
-    "url_alias": "san-diego-bitcoiners",
-    "area_km2": 11714.93,
-    "population:date": "2022-04-01",
-    "contact:email": "coreyedwards@pm.me",
-    "type": "community",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/san-diego-bitcoiners.png",
-    "population": "3298634",
-    "contact:twitter": "https://twitter.com/sdbitcoiners",
-    "name": "San Diego Bitcoiners",
-    "contact:website": "https://blog.sdbitcoiners.com/",
-    "id": 568,
-    "merchantCount": 26
-  },
-  {
     "name": "Satoshi Spritz Torino",
     "contact:telegram": "https://t.me/satoshispritztorino",
     "population": 847287,
@@ -9962,6 +9946,32 @@
     "merchantCount": 3
   },
   {
+    "sovereignt": "United Kingdom",
+    "iso_a3": "AIA",
+    "population:rank": 6,
+    "gdp_year": 2009,
+    "population:year": 2018,
+    "name": "Anguilla",
+    "economy": "6. Developing region",
+    "lat": 18.242979,
+    "lon": -63.026361,
+    "region_un": "Americas",
+    "wikidataid": "Q25228",
+    "continent": "North America",
+    "country_type": "Dependency",
+    "subregion": "Caribbean",
+    "population": 14731,
+    "gdp_md": 175,
+    "area_km2": 83.47,
+    "income_grp": "3. Upper middle income",
+    "type": "country",
+    "region_wb": "Latin America & Caribbean",
+    "iso_a2": "AI",
+    "url_alias": "ai",
+    "id": 12,
+    "merchantCount": 2
+  },
+  {
     "region_un": "Europe",
     "population": 2854191,
     "lon": 20.11384,
@@ -13284,12 +13294,6 @@
     "merchantCount": 0
   },
   {
-    "id": 12,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "contact:email": "jorg2140.enamel035@simplelogin.com",
     "type": "community",
     "organization": "2140-meetups",
@@ -15872,6 +15876,12 @@
   },
   {
     "id": 565,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 568,
     "type": null,
     "merchantCount": 0,
     "name": null
