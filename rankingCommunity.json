@@ -271,24 +271,6 @@
     "merchantCount": 168
   },
   {
-    "language": "es, en",
-    "name": "Bitcoin Berlín SV",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-berlin.jpeg",
-    "population:date": "2007-01-01",
-    "population": "17787",
-    "area_km2": 7.75,
-    "continent": "north-america",
-    "url_alias": "bitcoin-berlin",
-    "contact:twitter": "https://twitter.com/bitcoinberlinsv",
-    "contact:facebook": "https://www.facebook.com/BerlinesesEnAccion",
-    "contact:youtube": "https://youtube.com/@bitcoinberlinsv",
-    "contact:telegram": "https://t.me/EconomiaBitcoin2024",
-    "tips:lightning_address": "bitcoinberlin@blink.sv",
-    "id": 77,
-    "merchantCount": 165
-  },
-  {
     "contact:twitter": "https://twitter.com/BitcoinJungleCR",
     "box:west": "-83.91014099121095",
     "continent": "north-america",
@@ -7031,6 +7013,21 @@
     "type": "community",
     "area_km2": 1478.97,
     "id": 945,
+    "merchantCount": 3
+  },
+  {
+    "continent": "oceania",
+    "icon:square": "https://raw.githubusercontent.com/BitcoinNorthernBeaches/Files/refs/heads/main/BitcoinNorthernBeaches.png",
+    "name": "Bitcoin Northern Beaches",
+    "population": 270772,
+    "population:date": "2024-11-01",
+    "url_alias": "bitcoin-northern-beaches",
+    "contact:email": "bayanimills@gmail.com",
+    "contact:meetup": "https://www.meetup.com/Bitcoin_Sydney/",
+    "description": "Regional Social Group, part of Bitcoin Sydney",
+    "type": "community",
+    "area_km2": 292.3,
+    "id": 947,
     "merchantCount": 3
   },
   {
