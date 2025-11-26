@@ -5659,6 +5659,19 @@
     "merchantCount": 13
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/satoshi-team.png",
+    "name": "Satoshi Team - Comuna 13",
+    "population": 160000,
+    "population:date": "2025-01-01",
+    "url_alias": "comuna_13",
+    "type": "community",
+    "area_km2": 7.3,
+    "organization": "satoshi-team",
+    "id": 912,
+    "merchantCount": 13
+  },
+  {
     "continent": "europe",
     "icon:square": "https://twentyone.world/logo/bitcoin.svg",
     "name": "Bitcoin Wallis",
@@ -12139,32 +12152,6 @@
     "merchantCount": 1
   },
   {
-    "gdp_year": 2019,
-    "subregion": "Western Africa",
-    "iso_a2": "GM",
-    "type": "country",
-    "region_wb": "Sub-Saharan Africa",
-    "income_grp": "5. Low income",
-    "sovereignt": "Gambia",
-    "continent": "Africa",
-    "gdp_md": 1826,
-    "region_un": "Africa",
-    "population:rank": 12,
-    "name": "Gambia",
-    "area_km2": 10336.73,
-    "lon": -14.998318,
-    "iso_a3": "GMB",
-    "population": 2347706,
-    "lat": 13.641721,
-    "country_type": "Sovereign country",
-    "wikidataid": "Q1005",
-    "population:year": 2019,
-    "economy": "7. Least developed region",
-    "url_alias": "gm",
-    "id": 374,
-    "merchantCount": 1
-  },
-  {
     "continent": "South America",
     "gdp_year": 2019,
     "population:rank": 11,
@@ -14633,6 +14620,12 @@
     "url_alias": "gl",
     "id": 372,
     "merchantCount": 0
+  },
+  {
+    "id": 374,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "wikidataid": "Q1006",
@@ -17466,12 +17459,6 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
-  },
-  {
-    "id": 912,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "id": 916,
