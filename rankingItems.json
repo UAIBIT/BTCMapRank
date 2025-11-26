@@ -1141,30 +1141,10 @@
     "merchantCount": 0
   },
   {
-    "iso_a3": "BDI",
-    "region_wb": "Sub-Saharan Africa",
-    "lat": -3.332836,
-    "lon": 29.917086,
-    "area_km2": 27268.16,
-    "population": 11530580,
-    "sovereignt": "Burundi",
-    "gdp_year": 2019,
-    "economy": "7. Least developed region",
-    "population:year": 2019,
-    "continent": "Africa",
-    "income_grp": "5. Low income",
-    "wikidataid": "Q967",
-    "type": "country",
-    "subregion": "Eastern Africa",
-    "name": "Burundi",
-    "population:rank": 14,
-    "gdp_md": 3012,
-    "iso_a2": "BI",
-    "country_type": "Sovereign country",
-    "region_un": "Africa",
-    "url_alias": "bi",
     "id": 59,
-    "merchantCount": 7
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 11.73,
@@ -1442,10 +1422,22 @@
     "merchantCount": 18
   },
   {
+    "language": "es, en",
+    "name": "Bitcoin Berlín SV",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-berlin.jpeg",
+    "population:date": "2007-01-01",
+    "population": "17787",
+    "area_km2": 7.75,
+    "continent": "north-america",
+    "url_alias": "bitcoin-berlin",
+    "contact:twitter": "https://twitter.com/bitcoinberlinsv",
+    "contact:facebook": "https://www.facebook.com/BerlinesesEnAccion",
+    "contact:youtube": "https://youtube.com/@bitcoinberlinsv",
+    "contact:telegram": "https://t.me/EconomiaBitcoin2024",
+    "tips:lightning_address": "bitcoinberlin@blink.sv",
     "id": 77,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 165
   },
   {
     "population:date": "2021-01-01",
@@ -12449,10 +12441,16 @@
     "merchantCount": 7
   },
   {
+    "url_alias": "vinte-e-um",
+    "name": "Vinte e Um",
+    "contact:telegram": "https://t.me/vinteumpt",
+    "contact:email": "mail@vinteum.pt",
+    "continent": "europe",
+    "type": "trash",
+    "icon:square": "https://static.btcmap.org/images/communities/vinte-e-um.jpg",
+    "area_km2": 149349.44,
     "id": 646,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 344
   },
   {
     "continent": "Asia",

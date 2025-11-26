@@ -595,6 +595,18 @@
     "merchantCount": 344
   },
   {
+    "url_alias": "vinte-e-um",
+    "name": "Vinte e Um",
+    "contact:telegram": "https://t.me/vinteumpt",
+    "contact:email": "mail@vinteum.pt",
+    "continent": "europe",
+    "type": "trash",
+    "icon:square": "https://static.btcmap.org/images/communities/vinte-e-um.jpg",
+    "area_km2": 149349.44,
+    "id": 646,
+    "merchantCount": 344
+  },
+  {
     "population:date": "2022-01-01",
     "continent": "europe",
     "contact:nostr": "npub1lz8xv2dnyryrk4vswkcgf52vqqzruqwuyp53s7pvusx4fef9fh2s7hh86s",
@@ -1075,6 +1087,24 @@
     "contact:nostr": "npub1xxcyzef28e5qcjncwmn6z2nmwaezs2apxc2v2f7unnvxw3r5edfsactfly",
     "id": 707,
     "merchantCount": 168
+  },
+  {
+    "language": "es, en",
+    "name": "Bitcoin Berlín SV",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-berlin.jpeg",
+    "population:date": "2007-01-01",
+    "population": "17787",
+    "area_km2": 7.75,
+    "continent": "north-america",
+    "url_alias": "bitcoin-berlin",
+    "contact:twitter": "https://twitter.com/bitcoinberlinsv",
+    "contact:facebook": "https://www.facebook.com/BerlinesesEnAccion",
+    "contact:youtube": "https://youtube.com/@bitcoinberlinsv",
+    "contact:telegram": "https://t.me/EconomiaBitcoin2024",
+    "tips:lightning_address": "bitcoinberlin@blink.sv",
+    "id": 77,
+    "merchantCount": 165
   },
   {
     "contact:twitter": "https://twitter.com/BitcoinJungleCR",
@@ -7125,32 +7155,6 @@
     "area_km2": 299.33,
     "id": 959,
     "merchantCount": 8
-  },
-  {
-    "iso_a3": "BDI",
-    "region_wb": "Sub-Saharan Africa",
-    "lat": -3.332836,
-    "lon": 29.917086,
-    "area_km2": 27268.16,
-    "population": 11530580,
-    "sovereignt": "Burundi",
-    "gdp_year": 2019,
-    "economy": "7. Least developed region",
-    "population:year": 2019,
-    "continent": "Africa",
-    "income_grp": "5. Low income",
-    "wikidataid": "Q967",
-    "type": "country",
-    "subregion": "Eastern Africa",
-    "name": "Burundi",
-    "population:rank": 14,
-    "gdp_md": 3012,
-    "iso_a2": "BI",
-    "country_type": "Sovereign country",
-    "region_un": "Africa",
-    "url_alias": "bi",
-    "id": 59,
-    "merchantCount": 7
   },
   {
     "continent": "europe",
@@ -13522,13 +13526,13 @@
     "merchantCount": 0
   },
   {
-    "id": 68,
+    "id": 59,
     "type": null,
     "merchantCount": 0,
     "name": null
   },
   {
-    "id": 77,
+    "id": 68,
     "type": null,
     "merchantCount": 0,
     "name": null
@@ -16593,12 +16597,6 @@
     "url_alias": "vi",
     "id": 644,
     "merchantCount": 0
-  },
-  {
-    "id": 646,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "iso_a2": "WF",
