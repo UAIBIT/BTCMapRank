@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 2890
+    "merchantCount": 2971
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2030
+    "merchantCount": 2033
   },
   {
     "population:year": 2019,
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 611
+    "merchantCount": 612
   },
   {
     "region_un": "Americas",
@@ -391,32 +391,6 @@
     "merchantCount": 347
   },
   {
-    "wikidataid": "Q45",
-    "sovereignt": "Portugal",
-    "population": 10269417,
-    "population:year": 2019,
-    "lon": -8.271754,
-    "continent": "Europe",
-    "iso_a3": "PRT",
-    "gdp_md": 238785,
-    "lat": 39.606675,
-    "name": "Portugal",
-    "economy": "2. Developed region: nonG7",
-    "region_un": "Europe",
-    "income_grp": "1. High income: OECD",
-    "type": "country",
-    "iso_a2": "PT",
-    "gdp_year": 2019,
-    "country_type": "Sovereign country",
-    "subregion": "Southern Europe",
-    "area_km2": 149349.44,
-    "population:rank": 14,
-    "region_wb": "Europe & Central Asia",
-    "url_alias": "pt",
-    "id": 541,
-    "merchantCount": 345
-  },
-  {
     "gdp_md": 17477,
     "economy": "6. Developing region",
     "population:year": 2019,
@@ -440,6 +414,32 @@
     "wikidataid": "Q230",
     "url_alias": "ge",
     "id": 366,
+    "merchantCount": 344
+  },
+  {
+    "wikidataid": "Q45",
+    "sovereignt": "Portugal",
+    "population": 10269417,
+    "population:year": 2019,
+    "lon": -8.271754,
+    "continent": "Europe",
+    "iso_a3": "PRT",
+    "gdp_md": 238785,
+    "lat": 39.606675,
+    "name": "Portugal",
+    "economy": "2. Developed region: nonG7",
+    "region_un": "Europe",
+    "income_grp": "1. High income: OECD",
+    "type": "country",
+    "iso_a2": "PT",
+    "gdp_year": 2019,
+    "country_type": "Sovereign country",
+    "subregion": "Southern Europe",
+    "area_km2": 149349.44,
+    "population:rank": 14,
+    "region_wb": "Europe & Central Asia",
+    "url_alias": "pt",
+    "id": 541,
     "merchantCount": 344
   },
   {
@@ -2657,6 +2657,32 @@
     "merchantCount": 3
   },
   {
+    "type": "country",
+    "sovereignt": "Jamaica",
+    "wikidataid": "Q766",
+    "population:year": 2019,
+    "region_un": "Americas",
+    "gdp_year": 2019,
+    "subregion": "Caribbean",
+    "population:rank": 12,
+    "area_km2": 10956.59,
+    "name": "Jamaica",
+    "population": 2948279,
+    "iso_a3": "JAM",
+    "lon": -77.318767,
+    "iso_a2": "JM",
+    "continent": "North America",
+    "gdp_md": 16458,
+    "economy": "6. Developing region",
+    "income_grp": "3. Upper middle income",
+    "lat": 18.137124,
+    "country_type": "Sovereign country",
+    "region_wb": "Latin America & Caribbean",
+    "url_alias": "jm",
+    "id": 412,
+    "merchantCount": 3
+  },
+  {
     "iso_a3": "KHM",
     "subregion": "South-Eastern Asia",
     "sovereignt": "Cambodia",
@@ -4460,32 +4486,6 @@
     "population": 1920922,
     "url_alias": "gw",
     "id": 386,
-    "merchantCount": 0
-  },
-  {
-    "sovereignt": "Australia",
-    "country_type": "Dependency",
-    "wikidataid": "Q131198",
-    "iso_a2": "HM",
-    "population:year": 2019,
-    "population": 0,
-    "gdp_year": 2016,
-    "continent": "Seven seas (open ocean)",
-    "gdp_md": 0,
-    "region_wb": "Sub-Saharan Africa",
-    "type": "country",
-    "lon": 73.50521,
-    "population:rank": 1,
-    "region_un": "Africa",
-    "income_grp": "5. Low income",
-    "area_km2": 419.51,
-    "name": "Heard Island and McDonald Islands",
-    "economy": "7. Least developed region",
-    "iso_a3": "HMD",
-    "subregion": "Seven seas (open ocean)",
-    "lat": -53.103462,
-    "url_alias": "hm",
-    "id": 391,
     "merchantCount": 0
   },
   {

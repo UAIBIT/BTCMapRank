@@ -906,7 +906,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 66
+    "merchantCount": 69
   },
   {
     "population": 287025,
@@ -2370,7 +2370,7 @@
     "tips:lightning_address": "bitcoinpark@geyser.fund",
     "continent": "north-america",
     "id": 131,
-    "merchantCount": 15
+    "merchantCount": 16
   },
   {
     "population": "20000",
@@ -2838,7 +2838,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 74
+    "merchantCount": 75
   },
   {
     "type": "community",
@@ -3068,7 +3068,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2030
+    "merchantCount": 2033
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -4058,7 +4058,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 611
+    "merchantCount": 612
   },
   {
     "contact:reddit": "https://www.reddit.com/r/debitcoinshow",
@@ -4809,7 +4809,7 @@
     "population": "83695430",
     "continent": "europe",
     "id": 262,
-    "merchantCount": 618
+    "merchantCount": 619
   },
   {
     "continent": "europe",
@@ -5616,7 +5616,7 @@
     "area_km2": 155452.15,
     "organization": "einundzwanzig",
     "id": 316,
-    "merchantCount": 346
+    "merchantCount": 345
   },
   {
     "type": "community",
@@ -6386,7 +6386,7 @@
     "tips:lightning_address": "freemadeira@blink.sv",
     "contact:meetup": "https://www.meetup.com/madeira-bitcoin-meetup-group/",
     "id": 361,
-    "merchantCount": 170
+    "merchantCount": 169
   },
   {
     "lat": -0.437739,
@@ -7015,30 +7015,10 @@
     "merchantCount": 6
   },
   {
-    "sovereignt": "Australia",
-    "country_type": "Dependency",
-    "wikidataid": "Q131198",
-    "iso_a2": "HM",
-    "population:year": 2019,
-    "population": 0,
-    "gdp_year": 2016,
-    "continent": "Seven seas (open ocean)",
-    "gdp_md": 0,
-    "region_wb": "Sub-Saharan Africa",
-    "type": "country",
-    "lon": 73.50521,
-    "population:rank": 1,
-    "region_un": "Africa",
-    "income_grp": "5. Low income",
-    "area_km2": 419.51,
-    "name": "Heard Island and McDonald Islands",
-    "economy": "7. Least developed region",
-    "iso_a3": "HMD",
-    "subregion": "Seven seas (open ocean)",
-    "lat": -53.103462,
-    "url_alias": "hm",
     "id": 391,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population:rank": 13,
@@ -7515,10 +7495,30 @@
     "merchantCount": 334
   },
   {
+    "type": "country",
+    "sovereignt": "Jamaica",
+    "wikidataid": "Q766",
+    "population:year": 2019,
+    "region_un": "Americas",
+    "gdp_year": 2019,
+    "subregion": "Caribbean",
+    "population:rank": 12,
+    "area_km2": 10956.59,
+    "name": "Jamaica",
+    "population": 2948279,
+    "iso_a3": "JAM",
+    "lon": -77.318767,
+    "iso_a2": "JM",
+    "continent": "North America",
+    "gdp_md": 16458,
+    "economy": "6. Developing region",
+    "income_grp": "3. Upper middle income",
+    "lat": 18.137124,
+    "country_type": "Sovereign country",
+    "region_wb": "Latin America & Caribbean",
+    "url_alias": "jm",
     "id": 412,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 3
   },
   {
     "income_grp": "3. Upper middle income",
@@ -8576,7 +8576,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 37
+    "merchantCount": 38
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/mayasbitcoiners.png",
@@ -10266,7 +10266,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 345
+    "merchantCount": 344
   },
   {
     "wikidataid": "Q695",
@@ -12171,7 +12171,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 2890
+    "merchantCount": 2971
   },
   {
     "population": 1734000,
@@ -12450,7 +12450,7 @@
     "icon:square": "https://static.btcmap.org/images/communities/vinte-e-um.jpg",
     "area_km2": 149349.44,
     "id": 646,
-    "merchantCount": 345
+    "merchantCount": 344
   },
   {
     "continent": "Asia",
@@ -12781,7 +12781,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 20114
+    "merchantCount": 20200
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -14332,7 +14332,7 @@
     "contact:email": "bitcoinamantikir@gmail.com",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-amantikir.png",
     "id": 743,
-    "merchantCount": 136
+    "merchantCount": 138
   },
   {
     "id": 744,
@@ -16516,7 +16516,7 @@
     "type": "community",
     "area_km2": 951.54,
     "id": 890,
-    "merchantCount": 35
+    "merchantCount": 40
   },
   {
     "continent": "south-america",
@@ -16972,7 +16972,7 @@
     "type": "community",
     "area_km2": 2350.82,
     "id": 918,
-    "merchantCount": 10
+    "merchantCount": 11
   },
   {
     "continent": "south-america",
