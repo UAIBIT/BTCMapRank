@@ -714,30 +714,10 @@
     "merchantCount": 0
   },
   {
-    "iso_a3": "AZE",
-    "continent": "Asia",
-    "gdp_year": 2019,
-    "lat": 40.402387,
-    "gdp_md": 48047,
-    "region_wb": "Europe & Central Asia",
-    "economy": "6. Developing region",
-    "population:rank": 14,
-    "sovereignt": "Azerbaijan",
-    "type": "country",
-    "wikidataid": "Q227",
-    "area_km2": 86597.1,
-    "name": "Azerbaijan",
-    "iso_a2": "AZ",
-    "subregion": "Western Asia",
-    "region_un": "Asia",
-    "lon": 47.210994,
-    "country_type": "Sovereign country",
-    "population": 10023318,
-    "population:year": 2019,
-    "income_grp": "3. Upper middle income",
-    "url_alias": "az",
     "id": 39,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population:rank": 12,
@@ -1754,10 +1734,24 @@
     "merchantCount": 221
   },
   {
+    "box:south": "55.80222",
+    "name": "Bitcoin Edinburgh",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-edinburgh.jpg",
+    "contact:telegram": "http://www.t.me/+64bxXGJUEuYzMzQ8",
+    "contact:email": "BTCedinburgh@gmail.com",
+    "box:east": "-3.03909",
+    "population": "901455",
+    "contact:website": "https://bitcoinedinburgh.com/",
+    "box:west": "-3.48524",
+    "box:north": "56.02132",
+    "continent": "europe",
+    "population:date": "2022-01-01",
+    "url_alias": "bitcoin-edinburgh",
+    "type": "community",
+    "area_km2": 273.55,
+    "contact:twitter": "https://twitter.com/BTCedinburgh",
     "id": 98,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 9
   },
   {
     "box:west": 22.1,
@@ -16094,10 +16088,21 @@
     "merchantCount": 61
   },
   {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/",
+    "name": "The Core - Bitcoin Githurai",
+    "population": 200000,
+    "population:date": "2025-01-01",
+    "url_alias": "bitcoin-githurai",
+    "tips:lightning_address": "taproot1@blink.sv",
+    "contact:nostr": "npub12e9wnwzw3v48w0p52zz7jxx2e7ymt0vm48s4skv4x9sg3c2t6y7q2j90vp",
+    "contact:email": "bitcoingithurai@gmail.com",
+    "area_km2": 20.11,
+    "language": "sw, ki, en",
+    "organization": "The Core - Bitcoin Education",
+    "type": "community",
     "id": 862,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 2
   },
   {
     "id": 863,
