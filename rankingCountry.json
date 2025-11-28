@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3060
+    "merchantCount": 3116
   },
   {
     "wikidataid": "Q155",
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1331
+    "merchantCount": 1329
   },
   {
     "gdp_md": 351431,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1037
+    "merchantCount": 1040
   },
   {
     "iso_a2": "CH",
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 812
+    "merchantCount": 813
   },
   {
     "name": "Germany",
@@ -231,7 +231,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 529
+    "merchantCount": 530
   },
   {
     "sovereignt": "Canada",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 414
+    "merchantCount": 415
   },
   {
     "country_type": "Sovereign country",
@@ -466,7 +466,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 332
+    "merchantCount": 331
   },
   {
     "name": "Poland",
@@ -804,7 +804,7 @@
     "subregion": "South America",
     "url_alias": "co",
     "id": 205,
-    "merchantCount": 79
+    "merchantCount": 90
   },
   {
     "continent": "Asia",
@@ -2215,6 +2215,32 @@
     "merchantCount": 7
   },
   {
+    "wikidataid": "Q1029",
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "income_grp": "5. Low income",
+    "area_km2": 792438.1,
+    "population:rank": 15,
+    "lon": 37.83789,
+    "name": "Mozambique",
+    "region_wb": "Sub-Saharan Africa",
+    "continent": "Africa",
+    "type": "country",
+    "population": 30366036,
+    "economy": "7. Least developed region",
+    "subregion": "Eastern Africa",
+    "sovereignt": "Mozambique",
+    "iso_a2": "MZ",
+    "region_un": "Africa",
+    "lat": -13.94323,
+    "population:year": 2019,
+    "gdp_md": 15291,
+    "iso_a3": "MOZ",
+    "url_alias": "mz",
+    "id": 495,
+    "merchantCount": 7
+  },
+  {
     "iso_a3": "URY",
     "wikidataid": "Q77",
     "area_km2": 177958.98,
@@ -2345,32 +2371,6 @@
     "merchantCount": 6
   },
   {
-    "wikidataid": "Q1029",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "income_grp": "5. Low income",
-    "area_km2": 792438.1,
-    "population:rank": 15,
-    "lon": 37.83789,
-    "name": "Mozambique",
-    "region_wb": "Sub-Saharan Africa",
-    "continent": "Africa",
-    "type": "country",
-    "population": 30366036,
-    "economy": "7. Least developed region",
-    "subregion": "Eastern Africa",
-    "sovereignt": "Mozambique",
-    "iso_a2": "MZ",
-    "region_un": "Africa",
-    "lat": -13.94323,
-    "population:year": 2019,
-    "gdp_md": 15291,
-    "iso_a3": "MOZ",
-    "url_alias": "mz",
-    "id": 495,
-    "merchantCount": 6
-  },
-  {
     "income_grp": "2. High income: nonOECD",
     "sovereignt": "United States of America",
     "economy": "6. Developing region",
@@ -2475,6 +2475,32 @@
     "merchantCount": 5
   },
   {
+    "subregion": "Southern Africa",
+    "area_km2": 581923.34,
+    "income_grp": "3. Upper middle income",
+    "lon": 24.179216,
+    "country_type": "Sovereign country",
+    "sovereignt": "Botswana",
+    "continent": "Africa",
+    "iso_a2": "BW",
+    "region_un": "Africa",
+    "wikidataid": "Q963",
+    "population:rank": 12,
+    "type": "country",
+    "iso_a3": "BWA",
+    "name": "Botswana",
+    "lat": -22.102634,
+    "population:year": 2019,
+    "gdp_md": 18340,
+    "region_wb": "Sub-Saharan Africa",
+    "economy": "6. Developing region",
+    "gdp_year": 2019,
+    "population": 2303697,
+    "url_alias": "bw",
+    "id": 183,
+    "merchantCount": 4
+  },
+  {
     "subregion": "Northern Africa",
     "lat": 31.650723,
     "iso_a2": "MA",
@@ -2577,32 +2603,6 @@
     "url_alias": "tt",
     "id": 625,
     "merchantCount": 4
-  },
-  {
-    "subregion": "Southern Africa",
-    "area_km2": 581923.34,
-    "income_grp": "3. Upper middle income",
-    "lon": 24.179216,
-    "country_type": "Sovereign country",
-    "sovereignt": "Botswana",
-    "continent": "Africa",
-    "iso_a2": "BW",
-    "region_un": "Africa",
-    "wikidataid": "Q963",
-    "population:rank": 12,
-    "type": "country",
-    "iso_a3": "BWA",
-    "name": "Botswana",
-    "lat": -22.102634,
-    "population:year": 2019,
-    "gdp_md": 18340,
-    "region_wb": "Sub-Saharan Africa",
-    "economy": "6. Developing region",
-    "gdp_year": 2019,
-    "population": 2303697,
-    "url_alias": "bw",
-    "id": 183,
-    "merchantCount": 3
   },
   {
     "name": "China",
