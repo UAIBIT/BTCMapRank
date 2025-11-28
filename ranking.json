@@ -5467,21 +5467,6 @@
     "merchantCount": 14
   },
   {
-    "contact:twitter": "https://twitter.com/BeerBitcoin",
-    "type": "community",
-    "contact:email": "rockymountaincitadel@gmail.com",
-    "contact:meetup": "https://www.meetup.com/Bitcoin-and-Beer/",
-    "area_km2": 413.23,
-    "name": "Bitcoin & Beer",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-and-beer.jpeg",
-    "population": "2963821",
-    "population:date": "2020-01-01",
-    "url_alias": "bitcoin-and-beer",
-    "id": 67,
-    "merchantCount": 13
-  },
-  {
     "url_alias": "bitcoin-ibiza",
     "contact:telegram": "https://t.me/bitcoinibiza",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-ibiza.jpeg",
@@ -13550,6 +13535,12 @@
     "url_alias": "bh",
     "id": 58,
     "merchantCount": 0
+  },
+  {
+    "id": 67,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 68,
