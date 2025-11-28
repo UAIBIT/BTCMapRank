@@ -1472,6 +1472,21 @@
     "merchantCount": 41
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/indy-bitcoin.jpg",
+    "name": "Indy Bitcoin",
+    "population": 887642,
+    "population:date": "2020-06-30",
+    "url_alias": "indy-bitcoin",
+    "contact:twitter": "https://x.com/IndyBitcoin",
+    "contact:website": "https://indybitcoinmeetup.com/",
+    "contact:meetup": "https://www.meetup.com/indianapolis-bitcoin-meetup/",
+    "type": "community",
+    "area_km2": 951.54,
+    "id": 890,
+    "merchantCount": 41
+  },
+  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/satoshi-team.png",
     "name": "Satoshi Team - Antioquia",
@@ -6070,22 +6085,6 @@
     "area_km2": 632.39,
     "id": 951,
     "merchantCount": 5
-  },
-  {
-    "organization": "2140-meetups",
-    "population": 344129.0,
-    "area_km2": 110.1,
-    "population:date": "2021-01-01",
-    "name": "2140 Bilbo",
-    "continent": "europe",
-    "contact:telegram": "https://t.me/BitcoinBilbo",
-    "contact:email": "aketzaaa@msn.com",
-    "icon:square": "https://static.btcmap.org/images/communities/2140-bilbo.png",
-    "url_alias": "2140-bilbo",
-    "type": "community",
-    "foo": "bar",
-    "id": 1,
-    "merchantCount": 4
   },
   {
     "contact:meetup": "https://www.meetup.com/fr-FR/annecy-bitcoin-meetup/",
