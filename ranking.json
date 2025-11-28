@@ -11924,23 +11924,6 @@
     "merchantCount": 1
   },
   {
-    "contact:nostr": "npub16aaqhqyryr3tuyq208whklngdulm754zukpfgf2g34dkd023uysqz6r9kr",
-    "population": 217556,
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-mainz.webp",
-    "population:date": "2021-12-31",
-    "name": "Einundzwanzig Mainz",
-    "contact:twitter": "https://twitter.com/@EinundzwanzigMZ",
-    "language": "de",
-    "url_alias": "einundzwanzig-mainz",
-    "area_km2": 97.71,
-    "contact:telegram": "https://t.me/Einundzwanzig_MAINZ",
-    "organization": "einundzwanzig",
-    "continent": "europe",
-    "type": "community",
-    "id": 296,
-    "merchantCount": 1
-  },
-  {
     "url_alias": "einundzwanzig-mannheim",
     "language": "de",
     "continent": "europe",
@@ -14211,6 +14194,12 @@
     "url_alias": "einundzwanzig-kempten",
     "id": 287,
     "merchantCount": 0
+  },
+  {
+    "id": 296,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 69.77,
