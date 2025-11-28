@@ -10156,6 +10156,19 @@
     "merchantCount": 2
   },
   {
+    "contact:telegram": "https://t.me/bitcoinmanagua",
+    "population:date": "2020-01-01",
+    "name": "Bitcoin Managua",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-managua.jpeg",
+    "population": 1401687,
+    "area_km2": 438.13,
+    "type": "community",
+    "url_alias": "bitcoin-managua",
+    "id": 119,
+    "merchantCount": 2
+  },
+  {
     "contact:twitter": "https://twitter.com/BitcoinNaples",
     "box:west": -81.82377,
     "population:date": "2020-01-01",
@@ -10820,6 +10833,20 @@
     "gdp_year": 2019,
     "url_alias": "st",
     "id": 595,
+    "merchantCount": 2
+  },
+  {
+    "url_alias": "west-michigan-bitcoin-meetup",
+    "population:date": "2020-01-01",
+    "continent": "north-america",
+    "population": 154316,
+    "contact:twitter": "https://twitter.com/dvhaley",
+    "icon:square": "https://static.btcmap.org/images/communities/west-michigan-bitcoin-meetup.png",
+    "type": "community",
+    "name": "West Michigan Bitcoin Meetup",
+    "contact:meetup": "https://www.meetup.com/michigan-bitcoin-meetup/",
+    "area_km2": 1831.76,
+    "id": 649,
     "merchantCount": 2
   },
   {
@@ -13601,12 +13628,6 @@
     "tips:lightning_address": "btcmeetupbe@getalby.com",
     "id": 117,
     "merchantCount": 0
-  },
-  {
-    "id": 119,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "area_km2": 28301.28,
@@ -16596,12 +16617,6 @@
     "url_alias": "vi",
     "id": 644,
     "merchantCount": 0
-  },
-  {
-    "id": 649,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "iso_a2": "WF",
