@@ -6999,6 +6999,20 @@
   },
   {
     "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bury-st-edmunds-bitcoin.jpg",
+    "name": "Bury St Edmunds Bitcoin",
+    "population": 48000,
+    "population:date": "2011-01-01",
+    "url_alias": "bury-st-edmunds-bitcoin",
+    "contact:twitter": "https://x.com/burystedsbtc",
+    "contact:email": "BSEBTC@proton.me",
+    "type": "community",
+    "area_km2": 18.5,
+    "id": 800,
+    "merchantCount": 8
+  },
+  {
+    "continent": "europe",
     "icon:square": "https://scontent.fsjo14-1.fna.fbcdn.net/v/t39.30808-6/474135437_1822952128459100_1678397663967712036_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JLyawXL0lGwQ7kNvgEmzn9T&_nc_oc=AdghNvcp0Fyjd_LycB3G-IB5R4QyYiPO8cEVmr4pLrvb2aGihBr-nGQ1hRdvqqJxxGo&_nc_zt=23&_nc_ht=scontent.fsjo14-1.fna&_nc_gid=ASWfprDkBMeU7pf6yCLKTpI&oh=00_AYDz_Wed9z72q8uoTzf4pkTBM6yrRRjZFQkVTjBpw5hcIQ&oe=67C0308E",
     "name": "Bitcoin Alderney",
     "population": 2167,
@@ -17266,12 +17280,6 @@
   },
   {
     "id": 791,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 800,
     "type": null,
     "merchantCount": 0,
     "name": null
