@@ -6535,22 +6535,6 @@
     "merchantCount": 9
   },
   {
-    "population:date": "2021-01-01",
-    "url_alias": "paralelná-polis-levice",
-    "area_km2": 168.36,
-    "contact:website": "https://www.paralelnapolislevice.sk/",
-    "contact:email": "web@paralelnapolislevice.sk",
-    "type": "community",
-    "name": "Paralelná Polis Levice",
-    "tips:lightning_address": "pplv@pay.paralelnapolislevice.sk",
-    "population": 31440,
-    "contact:facebook": "https://www.facebook.com/paralelnapolislv",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/paralelná-polis-levice.webp",
-    "id": 522,
-    "merchantCount": 9
-  },
-  {
     "economy": "3. Emerging region: BRIC",
     "continent": "Europe",
     "lat": 58.249357,
@@ -15659,6 +15643,12 @@
   },
   {
     "id": 518,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 522,
     "type": null,
     "merchantCount": 0,
     "name": null
