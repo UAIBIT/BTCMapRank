@@ -141,7 +141,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1806
+    "merchantCount": 1808
   },
   {
     "subregion": "Caribbean",
@@ -587,7 +587,7 @@
     "contact:website": "https://atlantabitdevs.org",
     "population:date": "2020-01-01",
     "id": 32,
-    "merchantCount": 14
+    "merchantCount": 15
   },
   {
     "sovereignt": "Australia",
@@ -613,7 +613,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 185
+    "merchantCount": 187
   },
   {
     "population:date": "2020-01-01",
@@ -906,7 +906,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 76
+    "merchantCount": 78
   },
   {
     "population": 287025,
@@ -1374,7 +1374,7 @@
     "box:east": "162.33395",
     "box:south": "-46.10841",
     "id": 72,
-    "merchantCount": 193
+    "merchantCount": 195
   },
   {
     "url_alias": "bitcoin-austria",
@@ -2838,7 +2838,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 82
+    "merchantCount": 83
   },
   {
     "type": "community",
@@ -3006,7 +3006,7 @@
     "continent": "europe",
     "name": "Bordeaux",
     "id": 169,
-    "merchantCount": 22
+    "merchantCount": 21
   },
   {
     "name": "Boulder Bitcoin",
@@ -3407,7 +3407,7 @@
     "organization": "decouvre-bitcoin",
     "contact:twitter": "https://twitter.com/AteliersBitcoin",
     "id": 190,
-    "merchantCount": 4
+    "merchantCount": 7
   },
   {
     "country_type": "Sovereign country",
@@ -4016,7 +4016,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1103
+    "merchantCount": 1102
   },
   {
     "organization": "plan-b-network",
@@ -8596,7 +8596,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 41
+    "merchantCount": 42
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/mayasbitcoiners.png",
@@ -8724,7 +8724,7 @@
     "box:south": "-38.41271038284708",
     "continent": "oceania",
     "id": 469,
-    "merchantCount": 33
+    "merchantCount": 34
   },
   {
     "id": 470,
@@ -9258,7 +9258,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 530
+    "merchantCount": 531
   },
   {
     "iso_a2": "MY",
@@ -9525,7 +9525,7 @@
     "continent": "Africa",
     "url_alias": "ng",
     "id": 505,
-    "merchantCount": 16
+    "merchantCount": 18
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -9554,10 +9554,30 @@
     "merchantCount": 11
   },
   {
+    "iso_a2": "NL",
+    "continent": "Europe",
+    "gdp_year": 2019,
+    "income_grp": "1. High income: OECD",
+    "region_wb": "Europe & Central Asia",
+    "name": "Netherlands",
+    "economy": "2. Developed region: nonG7",
+    "region_un": "Europe",
+    "area_km2": 37215.5,
+    "sovereignt": "Netherlands",
+    "subregion": "Western Europe",
+    "type": "country",
+    "lat": 52.422211,
+    "lon": 5.61144,
+    "iso_a3": "NLD",
+    "population": 17332850,
+    "country_type": "Country",
+    "wikidataid": "Q55",
+    "population:rank": 14,
+    "population:year": 2019,
+    "gdp_md": 907050,
+    "url_alias": "nl",
     "id": 507,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 356
   },
   {
     "population": 393027,
@@ -10666,7 +10686,7 @@
     "url_alias": "sactown-bitcoin",
     "icon:square": "https://static.btcmap.org/images/communities/sactown-bitcoin.jpeg",
     "id": 561,
-    "merchantCount": 9
+    "merchantCount": 11
   },
   {
     "contact:telegram": "https://t.me/StBrieucBitcoin",
@@ -10728,7 +10748,7 @@
     "type": "community",
     "url_alias": "saint-malo",
     "id": 566,
-    "merchantCount": 4
+    "merchantCount": 5
   },
   {
     "type": "community",
@@ -12171,7 +12191,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3116
+    "merchantCount": 3158
   },
   {
     "population": 1734000,
@@ -12761,7 +12781,7 @@
     "area_km2": 176.44,
     "continent": "europe",
     "id": 660,
-    "merchantCount": 14
+    "merchantCount": 15
   },
   {
     "continent": "north-america",
@@ -12781,7 +12801,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 20361
+    "merchantCount": 20406
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -13248,7 +13268,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 331
+    "merchantCount": 330
   },
   {
     "area_km2": 385110.87,
@@ -14726,7 +14746,7 @@
     "type": "community",
     "url_alias": "bitcoin-bay",
     "id": 769,
-    "merchantCount": 11
+    "merchantCount": 17
   },
   {
     "area_km2": 675.76,
@@ -15588,7 +15608,7 @@
     "type": "community",
     "area_km2": 12.55,
     "id": 828,
-    "merchantCount": 23
+    "merchantCount": 24
   },
   {
     "id": 829,
@@ -16888,7 +16908,7 @@
     "area_km2": 7.3,
     "organization": "satoshi-team",
     "id": 912,
-    "merchantCount": 13
+    "merchantCount": 36
   },
   {
     "continent": "south-america",
@@ -16972,7 +16992,7 @@
     "type": "community",
     "area_km2": 2350.82,
     "id": 918,
-    "merchantCount": 12
+    "merchantCount": 13
   },
   {
     "continent": "south-america",
