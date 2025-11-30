@@ -7528,6 +7528,17 @@
     "merchantCount": 7
   },
   {
+    "continent": "europe",
+    "icon:square": "http://blah.com",
+    "name": "test area 2",
+    "population": "123",
+    "population:date": "2024-01-01",
+    "type": "trash",
+    "url_alias": "test-area-2",
+    "id": 742,
+    "merchantCount": 7
+  },
+  {
     "area_km2": 4.84,
     "contact:twitter": "https://x.com/Citadel_ofhope",
     "continent": "north-america",
@@ -8102,24 +8113,6 @@
     "area_km2": 1686.95,
     "id": 956,
     "merchantCount": 6
-  },
-  {
-    "type": "community",
-    "url_alias": "bitcoin-dua",
-    "area_km2": 319.16,
-    "contact:twitter": "https://twitter.com/bitcoin_dua",
-    "contact:email": "bitcoindua67@gmail.com",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-dua.jpg",
-    "contact:telegram": "https://t.me/bitcoindua",
-    "contact:website": "https://geyser.fund/project/bitcoineducationcenter",
-    "contact:whatsapp": "https://chat.whatsapp.com/JEVV12USQIg6s9Z2UvFa4S",
-    "contact:phone": "0241154567",
-    "continent": "africa",
-    "name": "Bitcoin Dua Community",
-    "population": 200000,
-    "population:date": "2021-01-01",
-    "id": 96,
-    "merchantCount": 5
   },
   {
     "name": "Bitcoin Lille",
@@ -13565,6 +13558,12 @@
     "name": null
   },
   {
+    "id": 96,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "contact:email": "info@bitcoin-jamii.com",
     "name": "Goma",
     "population": 2000000,
@@ -17153,12 +17152,6 @@
   },
   {
     "id": 739,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 742,
     "type": null,
     "merchantCount": 0,
     "name": null
