@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3158
+    "merchantCount": 3194
   },
   {
     "wikidataid": "Q155",
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1040
+    "merchantCount": 1042
   },
   {
     "iso_a2": "CH",
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 813
+    "merchantCount": 811
   },
   {
     "name": "Germany",
@@ -622,7 +622,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 187
+    "merchantCount": 186
   },
   {
     "income_grp": "3. Upper middle income",
@@ -1431,32 +1431,6 @@
     "merchantCount": 27
   },
   {
-    "lat": 19.431821,
-    "gdp_md": 18173,
-    "country_type": "Sovereign country",
-    "population": 7169455,
-    "sovereignt": "Laos",
-    "population:rank": 13,
-    "area_km2": 229457.73,
-    "economy": "7. Least developed region",
-    "region_wb": "East Asia & Pacific",
-    "gdp_year": 2019,
-    "type": "country",
-    "iso_a2": "LA",
-    "wikidataid": "Q819",
-    "subregion": "South-Eastern Asia",
-    "iso_a3": "LAO",
-    "lon": 102.533912,
-    "name": "Laos",
-    "population:year": 2019,
-    "income_grp": "4. Lower middle income",
-    "continent": "Asia",
-    "region_un": "Asia",
-    "url_alias": "la",
-    "id": 429,
-    "merchantCount": 26
-  },
-  {
     "sovereignt": "Panama",
     "continent": "North America",
     "population": 4246439,
@@ -1480,6 +1454,32 @@
     "lon": -80.352106,
     "url_alias": "pa",
     "id": 520,
+    "merchantCount": 27
+  },
+  {
+    "lat": 19.431821,
+    "gdp_md": 18173,
+    "country_type": "Sovereign country",
+    "population": 7169455,
+    "sovereignt": "Laos",
+    "population:rank": 13,
+    "area_km2": 229457.73,
+    "economy": "7. Least developed region",
+    "region_wb": "East Asia & Pacific",
+    "gdp_year": 2019,
+    "type": "country",
+    "iso_a2": "LA",
+    "wikidataid": "Q819",
+    "subregion": "South-Eastern Asia",
+    "iso_a3": "LAO",
+    "lon": 102.533912,
+    "name": "Laos",
+    "population:year": 2019,
+    "income_grp": "4. Lower middle income",
+    "continent": "Asia",
+    "region_un": "Asia",
+    "url_alias": "la",
+    "id": 429,
     "merchantCount": 26
   },
   {
