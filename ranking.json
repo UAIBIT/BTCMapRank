@@ -7528,17 +7528,6 @@
     "merchantCount": 7
   },
   {
-    "continent": "europe",
-    "icon:square": "http://blah.com",
-    "name": "test area 2",
-    "population": "123",
-    "population:date": "2024-01-01",
-    "type": "trash",
-    "url_alias": "test-area-2",
-    "id": 742,
-    "merchantCount": 7
-  },
-  {
     "area_km2": 4.84,
     "contact:twitter": "https://x.com/Citadel_ofhope",
     "continent": "north-america",
@@ -15201,30 +15190,10 @@
     "merchantCount": 0
   },
   {
-    "population": 38964,
-    "population:year": 2019,
-    "gdp_year": 2018,
-    "country_type": "Sovereign country",
-    "sovereignt": "Monaco",
-    "income_grp": "2. High income: nonOECD",
-    "population:rank": 7,
-    "gdp_md": 7188,
-    "economy": "2. Developed region: nonG7",
-    "iso_a2": "MC",
-    "type": "country",
-    "area_km2": 12.44,
-    "lat": 43.739652,
-    "iso_a3": "MCO",
-    "region_wb": "Europe & Central Asia",
-    "region_un": "Europe",
-    "lon": 7.398291,
-    "wikidataid": "Q235",
-    "name": "Monaco",
-    "continent": "Europe",
-    "subregion": "Western Europe",
-    "url_alias": "mc",
     "id": 465,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "iso_a3": "MDA",
@@ -17184,6 +17153,12 @@
   },
   {
     "id": 739,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 742,
     "type": null,
     "merchantCount": 0,
     "name": null
