@@ -8407,7 +8407,7 @@
     "population": 314138,
     "organization": "breizh-bitcoin",
     "type": "community",
-    "contact:telegram": "https://t.me/nantesbitcoinmeetup",
+    "contact:telegram": "https://t.me/meetupbitcoinnantes",
     "name": "Nantes",
     "url_alias": "nantes",
     "language": "fr",
@@ -11692,21 +11692,6 @@
     "merchantCount": 1
   },
   {
-    "icon:square": "https://static.btcmap.org/images/communities/compiegne.png",
-    "url_alias": "compiegne",
-    "population": 40615,
-    "name": "Compiegne",
-    "area_km2": 1283.85,
-    "type": "community",
-    "population:date": "2020-01-01",
-    "organization": "decouvre-bitcoin",
-    "language": "fr",
-    "continent": "europe",
-    "contact:telegram": "https://t.me/meetupcompiegne",
-    "id": 210,
-    "merchantCount": 1
-  },
-  {
     "name": "Detroit Bitcoin and Beer",
     "url_alias": "detroit-bitcoin-and-beer",
     "population": 4365205,
@@ -13915,6 +13900,12 @@
   },
   {
     "id": 204,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 210,
     "type": null,
     "merchantCount": 0,
     "name": null
