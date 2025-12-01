@@ -665,32 +665,6 @@
     "merchantCount": 330
   },
   {
-    "name": "Poland",
-    "type": "country",
-    "income_grp": "1. High income: OECD",
-    "wikidataid": "Q36",
-    "gdp_year": 2019,
-    "population:rank": 15,
-    "sovereignt": "Poland",
-    "lat": 51.990316,
-    "country_type": "Sovereign country",
-    "population:year": 2019,
-    "population": 37970874,
-    "region_un": "Europe",
-    "gdp_md": 595858,
-    "iso_a3": "POL",
-    "continent": "Europe",
-    "economy": "2. Developed region: nonG7",
-    "iso_a2": "PL",
-    "subregion": "Eastern Europe",
-    "region_wb": "Europe & Central Asia",
-    "lon": 19.490468,
-    "area_km2": 313243.76,
-    "url_alias": "pl",
-    "id": 530,
-    "merchantCount": 298
-  },
-  {
     "box:east": 9.03617,
     "population": "150556",
     "population:date": "2020-01-01",
@@ -3223,6 +3197,24 @@
     "contact:github": "https://www.github.com/bitdevsamsterdam/bitdevsamsterdam.github.io",
     "organization": "bit-devs",
     "id": 62,
+    "merchantCount": 34
+  },
+  {
+    "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
+    "contact:email": "contact@breizhbitcoin.bzh",
+    "contact:twitter": "https://twitter.com/BreizhBitcoin",
+    "contact:website": "https://breizhbitcoin.com/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/breizh-bitcoin.png",
+    "name": "Breizh Bitcoin",
+    "population": "4829968",
+    "population:date": "2021-02-01",
+    "type": "community",
+    "url_alias": "breizh-bitcoin",
+    "area_km2": 27208,
+    "language": "fr",
+    "organization": "breizh-bitcoin",
+    "id": 174,
     "merchantCount": 34
   },
   {
@@ -13762,12 +13754,6 @@
     "name": null
   },
   {
-    "id": 174,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "icon:square": "https://static.btcmap.org/images/communities/brest.png",
     "population": 139456,
     "name": "Brest",
@@ -15663,6 +15649,12 @@
     "url_alias": "pg",
     "id": 527,
     "merchantCount": 0
+  },
+  {
+    "id": 530,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "iso_a2": "PM",
