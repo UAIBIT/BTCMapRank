@@ -906,7 +906,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 79
+    "merchantCount": 82
   },
   {
     "population": 287025,
@@ -1353,7 +1353,7 @@
     "url_alias": "bitcoin-association-switzerland",
     "contact:telegram": "https://t.me/rogerdarin",
     "id": 71,
-    "merchantCount": 829
+    "merchantCount": 828
   },
   {
     "contact:email": "tokyocitadel.npm6r@aleeas.com",
@@ -1557,7 +1557,7 @@
     "area_km2": 1181.04,
     "contact:nostr": "npub1p7g986pc56qmvryplgzka0fsrpuwlk6mxk3h686w4e46n74e56qqhz88vk",
     "id": 84,
-    "merchantCount": 19
+    "merchantCount": 20
   },
   {
     "population": 5543828,
@@ -3068,7 +3068,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2033
+    "merchantCount": 2034
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -3511,7 +3511,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 811
+    "merchantCount": 810
   },
   {
     "type": "community",
@@ -3810,7 +3810,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 74
+    "merchantCount": 75
   },
   {
     "id": 210,
@@ -3842,7 +3842,7 @@
     "name": "Costa Rica",
     "url_alias": "cr",
     "id": 211,
-    "merchantCount": 387
+    "merchantCount": 388
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/crypto-mar-del-plata-argentina.png",
@@ -4007,7 +4007,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1102
+    "merchantCount": 1101
   },
   {
     "organization": "plan-b-network",
@@ -4144,7 +4144,7 @@
     "continent": "europe",
     "contact:telegram": "http://t.me/+ETWFIUzxnlNkZDg0",
     "id": 226,
-    "merchantCount": 829
+    "merchantCount": 828
   },
   {
     "type": "community",
@@ -5831,7 +5831,7 @@
     "continent": "europe",
     "organization": "einundzwanzig",
     "id": 331,
-    "merchantCount": 832
+    "merchantCount": 831
   },
   {
     "contact:telegram": "https://t.me/einundzwanzig_siegen",
@@ -5955,7 +5955,7 @@
     "population:date": "2021-12-31",
     "area_km2": 989.9,
     "id": 339,
-    "merchantCount": 17
+    "merchantCount": 18
   },
   {
     "url_alias": "einundzwanzig-tirol",
@@ -8587,7 +8587,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 43
+    "merchantCount": 45
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/mayasbitcoiners.png",
@@ -9548,7 +9548,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 356
+    "merchantCount": 355
   },
   {
     "population": 393027,
@@ -9709,7 +9709,7 @@
     "wikidataid": "Q664",
     "url_alias": "nz",
     "id": 514,
-    "merchantCount": 77
+    "merchantCount": 78
   },
   {
     "box:south": "-47.24913107596981",
@@ -9730,7 +9730,7 @@
     "population": "2812569",
     "area_km2": 521054.76,
     "id": 515,
-    "merchantCount": 86
+    "merchantCount": 87
   },
   {
     "type": "community",
@@ -10754,7 +10754,7 @@
     "name": "San Diego Bitcoiners",
     "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 28
+    "merchantCount": 29
   },
   {
     "continent": "south-america",
@@ -12162,7 +12162,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3194
+    "merchantCount": 3250
   },
   {
     "population": 1734000,
@@ -12291,7 +12291,7 @@
     "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
     "contact:website": "https://linktr.ee/VancouverBitcoiners",
     "id": 639,
-    "merchantCount": 201
+    "merchantCount": 200
   },
   {
     "population:rank": 9,
@@ -12523,7 +12523,7 @@
     "contact:twitter": "https://twitter.com/MassBitcoin",
     "url_alias": "western-mass-bitcoin",
     "id": 650,
-    "merchantCount": 8
+    "merchantCount": 9
   },
   {
     "iso_a2": "WF",
@@ -12772,7 +12772,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 20443
+    "merchantCount": 20498
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -14371,19 +14371,10 @@
     "merchantCount": 20
   },
   {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-salvador-bahia.png",
-    "name": "Bitcoin Salvador Bahia",
-    "population": 3919865,
-    "population:date": "2022-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-salvador-bahia",
-    "tips:lightning_address": "ornatetongue99@walletofsatoshi.com",
-    "contact:instagram": "https://www.instagram.com/brp2pcripto",
-    "contact:email": "brp2pcripto@proton.me",
-    "area_km2": 858,
     "id": 748,
-    "merchantCount": 41
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 5829.56,
@@ -15009,7 +15000,7 @@
     "type": "community",
     "url_alias": "einundzwanzig-ostschweiz",
     "id": 790,
-    "merchantCount": 106
+    "merchantCount": 107
   },
   {
     "id": 791,
@@ -15104,7 +15095,7 @@
     "type": "community",
     "url_alias": "bitcoin-chatt",
     "id": 796,
-    "merchantCount": 7
+    "merchantCount": 8
   },
   {
     "continent": "south-america",
@@ -15424,7 +15415,7 @@
     "type": "community",
     "organization": "bit-devs",
     "id": 817,
-    "merchantCount": 5
+    "merchantCount": 6
   },
   {
     "id": 818,
@@ -15446,7 +15437,7 @@
     "description": "The Cleveland Bitcoin Club has public, free meetups twice a month. One is typically a bar/social meetup and another is an education/demonstration/planning type meetup at a Public Library. Cleveland Bitcoin hosted the 2024 Halving Party at Town Hall in Ohio City in April 2024 with 60+ attendees and several vendors who accept Bitcoin attended. All are welcome - Bitcoin only.",
     "type": "community",
     "id": 819,
-    "merchantCount": 7
+    "merchantCount": 8
   },
   {
     "continent": "europe",
@@ -15517,7 +15508,7 @@
     "contact:meetup": "https://www.meetup.com/pl-PL/sanantoniobitcoinclub/",
     "type": "community",
     "id": 824,
-    "merchantCount": 16
+    "merchantCount": 18
   },
   {
     "continent": "oceania",
@@ -15615,7 +15606,7 @@
     "area_km2": 99.13,
     "type": "community",
     "id": 831,
-    "merchantCount": 0
+    "merchantCount": 1
   },
   {
     "continent": "north-america",
@@ -16387,7 +16378,7 @@
     "type": "community",
     "area_km2": 9345.28,
     "id": 881,
-    "merchantCount": 36
+    "merchantCount": 37
   },
   {
     "continent": "africa",
@@ -16507,7 +16498,7 @@
     "type": "community",
     "area_km2": 951.54,
     "id": 890,
-    "merchantCount": 41
+    "merchantCount": 42
   },
   {
     "continent": "south-america",
