@@ -2785,6 +2785,21 @@
   },
   {
     "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-salvador-bahia.png",
+    "name": "Bitcoin Salvador Bahia",
+    "population": 3919865,
+    "population:date": "2022-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-salvador-bahia",
+    "tips:lightning_address": "ornatetongue99@walletofsatoshi.com",
+    "contact:instagram": "https://www.instagram.com/brp2pcripto",
+    "contact:email": "brp2pcripto@proton.me",
+    "area_km2": 858,
+    "id": 748,
+    "merchantCount": 41
+  },
+  {
+    "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/satoshi-team.png",
     "name": "Satoshi Team - Antioquia",
     "population": 4055296,
@@ -17168,12 +17183,6 @@
   },
   {
     "id": 746,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 748,
     "type": null,
     "merchantCount": 0,
     "name": null
