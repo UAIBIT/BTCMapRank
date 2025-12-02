@@ -8747,6 +8747,22 @@
     "merchantCount": 5
   },
   {
+    "organization": "2140-meetups",
+    "population": 344129.0,
+    "area_km2": 110.1,
+    "population:date": "2021-01-01",
+    "name": "2140 Bilbo",
+    "continent": "europe",
+    "contact:telegram": "https://t.me/BitcoinBilbo",
+    "contact:email": "aketzaaa@msn.com",
+    "icon:square": "https://static.btcmap.org/images/communities/2140-bilbo.png",
+    "url_alias": "2140-bilbo",
+    "type": "community",
+    "foo": "bar",
+    "id": 1,
+    "merchantCount": 4
+  },
+  {
     "contact:meetup": "https://www.meetup.com/fr-FR/annecy-bitcoin-meetup/",
     "population": 131766,
     "continent": "europe",
@@ -10589,32 +10605,6 @@
     "lat": 13.354173,
     "url_alias": "gu",
     "id": 385,
-    "merchantCount": 2
-  },
-  {
-    "income_grp": "5. Low income",
-    "iso_a3": "KGZ",
-    "subregion": "Central Asia",
-    "wikidataid": "Q813",
-    "economy": "6. Developing region",
-    "gdp_md": 8454,
-    "gdp_year": 2019,
-    "type": "country",
-    "lon": 74.532637,
-    "population:rank": 13,
-    "population:year": 2019,
-    "continent": "Asia",
-    "iso_a2": "KG",
-    "region_wb": "Europe & Central Asia",
-    "sovereignt": "Kyrgyzstan",
-    "country_type": "Sovereign country",
-    "name": "Kyrgyzstan",
-    "population": 6456900,
-    "region_un": "Asia",
-    "lat": 41.66854,
-    "area_km2": 199094.65,
-    "url_alias": "kg",
-    "id": 416,
     "merchantCount": 2
   },
   {
@@ -13219,12 +13209,6 @@
     "name": null
   },
   {
-    "id": 1,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "id": 3,
     "type": null,
     "merchantCount": 0,
@@ -14877,6 +14861,12 @@
     "url_alias": "je",
     "id": 407,
     "merchantCount": 0
+  },
+  {
+    "id": 416,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "country_type": "Sovereign country",
