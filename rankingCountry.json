@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3250
+    "merchantCount": 3282
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2034
+    "merchantCount": 2035
   },
   {
     "population:year": 2019,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1042
+    "merchantCount": 1044
   },
   {
     "iso_a2": "CH",
@@ -257,7 +257,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 523
+    "merchantCount": 524
   },
   {
     "gdp_md": 543548,
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 415
+    "merchantCount": 416
   },
   {
     "country_type": "Sovereign country",
@@ -362,7 +362,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 355
+    "merchantCount": 356
   },
   {
     "region_un": "Europe",
@@ -466,7 +466,33 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 330
+    "merchantCount": 331
+  },
+  {
+    "name": "Poland",
+    "type": "country",
+    "income_grp": "1. High income: OECD",
+    "wikidataid": "Q36",
+    "gdp_year": 2019,
+    "population:rank": 15,
+    "sovereignt": "Poland",
+    "lat": 51.990316,
+    "country_type": "Sovereign country",
+    "population:year": 2019,
+    "population": 37970874,
+    "region_un": "Europe",
+    "gdp_md": 595858,
+    "iso_a3": "POL",
+    "continent": "Europe",
+    "economy": "2. Developed region: nonG7",
+    "iso_a2": "PL",
+    "subregion": "Eastern Europe",
+    "region_wb": "Europe & Central Asia",
+    "lon": 19.490468,
+    "area_km2": 313243.76,
+    "url_alias": "pl",
+    "id": 530,
+    "merchantCount": 298
   },
   {
     "population": 16604026,
@@ -885,6 +911,32 @@
     "merchantCount": 71
   },
   {
+    "region_wb": "Latin America & Caribbean",
+    "type": "country",
+    "wikidataid": "Q750",
+    "lat": -16.666015,
+    "lon": -64.593433,
+    "population:year": 2019,
+    "iso_a3": "BOL",
+    "name": "Bolivia",
+    "continent": "South America",
+    "gdp_year": 2019,
+    "sovereignt": "Bolivia",
+    "region_un": "Americas",
+    "population:rank": 14,
+    "area_km2": 1092709.98,
+    "income_grp": "4. Lower middle income",
+    "country_type": "Sovereign country",
+    "iso_a2": "BO",
+    "subregion": "South America",
+    "population": 11513100,
+    "gdp_md": 40895,
+    "economy": "5. Emerging region: G20",
+    "url_alias": "bo",
+    "id": 168,
+    "merchantCount": 69
+  },
+  {
     "lon": 128.129504,
     "region_wb": "East Asia & Pacific",
     "iso_a3": "KOR",
@@ -909,32 +961,6 @@
     "url_alias": "kr",
     "id": 425,
     "merchantCount": 69
-  },
-  {
-    "region_wb": "Latin America & Caribbean",
-    "type": "country",
-    "wikidataid": "Q750",
-    "lat": -16.666015,
-    "lon": -64.593433,
-    "population:year": 2019,
-    "iso_a3": "BOL",
-    "name": "Bolivia",
-    "continent": "South America",
-    "gdp_year": 2019,
-    "sovereignt": "Bolivia",
-    "region_un": "Americas",
-    "population:rank": 14,
-    "area_km2": 1092709.98,
-    "income_grp": "4. Lower middle income",
-    "country_type": "Sovereign country",
-    "iso_a2": "BO",
-    "subregion": "South America",
-    "population": 11513100,
-    "gdp_md": 40895,
-    "economy": "5. Emerging region: G20",
-    "url_alias": "bo",
-    "id": 168,
-    "merchantCount": 68
   },
   {
     "population:rank": 12,
@@ -2657,6 +2683,32 @@
     "merchantCount": 3
   },
   {
+    "income_grp": "3. Upper middle income",
+    "country_type": "Sovereign country",
+    "gdp_md": 44502,
+    "gdp_year": 2019,
+    "name": "Jordan",
+    "continent": "Asia",
+    "lon": 36.375991,
+    "type": "country",
+    "population:rank": 14,
+    "iso_a3": "JOR",
+    "region_wb": "Middle East & North Africa",
+    "subregion": "Western Asia",
+    "population": 10101694,
+    "iso_a2": "JO",
+    "population:year": 2019,
+    "wikidataid": "Q810",
+    "economy": "6. Developing region",
+    "lat": 30.805025,
+    "area_km2": 89058.07,
+    "sovereignt": "Jordan",
+    "region_un": "Asia",
+    "url_alias": "jo",
+    "id": 413,
+    "merchantCount": 3
+  },
+  {
     "iso_a3": "KHM",
     "subregion": "South-Eastern Asia",
     "sovereignt": "Cambodia",
@@ -2940,32 +2992,6 @@
     "lat": 13.354173,
     "url_alias": "gu",
     "id": 385,
-    "merchantCount": 2
-  },
-  {
-    "income_grp": "3. Upper middle income",
-    "country_type": "Sovereign country",
-    "gdp_md": 44502,
-    "gdp_year": 2019,
-    "name": "Jordan",
-    "continent": "Asia",
-    "lon": 36.375991,
-    "type": "country",
-    "population:rank": 14,
-    "iso_a3": "JOR",
-    "region_wb": "Middle East & North Africa",
-    "subregion": "Western Asia",
-    "population": 10101694,
-    "iso_a2": "JO",
-    "population:year": 2019,
-    "wikidataid": "Q810",
-    "economy": "6. Developing region",
-    "lat": 30.805025,
-    "area_km2": 89058.07,
-    "sovereignt": "Jordan",
-    "region_un": "Asia",
-    "url_alias": "jo",
-    "id": 413,
     "merchantCount": 2
   },
   {
