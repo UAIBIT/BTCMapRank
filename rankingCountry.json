@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3282
+    "merchantCount": 3335
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2035
+    "merchantCount": 2036
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1329
+    "merchantCount": 1330
   },
   {
     "gdp_md": 351431,
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 810
+    "merchantCount": 809
   },
   {
     "name": "Germany",
@@ -231,7 +231,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 531
+    "merchantCount": 534
   },
   {
     "sovereignt": "Canada",
@@ -518,7 +518,7 @@
     "type": "country",
     "url_alias": "gt",
     "id": 384,
-    "merchantCount": 273
+    "merchantCount": 274
   },
   {
     "lat": 48.734044,
@@ -700,7 +700,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 132
+    "merchantCount": 133
   },
   {
     "lon": -70.653998,
@@ -2033,6 +2033,32 @@
     "merchantCount": 9
   },
   {
+    "country_type": "Country",
+    "population": 5818553,
+    "population:year": 2019,
+    "iso_a2": "DK",
+    "region_un": "Europe",
+    "lat": 55.966965,
+    "income_grp": "1. High income: OECD",
+    "lon": 9.018163,
+    "continent": "Europe",
+    "population:rank": 13,
+    "subregion": "Northern Europe",
+    "wikidataid": "Q35",
+    "gdp_md": 350104,
+    "region_wb": "Europe & Central Asia",
+    "sovereignt": "Denmark",
+    "economy": "2. Developed region: nonG7",
+    "name": "Denmark",
+    "type": "country",
+    "iso_a3": "DNK",
+    "gdp_year": 2019,
+    "area_km2": 42511.96,
+    "url_alias": "dk",
+    "id": 230,
+    "merchantCount": 8
+  },
+  {
     "type": "country",
     "income_grp": "3. Upper middle income",
     "population:year": 2019,
@@ -2134,32 +2160,6 @@
     "region_un": "Africa",
     "url_alias": "bi",
     "id": 59,
-    "merchantCount": 7
-  },
-  {
-    "country_type": "Country",
-    "population": 5818553,
-    "population:year": 2019,
-    "iso_a2": "DK",
-    "region_un": "Europe",
-    "lat": 55.966965,
-    "income_grp": "1. High income: OECD",
-    "lon": 9.018163,
-    "continent": "Europe",
-    "population:rank": 13,
-    "subregion": "Northern Europe",
-    "wikidataid": "Q35",
-    "gdp_md": 350104,
-    "region_wb": "Europe & Central Asia",
-    "sovereignt": "Denmark",
-    "economy": "2. Developed region: nonG7",
-    "name": "Denmark",
-    "type": "country",
-    "iso_a3": "DNK",
-    "gdp_year": 2019,
-    "area_km2": 42511.96,
-    "url_alias": "dk",
-    "id": 230,
     "merchantCount": 7
   },
   {
