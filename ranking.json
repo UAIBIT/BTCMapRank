@@ -8393,6 +8393,32 @@
     "merchantCount": 5
   },
   {
+    "name": "Luxembourg",
+    "sovereignt": "Luxembourg",
+    "population:rank": 11,
+    "iso_a2": "LU",
+    "region_un": "Europe",
+    "subregion": "Western Europe",
+    "population": 619896,
+    "wikidataid": "Q32",
+    "lat": 49.733732,
+    "type": "country",
+    "iso_a3": "LUX",
+    "country_type": "Sovereign country",
+    "region_wb": "Europe & Central Asia",
+    "continent": "Europe",
+    "lon": 6.07762,
+    "population:year": 2019,
+    "gdp_md": 71104,
+    "area_km2": 2617.74,
+    "gdp_year": 2019,
+    "economy": "2. Developed region: nonG7",
+    "income_grp": "1. High income: OECD",
+    "url_alias": "lu",
+    "id": 450,
+    "merchantCount": 5
+  },
+  {
     "continent": "europe",
     "area_km2": 1991.61,
     "population": 314138,
@@ -12260,32 +12286,6 @@
     "merchantCount": 1
   },
   {
-    "region_wb": "Sub-Saharan Africa",
-    "lon": 46.704241,
-    "population:year": 2019,
-    "continent": "Africa",
-    "lat": -18.628288,
-    "income_grp": "5. Low income",
-    "name": "Madagascar",
-    "type": "country",
-    "economy": "7. Least developed region",
-    "gdp_md": 14114,
-    "iso_a3": "MDG",
-    "sovereignt": "Madagascar",
-    "area_km2": 595928.46,
-    "region_un": "Africa",
-    "population": 26969307,
-    "wikidataid": "Q1019",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "subregion": "Eastern Africa",
-    "iso_a2": "MG",
-    "population:rank": 15,
-    "url_alias": "mg",
-    "id": 472,
-    "merchantCount": 1
-  },
-  {
     "name": "Mali",
     "type": "country",
     "lon": -2.038455,
@@ -15099,12 +15099,6 @@
     "merchantCount": 0
   },
   {
-    "id": 450,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "continent": "Africa",
     "income_grp": "3. Upper middle income",
     "region_wb": "Middle East & North Africa",
@@ -15250,6 +15244,12 @@
     "url_alias": "mf",
     "id": 471,
     "merchantCount": 0
+  },
+  {
+    "id": 472,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "gdp_md": 221,
