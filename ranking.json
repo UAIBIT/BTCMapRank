@@ -6567,32 +6567,6 @@
     "merchantCount": 9
   },
   {
-    "economy": "3. Emerging region: BRIC",
-    "continent": "Europe",
-    "lat": 58.249357,
-    "income_grp": "3. Upper middle income",
-    "iso_a3": "RUS",
-    "gdp_year": 2019,
-    "area_km2": 16917468.03,
-    "name": "Russia",
-    "region_un": "Europe",
-    "lon": 44.686469,
-    "population": 144373535,
-    "iso_a2": "RU",
-    "country_type": "Sovereign country",
-    "sovereignt": "Russia",
-    "type": "country",
-    "subregion": "Eastern Europe",
-    "population:year": 2019,
-    "wikidataid": "Q159",
-    "gdp_md": 1699876,
-    "region_wb": "Europe & Central Asia",
-    "population:rank": 17,
-    "url_alias": "ru",
-    "id": 558,
-    "merchantCount": 9
-  },
-  {
     "iso_a3": "SGP",
     "wikidataid": "Q334",
     "population:rank": 13,
@@ -15830,6 +15804,12 @@
     "contact:nostr": "npub1mmkkkgm6cp98wt6p2mnfp2dxylltytr9kvw0j9ph5sz83ctwtrsstanlr7",
     "id": 554,
     "merchantCount": 0
+  },
+  {
+    "id": 558,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "iso_a2": "RW",
