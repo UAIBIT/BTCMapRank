@@ -6567,6 +6567,32 @@
     "merchantCount": 9
   },
   {
+    "economy": "3. Emerging region: BRIC",
+    "continent": "Europe",
+    "lat": 58.249357,
+    "income_grp": "3. Upper middle income",
+    "iso_a3": "RUS",
+    "gdp_year": 2019,
+    "area_km2": 16917468.03,
+    "name": "Russia",
+    "region_un": "Europe",
+    "lon": 44.686469,
+    "population": 144373535,
+    "iso_a2": "RU",
+    "country_type": "Sovereign country",
+    "sovereignt": "Russia",
+    "type": "country",
+    "subregion": "Eastern Europe",
+    "population:year": 2019,
+    "wikidataid": "Q159",
+    "gdp_md": 1699876,
+    "region_wb": "Europe & Central Asia",
+    "population:rank": 17,
+    "url_alias": "ru",
+    "id": 558,
+    "merchantCount": 9
+  },
+  {
     "iso_a3": "SGP",
     "wikidataid": "Q334",
     "population:rank": 13,
@@ -7329,32 +7355,6 @@
     "url_alias": "lake-district-btc",
     "contact:twitter": "https://twitter.com/LakeDistrictBTC",
     "id": 432,
-    "merchantCount": 7
-  },
-  {
-    "name": "Latvia",
-    "continent": "Europe",
-    "iso_a2": "LV",
-    "country_type": "Sovereign country",
-    "type": "country",
-    "population:year": 2019,
-    "lat": 57.066872,
-    "income_grp": "3. Upper middle income",
-    "lon": 25.458723,
-    "population": 1912789,
-    "gdp_md": 34102,
-    "gdp_year": 2019,
-    "wikidataid": "Q211",
-    "subregion": "Northern Europe",
-    "population:rank": 12,
-    "iso_a3": "LVA",
-    "region_wb": "Europe & Central Asia",
-    "economy": "2. Developed region: nonG7",
-    "area_km2": 64403.65,
-    "region_un": "Europe",
-    "sovereignt": "Latvia",
-    "url_alias": "lv",
-    "id": 452,
     "merchantCount": 7
   },
   {
@@ -15085,6 +15085,12 @@
     "merchantCount": 0
   },
   {
+    "id": 452,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "continent": "Africa",
     "income_grp": "3. Upper middle income",
     "region_wb": "Middle East & North Africa",
@@ -15804,12 +15810,6 @@
     "contact:nostr": "npub1mmkkkgm6cp98wt6p2mnfp2dxylltytr9kvw0j9ph5sz83ctwtrsstanlr7",
     "id": 554,
     "merchantCount": 0
-  },
-  {
-    "id": 558,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "iso_a2": "RW",
