@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3335
+    "merchantCount": 3380
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2036
+    "merchantCount": 2037
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1330
+    "merchantCount": 1331
   },
   {
     "gdp_md": 351431,
@@ -127,7 +127,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1101
+    "merchantCount": 1100
   },
   {
     "subregion": "Southern Europe",
@@ -231,7 +231,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 534
+    "merchantCount": 535
   },
   {
     "sovereignt": "Canada",
@@ -934,7 +934,7 @@
     "economy": "5. Emerging region: G20",
     "url_alias": "bo",
     "id": 168,
-    "merchantCount": 69
+    "merchantCount": 70
   },
   {
     "lon": 128.129504,
@@ -1116,7 +1116,7 @@
     "population:year": 2019,
     "url_alias": "py",
     "id": 543,
-    "merchantCount": 50
+    "merchantCount": 51
   },
   {
     "type": "country",
@@ -2033,32 +2033,6 @@
     "merchantCount": 9
   },
   {
-    "country_type": "Country",
-    "population": 5818553,
-    "population:year": 2019,
-    "iso_a2": "DK",
-    "region_un": "Europe",
-    "lat": 55.966965,
-    "income_grp": "1. High income: OECD",
-    "lon": 9.018163,
-    "continent": "Europe",
-    "population:rank": 13,
-    "subregion": "Northern Europe",
-    "wikidataid": "Q35",
-    "gdp_md": 350104,
-    "region_wb": "Europe & Central Asia",
-    "sovereignt": "Denmark",
-    "economy": "2. Developed region: nonG7",
-    "name": "Denmark",
-    "type": "country",
-    "iso_a3": "DNK",
-    "gdp_year": 2019,
-    "area_km2": 42511.96,
-    "url_alias": "dk",
-    "id": 230,
-    "merchantCount": 8
-  },
-  {
     "type": "country",
     "income_grp": "3. Upper middle income",
     "population:year": 2019,
@@ -2160,6 +2134,32 @@
     "region_un": "Africa",
     "url_alias": "bi",
     "id": 59,
+    "merchantCount": 7
+  },
+  {
+    "country_type": "Country",
+    "population": 5818553,
+    "population:year": 2019,
+    "iso_a2": "DK",
+    "region_un": "Europe",
+    "lat": 55.966965,
+    "income_grp": "1. High income: OECD",
+    "lon": 9.018163,
+    "continent": "Europe",
+    "population:rank": 13,
+    "subregion": "Northern Europe",
+    "wikidataid": "Q35",
+    "gdp_md": 350104,
+    "region_wb": "Europe & Central Asia",
+    "sovereignt": "Denmark",
+    "economy": "2. Developed region: nonG7",
+    "name": "Denmark",
+    "type": "country",
+    "iso_a3": "DNK",
+    "gdp_year": 2019,
+    "area_km2": 42511.96,
+    "url_alias": "dk",
+    "id": 230,
     "merchantCount": 7
   },
   {
