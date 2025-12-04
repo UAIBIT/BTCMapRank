@@ -3308,23 +3308,6 @@
     "merchantCount": 34
   },
   {
-    "contact:nostr": "npub1eqv8pvhm3vmrw6l4359v7qk8whr4ylepaku0deg5zhzkfvhmnl9st5r5x2",
-    "contact:website": "https://jednadvacet.org/",
-    "url_alias": "jednadvacet-liberec",
-    "area_km2": 1366.9,
-    "contact:signal": "https://signal.group/#CjQKIKtzoUpECn8UMe75RVp5JarCLBHIRjks3CpZKWXVMPMDEhDPRKeK6Qx3BcNBol90npXl",
-    "tips:lightning_address": "jednadvacet@lnbits.cz",
-    "name": "Jednadvacet Liberec",
-    "population:date": "2023-01-01",
-    "type": "community",
-    "organization": "jednadvacet",
-    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-liberec.png",
-    "continent": "europe",
-    "population": 107389,
-    "id": 409,
-    "merchantCount": 34
-  },
-  {
     "area_km2": 5829.56,
     "contact:email": "salentobitcoin@gmail.com",
     "contact:instagram": "https://www.instagram.com/salento_bitcoin",
@@ -14873,6 +14856,12 @@
     "url_alias": "je",
     "id": 407,
     "merchantCount": 0
+  },
+  {
+    "id": 409,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "country_type": "Sovereign country",
