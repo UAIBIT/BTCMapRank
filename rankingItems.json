@@ -5314,20 +5314,10 @@
     "merchantCount": 1
   },
   {
-    "url_alias": "einundzwanzig-mannheim",
-    "language": "de",
-    "continent": "europe",
-    "area_km2": 145.05,
-    "type": "community",
-    "population": 311831,
-    "contact:twitter": "https://twitter.com/EinundzwanzigMA",
-    "name": "Einundzwanzig Mannheim",
-    "organization": "einundzwanzig",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-mannheim.webp",
-    "contact:telegram": "https://t.me/Einundzwanzig_MANNHEIM",
-    "population:date": "2021-12-31",
     "id": 297,
-    "merchantCount": 1
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 145.05,
@@ -7893,10 +7883,30 @@
     "merchantCount": 6
   },
   {
+    "name": "Kazakhstan",
+    "wikidataid": "Q232",
+    "iso_a2": "KZ",
+    "population": 18513930,
+    "iso_a3": "KAZ",
+    "population:year": 2019,
+    "gdp_md": 181665,
+    "economy": "6. Developing region",
+    "region_wb": "Europe & Central Asia",
+    "subregion": "Central Asia",
+    "country_type": "Sovereignty",
+    "continent": "Asia",
+    "population:rank": 14,
+    "area_km2": 2718851.45,
+    "region_un": "Asia",
+    "type": "country",
+    "lat": 49.054149,
+    "sovereignt": "Kazakhstan",
+    "gdp_year": 2019,
+    "lon": 68.685548,
+    "income_grp": "3. Upper middle income",
+    "url_alias": "kz",
     "id": 428,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "lat": 19.431821,
