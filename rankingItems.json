@@ -9402,19 +9402,10 @@
     "merchantCount": 0
   },
   {
-    "area_km2": 802.57,
-    "type": "community",
-    "url_alias": "neuchatel",
-    "name": "Neuchâtel",
-    "organization": "decouvre-bitcoin",
-    "contact:website": "https://signal.group/#CjQKIOkx1dh5jAnRQ0lO8Ed0Nga55de6C3SBpKnTJveLbzY5EhAo4TuyV8Cff30gTYZMhuI6",
-    "continent": "europe",
-    "population:date": "2020-01-01",
-    "language": "fr",
-    "icon:square": "https://static.btcmap.org/images/communities/neuchatel.png",
-    "population": 44531,
     "id": 501,
-    "merchantCount": 17
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "contact:meetup": "https://www.meetup.com/nevco-bitcoin-meetup/",
@@ -13729,10 +13720,19 @@
     "merchantCount": 35
   },
   {
+    "area_km2": 306,
+    "contact:email": "mel@bitcoinforte.com",
+    "contact:instagram": "https://www.instagram.com/bitcoinforte",
+    "contact:website": "https://www.bitcoinforte.org/",
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-forte.jpg",
+    "name": "Bitcoin Forte",
+    "population": 8410,
+    "population:date": "2021-07-01",
+    "type": "community",
+    "url_alias": "bitcoin-forte",
     "id": 710,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 30
   },
   {
     "area_km2": 392,
