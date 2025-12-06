@@ -8186,20 +8186,6 @@
     "merchantCount": 5
   },
   {
-    "continent": "europe",
-    "name": "Bitcoin Salvabourg",
-    "population:date": "2022-01-01",
-    "url_alias": "bitcoin-salvabourg",
-    "contact:telegram": "https://t.me/+HMaVJHOUBt0wZWU0",
-    "contact:email": "iffrig@hotmail.com",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-salvabourg.jpeg",
-    "population": 645397,
-    "area_km2": 2593.18,
-    "type": "community",
-    "id": 138,
-    "merchantCount": 5
-  },
-  {
     "box:north": "53.41955860486595",
     "box:east": "-1.3023948669433596",
     "box:west": "-1.6319847106933594",
@@ -13646,6 +13632,12 @@
   },
   {
     "id": 133,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 138,
     "type": null,
     "merchantCount": 0,
     "name": null
