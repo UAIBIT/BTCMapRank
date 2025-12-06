@@ -10082,6 +10082,32 @@
     "merchantCount": 2
   },
   {
+    "economy": "6. Developing region",
+    "type": "country",
+    "iso_a3": "ABW",
+    "region_wb": "Latin America & Caribbean",
+    "gdp_year": 2017,
+    "subregion": "Caribbean",
+    "wikidataid": "Q21203",
+    "region_un": "Americas",
+    "gdp_md": 3056,
+    "name": "Aruba",
+    "iso_a2": "AW",
+    "sovereignt": "Netherlands",
+    "continent": "North America",
+    "lat": 12.5174,
+    "country_type": "Country",
+    "lon": -69.972795,
+    "population:rank": 9,
+    "population:year": 2019,
+    "income_grp": "2. High income: nonOECD",
+    "population": 106314,
+    "area_km2": 155.61,
+    "url_alias": "aw",
+    "id": 37,
+    "merchantCount": 2
+  },
+  {
     "continent": "europe",
     "contact:email": "berkshirebitcoiners@gmail.com",
     "box:west": "-1.1618041992187502",
@@ -10984,6 +11010,23 @@
     "type": "community",
     "url_alias": "bitcoin-melkbosstrand",
     "id": 754,
+    "merchantCount": 2
+  },
+  {
+    "area_km2": 475.49,
+    "contact:email": "petronelus@protonmail.com",
+    "contact:signal": "https://signal.group/#CjQKIN6wf-gdM6BWWtWQW_qOjmHovkHrzlM3AMIMZzPX0QCrEhAjG8EVeumNs8Ev7EpQ-zPD",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/21-banska-stiavnica.png",
+    "language": "sk, cs, en",
+    "name": "21 Banská Štiavnica",
+    "organization": "dvadsatjeden",
+    "population": 10000,
+    "population:date": "2023-01-01",
+    "tips:lightning_address": "21bs@pay.dvadsatjeden.org",
+    "type": "community",
+    "url_alias": "21-banska-stiavnica",
+    "id": 755,
     "merchantCount": 2
   },
   {
@@ -13340,12 +13383,6 @@
     "organization": "2140-meetups",
     "id": 30,
     "merchantCount": 0
-  },
-  {
-    "id": 37,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "population": 29884,
@@ -17135,12 +17172,6 @@
   },
   {
     "id": 751,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 755,
     "type": null,
     "merchantCount": 0,
     "name": null
