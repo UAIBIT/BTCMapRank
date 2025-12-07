@@ -8855,21 +8855,6 @@
     "merchantCount": 4
   },
   {
-    "url_alias": "einundzwanzig-darmstadt",
-    "name": "Einundzwanzig Darmstadt",
-    "population:date": "2021-12-31",
-    "type": "community",
-    "continent": "europe",
-    "area_km2": 122.25,
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-darmstadt.webp",
-    "contact:telegram": "https://t.me/einundzwanzigda",
-    "language": "de",
-    "organization": "einundzwanzig",
-    "population": 159631,
-    "id": 261,
-    "merchantCount": 4
-  },
-  {
     "area_km2": 120.0,
     "type": "community",
     "population:date": "2021-12-31",
@@ -14066,6 +14051,12 @@
     "url_alias": "einundzwanzig-bitburg",
     "id": 258,
     "merchantCount": 0
+  },
+  {
+    "id": 261,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "europe",
