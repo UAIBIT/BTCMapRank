@@ -9637,22 +9637,6 @@
     "merchantCount": 3
   },
   {
-    "organization": "decouvre-bitcoin",
-    "area_km2": 10.68,
-    "continent": "europe",
-    "name": "Montévrain",
-    "type": "community",
-    "url_alias": "montevrain",
-    "contact:telegram": "https://t.me/+loN2m1WKWJ01MzBk",
-    "population:date": "2020-01-01",
-    "language": "fr",
-    "population": 17239,
-    "icon:square": "https://static.btcmap.org/images/communities/rennes.webp",
-    "contact:twitter": "https://x.com/parisbtcmeetup",
-    "id": 484,
-    "merchantCount": 3
-  },
-  {
     "contact:twitter": "https://twitter.com/OxBitMeetUp",
     "icon:square": "https://static.btcmap.org/images/communities/oxbit.jpeg",
     "area_km2": 76.52,
@@ -15323,6 +15307,12 @@
     "merchantCount": 0
   },
   {
+    "id": 484,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "gdp_year": 2018,
     "income_grp": "2. High income: nonOECD",
     "region_wb": "East Asia & Pacific",
@@ -17525,10 +17515,22 @@
     "name": null
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lille.png",
+    "name": "Bitcoin Calais",
+    "population": 67380,
+    "population:date": "2021-01-01",
+    "url_alias": "bitcoin-calais",
+    "area_km2": 34.51,
+    "contact:discord": "https://discord.com/invite/pHNq8QX9q9",
+    "contact:email": "bitcoinlille@gmail.com",
+    "contact:telegram": "https://t.me/bitcoincalais",
+    "contact:twitter": "https://x.com/bitcoincalais",
+    "language": "fr",
+    "organization": "Plan B Network",
+    "type": "community",
     "id": 960,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
     "id": 961,
