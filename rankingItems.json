@@ -2110,13 +2110,14 @@
     "type": "community",
     "contact:telegram": "https://t.me/bitcoinlille",
     "language": "fr",
-    "organization": "decouvre-bitcoin",
+    "organization": "Plan B Network",
     "created_at": "2022-09-07T19:00:00Z",
     "tips:lightning_address": "bitcoinlille@walletofsatoshi.com",
     "contact:discord": "https://discord.com/invite/pHNq8QX9q9",
     "contact:meetup": "https://www.meetup.com/fr-FR/bitcoinmeetuplille",
     "contact:twitter": "https://x.com/bitcoinlille",
     "contact:website": "https://bitcoinlille.fr/",
+    "contact:email": "bitcoinlille@gmail.com",
     "id": 116,
     "merchantCount": 5
   },
@@ -12780,18 +12781,10 @@
     "merchantCount": 47
   },
   {
-    "continent": "north-america",
-    "url_alias": "santa-ana",
-    "area_km2": 104,
-    "population": 272554,
-    "icon:square": "https://static.btcmap.org/images/communities/santa-ana-2.png",
-    "population:date": "2022-01-01",
-    "name": "Comunidad Bitcoin Santa Ana",
-    "type": "community",
-    "contact:email": "bitcoin@unpulmonmas.com",
-    "contact:twitter": "https://x.com/comunidadbtc_sv",
     "id": 664,
-    "merchantCount": 93
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "contact:twitter": "https://twitter.com/enogtyvedk",
@@ -13166,7 +13159,7 @@
     "icon:square": "https://static.btcmap.org/images/communities/lens.png",
     "language": "fr",
     "name": "Lens",
-    "organization": "decouvre-bitcoin",
+    "organization": "Plan B Network",
     "population": 242000,
     "population:date": "2021-01-01",
     "type": "community",
