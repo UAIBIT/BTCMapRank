@@ -5073,6 +5073,21 @@
     "merchantCount": 16
   },
   {
+    "population:date": "2021-12-31",
+    "language": "de",
+    "name": "Einundzwanzig Hamburg",
+    "area_km2": 974.22,
+    "url_alias": "einundzwanzig-hamburg",
+    "contact:telegram": "https://t.me/Einundzwanzig_HH",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-hamburg.webp",
+    "continent": "europe",
+    "population": 1853935,
+    "organization": "einundzwanzig",
+    "id": 276,
+    "merchantCount": 16
+  },
+  {
     "type": "community",
     "population": 362540,
     "icon:square": "https://static.btcmap.org/images/communities/oeste-bitcoin-maxi-meetup.svg",
@@ -13127,22 +13142,6 @@
     "merchantCount": 1
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://storage.googleapis.com/msgsndr/hNMnkoyeOjjcOYroguR0/media/687f99c8f514b74b510928ae.png",
-    "name": "Simcoe County Bitcoin",
-    "population": 351929,
-    "population:date": "2022-02-02",
-    "url_alias": "simcoe-county-bitcoin",
-    "tips:lightning_address": "morningrevolution@orangepillapp.com",
-    "contact:website": "https://simcoecountybitcoin.ca/",
-    "contact:twitter": "https://x.com/SimcoeCountyBTC",
-    "contact:email": "hello@simcoecountybitcoin.ca",
-    "type": "community",
-    "area_km2": 6431.27,
-    "id": 925,
-    "merchantCount": 1
-  },
-  {
     "continent": "oceania",
     "icon:square": "https://raw.githubusercontent.com/SurfcoastBitcoin/Files/refs/heads/main/SurfcoastBitcoin.png",
     "name": "Surfcoast Bitcoin",
@@ -14098,12 +14097,6 @@
     "contact:telegram": "https://t.me/einundzwanzig_gelnhausen",
     "id": 274,
     "merchantCount": 0
-  },
-  {
-    "id": 276,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "area_km2": 100.03,
@@ -17430,6 +17423,12 @@
   },
   {
     "id": 922,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 925,
     "type": null,
     "merchantCount": 0,
     "name": null
