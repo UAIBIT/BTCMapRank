@@ -5003,19 +5003,10 @@
     "merchantCount": 13
   },
   {
-    "population:date": "2021-12-31",
-    "language": "de",
-    "name": "Einundzwanzig Hamburg",
-    "area_km2": 974.22,
-    "url_alias": "einundzwanzig-hamburg",
-    "contact:telegram": "https://t.me/Einundzwanzig_HH",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-hamburg.webp",
-    "continent": "europe",
-    "population": 1853935,
-    "organization": "einundzwanzig",
     "id": 276,
-    "merchantCount": 16
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "name": "Einundzwanzig Heide",
@@ -12781,10 +12772,18 @@
     "merchantCount": 47
   },
   {
+    "continent": "north-america",
+    "url_alias": "santa-ana",
+    "area_km2": 104,
+    "population": 272554,
+    "icon:square": "https://static.btcmap.org/images/communities/santa-ana-2.png",
+    "population:date": "2022-01-01",
+    "name": "Comunidad Bitcoin Santa Ana",
+    "type": "community",
+    "contact:email": "bitcoin@unpulmonmas.com",
+    "contact:twitter": "https://x.com/comunidadbtc_sv",
     "id": 664,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 93
   },
   {
     "contact:twitter": "https://twitter.com/enogtyvedk",
