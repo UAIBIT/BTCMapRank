@@ -141,7 +141,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1814
+    "merchantCount": 1793
   },
   {
     "subregion": "Caribbean",
@@ -587,7 +587,7 @@
     "contact:website": "https://atlantabitdevs.org",
     "population:date": "2020-01-01",
     "id": 32,
-    "merchantCount": 20
+    "merchantCount": 21
   },
   {
     "sovereignt": "Australia",
@@ -1664,7 +1664,7 @@
     "name": "Bitcoin Dada Nairobi",
     "population:date": "2019-01-01",
     "id": 92,
-    "merchantCount": 100
+    "merchantCount": 79
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-derby.jpeg",
@@ -2839,7 +2839,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 99
+    "merchantCount": 100
   },
   {
     "type": "community",
@@ -3347,7 +3347,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 526
+    "merchantCount": 525
   },
   {
     "url_alias": "cafeteros-bitcoiners",
@@ -4008,7 +4008,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1099
+    "merchantCount": 1098
   },
   {
     "organization": "plan-b-network",
@@ -7412,7 +7412,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1045
+    "merchantCount": 1046
   },
   {
     "region_un": "Europe",
@@ -7504,7 +7504,7 @@
     "population": 2709418,
     "url_alias": "jednadvacet-praha",
     "id": 411,
-    "merchantCount": 333
+    "merchantCount": 332
   },
   {
     "type": "country",
@@ -7582,7 +7582,7 @@
     "area_km2": 370927.36,
     "url_alias": "jp",
     "id": 414,
-    "merchantCount": 58
+    "merchantCount": 59
   },
   {
     "area_km2": 596166.85,
@@ -7608,7 +7608,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 138
+    "merchantCount": 117
   },
   {
     "income_grp": "5. Low income",
@@ -9808,7 +9808,7 @@
     "lon": -80.352106,
     "url_alias": "pa",
     "id": 520,
-    "merchantCount": 27
+    "merchantCount": 28
   },
   {
     "type": "trash",
@@ -9823,7 +9823,7 @@
     "url_alias": "paralelni-polis",
     "population:date": "2021",
     "id": 521,
-    "merchantCount": 333
+    "merchantCount": 332
   },
   {
     "population:date": "2021-01-01",
@@ -9975,7 +9975,7 @@
     "gdp_md": 376795,
     "url_alias": "ph",
     "id": 528,
-    "merchantCount": 79
+    "merchantCount": 78
   },
   {
     "population": 216565318,
@@ -10367,7 +10367,7 @@
     "box:east": "-122.38043917524337",
     "icon:square": "https://static.btcmap.org/images/communities/redding-bitcoin.jpg",
     "id": 547,
-    "merchantCount": 2
+    "merchantCount": 3
   },
   {
     "url_alias": "reichenbach-an-der-fils",
@@ -10815,7 +10815,7 @@
     "continent": "europe",
     "type": "trash",
     "id": 572,
-    "merchantCount": 1081
+    "merchantCount": 1082
   },
   {
     "name": "Arezzo Bitcoin Meetup",
@@ -12153,7 +12153,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3530
+    "merchantCount": 3554
   },
   {
     "population": 1734000,
@@ -12282,7 +12282,7 @@
     "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
     "contact:website": "https://linktr.ee/VancouverBitcoiners",
     "id": 639,
-    "merchantCount": 200
+    "merchantCount": 199
   },
   {
     "population:rank": 9,
@@ -12763,7 +12763,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 20809
+    "merchantCount": 20812
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -13162,23 +13162,10 @@
     "merchantCount": 9
   },
   {
-    "contact:telegram": "https://t.me/bitcoinlens",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/lens.png",
-    "language": "fr",
-    "name": "Lens",
-    "organization": "Plan B Network",
-    "population": 242000,
-    "population:date": "2021-01-01",
-    "type": "community",
-    "url_alias": "lens",
-    "area_km2": 12,
-    "contact:discord": "https://discord.gg/pHNq8QX9q9",
-    "contact:email": "bitcoinlille@gmail.com",
-    "contact:website": "https://bitcoinlille.fr",
-    "tips:lightning_address": "bitcoinlille@walletofsatoshi.com",
     "id": 683,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 10936.18,
@@ -13903,7 +13890,7 @@
     "type": "community",
     "url_alias": "the-core",
     "id": 720,
-    "merchantCount": 100
+    "merchantCount": 79
   },
   {
     "area_km2": 9155,
@@ -14668,7 +14655,7 @@
     "type": "community",
     "url_alias": "bitcoin-nairobi",
     "id": 767,
-    "merchantCount": 93
+    "merchantCount": 72
   },
   {
     "area_km2": 4544.04,
@@ -15508,7 +15495,7 @@
     "contact:meetup": "https://www.meetup.com/pl-PL/sanantoniobitcoinclub/",
     "type": "community",
     "id": 824,
-    "merchantCount": 19
+    "merchantCount": 20
   },
   {
     "continent": "oceania",
@@ -15570,7 +15557,7 @@
     "type": "community",
     "area_km2": 12.55,
     "id": 828,
-    "merchantCount": 24
+    "merchantCount": 19
   },
   {
     "id": 829,
@@ -15999,7 +15986,7 @@
     "type": "community",
     "contact:simplex": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2Fs8mOfkuMKjPNiJSPX1EBsLIdB0J9RFPv%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEA-rUzLoavGMeYO39ANja4nB65MBdSOivryfsQzkYzalE%3D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B\"type\"%3A\"group\"%2C\"groupLinkId\"%3A\"F_bhhzNqG55mN98zabATPw%3D%3D\"%7D",
     "id": 856,
-    "merchantCount": 2
+    "merchantCount": 3
   },
   {
     "continent": "africa",
@@ -16498,7 +16485,7 @@
     "type": "community",
     "area_km2": 951.54,
     "id": 890,
-    "merchantCount": 42
+    "merchantCount": 43
   },
   {
     "continent": "south-america",
@@ -17031,10 +17018,20 @@
     "merchantCount": 8
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://storage.googleapis.com/msgsndr/hNMnkoyeOjjcOYroguR0/media/687f99c8f514b74b510928ae.png",
+    "name": "Simcoe County Bitcoin",
+    "population": 351929,
+    "population:date": "2022-02-02",
+    "url_alias": "simcoe-county-bitcoin",
+    "tips:lightning_address": "morningrevolution@orangepillapp.com",
+    "contact:website": "https://simcoecountybitcoin.ca/",
+    "contact:twitter": "https://x.com/SimcoeCountyBTC",
+    "contact:email": "hello@simcoecountybitcoin.ca",
+    "type": "community",
+    "area_km2": 6431.27,
     "id": 925,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "continent": "europe",
@@ -17521,7 +17518,7 @@
     "organization": "Plan B Network",
     "type": "community",
     "id": 960,
-    "merchantCount": null
+    "merchantCount": 1
   },
   {
     "id": 961,
