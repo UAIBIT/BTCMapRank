@@ -7174,20 +7174,6 @@
     "merchantCount": 8
   },
   {
-    "continent": "south-america",
-    "icon:square": "https://raw.githubusercontent.com/PexeirosBitcoin/Files/main/PexeirosBitcoin.png",
-    "name": "Pexeiros do Bitcoin",
-    "population": 264054,
-    "population:date": "2023-06-28",
-    "url_alias": "pexeiros-do-bitcoin",
-    "organization": "uaibit",
-    "contact:whatsapp": "https://chat.whatsapp.com/J0FHTZ7MnUqLbxeLToQBkK",
-    "type": "community",
-    "area_km2": 299.33,
-    "id": 959,
-    "merchantCount": 8
-  },
-  {
     "iso_a3": "BDI",
     "region_wb": "Sub-Saharan Africa",
     "lat": -3.332836,
@@ -10582,6 +10568,22 @@
     "population": 63508,
     "area_km2": 37.15,
     "id": 322,
+    "merchantCount": 2
+  },
+  {
+    "url_alias": "einundzwanzig-vulkaneifel",
+    "organization": "einundzwanzig",
+    "population": 61735,
+    "contact:twitter": "https://twitter.com/EinundzwanzigVE",
+    "type": "community",
+    "continent": "europe",
+    "name": "Einundzwanzig Vulkaneifel",
+    "area_km2": 1220.15,
+    "language": "de",
+    "contact:telegram": "https://t.me/Einundzwanzig_Vulka",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-vulkaneifel.webp",
+    "population:date": "2021-12-31",
+    "id": 345,
     "merchantCount": 2
   },
   {
@@ -14341,12 +14343,6 @@
     "merchantCount": 0
   },
   {
-    "id": 345,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "name": "Einundzwanzig Wacken",
     "population": 1990,
     "contact:telegram": "https://t.me/einundzwanzigWOA",
@@ -17519,6 +17515,12 @@
   },
   {
     "id": 958,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 959,
     "type": null,
     "merchantCount": 0,
     "name": null
