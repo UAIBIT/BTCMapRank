@@ -1713,6 +1713,27 @@
     "merchantCount": 78
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/satoshi-somos-todos.jpg",
+    "name": "Satoshi Somos Todos",
+    "population": 1029110,
+    "population:date": "2023-09-18",
+    "url_alias": "satoshi-somos-todos",
+    "contact:twitter": "https://x.com/unidosxsatoshi",
+    "contact:discord": "https://discord.com/invite/EGqK2DC4xS",
+    "contact:youtube": "https://www.youtube.com/channel/UCy6Bj_2uf3qNskJCESZnvNg",
+    "contact:email": "srivas@satoshisomostodos.com",
+    "tips:lightning_address": "tokio@blink.sv",
+    "type": "community",
+    "area_km2": 1432.36,
+    "organization": "veintiuno-lat",
+    "contact:website": "https://linktr.ee/SatoshiSomosTodos",
+    "contact:telegram": "https://t.me/+5vuB9qMJKdI4MmQx",
+    "contact:github": "https://github.com/tokiopy/SatoshiSomosTodos",
+    "id": 869,
+    "merchantCount": 77
+  },
+  {
     "area_km2": 182349.87,
     "contact:telegram": "https://t.me/+2yNtegasqLJmMjc1",
     "contact:twitter": "https://x.com/i/communities/1862541840572194921",
@@ -16232,30 +16253,10 @@
     "merchantCount": 0
   },
   {
-    "continent": "Africa",
-    "region_un": "Africa",
-    "population:rank": 13,
-    "type": "country",
-    "lat": 8.80722,
-    "region_wb": "Sub-Saharan Africa",
-    "iso_a2": "TG",
-    "area_km2": 57267.4,
-    "population:year": 2019,
-    "gdp_md": 5490,
-    "name": "Togo",
-    "subregion": "Western Africa",
-    "income_grp": "5. Low income",
-    "wikidataid": "Q945",
-    "lon": 1.058113,
-    "country_type": "Sovereign country",
-    "economy": "7. Least developed region",
-    "iso_a3": "TGO",
-    "sovereignt": "Togo",
-    "population": 8082366,
-    "gdp_year": 2019,
-    "url_alias": "tg",
     "id": 609,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "lat": 38.199835,
@@ -17385,12 +17386,6 @@
     "area_km2": 19.02,
     "id": 866,
     "merchantCount": 0
-  },
-  {
-    "id": 869,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "id": 883,
