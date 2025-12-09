@@ -9471,21 +9471,6 @@
     "merchantCount": 3
   },
   {
-    "icon:square": "https://static.btcmap.org/images/communities/grenoble.png",
-    "language": "fr",
-    "area_km2": 4844.0,
-    "url_alias": "grenoble",
-    "population:date": "2020-01-01",
-    "continent": "europe",
-    "population": 157650,
-    "name": "Grenoble",
-    "contact:telegram": "https://t.me/GrenobleBitcoinMeetup",
-    "organization": "decouvre-bitcoin",
-    "type": "community",
-    "id": 382,
-    "merchantCount": 3
-  },
-  {
     "type": "country",
     "sovereignt": "Jamaica",
     "wikidataid": "Q766",
@@ -14691,6 +14676,12 @@
     "url_alias": "gq",
     "id": 376,
     "merchantCount": 0
+  },
+  {
+    "id": 382,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "type": "country",
