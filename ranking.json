@@ -1522,27 +1522,6 @@
     "merchantCount": 90
   },
   {
-    "box:south": "-47.24913107596981",
-    "icon:square": "https://static.btcmap.org/images/communities/nzbitcoiners.png",
-    "continent": "oceania",
-    "type": "community",
-    "url_alias": "nzbitcoiners",
-    "contact:twitter": "https://twitter.com/NZBitcoiners",
-    "box:west": "153.34731892470194",
-    "contact:reddit": "https://www.reddit.com/r/BitcoinNewZealand/",
-    "contact:website": "https://nzbitcoiners.org/",
-    "box:east": "174.44106892470194",
-    "contact:telegram": "https://t.me/NZBitcoinersGroup",
-    "population:date": "2021-01-01",
-    "box:north": "-40.35460703861130",
-    "contact:email": "hello@nzbitcoiners.org",
-    "name": "NZBitcoiners.org",
-    "population": "2812569",
-    "area_km2": 521054.76,
-    "id": 515,
-    "merchantCount": 87
-  },
-  {
     "url_alias": "bitcoin-beach",
     "box:east": "-89.42716598510744",
     "box:south": "13.48587305804056",
@@ -15609,6 +15588,12 @@
     "url_alias": "nu",
     "id": 513,
     "merchantCount": 0
+  },
+  {
+    "id": 515,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "lon": 57.336553,
