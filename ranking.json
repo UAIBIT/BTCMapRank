@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 20873
+    "merchantCount": 20886
   },
   {
     "sovereignt": "United States of America",
@@ -29,7 +29,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3605
+    "merchantCount": 3614
   },
   {
     "wikidataid": "Q155",
@@ -55,7 +55,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2047
+    "merchantCount": 2046
   },
   {
     "type": "trash",
@@ -70,7 +70,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1794
+    "merchantCount": 1797
   },
   {
     "population:year": 2019,
@@ -122,7 +122,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1231
+    "merchantCount": 1233
   },
   {
     "population:rank": 14,
@@ -204,7 +204,7 @@
     "continent": "europe",
     "organization": "einundzwanzig",
     "id": 331,
-    "merchantCount": 829
+    "merchantCount": 830
   },
   {
     "population": "8636896",
@@ -222,7 +222,7 @@
     "url_alias": "bitcoin-association-switzerland",
     "contact:telegram": "https://t.me/rogerdarin",
     "id": 71,
-    "merchantCount": 826
+    "merchantCount": 827
   },
   {
     "contact:website": "https://dezentralschweiz.ch/",
@@ -238,7 +238,7 @@
     "continent": "europe",
     "contact:telegram": "http://t.me/+ETWFIUzxnlNkZDg0",
     "id": 226,
-    "merchantCount": 826
+    "merchantCount": 827
   },
   {
     "iso_a2": "CH",
@@ -264,7 +264,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 808
+    "merchantCount": 809
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-deutschland.jpg",
@@ -404,7 +404,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 418
+    "merchantCount": 419
   },
   {
     "country_type": "Sovereign country",
@@ -526,7 +526,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 347
+    "merchantCount": 348
   },
   {
     "name": "Einundzwanzig Portugal",
@@ -781,7 +781,7 @@
     "continent": "Europe",
     "url_alias": "sk",
     "id": 587,
-    "merchantCount": 272
+    "merchantCount": 271
   },
   {
     "sovereignt": "Argentina",
@@ -843,6 +843,19 @@
     "merchantCount": 221
   },
   {
+    "area_km2": 3354.54,
+    "contact:twitter": "https://x.com/btc_capetown",
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-cape-town.jpg",
+    "name": "Bitcoin Cape Town",
+    "population": 4772846,
+    "population:date": "2022-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-cape-town",
+    "id": 752,
+    "merchantCount": 203
+  },
+  {
     "gdp_year": 2019,
     "region_un": "Europe",
     "subregion": "Western Europe",
@@ -866,19 +879,6 @@
     "population:rank": 13,
     "url_alias": "at",
     "id": 31,
-    "merchantCount": 202
-  },
-  {
-    "area_km2": 3354.54,
-    "contact:twitter": "https://x.com/btc_capetown",
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-cape-town.jpg",
-    "name": "Bitcoin Cape Town",
-    "population": 4772846,
-    "population:date": "2022-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-cape-town",
-    "id": 752,
     "merchantCount": 202
   },
   {
@@ -1265,24 +1265,6 @@
     "merchantCount": 124
   },
   {
-    "contact:twitter": "https://x.com/bitcoinlake",
-    "box:west": -91.30105,
-    "name": "Bitcoin Lake Guatemala",
-    "box:north": 14.76053,
-    "population": "10000",
-    "box:south": 14.60731,
-    "type": "community",
-    "area_km2": 284.5,
-    "url_alias": "bitcoin-lake-guatemala",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lake.jpg",
-    "continent": "north-america",
-    "population:date": "2023-01-01",
-    "box:east": -91.10794,
-    "contact:website": "http://bitcoinlake.org",
-    "id": 114,
-    "merchantCount": 117
-  },
-  {
     "area_km2": 596166.85,
     "economy": "5. Emerging region: G20",
     "population": 52573973,
@@ -1306,6 +1288,24 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
+    "merchantCount": 118
+  },
+  {
+    "contact:twitter": "https://x.com/bitcoinlake",
+    "box:west": -91.30105,
+    "name": "Bitcoin Lake Guatemala",
+    "box:north": 14.76053,
+    "population": "10000",
+    "box:south": 14.60731,
+    "type": "community",
+    "area_km2": 284.5,
+    "url_alias": "bitcoin-lake-guatemala",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lake.jpg",
+    "continent": "north-america",
+    "population:date": "2023-01-01",
+    "box:east": -91.10794,
+    "contact:website": "http://bitcoinlake.org",
+    "id": 114,
     "merchantCount": 117
   },
   {
@@ -1605,24 +1605,7 @@
     "name": "Bitcoin Dada Nairobi",
     "population:date": "2019-01-01",
     "id": 92,
-    "merchantCount": 79
-  },
-  {
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/colorado-bitcoin.jpg",
-    "box:east": "-102.03345919069119",
-    "contact:twitter": "https://twitter.com/MountainCitadel",
-    "continent": "north-america",
-    "population:date": "2023-01-25",
-    "box:north": "41.009201918461514",
-    "url_alias": "colorado-bitcoin",
-    "box:west": "-109.06414026497994",
-    "population": "5773714",
-    "area_km2": 272346.28,
-    "name": "Colorado Bitcoin",
-    "box:south": "36.998301253689604",
-    "id": 209,
-    "merchantCount": 79
+    "merchantCount": 80
   },
   {
     "area_km2": 1107,
@@ -1643,7 +1626,7 @@
     "type": "community",
     "url_alias": "the-core",
     "id": 720,
-    "merchantCount": 79
+    "merchantCount": 80
   },
   {
     "population": "2891082",
@@ -1658,6 +1641,23 @@
     "url_alias": "bitcoin-night",
     "area_km2": 340.76,
     "id": 127,
+    "merchantCount": 78
+  },
+  {
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/colorado-bitcoin.jpg",
+    "box:east": "-102.03345919069119",
+    "contact:twitter": "https://twitter.com/MountainCitadel",
+    "continent": "north-america",
+    "population:date": "2023-01-25",
+    "box:north": "41.009201918461514",
+    "url_alias": "colorado-bitcoin",
+    "box:west": "-109.06414026497994",
+    "population": "5773714",
+    "area_km2": 272346.28,
+    "name": "Colorado Bitcoin",
+    "box:south": "36.998301253689604",
+    "id": 209,
     "merchantCount": 78
   },
   {
@@ -1773,6 +1773,27 @@
     "merchantCount": 76
   },
   {
+    "area_km2": 699.45,
+    "contact:email": "martin@btcnairobi.com",
+    "contact:github": "https://github.com/btcnairobi",
+    "contact:nostr": "npub1pw778uxwkky3xgq7w3anykdwdw9g46xy8de9mnau0kgwzz375zkq3udv57",
+    "contact:telegram": "https://t.me/btcnairobi",
+    "contact:website": "https://btcnairobi.com",
+    "contact:whatsapp": "https://www.whatsapp.com/channel/0029VaOWaC90AgWH1gjfMB1o",
+    "continent": "africa",
+    "description": "Bitcoin Nairobi Circular Economy empowers Bitcoin education Adoption and Innovation in the region. We are natively English and Swahili speakers and hospitable people.",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-nairobi.png",
+    "language": "en, sw",
+    "name": "Bitcoin Nairobi",
+    "population": 5119000,
+    "population:date": "2022-01-01",
+    "tips:lightning_address": "btcnairobi@blink.sv",
+    "type": "community",
+    "url_alias": "bitcoin-nairobi",
+    "id": 767,
+    "merchantCount": 73
+  },
+  {
     "type": "community",
     "box:north": 51.69389,
     "url_alias": "london-bitcoin-space",
@@ -1813,27 +1834,6 @@
     "population": 19356544,
     "url_alias": "ro",
     "id": 552,
-    "merchantCount": 72
-  },
-  {
-    "area_km2": 699.45,
-    "contact:email": "martin@btcnairobi.com",
-    "contact:github": "https://github.com/btcnairobi",
-    "contact:nostr": "npub1pw778uxwkky3xgq7w3anykdwdw9g46xy8de9mnau0kgwzz375zkq3udv57",
-    "contact:telegram": "https://t.me/btcnairobi",
-    "contact:website": "https://btcnairobi.com",
-    "contact:whatsapp": "https://www.whatsapp.com/channel/0029VaOWaC90AgWH1gjfMB1o",
-    "continent": "africa",
-    "description": "Bitcoin Nairobi Circular Economy empowers Bitcoin education Adoption and Innovation in the region. We are natively English and Swahili speakers and hospitable people.",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-nairobi.png",
-    "language": "en, sw",
-    "name": "Bitcoin Nairobi",
-    "population": 5119000,
-    "population:date": "2022-01-01",
-    "tips:lightning_address": "btcnairobi@blink.sv",
-    "type": "community",
-    "url_alias": "bitcoin-nairobi",
-    "id": 767,
     "merchantCount": 72
   },
   {
@@ -6086,24 +6086,6 @@
     "merchantCount": 11
   },
   {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-presov.svg",
-    "name": "21 Prešov",
-    "population": 82927,
-    "population:date": "2022-01-01",
-    "url_alias": "dvadsatjeden-presov",
-    "organization": "dvadsatjeden",
-    "type": "community",
-    "area_km2": 934.37,
-    "contact:twitter": "https://x.com/Dvadsatjeden",
-    "contact:website": "https://www.dvadsatjeden.org",
-    "contact:email": "presov@dvadsatjeden.org",
-    "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
-    "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
-    "id": 804,
-    "merchantCount": 11
-  },
-  {
     "continent": "asia",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-in-pusan.jpg",
     "name": "Bitcoin in Pusan",
@@ -6384,6 +6366,24 @@
     "type": "community",
     "url_alias": "bitcoin-chatt",
     "id": 796,
+    "merchantCount": 10
+  },
+  {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-presov.svg",
+    "name": "21 Prešov",
+    "population": 82927,
+    "population:date": "2022-01-01",
+    "url_alias": "dvadsatjeden-presov",
+    "organization": "dvadsatjeden",
+    "type": "community",
+    "area_km2": 934.37,
+    "contact:twitter": "https://x.com/Dvadsatjeden",
+    "contact:website": "https://www.dvadsatjeden.org",
+    "contact:email": "presov@dvadsatjeden.org",
+    "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
+    "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
+    "id": 804,
     "merchantCount": 10
   },
   {
@@ -7662,6 +7662,24 @@
     "contact:youtube": "https://www.youtube.com/@bitcoinfamba",
     "contact:facebook": "https://www.facebook.com/bitcoinfamba",
     "id": 882,
+    "merchantCount": 7
+  },
+  {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lille.png",
+    "name": "Bitcoin Calais",
+    "population": 67380,
+    "population:date": "2021-01-01",
+    "url_alias": "bitcoin-calais",
+    "area_km2": 313.04,
+    "contact:discord": "https://discord.com/invite/pHNq8QX9q9",
+    "contact:email": "bitcoinlille@gmail.com",
+    "contact:telegram": "https://t.me/bitcoincalais",
+    "contact:twitter": "https://x.com/bitcoincalais",
+    "language": "fr",
+    "organization": "Plan B Network",
+    "type": "community",
+    "id": 960,
     "merchantCount": 7
   },
   {
@@ -9286,6 +9304,27 @@
     "merchantCount": 3
   },
   {
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoinessex.jpg",
+    "box:east": "0.8061217842623591",
+    "url_alias": "bitcoinessex",
+    "contact:twitter": "https://twitter.com/btcessex",
+    "contact:email": "bitcoinessex@proton.me",
+    "box:south": "51.4926421958085",
+    "box:west": "0.39688106160610914",
+    "contact:website": "https://bitcoinessex.co.uk/",
+    "continent": "europe",
+    "type": "community",
+    "box:north": "51.68291573408931",
+    "population:date": "2021-01-01",
+    "contact:telegram": "https://t.me/bitcoinessex",
+    "tips:lightning_address": "btcessex@coincorner.io",
+    "name": "Bitcoinessex",
+    "area_km2": 3923.4,
+    "population": "1489189",
+    "id": 158,
+    "merchantCount": 3
+  },
+  {
     "contact:email": "tsarahjetter@gmail.com",
     "contact:meetup": "https://www.meetup.com/bozeman-bitcoin-meetup/events/",
     "type": "community",
@@ -10299,27 +10338,6 @@
     "name": "Bitcoiners in Minneapolis",
     "population:date": "2020-01-01",
     "id": 157,
-    "merchantCount": 2
-  },
-  {
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoinessex.jpg",
-    "box:east": "0.8061217842623591",
-    "url_alias": "bitcoinessex",
-    "contact:twitter": "https://twitter.com/btcessex",
-    "contact:email": "bitcoinessex@proton.me",
-    "box:south": "51.4926421958085",
-    "box:west": "0.39688106160610914",
-    "contact:website": "https://bitcoinessex.co.uk/",
-    "continent": "europe",
-    "type": "community",
-    "box:north": "51.68291573408931",
-    "population:date": "2021-01-01",
-    "contact:telegram": "https://t.me/bitcoinessex",
-    "tips:lightning_address": "btcessex@coincorner.io",
-    "name": "Bitcoinessex",
-    "area_km2": 3923.4,
-    "population": "1489189",
-    "id": 158,
     "merchantCount": 2
   },
   {
@@ -12812,6 +12830,23 @@
     "merchantCount": 1
   },
   {
+    "area_km2": 2,
+    "contact:email": "bitcoinloxion@gmail.com",
+    "contact:twitter": "https://x.com/BitcoinLoxion",
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-loxion.png",
+    "name": "Bitcoin Loxion",
+    "population": 391749,
+    "population:date": "2011-01-01",
+    "tips:lightning_address": "loxion@walletofsatoshi.com",
+    "type": "community",
+    "url_alias": "bitcoin-loxion",
+    "contact:facebook": "https://www.facebook.com/events/nkenjane-cape-town-southern-suburbs-south-africa/bitcoinloxion/953496312783041/",
+    "contact:nostr": "npub1gsffvm0eg8jntk6e5swk57hjlz7ec3u6dkpddtg2q47ecrr3h60qk5hqlq",
+    "id": 733,
+    "merchantCount": 1
+  },
+  {
     "continent": "europe",
     "name": "Bitcoin Liverpool",
     "population": "496770",
@@ -13197,24 +13232,6 @@
     "merchantCount": 1
   },
   {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lille.png",
-    "name": "Bitcoin Calais",
-    "population": 67380,
-    "population:date": "2021-01-01",
-    "url_alias": "bitcoin-calais",
-    "area_km2": 313.04,
-    "contact:discord": "https://discord.com/invite/pHNq8QX9q9",
-    "contact:email": "bitcoinlille@gmail.com",
-    "contact:telegram": "https://t.me/bitcoincalais",
-    "contact:twitter": "https://x.com/bitcoincalais",
-    "language": "fr",
-    "organization": "Plan B Network",
-    "type": "community",
-    "id": 960,
-    "merchantCount": 1
-  },
-  {
     "id": 0,
     "type": null,
     "merchantCount": 0,
@@ -13297,22 +13314,10 @@
     "merchantCount": 0
   },
   {
-    "contact:email": "jorg2140.enamel035@simplelogin.com",
-    "type": "community",
-    "organization": "2140-meetups",
-    "continent": "europe",
-    "population": "338577",
-    "contact:telegram": "https://t.me/bitcoinplebsalicante",
-    "population:date": "2022",
-    "name": "Alicante Bitcoin Plebs 🍊💊",
-    "url_alias": "alicante-bitcoin-plebs",
-    "area_km2": 500.72,
-    "icon:square": "https://static.btcmap.org/images/communities/alicante-bitcoin-plebs.png",
-    "contact:twitter": "https://x.com/alicantebitcoin",
-    "contact:nostr": "npub1cgqdph3tyt9fk54gy6ygx5n0uvsyupqmsh5q0whqmzyxl3skt05s0lls50",
-    "description": "Comunidad bitcoiner de la provincia de Alicante 🇪🇸",
     "id": 17,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 12284113.34,
@@ -17080,23 +17085,6 @@
     "type": "community",
     "url_alias": "sovereign-student",
     "id": 726,
-    "merchantCount": 0
-  },
-  {
-    "area_km2": 2,
-    "contact:email": "bitcoinloxion@gmail.com",
-    "contact:twitter": "https://x.com/BitcoinLoxion",
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-loxion.png",
-    "name": "Bitcoin Loxion",
-    "population": 391749,
-    "population:date": "2011-01-01",
-    "tips:lightning_address": "loxion@walletofsatoshi.com",
-    "type": "community",
-    "url_alias": "bitcoin-loxion",
-    "contact:facebook": "https://www.facebook.com/events/nkenjane-cape-town-southern-suburbs-south-africa/bitcoinloxion/953496312783041/",
-    "contact:nostr": "npub1gsffvm0eg8jntk6e5swk57hjlz7ec3u6dkpddtg2q47ecrr3h60qk5hqlq",
-    "id": 733,
     "merchantCount": 0
   },
   {
