@@ -3826,24 +3826,6 @@
     "merchantCount": 12
   },
   {
-    "population:date": "2019-01-01",
-    "contact:facebook": "https://www.facebook.com/LincolnlandBitcoin",
-    "contact:youtube": "https://www.youtube.com/channel/UCaEUfYkstVTinsCvciibWGg",
-    "area_km2": 2286.06,
-    "name": "Lincolnland Bitcoin",
-    "url_alias": "lincolnland-bitcoin",
-    "type": "community",
-    "population": "194672",
-    "contact:twitter": "https://twitter.com/BTCLincolnLand",
-    "contact:email": "lincolnlandbitcoin@gmail.com",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/lincolnland-bitcoin.png",
-    "contact:website": "https://sites.google.com/view/lincolnlandbitcoin",
-    "contact:instagram": "https://www.instagram.com/lincolnlandbitcoin",
-    "id": 442,
-    "merchantCount": 12
-  },
-  {
     "name": "Arezzo Bitcoin Meetup",
     "contact:telegram": "https://t.me/arezzobitcoinmeetup",
     "population:date": "2020-01-01",
@@ -4950,6 +4932,27 @@
     "area_km2": 467.0,
     "population": 79877,
     "id": 69,
+    "merchantCount": 7
+  },
+  {
+    "contact:email": "info@bitembassy.org",
+    "population": "3854000",
+    "url_alias": "bitcoin-embassy-tel-aviv",
+    "contact:website": "https://www.bitembassy.org/",
+    "area_km2": 183.3,
+    "contact:github": "https://github.com/bitembassy",
+    "continent": "asia",
+    "population:date": "2019-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-embassy-tel-aviv.jpg",
+    "type": "community",
+    "name": "Bitcoin Embassy Tel Aviv",
+    "contact:facebook": "https://www.facebook.com/bitcoin.embassy.tlv",
+    "contact:twitter": "https://twitter.com/BitcoinEmbassy",
+    "box:west": "34.76973295211793",
+    "box:east": "34.7713315486908",
+    "box:south": "32.06420335723977",
+    "box:north": "32.06521713107769",
+    "id": 101,
     "merchantCount": 7
   },
   {
