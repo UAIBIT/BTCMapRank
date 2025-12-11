@@ -8619,26 +8619,6 @@
     "merchantCount": 5
   },
   {
-    "area_km2": 136,
-    "contact:email": "info@bitcoinbreda.nl",
-    "contact:facebook": "https://www.facebook.com/profile.php?id=100091658061283",
-    "contact:linkedin": "https://www.linkedin.com/groups/12821289/",
-    "contact:meetup": "https://www.meetup.com/bitcoin-breda",
-    "contact:telegram": "https://t.me/bitcoinbreda",
-    "contact:twitter": "https://x.com/bitcoinbreda",
-    "contact:website": "https://bitcoinbreda.nl/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-breda.png",
-    "name": "Bitcoin Breda",
-    "population": 324812,
-    "population:date": "2014-01-01",
-    "tips:lightning_address": "bitcoinbreda@blink.sv",
-    "type": "community",
-    "url_alias": "bitcoin-breda",
-    "id": 732,
-    "merchantCount": 5
-  },
-  {
     "area_km2": 357.1,
     "contact:email": "hello@bitcoinsheffield.org",
     "contact:website": "https://bitcoinsheffield.org/",
@@ -13799,30 +13779,10 @@
     "merchantCount": 0
   },
   {
-    "gdp_year": 2019,
-    "region_wb": "Latin America & Caribbean",
-    "type": "country",
-    "country_type": "Sovereign country",
-    "lat": 26.401789,
-    "wikidataid": "Q778",
-    "area_km2": 12696.54,
-    "name": "The Bahamas",
-    "income_grp": "2. High income: nonOECD",
-    "subregion": "Caribbean",
-    "economy": "6. Developing region",
-    "region_un": "Americas",
-    "continent": "North America",
-    "gdp_md": 13578,
-    "population": 389482,
-    "lon": -77.146688,
-    "iso_a3": "BHS",
-    "population:year": 2019,
-    "population:rank": 10,
-    "sovereignt": "The Bahamas",
-    "iso_a2": "BS",
-    "url_alias": "bs",
     "id": 178,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "iso_a3": "COG",
@@ -17098,6 +17058,12 @@
     "url_alias": "sovereign-student",
     "id": 726,
     "merchantCount": 0
+  },
+  {
+    "id": 732,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 111.27,
