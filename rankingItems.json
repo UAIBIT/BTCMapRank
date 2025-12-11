@@ -1817,25 +1817,10 @@
     "merchantCount": 69
   },
   {
-    "contact:email": "info@bitembassy.org",
-    "population": "3854000",
-    "url_alias": "bitcoin-embassy-tel-aviv",
-    "contact:website": "https://www.bitembassy.org/",
-    "area_km2": 183.3,
-    "contact:github": "https://github.com/bitembassy",
-    "continent": "asia",
-    "population:date": "2019-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-embassy-tel-aviv.jpg",
-    "type": "community",
-    "name": "Bitcoin Embassy Tel Aviv",
-    "contact:facebook": "https://www.facebook.com/bitcoin.embassy.tlv",
-    "contact:twitter": "https://twitter.com/BitcoinEmbassy",
-    "box:west": "34.76973295211793",
-    "box:east": "34.7713315486908",
-    "box:south": "32.06420335723977",
-    "box:north": "32.06521713107769",
     "id": 101,
-    "merchantCount": 7
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "europe",
@@ -9811,10 +9796,19 @@
     "merchantCount": 28
   },
   {
+    "type": "trash",
+    "contact:email": "bordel@duck.com",
+    "contact:telegram": "https://t.me/PizzaDayPrague",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/paralelni-polis.jpg",
+    "population": "1301432",
+    "area_km2": 735.1,
+    "name": "Paralelní Polis",
+    "organization": "2140-meetups",
+    "url_alias": "paralelni-polis",
+    "population:date": "2021",
     "id": 521,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 332
   },
   {
     "population:date": "2021-01-01",
