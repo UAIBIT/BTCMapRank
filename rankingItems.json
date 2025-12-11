@@ -141,7 +141,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1797
+    "merchantCount": 1800
   },
   {
     "subregion": "Caribbean",
@@ -353,7 +353,7 @@
     "tips:lightning_address": "amityage@blink.sv",
     "tips:url": "https://geyser.fund/project/amityageacademy",
     "id": 20,
-    "merchantCount": 56
+    "merchantCount": 57
   },
   {
     "contact:twitter": "https://twitter.com/AngersBitcoin",
@@ -906,7 +906,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 93
+    "merchantCount": 96
   },
   {
     "population": 287025,
@@ -1572,7 +1572,7 @@
     "area_km2": 73800.99,
     "contact:instagram": "https://www.instagram.com/bitcoinciudadela/",
     "id": 85,
-    "merchantCount": 17
+    "merchantCount": 18
   },
   {
     "contact:twitter": "https://twitter.com/bitcoinclubmt",
@@ -2839,7 +2839,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 104
+    "merchantCount": 105
   },
   {
     "type": "community",
@@ -3043,7 +3043,7 @@
     "contact:nostr": "npub1d020nktlkel7q09xq4d5zy53w5jx0lgynhtxkg7ggf5kryajet2sxw4uh2",
     "url_alias": "bozeman-bitcoin",
     "id": 172,
-    "merchantCount": 3
+    "merchantCount": 4
   },
   {
     "wikidataid": "Q155",
@@ -3069,7 +3069,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2046
+    "merchantCount": 2047
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -6634,30 +6634,10 @@
     "merchantCount": 1
   },
   {
-    "gdp_year": 2019,
-    "subregion": "Western Africa",
-    "iso_a2": "GM",
-    "type": "country",
-    "region_wb": "Sub-Saharan Africa",
-    "income_grp": "5. Low income",
-    "sovereignt": "Gambia",
-    "continent": "Africa",
-    "gdp_md": 1826,
-    "region_un": "Africa",
-    "population:rank": 12,
-    "name": "Gambia",
-    "area_km2": 10336.73,
-    "lon": -14.998318,
-    "iso_a3": "GMB",
-    "population": 2347706,
-    "lat": 13.641721,
-    "country_type": "Sovereign country",
-    "wikidataid": "Q1005",
-    "population:year": 2019,
-    "economy": "7. Least developed region",
-    "url_alias": "gm",
     "id": 374,
-    "merchantCount": 1
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "wikidataid": "Q1006",
@@ -7056,7 +7036,7 @@
     "wikidataid": "Q783",
     "url_alias": "hn",
     "id": 392,
-    "merchantCount": 71
+    "merchantCount": 72
   },
   {
     "region_un": "Europe",
@@ -8588,7 +8568,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 49
+    "merchantCount": 50
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/mayasbitcoiners.png",
@@ -8810,7 +8790,7 @@
     "contact:twitter": "https://twitter.com/517Bitcoin",
     "area_km2": 7197.72,
     "id": 475,
-    "merchantCount": 3
+    "merchantCount": 4
   },
   {
     "sovereignt": "North Macedonia",
@@ -9220,7 +9200,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 535
+    "merchantCount": 536
   },
   {
     "iso_a2": "MY",
@@ -9487,7 +9467,7 @@
     "continent": "Africa",
     "url_alias": "ng",
     "id": 505,
-    "merchantCount": 18
+    "merchantCount": 20
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -10745,7 +10725,7 @@
     "name": "San Diego Bitcoiners",
     "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 31
+    "merchantCount": 32
   },
   {
     "continent": "south-america",
@@ -10774,7 +10754,7 @@
     "organization": "go-btc",
     "tips:lightning_address": "gobtcbr@getalby.com",
     "id": 570,
-    "merchantCount": 94
+    "merchantCount": 95
   },
   {
     "box:west": "-86.8798828125",
@@ -11177,7 +11157,7 @@
     "area_km2": 2089.92,
     "continent": "north-america",
     "id": 589,
-    "merchantCount": 12
+    "merchantCount": 13
   },
   {
     "income_grp": "2. High income: nonOECD",
@@ -12153,7 +12133,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3614
+    "merchantCount": 3649
   },
   {
     "population": 1734000,
@@ -12514,7 +12494,7 @@
     "contact:twitter": "https://twitter.com/MassBitcoin",
     "url_alias": "western-mass-bitcoin",
     "id": 650,
-    "merchantCount": 10
+    "merchantCount": 11
   },
   {
     "iso_a2": "WF",
@@ -12659,7 +12639,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1233
+    "merchantCount": 1234
   },
   {
     "continent": "Africa",
@@ -12763,7 +12743,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 20886
+    "merchantCount": 20927
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -14708,7 +14688,7 @@
     "type": "community",
     "url_alias": "bitcoin-bay",
     "id": 769,
-    "merchantCount": 18
+    "merchantCount": 19
   },
   {
     "area_km2": 675.76,
@@ -16744,7 +16724,7 @@
     "type": "community",
     "area_km2": 33617.38,
     "id": 904,
-    "merchantCount": 1
+    "merchantCount": 3
   },
   {
     "continent": "africa",
@@ -17435,7 +17415,7 @@
     "type": "community",
     "area_km2": 5808.74,
     "id": 953,
-    "merchantCount": 40
+    "merchantCount": 41
   },
   {
     "continent": "south-america",

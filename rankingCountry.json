@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3614
+    "merchantCount": 3649
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2046
+    "merchantCount": 2047
   },
   {
     "population:year": 2019,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1233
+    "merchantCount": 1234
   },
   {
     "population:rank": 14,
@@ -231,7 +231,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 535
+    "merchantCount": 536
   },
   {
     "sovereignt": "Canada",
@@ -859,6 +859,32 @@
     "merchantCount": 78
   },
   {
+    "population:rank": 13,
+    "gdp_md": 25095,
+    "income_grp": "4. Lower middle income",
+    "subregion": "Central America",
+    "area_km2": 152353.4,
+    "lat": 14.794801,
+    "lon": -86.887604,
+    "region_wb": "Latin America & Caribbean",
+    "economy": "6. Developing region",
+    "continent": "North America",
+    "type": "country",
+    "country_type": "Sovereign country",
+    "iso_a2": "HN",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "iso_a3": "HND",
+    "region_un": "Americas",
+    "population": 9746117,
+    "sovereignt": "Honduras",
+    "name": "Honduras",
+    "wikidataid": "Q783",
+    "url_alias": "hn",
+    "id": 392,
+    "merchantCount": 72
+  },
+  {
     "gdp_year": 2019,
     "income_grp": "3. Upper middle income",
     "population:year": 2019,
@@ -883,32 +909,6 @@
     "url_alias": "ro",
     "id": 552,
     "merchantCount": 72
-  },
-  {
-    "population:rank": 13,
-    "gdp_md": 25095,
-    "income_grp": "4. Lower middle income",
-    "subregion": "Central America",
-    "area_km2": 152353.4,
-    "lat": 14.794801,
-    "lon": -86.887604,
-    "region_wb": "Latin America & Caribbean",
-    "economy": "6. Developing region",
-    "continent": "North America",
-    "type": "country",
-    "country_type": "Sovereign country",
-    "iso_a2": "HN",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "iso_a3": "HND",
-    "region_un": "Americas",
-    "population": 9746117,
-    "sovereignt": "Honduras",
-    "name": "Honduras",
-    "wikidataid": "Q783",
-    "url_alias": "hn",
-    "id": 392,
-    "merchantCount": 71
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -1587,6 +1587,32 @@
     "merchantCount": 21
   },
   {
+    "lon": 7.50322,
+    "area_km2": 913593.56,
+    "type": "country",
+    "region_wb": "Sub-Saharan Africa",
+    "income_grp": "4. Lower middle income",
+    "population": 200963599,
+    "subregion": "Western Africa",
+    "gdp_year": 2019,
+    "region_un": "Africa",
+    "population:year": 2019,
+    "wikidataid": "Q1033",
+    "sovereignt": "Nigeria",
+    "name": "Nigeria",
+    "gdp_md": 448120,
+    "iso_a2": "NG",
+    "economy": "5. Emerging region: G20",
+    "lat": 9.439799,
+    "population:rank": 17,
+    "country_type": "Sovereign country",
+    "iso_a3": "NGA",
+    "continent": "Africa",
+    "url_alias": "ng",
+    "id": 505,
+    "merchantCount": 20
+  },
+  {
     "gdp_md": 282318,
     "country_type": "Sovereign country",
     "area_km2": 739098.84,
@@ -1637,32 +1663,6 @@
     "url_alias": "se",
     "id": 582,
     "merchantCount": 19
-  },
-  {
-    "lon": 7.50322,
-    "area_km2": 913593.56,
-    "type": "country",
-    "region_wb": "Sub-Saharan Africa",
-    "income_grp": "4. Lower middle income",
-    "population": 200963599,
-    "subregion": "Western Africa",
-    "gdp_year": 2019,
-    "region_un": "Africa",
-    "population:year": 2019,
-    "wikidataid": "Q1033",
-    "sovereignt": "Nigeria",
-    "name": "Nigeria",
-    "gdp_md": 448120,
-    "iso_a2": "NG",
-    "economy": "5. Emerging region: G20",
-    "lat": 9.439799,
-    "population:rank": 17,
-    "country_type": "Sovereign country",
-    "iso_a3": "NGA",
-    "continent": "Africa",
-    "url_alias": "ng",
-    "id": 505,
-    "merchantCount": 18
   },
   {
     "continent": "Asia",
@@ -3368,32 +3368,6 @@
     "continent": "europe",
     "area_km2": 15.18,
     "id": 369,
-    "merchantCount": 1
-  },
-  {
-    "gdp_year": 2019,
-    "subregion": "Western Africa",
-    "iso_a2": "GM",
-    "type": "country",
-    "region_wb": "Sub-Saharan Africa",
-    "income_grp": "5. Low income",
-    "sovereignt": "Gambia",
-    "continent": "Africa",
-    "gdp_md": 1826,
-    "region_un": "Africa",
-    "population:rank": 12,
-    "name": "Gambia",
-    "area_km2": 10336.73,
-    "lon": -14.998318,
-    "iso_a3": "GMB",
-    "population": 2347706,
-    "lat": 13.641721,
-    "country_type": "Sovereign country",
-    "wikidataid": "Q1005",
-    "population:year": 2019,
-    "economy": "7. Least developed region",
-    "url_alias": "gm",
-    "id": 374,
     "merchantCount": 1
   },
   {
