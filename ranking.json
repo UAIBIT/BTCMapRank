@@ -624,21 +624,6 @@
     "merchantCount": 332
   },
   {
-    "type": "trash",
-    "contact:email": "bordel@duck.com",
-    "contact:telegram": "https://t.me/PizzaDayPrague",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/paralelni-polis.jpg",
-    "population": "1301432",
-    "area_km2": 735.1,
-    "name": "Paralelní Polis",
-    "organization": "2140-meetups",
-    "url_alias": "paralelni-polis",
-    "population:date": "2021",
-    "id": 521,
-    "merchantCount": 332
-  },
-  {
     "area_km2": 636466.7,
     "continent": "Europe",
     "country_type": "Country",
@@ -15655,6 +15640,12 @@
   },
   {
     "id": 518,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 521,
     "type": null,
     "merchantCount": 0,
     "name": null
