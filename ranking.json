@@ -3573,20 +3573,6 @@
     "merchantCount": 31
   },
   {
-    "url_alias": "la-antigua-bitcoin",
-    "type": "community",
-    "continent": "south-america",
-    "contact:email": "jc@osmowallet.com",
-    "contact:twitter": "https://twitter.com/antiguabtc",
-    "population": 46054,
-    "name": "La Antigua Bitcoin",
-    "population:date": "2018-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/la-antigua-bitcoin.jpeg",
-    "area_km2": 181.87,
-    "id": 430,
-    "merchantCount": 30
-  },
-  {
     "area_km2": 306,
     "contact:email": "mel@bitcoinforte.com",
     "contact:instagram": "https://www.instagram.com/bitcoinforte",
@@ -15062,6 +15048,12 @@
     "url_alias": "kz",
     "id": 428,
     "merchantCount": 0
+  },
+  {
+    "id": 430,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "iso_a3": "LCA",
