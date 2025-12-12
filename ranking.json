@@ -1341,22 +1341,6 @@
     "merchantCount": 116
   },
   {
-    "area_km2": 11517.63,
-    "contact:email": "bitcoin@aine.ch",
-    "contact:meetup": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
-    "contact:telegram": "http://t.me/+ETWFIUzxnlNkZDg0",
-    "continent": "europe",
-    "icon:square": "https://secure.meetupstatic.com/photos/event/b/8/2/a/clean_515627146.webp",
-    "name": "Einundzwanzig Ostschweiz",
-    "organization": "einundzwanzig",
-    "population": 106960,
-    "population:date": "2024-01-01",
-    "type": "community",
-    "url_alias": "einundzwanzig-ostschweiz",
-    "id": 790,
-    "merchantCount": 107
-  },
-  {
     "contact:twitter": "https://twitter.com/bitplebsla",
     "continent": "north-america",
     "contact:meetup": "https://www.meetup.com/bitplebsla/",
@@ -3571,6 +3555,20 @@
     "url_alias": "tr",
     "id": 622,
     "merchantCount": 31
+  },
+  {
+    "url_alias": "la-antigua-bitcoin",
+    "type": "community",
+    "continent": "south-america",
+    "contact:email": "jc@osmowallet.com",
+    "contact:twitter": "https://twitter.com/antiguabtc",
+    "population": 46054,
+    "name": "La Antigua Bitcoin",
+    "population:date": "2018-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/la-antigua-bitcoin.jpeg",
+    "area_km2": 181.87,
+    "id": 430,
+    "merchantCount": 30
   },
   {
     "area_km2": 306,
@@ -15050,12 +15048,6 @@
     "merchantCount": 0
   },
   {
-    "id": 430,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "iso_a3": "LCA",
     "region_un": "Americas",
     "area_km2": 552.55,
@@ -17245,6 +17237,12 @@
   },
   {
     "id": 788,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 790,
     "type": null,
     "merchantCount": 0,
     "name": null
