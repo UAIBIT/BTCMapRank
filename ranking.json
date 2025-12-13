@@ -7628,6 +7628,22 @@
     "merchantCount": 7
   },
   {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/btc-shule.jpg",
+    "name": "BTC Shule",
+    "population": 1100000,
+    "population:date": "2020-01-31",
+    "url_alias": "btc-shule",
+    "area_km2": 1896.96,
+    "contact:email": "btcshule@gmail.com",
+    "contact:website": "http://www.btcshule.com/",
+    "tips:lightning_address": "btcshule@blink.sv",
+    "type": "community",
+    "contact:nostr": "npub1fjnqldpaw82t4xkvqfc3dwavxn89evyydajjrrpjnf2jmmpkhfcs56z9ey",
+    "id": 855,
+    "merchantCount": 7
+  },
+  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/sao-bento-cripto.jpg",
     "name": "São Bento Cripto",
@@ -17348,12 +17364,6 @@
     "type": "community",
     "id": 854,
     "merchantCount": 0
-  },
-  {
-    "id": 855,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "id": 859,
