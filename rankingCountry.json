@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3729
+    "merchantCount": 3780
   },
   {
     "wikidataid": "Q155",
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1331
+    "merchantCount": 1333
   },
   {
     "gdp_md": 351431,
@@ -257,7 +257,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 528
+    "merchantCount": 529
   },
   {
     "gdp_md": 543548,
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 418
+    "merchantCount": 420
   },
   {
     "country_type": "Sovereign country",
@@ -336,7 +336,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 378
+    "merchantCount": 377
   },
   {
     "iso_a2": "NL",
@@ -362,7 +362,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 355
+    "merchantCount": 356
   },
   {
     "region_un": "Europe",
@@ -388,7 +388,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 348
+    "merchantCount": 347
   },
   {
     "gdp_md": 17477,
@@ -596,7 +596,7 @@
     "population:rank": 13,
     "url_alias": "at",
     "id": 31,
-    "merchantCount": 202
+    "merchantCount": 201
   },
   {
     "sovereignt": "Australia",
@@ -622,7 +622,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 191
+    "merchantCount": 193
   },
   {
     "income_grp": "3. Upper middle income",
@@ -648,7 +648,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 179
+    "merchantCount": 178
   },
   {
     "continent": "Africa",
@@ -726,7 +726,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 126
+    "merchantCount": 124
   },
   {
     "iso_a2": "SR",
@@ -1951,32 +1951,6 @@
     "merchantCount": 10
   },
   {
-    "economy": "3. Emerging region: BRIC",
-    "continent": "Europe",
-    "lat": 58.249357,
-    "income_grp": "3. Upper middle income",
-    "iso_a3": "RUS",
-    "gdp_year": 2019,
-    "area_km2": 16917468.03,
-    "name": "Russia",
-    "region_un": "Europe",
-    "lon": 44.686469,
-    "population": 144373535,
-    "iso_a2": "RU",
-    "country_type": "Sovereign country",
-    "sovereignt": "Russia",
-    "type": "country",
-    "subregion": "Eastern Europe",
-    "population:year": 2019,
-    "wikidataid": "Q159",
-    "gdp_md": 1699876,
-    "region_wb": "Europe & Central Asia",
-    "population:rank": 17,
-    "url_alias": "ru",
-    "id": 558,
-    "merchantCount": 9
-  },
-  {
     "iso_a3": "SGP",
     "wikidataid": "Q334",
     "population:rank": 13,
@@ -2059,6 +2033,32 @@
     "merchantCount": 8
   },
   {
+    "wikidataid": "Q1029",
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "income_grp": "5. Low income",
+    "area_km2": 792438.1,
+    "population:rank": 15,
+    "lon": 37.83789,
+    "name": "Mozambique",
+    "region_wb": "Sub-Saharan Africa",
+    "continent": "Africa",
+    "type": "country",
+    "population": 30366036,
+    "economy": "7. Least developed region",
+    "subregion": "Eastern Africa",
+    "sovereignt": "Mozambique",
+    "iso_a2": "MZ",
+    "region_un": "Africa",
+    "lat": -13.94323,
+    "population:year": 2019,
+    "gdp_md": 15291,
+    "iso_a3": "MOZ",
+    "url_alias": "mz",
+    "id": 495,
+    "merchantCount": 8
+  },
+  {
     "country_type": "Sovereign country",
     "wikidataid": "Q1030",
     "sovereignt": "Namibia",
@@ -2082,6 +2082,32 @@
     "population": 2494530,
     "url_alias": "na",
     "id": 497,
+    "merchantCount": 8
+  },
+  {
+    "economy": "3. Emerging region: BRIC",
+    "continent": "Europe",
+    "lat": 58.249357,
+    "income_grp": "3. Upper middle income",
+    "iso_a3": "RUS",
+    "gdp_year": 2019,
+    "area_km2": 16917468.03,
+    "name": "Russia",
+    "region_un": "Europe",
+    "lon": 44.686469,
+    "population": 144373535,
+    "iso_a2": "RU",
+    "country_type": "Sovereign country",
+    "sovereignt": "Russia",
+    "type": "country",
+    "subregion": "Eastern Europe",
+    "population:year": 2019,
+    "wikidataid": "Q159",
+    "gdp_md": 1699876,
+    "region_wb": "Europe & Central Asia",
+    "population:rank": 17,
+    "url_alias": "ru",
+    "id": 558,
     "merchantCount": 8
   },
   {
@@ -2212,32 +2238,6 @@
     "name": "Montenegro",
     "url_alias": "me",
     "id": 467,
-    "merchantCount": 7
-  },
-  {
-    "wikidataid": "Q1029",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "income_grp": "5. Low income",
-    "area_km2": 792438.1,
-    "population:rank": 15,
-    "lon": 37.83789,
-    "name": "Mozambique",
-    "region_wb": "Sub-Saharan Africa",
-    "continent": "Africa",
-    "type": "country",
-    "population": 30366036,
-    "economy": "7. Least developed region",
-    "subregion": "Eastern Africa",
-    "sovereignt": "Mozambique",
-    "iso_a2": "MZ",
-    "region_un": "Africa",
-    "lat": -13.94323,
-    "population:year": 2019,
-    "gdp_md": 15291,
-    "iso_a3": "MOZ",
-    "url_alias": "mz",
-    "id": 495,
     "merchantCount": 7
   },
   {
