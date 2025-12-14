@@ -22,19 +22,10 @@
     "merchantCount": 4
   },
   {
-    "area_km2": 472.66,
-    "contact:telegram": "https://t.me/Einundzwanzig_Seeland",
-    "type": "community",
-    "population:date": "2021-12-31",
-    "url_alias": "32-einezwaenzg-seeland",
-    "continent": "europe",
-    "name": "32-Einezwänzg Seeland",
-    "icon:square": "https://static.btcmap.org/images/communities/32-einezwaenzg-seeland.webp",
-    "population": 80000,
-    "organization": "einundzwanzig",
-    "language": "fr",
     "id": 2,
-    "merchantCount": 15
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 3,
@@ -8433,7 +8424,6 @@
     "contact:meetup": "https://www.meetup.com/fr-FR/crypto-lyon/",
     "type": "community",
     "population": 1416545,
-    "contact:website": "https://t.me/bitcoinlyon",
     "id": 454,
     "merchantCount": 14
   },
@@ -8957,7 +8947,6 @@
     "organization": "decouvre-bitcoin",
     "population": 38100,
     "contact:twitter": "https://twitter.com/monaco_bitcoin",
-    "contact:telegram": "https://t.me/MonacoBitcoinMeetup",
     "id": 481,
     "merchantCount": 4
   },
@@ -10490,6 +10479,7 @@
     "population:date": "2020-01-01",
     "contact:twitter": "https://x.com/SaintEtienneBTC",
     "contact:nostr": "npub1mmkkkgm6cp98wt6p2mnfp2dxylltytr9kvw0j9ph5sz83ctwtrsstanlr7",
+    "contact:telegram": "https://t.me/SaintEtienneBTC",
     "id": 554,
     "merchantCount": 0
   },
@@ -14480,6 +14470,7 @@
     "type": "community",
     "url_alias": "bitcoin-paris-montmartre",
     "contact:meetup": "https://www.meetup.com/duc-bitcoin-meetup-paris/",
+    "organization": "PLAN B NETWORK",
     "id": 756,
     "merchantCount": 37
   },
@@ -14870,6 +14861,7 @@
     "population:date": "2021-01-01",
     "type": "community",
     "url_alias": "bitcoin-narbonne",
+    "organization": "decouvre-bitcoin",
     "id": 781,
     "merchantCount": 3
   },
