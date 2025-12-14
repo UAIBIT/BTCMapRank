@@ -8056,19 +8056,6 @@
     "merchantCount": 6
   },
   {
-    "area_km2": 67.84,
-    "contact:telegram": "https://t.me/BitcoinGoerlitz",
-    "continent": "europe",
-    "icon:square": "https://cdn4.cdn-telegram.org/file/J3uAZ77v6FJNzWKg3_b3aKQwm-pwCl794rfwBpS4uQhIenF5hGoBp3eqmCdqyuF-mzYALbdjphcyXdlwXpzBwJEGhfnDouYb5rNafb_xW_2z3V18yw-FYPMjRDyNw0EN3dW_eKPq23Sglp24DsYC78h2GOSo9A2GhBgtIPdnMqPrViaf2bpDCU_wKK7DbN6D--FMPSX_WP-06ND3ajxW8-fpm98jF19xBJxi9FAIEvdqgFKYtpeSAQCWAUqkmNi7TKGnyN0kfGI2m7JmM8fPdCk_JqSxuKs7whgkUZ202oev8sQj3whooJz8g9dRWMR6a_ncpI-SvbX6SUxD2rtepA.jpg",
-    "name": "Bitcoin Görlitz",
-    "population": 54664,
-    "population:date": "2022-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-gorlitz",
-    "id": 778,
-    "merchantCount": 6
-  },
-  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/nebraska-bitcoiners.jpg",
     "name": "Nebraska Bitcoiners",
@@ -17199,6 +17186,12 @@
     "merchantCount": 0
   },
   {
+    "id": 778,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "area_km2": 189.73,
     "contact:telegram": "https://t.me/+CfrNGZKJQWxkNjI0",
     "continent": "europe",
@@ -17527,10 +17520,18 @@
     "name": null
   },
   {
+    "continent": "oceania",
+    "icon:square": "https://raw.githubusercontent.com/AvalonBitcoiners/Files/main/AvalonBitcoiners.png",
+    "name": "Avalon Bitcoiner's",
+    "population": 482011,
+    "population:date": "2021-08-10",
+    "url_alias": "avalon-bitcoiners",
+    "contact:telegram": "https://t.me/avlnbtcn",
+    "contact:meetup": "https://www.meetup.com/avalon-bitcoin-meetup-group",
+    "type": "community",
+    "area_km2": 1761.37,
     "id": 961,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
     "id": 962,
