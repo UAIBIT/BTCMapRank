@@ -4233,24 +4233,6 @@
     "merchantCount": 22
   },
   {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/fortal-bitcoin.jpg",
-    "name": "Fortal Bitcoin",
-    "population": 2574412,
-    "population:date": "2021-01-05",
-    "url_alias": "fortal-bitcoin",
-    "organization": "uaibit",
-    "contact:whatsapp": "https://chat.whatsapp.com/GcAz4QfVuOkFF2RFN1h9Z3?mode=r_c",
-    "contact:discord": "https://discord.gg/tz3zvNvg23",
-    "contact:instagram": "https://www.instagram.com/fortalbitcoin?igsh=MW10Z3A3amQxdThzaw==",
-    "contact:email": "contato@uaibit.com.br",
-    "tips:lightning_address": "fortalbicoin@coinos.io",
-    "type": "community",
-    "area_km2": 313.45,
-    "id": 897,
-    "merchantCount": 22
-  },
-  {
     "area_km2": 579.4,
     "continent": "north-america",
     "contact:twitter": "https://twitter.com/atlantabitdevs",
@@ -8053,6 +8035,19 @@
     "type": "community",
     "url_alias": "jednadvacet-znojemsko",
     "id": 772,
+    "merchantCount": 6
+  },
+  {
+    "area_km2": 67.84,
+    "contact:telegram": "https://t.me/BitcoinGoerlitz",
+    "continent": "europe",
+    "icon:square": "https://cdn4.cdn-telegram.org/file/J3uAZ77v6FJNzWKg3_b3aKQwm-pwCl794rfwBpS4uQhIenF5hGoBp3eqmCdqyuF-mzYALbdjphcyXdlwXpzBwJEGhfnDouYb5rNafb_xW_2z3V18yw-FYPMjRDyNw0EN3dW_eKPq23Sglp24DsYC78h2GOSo9A2GhBgtIPdnMqPrViaf2bpDCU_wKK7DbN6D--FMPSX_WP-06ND3ajxW8-fpm98jF19xBJxi9FAIEvdqgFKYtpeSAQCWAUqkmNi7TKGnyN0kfGI2m7JmM8fPdCk_JqSxuKs7whgkUZ202oev8sQj3whooJz8g9dRWMR6a_ncpI-SvbX6SUxD2rtepA.jpg",
+    "name": "Bitcoin Görlitz",
+    "population": 54664,
+    "population:date": "2022-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-gorlitz",
+    "id": 778,
     "merchantCount": 6
   },
   {
@@ -17186,12 +17181,6 @@
     "merchantCount": 0
   },
   {
-    "id": 778,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "area_km2": 189.73,
     "contact:telegram": "https://t.me/+CfrNGZKJQWxkNjI0",
     "continent": "europe",
@@ -17428,6 +17417,12 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
+  },
+  {
+    "id": 897,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 916,
