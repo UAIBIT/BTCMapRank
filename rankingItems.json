@@ -8069,30 +8069,10 @@
     "merchantCount": 8
   },
   {
-    "population:rank": 7,
-    "country_type": "Sovereign country",
-    "population:year": 2019,
-    "gdp_year": 2018,
-    "income_grp": "2. High income: nonOECD",
-    "region_un": "Europe",
-    "area_km2": 138.26,
-    "name": "Liechtenstein",
-    "region_wb": "Europe & Central Asia",
-    "gdp_md": 6876,
-    "type": "country",
-    "sovereignt": "Liechtenstein",
-    "lat": 47.111405,
-    "continent": "Europe",
-    "lon": 9.559439,
-    "economy": "2. Developed region: nonG7",
-    "wikidataid": "Q347",
-    "iso_a3": "LIE",
-    "subregion": "Western Europe",
-    "iso_a2": "LI",
-    "population": 38019,
-    "url_alias": "li",
     "id": 437,
-    "merchantCount": 10
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "contact:email": "cedrosage@gmail.com",
@@ -10335,10 +10315,20 @@
     "merchantCount": 0
   },
   {
+    "population": 79804,
+    "population:date": "2020-01-01",
+    "contact:telegram": "https://t.me/quimperbitcoinmeetup",
+    "continent": "europe",
+    "url_alias": "quimper",
+    "icon:square": "https://static.btcmap.org/images/communities/quimper.jpg",
+    "organization": "breizh-bitcoin",
+    "type": "community",
+    "name": "Quimper",
+    "contact:twitter": "https://twitter.com/QuimperBitcoin",
+    "area_km2": 2266.57,
+    "language": "fr",
     "id": 546,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "box:south": "40.574739251450794",
