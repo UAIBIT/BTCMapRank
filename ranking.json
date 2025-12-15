@@ -691,26 +691,6 @@
     "merchantCount": 296
   },
   {
-    "box:east": 9.03617,
-    "population": "150556",
-    "population:date": "2020-01-01",
-    "type": "community",
-    "contact:website": "https://planb.lugano.ch/",
-    "name": "Lugano Plan B",
-    "box:west": 8.85419,
-    "contact:twitter": "https://twitter.com/LuganoPlanB",
-    "contact:youtube": "https://www.youtube.com/channel/UCOT9XfrKaiKunSGYSQNmRrg",
-    "box:north": 46.0373,
-    "box:south": 45.93945,
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/lugano-plan-b.jpg",
-    "url_alias": "lugano-plan-b",
-    "area_km2": 343.14,
-    "organization": "plan-b-network",
-    "id": 451,
-    "merchantCount": 291
-  },
-  {
     "url_alias": "dwadzieścia-jeden",
     "box:west": "12.63427734375",
     "population:date": "2022-01-01",
@@ -15126,6 +15106,12 @@
     "url_alias": "lr",
     "id": 447,
     "merchantCount": 0
+  },
+  {
+    "id": 451,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "Africa",
