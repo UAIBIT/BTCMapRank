@@ -6921,10 +6921,30 @@
     "merchantCount": 0
   },
   {
+    "continent": "South America",
+    "gdp_year": 2019,
+    "population:rank": 11,
+    "population": 782766,
+    "subregion": "South America",
+    "lon": -58.942643,
+    "iso_a3": "GUY",
+    "country_type": "Sovereign country",
+    "region_wb": "Latin America & Caribbean",
+    "sovereignt": "Guyana",
+    "wikidataid": "Q734",
+    "population:year": 2019,
+    "economy": "6. Developing region",
+    "gdp_md": 5173,
+    "type": "country",
+    "region_un": "Americas",
+    "lat": 5.124317,
+    "area_km2": 212421.87,
+    "iso_a2": "GY",
+    "income_grp": "4. Lower middle income",
+    "name": "Guyana",
+    "url_alias": "gy",
     "id": 387,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/harlem-bitcoin.png",
@@ -17521,16 +17541,34 @@
     "merchantCount": 2
   },
   {
+    "continent": "europe",
+    "icon:square": "https://raw.githubusercontent.com/EinundzwanzigRottweil/Files/main/EinundzwanzigRottweil.png",
+    "name": "Einundzwanzig Rottweil",
+    "population": 25691,
+    "population:date": "2006-03-31",
+    "url_alias": "einundzwanzig-rottweil",
+    "tips:lightning_address": "einundzwanzig_rottweil@blink.sv",
+    "contact:website": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil?l=de",
+    "contact:email": "einundzwanzig-rottweil@mail.de",
+    "organization": "einundzwanzig",
+    "type": "community",
+    "area_km2": 79.88,
     "id": 962,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://raw.githubusercontent.com/PeixeirosBitcoin/Files/main/PeixeirosBitcoin.png",
+    "name": "Peixeiros do Bitcoin",
+    "population": 264054,
+    "population:date": "2023-06-28",
+    "url_alias": "peixeiros-do-bitcoin",
+    "contact:whatsapp": "https://chat.whatsapp.com/J0FHTZ7MnUqLbxeLToQBkK",
+    "organization": "uaibit",
+    "type": "community",
+    "area_km2": 283.01,
     "id": 963,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
     "id": 964,
