@@ -691,6 +691,26 @@
     "merchantCount": 296
   },
   {
+    "box:east": 9.03617,
+    "population": "150556",
+    "population:date": "2020-01-01",
+    "type": "community",
+    "contact:website": "https://planb.lugano.ch/",
+    "name": "Lugano Plan B",
+    "box:west": 8.85419,
+    "contact:twitter": "https://twitter.com/LuganoPlanB",
+    "contact:youtube": "https://www.youtube.com/channel/UCOT9XfrKaiKunSGYSQNmRrg",
+    "box:north": 46.0373,
+    "box:south": 45.93945,
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/lugano-plan-b.jpg",
+    "url_alias": "lugano-plan-b",
+    "area_km2": 343.14,
+    "organization": "plan-b-network",
+    "id": 451,
+    "merchantCount": 291
+  },
+  {
     "url_alias": "dwadzieścia-jeden",
     "box:west": "12.63427734375",
     "population:date": "2022-01-01",
@@ -11356,21 +11376,6 @@
     "merchantCount": 1
   },
   {
-    "contact:email": "papa30331@gmail.com",
-    "population": 119287,
-    "area_km2": 286.1,
-    "name": "Bamako",
-    "url_alias": "bamako",
-    "type": "community",
-    "organization": "decouvre-bitcoin",
-    "icon:square": "https://static.btcmap.org/images/communities/bamako.jpg",
-    "contact:whatsapp": "https://chat.whatsapp.com/ImkWnflezTc0eOHN6jRyrZ",
-    "population:date": "2020-01-01",
-    "continent": "africa",
-    "id": 43,
-    "merchantCount": 1
-  },
-  {
     "gdp_year": 2019,
     "sovereignt": "Bangladesh",
     "area_km2": 135953.67,
@@ -13436,6 +13441,12 @@
     "merchantCount": 0
   },
   {
+    "id": 43,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "population": 287025,
     "gdp_md": 5209,
     "population:rank": 10,
@@ -15106,12 +15117,6 @@
     "url_alias": "lr",
     "id": 447,
     "merchantCount": 0
-  },
-  {
-    "id": 451,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "continent": "Africa",
