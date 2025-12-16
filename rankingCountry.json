@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3813
+    "merchantCount": 3859
   },
   {
     "wikidataid": "Q155",
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 810
+    "merchantCount": 811
   },
   {
     "name": "Germany",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 420
+    "merchantCount": 428
   },
   {
     "country_type": "Sovereign country",
@@ -622,7 +622,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 193
+    "merchantCount": 194
   },
   {
     "income_grp": "3. Upper middle income",
@@ -859,6 +859,32 @@
     "merchantCount": 78
   },
   {
+    "region_wb": "Latin America & Caribbean",
+    "type": "country",
+    "wikidataid": "Q750",
+    "lat": -16.666015,
+    "lon": -64.593433,
+    "population:year": 2019,
+    "iso_a3": "BOL",
+    "name": "Bolivia",
+    "continent": "South America",
+    "gdp_year": 2019,
+    "sovereignt": "Bolivia",
+    "region_un": "Americas",
+    "population:rank": 14,
+    "area_km2": 1092709.98,
+    "income_grp": "4. Lower middle income",
+    "country_type": "Sovereign country",
+    "iso_a2": "BO",
+    "subregion": "South America",
+    "population": 11513100,
+    "gdp_md": 40895,
+    "economy": "5. Emerging region: G20",
+    "url_alias": "bo",
+    "id": 168,
+    "merchantCount": 72
+  },
+  {
     "population:rank": 13,
     "gdp_md": 25095,
     "income_grp": "4. Lower middle income",
@@ -909,32 +935,6 @@
     "url_alias": "ro",
     "id": 552,
     "merchantCount": 72
-  },
-  {
-    "region_wb": "Latin America & Caribbean",
-    "type": "country",
-    "wikidataid": "Q750",
-    "lat": -16.666015,
-    "lon": -64.593433,
-    "population:year": 2019,
-    "iso_a3": "BOL",
-    "name": "Bolivia",
-    "continent": "South America",
-    "gdp_year": 2019,
-    "sovereignt": "Bolivia",
-    "region_un": "Americas",
-    "population:rank": 14,
-    "area_km2": 1092709.98,
-    "income_grp": "4. Lower middle income",
-    "country_type": "Sovereign country",
-    "iso_a2": "BO",
-    "subregion": "South America",
-    "population": 11513100,
-    "gdp_md": 40895,
-    "economy": "5. Emerging region: G20",
-    "url_alias": "bo",
-    "id": 168,
-    "merchantCount": 71
   },
   {
     "lon": 128.129504,
@@ -1197,32 +1197,6 @@
     "merchantCount": 40
   },
   {
-    "income_grp": "1. High income: OECD",
-    "population": 9769949,
-    "region_wb": "Europe & Central Asia",
-    "country_type": "Sovereign country",
-    "iso_a3": "HUN",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "HU",
-    "wikidataid": "Q28",
-    "lat": 47.086841,
-    "lon": 19.447867,
-    "sovereignt": "Hungary",
-    "area_km2": 93167.09,
-    "subregion": "Eastern Europe",
-    "gdp_year": 2019,
-    "population:rank": 13,
-    "population:year": 2019,
-    "name": "Hungary",
-    "region_un": "Europe",
-    "gdp_md": 163469,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "hu",
-    "id": 395,
-    "merchantCount": 36
-  },
-  {
     "gdp_md": 7491,
     "wikidataid": "Q9676",
     "region_un": "Europe",
@@ -1272,6 +1246,32 @@
     "iso_a2": "IN",
     "url_alias": "in",
     "id": 400,
+    "merchantCount": 36
+  },
+  {
+    "income_grp": "1. High income: OECD",
+    "population": 9769949,
+    "region_wb": "Europe & Central Asia",
+    "country_type": "Sovereign country",
+    "iso_a3": "HUN",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "HU",
+    "wikidataid": "Q28",
+    "lat": 47.086841,
+    "lon": 19.447867,
+    "sovereignt": "Hungary",
+    "area_km2": 93167.09,
+    "subregion": "Eastern Europe",
+    "gdp_year": 2019,
+    "population:rank": 13,
+    "population:year": 2019,
+    "name": "Hungary",
+    "region_un": "Europe",
+    "gdp_md": 163469,
+    "economy": "2. Developed region: nonG7",
+    "url_alias": "hu",
+    "id": 395,
     "merchantCount": 35
   },
   {
@@ -1665,6 +1665,32 @@
     "merchantCount": 19
   },
   {
+    "continent": "Africa",
+    "gdp_md": 35165,
+    "type": "country",
+    "population:rank": 15,
+    "name": "Uganda",
+    "region_un": "Africa",
+    "economy": "7. Least developed region",
+    "country_type": "Sovereign country",
+    "income_grp": "5. Low income",
+    "region_wb": "Sub-Saharan Africa",
+    "population:year": 2019,
+    "subregion": "Eastern Africa",
+    "gdp_year": 2019,
+    "iso_a2": "UG",
+    "population": 44269594,
+    "lon": 32.948555,
+    "iso_a3": "UGA",
+    "sovereignt": "Uganda",
+    "lat": 1.972589,
+    "area_km2": 243097.59,
+    "wikidataid": "Q1036",
+    "url_alias": "ug",
+    "id": 630,
+    "merchantCount": 18
+  },
+  {
     "continent": "Asia",
     "gdp_md": 261921,
     "type": "country",
@@ -1740,32 +1766,6 @@
     "income_grp": "4. Lower middle income",
     "url_alias": "ua",
     "id": 629,
-    "merchantCount": 17
-  },
-  {
-    "continent": "Africa",
-    "gdp_md": 35165,
-    "type": "country",
-    "population:rank": 15,
-    "name": "Uganda",
-    "region_un": "Africa",
-    "economy": "7. Least developed region",
-    "country_type": "Sovereign country",
-    "income_grp": "5. Low income",
-    "region_wb": "Sub-Saharan Africa",
-    "population:year": 2019,
-    "subregion": "Eastern Africa",
-    "gdp_year": 2019,
-    "iso_a2": "UG",
-    "population": 44269594,
-    "lon": 32.948555,
-    "iso_a3": "UGA",
-    "sovereignt": "Uganda",
-    "lat": 1.972589,
-    "area_km2": 243097.59,
-    "wikidataid": "Q1036",
-    "url_alias": "ug",
-    "id": 630,
     "merchantCount": 17
   },
   {
