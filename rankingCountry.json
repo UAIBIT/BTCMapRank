@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3859
+    "merchantCount": 3908
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2051
+    "merchantCount": 2057
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1333
+    "merchantCount": 1325
   },
   {
     "gdp_md": 351431,
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 428
+    "merchantCount": 429
   },
   {
     "country_type": "Sovereign country",
@@ -336,7 +336,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 377
+    "merchantCount": 378
   },
   {
     "iso_a2": "NL",
@@ -414,7 +414,7 @@
     "wikidataid": "Q230",
     "url_alias": "ge",
     "id": 366,
-    "merchantCount": 344
+    "merchantCount": 345
   },
   {
     "wikidataid": "Q45",
@@ -440,7 +440,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 344
+    "merchantCount": 345
   },
   {
     "area_km2": 636466.7,
@@ -466,7 +466,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 331
+    "merchantCount": 330
   },
   {
     "name": "Poland",
@@ -1116,7 +1116,7 @@
     "population:year": 2019,
     "url_alias": "py",
     "id": 543,
-    "merchantCount": 51
+    "merchantCount": 52
   },
   {
     "type": "country",
@@ -1197,6 +1197,32 @@
     "merchantCount": 40
   },
   {
+    "income_grp": "1. High income: OECD",
+    "population": 9769949,
+    "region_wb": "Europe & Central Asia",
+    "country_type": "Sovereign country",
+    "iso_a3": "HUN",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "HU",
+    "wikidataid": "Q28",
+    "lat": 47.086841,
+    "lon": 19.447867,
+    "sovereignt": "Hungary",
+    "area_km2": 93167.09,
+    "subregion": "Eastern Europe",
+    "gdp_year": 2019,
+    "population:rank": 13,
+    "population:year": 2019,
+    "name": "Hungary",
+    "region_un": "Europe",
+    "gdp_md": 163469,
+    "economy": "2. Developed region: nonG7",
+    "url_alias": "hu",
+    "id": 395,
+    "merchantCount": 36
+  },
+  {
     "gdp_md": 7491,
     "wikidataid": "Q9676",
     "region_un": "Europe",
@@ -1247,32 +1273,6 @@
     "url_alias": "in",
     "id": 400,
     "merchantCount": 36
-  },
-  {
-    "income_grp": "1. High income: OECD",
-    "population": 9769949,
-    "region_wb": "Europe & Central Asia",
-    "country_type": "Sovereign country",
-    "iso_a3": "HUN",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "HU",
-    "wikidataid": "Q28",
-    "lat": 47.086841,
-    "lon": 19.447867,
-    "sovereignt": "Hungary",
-    "area_km2": 93167.09,
-    "subregion": "Eastern Europe",
-    "gdp_year": 2019,
-    "population:rank": 13,
-    "population:year": 2019,
-    "name": "Hungary",
-    "region_un": "Europe",
-    "gdp_md": 163469,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "hu",
-    "id": 395,
-    "merchantCount": 35
   },
   {
     "population": 270625568,
@@ -1483,32 +1483,6 @@
     "merchantCount": 26
   },
   {
-    "gdp_year": 2019,
-    "country_type": "Sovereign country",
-    "continent": "Asia",
-    "income_grp": "4. Lower middle income",
-    "name": "Armenia",
-    "iso_a2": "AM",
-    "iso_a3": "ARM",
-    "population:year": 2019,
-    "economy": "6. Developing region",
-    "population": 2957731,
-    "wikidataid": "Q399",
-    "region_wb": "Europe & Central Asia",
-    "region_un": "Asia",
-    "sovereignt": "Armenia",
-    "lat": 40.459077,
-    "population:rank": 12,
-    "lon": 44.800564,
-    "type": "country",
-    "gdp_md": 13672,
-    "area_km2": 29623.75,
-    "subregion": "Western Asia",
-    "url_alias": "am",
-    "id": 18,
-    "merchantCount": 23
-  },
-  {
     "iso_a3": "GHA",
     "gdp_md": 66983,
     "subregion": "Western Africa",
@@ -1532,6 +1506,32 @@
     "economy": "6. Developing region",
     "url_alias": "gh",
     "id": 368,
+    "merchantCount": 24
+  },
+  {
+    "gdp_year": 2019,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "income_grp": "4. Lower middle income",
+    "name": "Armenia",
+    "iso_a2": "AM",
+    "iso_a3": "ARM",
+    "population:year": 2019,
+    "economy": "6. Developing region",
+    "population": 2957731,
+    "wikidataid": "Q399",
+    "region_wb": "Europe & Central Asia",
+    "region_un": "Asia",
+    "sovereignt": "Armenia",
+    "lat": 40.459077,
+    "population:rank": 12,
+    "lon": 44.800564,
+    "type": "country",
+    "gdp_md": 13672,
+    "area_km2": 29623.75,
+    "subregion": "Western Asia",
+    "url_alias": "am",
+    "id": 18,
     "merchantCount": 23
   },
   {
@@ -1847,6 +1847,32 @@
     "merchantCount": 14
   },
   {
+    "wikidataid": "Q1029",
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "income_grp": "5. Low income",
+    "area_km2": 792438.1,
+    "population:rank": 15,
+    "lon": 37.83789,
+    "name": "Mozambique",
+    "region_wb": "Sub-Saharan Africa",
+    "continent": "Africa",
+    "type": "country",
+    "population": 30366036,
+    "economy": "7. Least developed region",
+    "subregion": "Eastern Africa",
+    "sovereignt": "Mozambique",
+    "iso_a2": "MZ",
+    "region_un": "Africa",
+    "lat": -13.94323,
+    "population:year": 2019,
+    "gdp_md": 15291,
+    "iso_a3": "MOZ",
+    "url_alias": "mz",
+    "id": 495,
+    "merchantCount": 14
+  },
+  {
     "region_wb": "Latin America & Caribbean",
     "gdp_md": 12520,
     "area_km2": 129533.01,
@@ -2030,32 +2056,6 @@
     "wikidataid": "Q37",
     "url_alias": "lt",
     "id": 449,
-    "merchantCount": 8
-  },
-  {
-    "wikidataid": "Q1029",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "income_grp": "5. Low income",
-    "area_km2": 792438.1,
-    "population:rank": 15,
-    "lon": 37.83789,
-    "name": "Mozambique",
-    "region_wb": "Sub-Saharan Africa",
-    "continent": "Africa",
-    "type": "country",
-    "population": 30366036,
-    "economy": "7. Least developed region",
-    "subregion": "Eastern Africa",
-    "sovereignt": "Mozambique",
-    "iso_a2": "MZ",
-    "region_un": "Africa",
-    "lat": -13.94323,
-    "population:year": 2019,
-    "gdp_md": 15291,
-    "iso_a3": "MOZ",
-    "url_alias": "mz",
-    "id": 495,
     "merchantCount": 8
   },
   {
