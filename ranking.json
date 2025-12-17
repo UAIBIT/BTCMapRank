@@ -12548,6 +12548,32 @@
     "merchantCount": 1
   },
   {
+    "type": "country",
+    "gdp_year": 2019,
+    "sovereignt": "Saudi Arabia",
+    "wikidataid": "Q851",
+    "population:year": 2019,
+    "population:rank": 15,
+    "iso_a2": "SA",
+    "name": "Saudi Arabia",
+    "income_grp": "2. High income: nonOECD",
+    "continent": "Asia",
+    "population": 34268528,
+    "gdp_md": 792966,
+    "subregion": "Western Asia",
+    "economy": "2. Developed region: nonG7",
+    "country_type": "Sovereign country",
+    "lon": 44.6996,
+    "iso_a3": "SAU",
+    "region_un": "Asia",
+    "lat": 23.806908,
+    "region_wb": "Middle East & North Africa",
+    "area_km2": 1930153.01,
+    "url_alias": "sa",
+    "id": 560,
+    "merchantCount": 1
+  },
+  {
     "icon:square": "https://static.btcmap.org/images/communities/caen.png",
     "population": 19206,
     "language": "fr",
@@ -15913,12 +15939,6 @@
     "url_alias": "rw",
     "id": 559,
     "merchantCount": 0
-  },
-  {
-    "id": 560,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "id": 563,
