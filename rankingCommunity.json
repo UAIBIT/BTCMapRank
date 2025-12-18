@@ -77,7 +77,7 @@
     "type": "community",
     "contact:whatsapp": "https://chat.whatsapp.com/CoD0es9GG1x3iqk",
     "id": 805,
-    "merchantCount": 361
+    "merchantCount": 362
   },
   {
     "population:date": "2022-01-01",
@@ -94,7 +94,7 @@
     "population": 2709418,
     "url_alias": "jednadvacet-praha",
     "id": 411,
-    "merchantCount": 332
+    "merchantCount": 331
   },
   {
     "box:east": 9.03617,
@@ -457,7 +457,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 110
+    "merchantCount": 111
   },
   {
     "area_km2": 11517.63,
@@ -2278,21 +2278,6 @@
     "merchantCount": 27
   },
   {
-    "name": "Satoshi Spritz Torino",
-    "contact:telegram": "https://t.me/satoshispritztorino",
-    "population": 847287,
-    "continent": "europe",
-    "organization": "plan-b-network",
-    "population:date": "2022-01-01",
-    "type": "community",
-    "url_alias": "satoshi-spritz-torino",
-    "area_km2": 191.44,
-    "icon:square": "https://static.btcmap.org/images/communities/satoshi-spritz-torino.jpg",
-    "contact:email": "kapras92@gmail.com",
-    "id": 577,
-    "merchantCount": 27
-  },
-  {
     "contact:website": "https://detbtc.com/",
     "contact:telegram": "https://t.me/detbtc",
     "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
@@ -2314,7 +2299,22 @@
     "url_alias": "detroit-bitcoin",
     "box:east": "-80.34301757812501",
     "id": 224,
-    "merchantCount": 25
+    "merchantCount": 27
+  },
+  {
+    "name": "Satoshi Spritz Torino",
+    "contact:telegram": "https://t.me/satoshispritztorino",
+    "population": 847287,
+    "continent": "europe",
+    "organization": "plan-b-network",
+    "population:date": "2022-01-01",
+    "type": "community",
+    "url_alias": "satoshi-spritz-torino",
+    "area_km2": 191.44,
+    "icon:square": "https://static.btcmap.org/images/communities/satoshi-spritz-torino.jpg",
+    "contact:email": "kapras92@gmail.com",
+    "id": 577,
+    "merchantCount": 27
   },
   {
     "contact:meetup": "https://www.meetup.com/lisbon-bitcoin-maximalists/",
@@ -2782,6 +2782,19 @@
     "merchantCount": 20
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://wallpapers.com/images/high/texas-state-flag-outline-aigjzqb3tojefumr.png",
+    "name": "Dallas Bitcoin",
+    "population": 1304379,
+    "population:date": "2020-04-24",
+    "url_alias": "dallas-bitcoin",
+    "contact:meetup": "https://www.meetup.com/dallas-bitcoin-meetup-group",
+    "type": "community",
+    "area_km2": 2350.82,
+    "id": 918,
+    "merchantCount": 20
+  },
+  {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-beach-dominican.jpg",
     "name": "Bitcoin Beach Dominican",
     "type": "community",
@@ -2875,19 +2888,6 @@
     "type": "community",
     "area_km2": 12.55,
     "id": 828,
-    "merchantCount": 19
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://wallpapers.com/images/high/texas-state-flag-outline-aigjzqb3tojefumr.png",
-    "name": "Dallas Bitcoin",
-    "population": 1304379,
-    "population:date": "2020-04-24",
-    "url_alias": "dallas-bitcoin",
-    "contact:meetup": "https://www.meetup.com/dallas-bitcoin-meetup-group",
-    "type": "community",
-    "area_km2": 2350.82,
-    "id": 918,
     "merchantCount": 19
   },
   {
@@ -3597,6 +3597,23 @@
   },
   {
     "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/sowetobtc.png",
+    "name": "SowetoBTC",
+    "population": 1895921,
+    "population:date": "2023-01-01",
+    "url_alias": "sowetobtc",
+    "area_km2": 146.95,
+    "contact:website": "http://sowetobtc.com/",
+    "tips:lightning_address": "sowetobtc@getalby.com",
+    "contact:twitter": "https://x.com/SowetoBtc",
+    "contact:email": "info@sowetobtc.com",
+    "contact:nostr": "npub16v6zr28ae067lmjf9vfnk2ckawjdclnna4frqfzy2yavz6htg6nqyq8jef",
+    "type": "community",
+    "id": 809,
+    "merchantCount": 14
+  },
+  {
+    "continent": "africa",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-sisonke.jpg",
     "name": "Bitcoin Sisonke",
     "population": 820995,
@@ -3760,23 +3777,6 @@
     "merchantCount": 13
   },
   {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/sowetobtc.png",
-    "name": "SowetoBTC",
-    "population": 1895921,
-    "population:date": "2023-01-01",
-    "url_alias": "sowetobtc",
-    "area_km2": 146.95,
-    "contact:website": "http://sowetobtc.com/",
-    "tips:lightning_address": "sowetobtc@getalby.com",
-    "contact:twitter": "https://x.com/SowetoBtc",
-    "contact:email": "info@sowetobtc.com",
-    "contact:nostr": "npub16v6zr28ae067lmjf9vfnk2ckawjdclnna4frqfzy2yavz6htg6nqyq8jef",
-    "type": "community",
-    "id": 809,
-    "merchantCount": 13
-  },
-  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-manitoba.png",
     "name": "Bitcoin Manitoba",
@@ -3894,6 +3894,22 @@
     "contact:website": "https://sites.google.com/view/lincolnlandbitcoin",
     "contact:instagram": "https://www.instagram.com/lincolnlandbitcoin",
     "id": 442,
+    "merchantCount": 12
+  },
+  {
+    "contact:twitter": "https://x.com/Bitcoin_Island1",
+    "population:date": "2020-01-01",
+    "organization": "decouvre-bitcoin",
+    "language": "fr",
+    "contact:telegram": "https://t.me/+XlEaAZvtEApjYzg0",
+    "area_km2": 1127.53,
+    "icon:square": "https://static.btcmap.org/images/communities/montpellier.png",
+    "continent": "europe",
+    "population": 299096,
+    "type": "community",
+    "url_alias": "montpellier",
+    "name": "Montpellier",
+    "id": 485,
     "merchantCount": 12
   },
   {
@@ -4056,22 +4072,6 @@
     "area_km2": 2614.77,
     "contact:telegram": "https://t.me/BitcoinVorarlberg",
     "id": 343,
-    "merchantCount": 11
-  },
-  {
-    "contact:twitter": "https://x.com/Bitcoin_Island1",
-    "population:date": "2020-01-01",
-    "organization": "decouvre-bitcoin",
-    "language": "fr",
-    "contact:telegram": "https://t.me/+XlEaAZvtEApjYzg0",
-    "area_km2": 1127.53,
-    "icon:square": "https://static.btcmap.org/images/communities/montpellier.png",
-    "continent": "europe",
-    "population": 299096,
-    "type": "community",
-    "url_alias": "montpellier",
-    "name": "Montpellier",
-    "id": 485,
     "merchantCount": 11
   },
   {
