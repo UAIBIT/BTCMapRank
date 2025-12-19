@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3943
+    "merchantCount": 3994
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2060
+    "merchantCount": 2062
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1325
+    "merchantCount": 1327
   },
   {
     "gdp_md": 351431,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1048
+    "merchantCount": 1049
   },
   {
     "iso_a2": "CH",
@@ -231,7 +231,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 536
+    "merchantCount": 537
   },
   {
     "sovereignt": "Canada",
@@ -257,7 +257,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 530
+    "merchantCount": 531
   },
   {
     "gdp_md": 543548,
@@ -648,7 +648,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 178
+    "merchantCount": 176
   },
   {
     "continent": "Africa",
@@ -1561,6 +1561,32 @@
     "merchantCount": 23
   },
   {
+    "continent": "Africa",
+    "gdp_md": 35165,
+    "type": "country",
+    "population:rank": 15,
+    "name": "Uganda",
+    "region_un": "Africa",
+    "economy": "7. Least developed region",
+    "country_type": "Sovereign country",
+    "income_grp": "5. Low income",
+    "region_wb": "Sub-Saharan Africa",
+    "population:year": 2019,
+    "subregion": "Eastern Africa",
+    "gdp_year": 2019,
+    "iso_a2": "UG",
+    "population": 44269594,
+    "lon": 32.948555,
+    "iso_a3": "UGA",
+    "sovereignt": "Uganda",
+    "lat": 1.972589,
+    "area_km2": 243097.59,
+    "wikidataid": "Q1036",
+    "url_alias": "ug",
+    "id": 630,
+    "merchantCount": 23
+  },
+  {
     "iso_a2": "MY",
     "region_un": "Asia",
     "population": 31949777,
@@ -1663,32 +1689,6 @@
     "url_alias": "se",
     "id": 582,
     "merchantCount": 19
-  },
-  {
-    "continent": "Africa",
-    "gdp_md": 35165,
-    "type": "country",
-    "population:rank": 15,
-    "name": "Uganda",
-    "region_un": "Africa",
-    "economy": "7. Least developed region",
-    "country_type": "Sovereign country",
-    "income_grp": "5. Low income",
-    "region_wb": "Sub-Saharan Africa",
-    "population:year": 2019,
-    "subregion": "Eastern Africa",
-    "gdp_year": 2019,
-    "iso_a2": "UG",
-    "population": 44269594,
-    "lon": 32.948555,
-    "iso_a3": "UGA",
-    "sovereignt": "Uganda",
-    "lat": 1.972589,
-    "area_km2": 243097.59,
-    "wikidataid": "Q1036",
-    "url_alias": "ug",
-    "id": 630,
-    "merchantCount": 18
   },
   {
     "continent": "Asia",
@@ -5214,32 +5214,6 @@
     "lon": -169.862565,
     "url_alias": "nu",
     "id": 513,
-    "merchantCount": 0
-  },
-  {
-    "lon": 57.336553,
-    "population:year": 2019,
-    "wikidataid": "Q842",
-    "sovereignt": "Oman",
-    "region_wb": "Middle East & North Africa",
-    "population:rank": 12,
-    "type": "country",
-    "economy": "6. Developing region",
-    "population": 4974986,
-    "name": "Oman",
-    "gdp_year": 2019,
-    "area_km2": 312770.98,
-    "income_grp": "2. High income: nonOECD",
-    "gdp_md": 76331,
-    "country_type": "Sovereign country",
-    "lat": 22.120427,
-    "subregion": "Western Asia",
-    "iso_a3": "OMN",
-    "iso_a2": "OM",
-    "continent": "Asia",
-    "region_un": "Asia",
-    "url_alias": "om",
-    "id": 517,
     "merchantCount": 0
   },
   {
