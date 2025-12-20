@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 3994
+    "merchantCount": 4029
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2062
+    "merchantCount": 2067
   },
   {
     "population:year": 2019,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1235
+    "merchantCount": 1236
   },
   {
     "population:rank": 14,
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 613
+    "merchantCount": 612
   },
   {
     "region_un": "Americas",
@@ -231,7 +231,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 537
+    "merchantCount": 538
   },
   {
     "sovereignt": "Canada",
@@ -257,7 +257,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 531
+    "merchantCount": 532
   },
   {
     "gdp_md": 543548,
@@ -391,32 +391,6 @@
     "merchantCount": 347
   },
   {
-    "gdp_md": 17477,
-    "economy": "6. Developing region",
-    "population:year": 2019,
-    "income_grp": "4. Lower middle income",
-    "gdp_year": 2019,
-    "type": "country",
-    "subregion": "Western Asia",
-    "lon": 43.735724,
-    "lat": 41.870087,
-    "area_km2": 69460.61,
-    "country_type": "Sovereign country",
-    "continent": "Asia",
-    "region_un": "Asia",
-    "population": 3720382,
-    "iso_a3": "GEO",
-    "sovereignt": "Georgia",
-    "population:rank": 12,
-    "name": "Georgia",
-    "region_wb": "Europe & Central Asia",
-    "iso_a2": "GE",
-    "wikidataid": "Q230",
-    "url_alias": "ge",
-    "id": 366,
-    "merchantCount": 345
-  },
-  {
     "wikidataid": "Q45",
     "sovereignt": "Portugal",
     "population": 10269417,
@@ -440,6 +414,32 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
+    "merchantCount": 346
+  },
+  {
+    "gdp_md": 17477,
+    "economy": "6. Developing region",
+    "population:year": 2019,
+    "income_grp": "4. Lower middle income",
+    "gdp_year": 2019,
+    "type": "country",
+    "subregion": "Western Asia",
+    "lon": 43.735724,
+    "lat": 41.870087,
+    "area_km2": 69460.61,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "region_un": "Asia",
+    "population": 3720382,
+    "iso_a3": "GEO",
+    "sovereignt": "Georgia",
+    "population:rank": 12,
+    "name": "Georgia",
+    "region_wb": "Europe & Central Asia",
+    "iso_a2": "GE",
+    "wikidataid": "Q230",
+    "url_alias": "ge",
+    "id": 366,
     "merchantCount": 345
   },
   {
@@ -1324,7 +1324,7 @@
     "url_alias": "no",
     "wikidataid": "Q20",
     "id": 686,
-    "merchantCount": 32
+    "merchantCount": 33
   },
   {
     "area_km2": 781554.63,
@@ -1483,6 +1483,32 @@
     "merchantCount": 26
   },
   {
+    "lon": 7.50322,
+    "area_km2": 913593.56,
+    "type": "country",
+    "region_wb": "Sub-Saharan Africa",
+    "income_grp": "4. Lower middle income",
+    "population": 200963599,
+    "subregion": "Western Africa",
+    "gdp_year": 2019,
+    "region_un": "Africa",
+    "population:year": 2019,
+    "wikidataid": "Q1033",
+    "sovereignt": "Nigeria",
+    "name": "Nigeria",
+    "gdp_md": 448120,
+    "iso_a2": "NG",
+    "economy": "5. Emerging region: G20",
+    "lat": 9.439799,
+    "population:rank": 17,
+    "country_type": "Sovereign country",
+    "iso_a3": "NGA",
+    "continent": "Africa",
+    "url_alias": "ng",
+    "id": 505,
+    "merchantCount": 26
+  },
+  {
     "iso_a3": "GHA",
     "gdp_md": 66983,
     "subregion": "Western Africa",
@@ -1532,32 +1558,6 @@
     "subregion": "Western Asia",
     "url_alias": "am",
     "id": 18,
-    "merchantCount": 23
-  },
-  {
-    "lon": 7.50322,
-    "area_km2": 913593.56,
-    "type": "country",
-    "region_wb": "Sub-Saharan Africa",
-    "income_grp": "4. Lower middle income",
-    "population": 200963599,
-    "subregion": "Western Africa",
-    "gdp_year": 2019,
-    "region_un": "Africa",
-    "population:year": 2019,
-    "wikidataid": "Q1033",
-    "sovereignt": "Nigeria",
-    "name": "Nigeria",
-    "gdp_md": 448120,
-    "iso_a2": "NG",
-    "economy": "5. Emerging region: G20",
-    "lat": 9.439799,
-    "population:rank": 17,
-    "country_type": "Sovereign country",
-    "iso_a3": "NGA",
-    "continent": "Africa",
-    "url_alias": "ng",
-    "id": 505,
     "merchantCount": 23
   },
   {
