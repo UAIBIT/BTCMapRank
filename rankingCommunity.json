@@ -226,7 +226,7 @@
     "population": "6815962",
     "url_alias": "bitcoin-bulgaria",
     "id": 82,
-    "merchantCount": 182
+    "merchantCount": 181
   },
   {
     "box:south": 32.62782,
@@ -428,6 +428,21 @@
     "merchantCount": 117
   },
   {
+    "contact:twitter": "https://twitter.com/bitplebsla",
+    "continent": "north-america",
+    "contact:meetup": "https://www.meetup.com/bitplebsla/",
+    "population:date": "2022-01-01",
+    "name": "BitPlebs Los Angeles",
+    "area_km2": 12362.56,
+    "contact:website": "la.bitplebs.com",
+    "url_alias": "bitplebs-los-angeles",
+    "population": "9861224",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
+    "id": 161,
+    "merchantCount": 116
+  },
+  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/eenentwintig-suriname.png",
     "name": "Eenentwintig Suriname",
@@ -443,21 +458,6 @@
     "area_km2": 553.18,
     "id": 837,
     "merchantCount": 116
-  },
-  {
-    "contact:twitter": "https://twitter.com/bitplebsla",
-    "continent": "north-america",
-    "contact:meetup": "https://www.meetup.com/bitplebsla/",
-    "population:date": "2022-01-01",
-    "name": "BitPlebs Los Angeles",
-    "area_km2": 12362.56,
-    "contact:website": "la.bitplebs.com",
-    "url_alias": "bitplebs-los-angeles",
-    "population": "9861224",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
-    "id": 161,
-    "merchantCount": 113
   },
   {
     "area_km2": 11517.63,
@@ -1107,7 +1107,7 @@
     "contact:email": "berlin2140@ph.dedyn.io",
     "organization": "2140-meetups",
     "id": 54,
-    "merchantCount": 57
+    "merchantCount": 56
   },
   {
     "name": "Mass Adoption",
@@ -1206,20 +1206,6 @@
     "merchantCount": 52
   },
   {
-    "organization": "einundzwanzig",
-    "area_km2": 890.91,
-    "type": "community",
-    "population": 3677472,
-    "contact:telegram": "https://t.me/Einundzwanzig_Berlin",
-    "continent": "europe",
-    "url_alias": "einundzwanzig-berlin",
-    "name": "Einundzwanzig Berlin",
-    "population:date": "2021-12-31",
-    "language": "de",
-    "id": 257,
-    "merchantCount": 51
-  },
-  {
     "area_km2": 6676,
     "contact:email": "info@bitcoinpeople.it",
     "contact:facebook": "https://www.facebook.com/bitcoinpeople.it/",
@@ -1253,6 +1239,20 @@
     "contact:instagram": "https://instagram.com/bitcoin.valley",
     "contact:website": "https://bitcoinvalley.eu/",
     "id": 147,
+    "merchantCount": 50
+  },
+  {
+    "organization": "einundzwanzig",
+    "area_km2": 890.91,
+    "type": "community",
+    "population": 3677472,
+    "contact:telegram": "https://t.me/Einundzwanzig_Berlin",
+    "continent": "europe",
+    "url_alias": "einundzwanzig-berlin",
+    "name": "Einundzwanzig Berlin",
+    "population:date": "2021-12-31",
+    "language": "de",
+    "id": 257,
     "merchantCount": 50
   },
   {
@@ -1319,6 +1319,40 @@
   },
   {
     "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/indy-bitcoin.jpg",
+    "name": "Indy Bitcoin",
+    "population": 887642,
+    "population:date": "2020-06-30",
+    "url_alias": "indy-bitcoin",
+    "contact:twitter": "https://x.com/IndyBitcoin",
+    "contact:website": "https://indybitcoinmeetup.com/",
+    "contact:meetup": "https://www.meetup.com/indianapolis-bitcoin-meetup/",
+    "type": "community",
+    "area_km2": 951.54,
+    "id": 890,
+    "merchantCount": 46
+  },
+  {
+    "area_km2": 313.96,
+    "contact:email": "info@bitcoindistrict.org",
+    "contact:meetup": "https://www.meetup.com/bitcoin-district",
+    "contact:twitter": "https://x.com/BTCDistrict",
+    "contact:website": "https://bitcoindistrict.org",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-district.png",
+    "name": "Bitcoin District",
+    "population": 678972,
+    "population:date": "2023-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-district",
+    "contact:nostr": "npub1mcke7stw5mrqp97lmdu0qdrfcz2uertdsy2n9pzvfnsdutx3hvkq7d5mnw",
+    "language": "en",
+    "contact:github": "https://github.com/bitcoindistrict",
+    "id": 785,
+    "merchantCount": 45
+  },
+  {
+    "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-oriente.png",
     "name": "Bitcoin Oriente",
     "population": 290612,
@@ -1331,21 +1365,6 @@
     "language": "es",
     "type": "community",
     "id": 799,
-    "merchantCount": 45
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/indy-bitcoin.jpg",
-    "name": "Indy Bitcoin",
-    "population": 887642,
-    "population:date": "2020-06-30",
-    "url_alias": "indy-bitcoin",
-    "contact:twitter": "https://x.com/IndyBitcoin",
-    "contact:website": "https://indybitcoinmeetup.com/",
-    "contact:meetup": "https://www.meetup.com/indianapolis-bitcoin-meetup/",
-    "type": "community",
-    "area_km2": 951.54,
-    "id": 890,
     "merchantCount": 45
   },
   {
@@ -1366,23 +1385,18 @@
     "merchantCount": 44
   },
   {
-    "area_km2": 313.96,
-    "contact:email": "info@bitcoindistrict.org",
-    "contact:meetup": "https://www.meetup.com/bitcoin-district",
-    "contact:twitter": "https://x.com/BTCDistrict",
-    "contact:website": "https://bitcoindistrict.org",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-district.png",
-    "name": "Bitcoin District",
-    "population": 678972,
-    "population:date": "2023-01-01",
+    "url_alias": "btc-norte",
+    "name": "BTC Norte",
+    "population:date": "2021-01-01",
     "type": "community",
-    "url_alias": "bitcoin-district",
-    "contact:nostr": "npub1mcke7stw5mrqp97lmdu0qdrfcz2uertdsy2n9pzvfnsdutx3hvkq7d5mnw",
-    "language": "en",
-    "contact:github": "https://github.com/bitcoindistrict",
-    "id": 785,
-    "merchantCount": 44
+    "contact:website": "https://btcnorte.org/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/btc-norte.png",
+    "population": "3689173",
+    "contact:github": "https://github.com/btcpt123/btcnorte",
+    "area_km2": 21340.0,
+    "id": 182,
+    "merchantCount": 43
   },
   {
     "area_km2": 414.61,
@@ -1452,20 +1466,6 @@
     "area_km2": 414.91,
     "id": 926,
     "merchantCount": 43
-  },
-  {
-    "url_alias": "btc-norte",
-    "name": "BTC Norte",
-    "population:date": "2021-01-01",
-    "type": "community",
-    "contact:website": "https://btcnorte.org/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/btc-norte.png",
-    "population": "3689173",
-    "contact:github": "https://github.com/btcpt123/btcnorte",
-    "area_km2": 21340.0,
-    "id": 182,
-    "merchantCount": 42
   },
   {
     "contact:website": "https://donate.montanhabitcoin.org/",
@@ -4222,6 +4222,23 @@
     "merchantCount": 10
   },
   {
+    "name": "Bitcoin Puerto Rico",
+    "tips:lightning_address": "btcpuertorico@getalby.com",
+    "population": "3285874",
+    "contact:facebook": "https://www.facebook.com/btcpuertoricooficial",
+    "url_alias": "bitcoin-puerto-rico",
+    "area_km2": 21517.67,
+    "contact:twitter": "https://twitter.com/btcpuertorico",
+    "population:date": "2020-01-01",
+    "continent": "north-america",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-puerto-rico.png",
+    "contact:email": "btcpuertorico@pm.me",
+    "contact:youtube": "https://www.youtube.com/@bitcoinpuertorico",
+    "id": 134,
+    "merchantCount": 10
+  },
+  {
     "type": "community",
     "url_alias": "einundzwanzig-liechtenstein",
     "population:date": "2021-12-31",
@@ -4428,23 +4445,6 @@
     "name": "Bitcoin Nottingham",
     "population": "768638",
     "id": 129,
-    "merchantCount": 9
-  },
-  {
-    "name": "Bitcoin Puerto Rico",
-    "tips:lightning_address": "btcpuertorico@getalby.com",
-    "population": "3285874",
-    "contact:facebook": "https://www.facebook.com/btcpuertoricooficial",
-    "url_alias": "bitcoin-puerto-rico",
-    "area_km2": 21517.67,
-    "contact:twitter": "https://twitter.com/btcpuertorico",
-    "population:date": "2020-01-01",
-    "continent": "north-america",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-puerto-rico.png",
-    "contact:email": "btcpuertorico@pm.me",
-    "contact:youtube": "https://www.youtube.com/@bitcoinpuertorico",
-    "id": 134,
     "merchantCount": 9
   },
   {
@@ -4796,6 +4796,27 @@
     "merchantCount": 8
   },
   {
+    "area_km2": 9635.3,
+    "contact:email": "hello@nwabitcoin.org",
+    "contact:meetup": "https://www.meetup.com/fayetteville-cryptocurrency-meetup-group/",
+    "contact:nostr": "npub1wqpvs2tewfzm2vug3g3jk4935m2q32rmd6gptskeeffqwe4dnxvsj6fvyy",
+    "contact:telegram": "https://t.me/+_2v0ojvuzh1lMDlh",
+    "contact:twitter": "https://x.com/NWABitcoin",
+    "contact:website": "https://nwabitcoin.org/",
+    "continent": "north-america",
+    "description": "Growing a Bitcoin community in Northwest Arkansas",
+    "icon:square": "https://static.btcmap.org/images/communities/northwest-arkansas-bitcoin.png",
+    "language": "en",
+    "name": "Northwest Arkansas Bitcoin",
+    "population": 520000,
+    "population:date": "2024-01-01",
+    "tips:lightning_address": "nwabitcoin@getalby.com",
+    "type": "community",
+    "url_alias": "northwest-arkansas-bitcoin",
+    "id": 795,
+    "merchantCount": 8
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/bury-st-edmunds-bitcoin.jpg",
     "name": "Bury St Edmunds Bitcoin",
@@ -5087,6 +5108,22 @@
     "merchantCount": 7
   },
   {
+    "type": "community",
+    "continent": "north-america",
+    "contact:website": "https://www.knoxvillebitcoin.com/",
+    "contact:email": "knoxvillebitcoin@gmail.com",
+    "name": "Knoxville Bitcoin",
+    "contact:meetup": "https://www.meetup.com/knoxville-bitcoin-network/",
+    "icon:square": "https://static.btcmap.org/images/communities/knoxville-bitcoin.jpeg",
+    "population": "478971",
+    "population:date": "2020-01-01",
+    "contact:twitter": "https://twitter.com/KnoxvilleBTC",
+    "url_alias": "knoxville-bitcoin",
+    "area_km2": 1361.12,
+    "id": 422,
+    "merchantCount": 7
+  },
+  {
     "population:date": "2022-01-01",
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/lake-district-btc.jpeg",
@@ -5244,27 +5281,6 @@
     "type": "community",
     "url_alias": "bitcoin-guadeloupe",
     "id": 779,
-    "merchantCount": 7
-  },
-  {
-    "area_km2": 9635.3,
-    "contact:email": "hello@nwabitcoin.org",
-    "contact:meetup": "https://www.meetup.com/fayetteville-cryptocurrency-meetup-group/",
-    "contact:nostr": "npub1wqpvs2tewfzm2vug3g3jk4935m2q32rmd6gptskeeffqwe4dnxvsj6fvyy",
-    "contact:telegram": "https://t.me/+_2v0ojvuzh1lMDlh",
-    "contact:twitter": "https://x.com/NWABitcoin",
-    "contact:website": "https://nwabitcoin.org/",
-    "continent": "north-america",
-    "description": "Growing a Bitcoin community in Northwest Arkansas",
-    "icon:square": "https://static.btcmap.org/images/communities/northwest-arkansas-bitcoin.png",
-    "language": "en",
-    "name": "Northwest Arkansas Bitcoin",
-    "population": 520000,
-    "population:date": "2024-01-01",
-    "tips:lightning_address": "nwabitcoin@getalby.com",
-    "type": "community",
-    "url_alias": "northwest-arkansas-bitcoin",
-    "id": 795,
     "merchantCount": 7
   },
   {
@@ -5470,22 +5486,6 @@
     "type": "community",
     "contact:telegram": "https://t.me/GRBitcoiners",
     "id": 380,
-    "merchantCount": 6
-  },
-  {
-    "type": "community",
-    "continent": "north-america",
-    "contact:website": "https://www.knoxvillebitcoin.com/",
-    "contact:email": "knoxvillebitcoin@gmail.com",
-    "name": "Knoxville Bitcoin",
-    "contact:meetup": "https://www.meetup.com/knoxville-bitcoin-network/",
-    "icon:square": "https://static.btcmap.org/images/communities/knoxville-bitcoin.jpeg",
-    "population": "478971",
-    "population:date": "2020-01-01",
-    "contact:twitter": "https://twitter.com/KnoxvilleBTC",
-    "url_alias": "knoxville-bitcoin",
-    "area_km2": 1361.12,
-    "id": 422,
     "merchantCount": 6
   },
   {
@@ -7950,6 +7950,22 @@
     "merchantCount": 2
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/pacific-northwest-bitcoin.png",
+    "name": "Pacific Northwest Bitcoin",
+    "population": 108235,
+    "population:date": "2023-01-01",
+    "url_alias": "pacific-northwest-bitcoin",
+    "contact:website": "https://pnwbtc.com",
+    "contact:twitter": "https://x.com/PNWBTC",
+    "contact:email": "info@pnwbtc.com",
+    "tips:url": "https://geyser.fund/project/pacificnorthwestbitcoin",
+    "area_km2": 99.13,
+    "type": "community",
+    "id": 831,
+    "merchantCount": 2
+  },
+  {
     "continent": "africa",
     "icon:square": "https://static.btcmap.org/images/communities/",
     "name": "The Core - Bitcoin Githurai",
@@ -9198,22 +9214,6 @@
     "area_km2": 57.65,
     "type": "community",
     "id": 827,
-    "merchantCount": 1
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/pacific-northwest-bitcoin.png",
-    "name": "Pacific Northwest Bitcoin",
-    "population": 108235,
-    "population:date": "2023-01-01",
-    "url_alias": "pacific-northwest-bitcoin",
-    "contact:website": "https://pnwbtc.com",
-    "contact:twitter": "https://x.com/PNWBTC",
-    "contact:email": "info@pnwbtc.com",
-    "tips:url": "https://geyser.fund/project/pacificnorthwestbitcoin",
-    "area_km2": 99.13,
-    "type": "community",
-    "id": 831,
     "merchantCount": 1
   },
   {
