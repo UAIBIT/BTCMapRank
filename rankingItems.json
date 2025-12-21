@@ -14335,10 +14335,22 @@
     "name": null
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-txoko.webp",
+    "name": "Bitcoin Txoko",
+    "population": 3155597,
+    "population:date": "2017-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-txoko",
+    "contact:github": "https://github.com/bitcointxoko/",
+    "contact:simplex": "https://simplex.bitcointxoko.com",
+    "contact:website": "https://gugara.bitcointxoko.com",
+    "tips:lightning_address": "txoko@bitcointxoko.com",
+    "contact:email": "bitcointxoko@proton.me",
+    "contact:nostr": "npub1tx0k0a7lw62vvqax6p3ku90tccgdka7ul4radews2wrdsg0m865szf9fw6",
+    "area_km2": 21000,
     "id": 747,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 20
   },
   {
     "continent": "south-america",
