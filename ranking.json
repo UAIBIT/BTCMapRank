@@ -7784,19 +7784,6 @@
     "merchantCount": 7
   },
   {
-    "continent": "oceania",
-    "icon:square": "https://raw.githubusercontent.com/BitcoinByronBay/Files/refs/heads/main/BitcoinByronBay.png",
-    "name": "Bitcoin Byron Bay",
-    "population": 10538,
-    "population:date": "2021-02-12",
-    "url_alias": "bitcoin-byron-bay",
-    "contact:meetup": "https://www.meetup.com/bitcoin-byron-bay/events/308626007/",
-    "type": "community",
-    "area_km2": 23.87,
-    "id": 949,
-    "merchantCount": 7
-  },
-  {
     "contact:twitter": "https://twitter.com/BanskoBitcoin",
     "box:north": "41.866237149376",
     "population": "8873",
@@ -17560,6 +17547,12 @@
   },
   {
     "id": 946,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 949,
     "type": null,
     "merchantCount": 0,
     "name": null
