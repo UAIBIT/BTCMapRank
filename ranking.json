@@ -12985,6 +12985,21 @@
     "merchantCount": 1
   },
   {
+    "area_km2": 12855.14,
+    "contact:email": "info@bitcoingambia.org",
+    "contact:website": "https://www.bitcoingambia.org/",
+    "continent": "africa",
+    "description": "A community of English and German speaking bitcoin enthusiasts.",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-gambia.png",
+    "name": "Bitcoin Gambia",
+    "population": 2773000,
+    "population:date": "2023-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-gambia",
+    "id": 775,
+    "merchantCount": 1
+  },
+  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/livefreebtc.png",
     "name": "LiveFreeBTC",
@@ -17250,12 +17265,6 @@
   },
   {
     "id": 751,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 775,
     "type": null,
     "merchantCount": 0,
     "name": null
