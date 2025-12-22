@@ -14785,19 +14785,10 @@
     "merchantCount": 134
   },
   {
-    "area_km2": 12855.14,
-    "contact:email": "info@bitcoingambia.org",
-    "contact:website": "https://www.bitcoingambia.org/",
-    "continent": "africa",
-    "description": "A community of English and German speaking bitcoin enthusiasts.",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-gambia.png",
-    "name": "Bitcoin Gambia",
-    "population": 2773000,
-    "population:date": "2023-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-gambia",
     "id": 775,
-    "merchantCount": 1
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 776,
@@ -17351,10 +17342,17 @@
     "merchantCount": 8
   },
   {
+    "continent": "oceania",
+    "icon:square": "https://raw.githubusercontent.com/BitcoinByronBay/Files/refs/heads/main/BitcoinByronBay.png",
+    "name": "Bitcoin Byron Bay",
+    "population": 10538,
+    "population:date": "2021-02-12",
+    "url_alias": "bitcoin-byron-bay",
+    "contact:meetup": "https://www.meetup.com/bitcoin-byron-bay/events/308626007/",
+    "type": "community",
+    "area_km2": 23.87,
     "id": 949,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 7
   },
   {
     "continent": "europe",
