@@ -4260,30 +4260,10 @@
     "merchantCount": 0
   },
   {
-    "lon": -70.653998,
-    "gdp_md": 88941,
-    "gdp_year": 2019,
-    "wikidataid": "Q786",
-    "sovereignt": "Dominican Republic",
-    "population:year": 2019,
-    "economy": "6. Developing region",
-    "region_un": "Americas",
-    "income_grp": "3. Upper middle income",
-    "iso_a3": "DOM",
-    "population": 10738958,
-    "name": "Dominican Republic",
-    "iso_a2": "DO",
-    "lat": 19.104137,
-    "type": "country",
-    "country_type": "Sovereign country",
-    "continent": "North America",
-    "subregion": "Caribbean",
-    "region_wb": "Latin America & Caribbean",
-    "area_km2": 48698.05,
-    "population:rank": 14,
-    "url_alias": "do",
     "id": 232,
-    "merchantCount": 126
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 233,
@@ -14895,10 +14875,19 @@
     "merchantCount": 0
   },
   {
+    "area_km2": 5502.95,
+    "contact:instagram": "https://www.instagram.com/norfolkbitcoin/",
+    "contact:twitter": "https://x.com/NorfolkBitcoin",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/norfolk-bitcoin.png",
+    "name": "Norfolk Bitcoin",
+    "population": 230930,
+    "population:date": "2023-01-01",
+    "tips:lightning_address": "rawcarrot23@walletofsatoshi.com",
+    "type": "community",
+    "url_alias": "norfolk-bitcoin",
     "id": 784,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 4
   },
   {
     "area_km2": 313.96,
