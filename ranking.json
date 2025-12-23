@@ -10223,19 +10223,6 @@
     "merchantCount": 3
   },
   {
-    "continent": "oceania",
-    "icon:square": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitcoin_Logo.png",
-    "name": "Canberra Bitcoin",
-    "population": 473855,
-    "population:date": "2025-03-27",
-    "url_alias": "canberra-bitcoin",
-    "contact:meetup": "https://www.meetup.com/central-florida-bitcoiners",
-    "type": "community",
-    "area_km2": 2393.83,
-    "id": 943,
-    "merchantCount": 3
-  },
-  {
     "sovereignt": "United Kingdom",
     "iso_a3": "AIA",
     "population:rank": 6,
@@ -12919,6 +12906,22 @@
     "url_alias": "poitiers",
     "area_km2": 1943.32,
     "id": 716,
+    "merchantCount": 1
+  },
+  {
+    "area_km2": 9155,
+    "contact:email": "info@alaskabtc.com",
+    "contact:phone": "+15018818076",
+    "contact:website": "https://alaskabtc.com/",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/juneau-btc.png",
+    "name": "Juneau BTC",
+    "organization": "mi-primer-bitcoin",
+    "population": 31685,
+    "population:date": "2022-01-01",
+    "type": "community",
+    "url_alias": "juneau-btc",
+    "id": 721,
     "merchantCount": 1
   },
   {
@@ -17133,12 +17136,6 @@
     "merchantCount": 0
   },
   {
-    "id": 721,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "area_km2": 543,
     "contact:email": "hello@xonghoti.com",
     "contact:nostr": "npub1dy2t2h6xphjqqyqm8thp3m2c0fka8ekzgxjjdm475lzm8xtpzxlqdzcv99",
@@ -17547,6 +17544,12 @@
     "area_km2": 53.21,
     "id": 938,
     "merchantCount": 0
+  },
+  {
+    "id": 943,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 946,
