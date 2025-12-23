@@ -10223,6 +10223,19 @@
     "merchantCount": 3
   },
   {
+    "continent": "oceania",
+    "icon:square": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitcoin_Logo.png",
+    "name": "Canberra Bitcoin",
+    "population": 473855,
+    "population:date": "2025-03-27",
+    "url_alias": "canberra-bitcoin",
+    "contact:meetup": "https://www.meetup.com/central-florida-bitcoiners",
+    "type": "community",
+    "area_km2": 2393.83,
+    "id": 943,
+    "merchantCount": 3
+  },
+  {
     "sovereignt": "United Kingdom",
     "iso_a3": "AIA",
     "population:rank": 6,
@@ -13567,30 +13580,10 @@
     "name": null
   },
   {
-    "continent": "Africa",
-    "economy": "7. Least developed region",
-    "population:rank": 15,
-    "iso_a3": "BFA",
-    "country_type": "Sovereign country",
-    "lat": 12.673048,
-    "population": 20321378,
-    "population:year": 2019,
-    "region_un": "Africa",
-    "gdp_year": 2019,
-    "name": "Burkina Faso",
-    "gdp_md": 15990,
-    "income_grp": "5. Low income",
-    "subregion": "Western Africa",
-    "iso_a2": "BF",
-    "lon": -1.36388,
-    "type": "country",
-    "area_km2": 274296.97,
-    "sovereignt": "Burkina Faso",
-    "region_wb": "Sub-Saharan Africa",
-    "wikidataid": "Q965",
-    "url_alias": "bf",
     "id": 56,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "lat": 26.055972,
@@ -17544,12 +17537,6 @@
     "area_km2": 53.21,
     "id": 938,
     "merchantCount": 0
-  },
-  {
-    "id": 943,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "id": 946,
