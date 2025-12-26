@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 21602
+    "merchantCount": 21642
   },
   {
     "sovereignt": "United States of America",
@@ -29,7 +29,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4216
+    "merchantCount": 4254
   },
   {
     "wikidataid": "Q155",
@@ -55,7 +55,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2072
+    "merchantCount": 2074
   },
   {
     "type": "trash",
@@ -430,7 +430,7 @@
     "name": "Costa Rica",
     "url_alias": "cr",
     "id": 211,
-    "merchantCount": 388
+    "merchantCount": 389
   },
   {
     "population": 47076781,
@@ -662,7 +662,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 331
+    "merchantCount": 330
   },
   {
     "name": "Poland",
@@ -992,7 +992,7 @@
     "population": "6815962",
     "url_alias": "bitcoin-bulgaria",
     "id": 82,
-    "merchantCount": 181
+    "merchantCount": 180
   },
   {
     "income_grp": "3. Upper middle income",
@@ -1018,7 +1018,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 175
+    "merchantCount": 174
   },
   {
     "continent": "Africa",
@@ -1369,7 +1369,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 111
+    "merchantCount": 112
   },
   {
     "area_km2": 11517.63,
@@ -4495,6 +4495,22 @@
     "merchantCount": 21
   },
   {
+    "area_km2": 144,
+    "contact:email": "hector@miprimerbitcoin.io",
+    "contact:meetup": "https://www.meetup.com/bismarck-bitcoin-meetup/",
+    "contact:twitter": "https://x.com/BitcoinGrove",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-grove.webp",
+    "name": "Bitcoin Grove",
+    "organization": "mi-primer-bitcoin",
+    "population": 442241,
+    "population:date": "2020-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-grove",
+    "id": 725,
+    "merchantCount": 21
+  },
+  {
     "area_km2": 102.13,
     "contact:signal": "https://signal.group/#CjQKIKjU9GK60QXNQyMqSDOizIl5L5WESmJRwM4fG3-ANAP7EhBS3FvBjUDUTjlreHoPfc9Y",
     "continent": "europe",
@@ -4693,6 +4709,32 @@
     "merchantCount": 19
   },
   {
+    "continent": "Asia",
+    "gdp_md": 261921,
+    "type": "country",
+    "name": "Vietnam",
+    "country_type": "Sovereign country",
+    "economy": "5. Emerging region: G20",
+    "region_wb": "East Asia & Pacific",
+    "population:rank": 16,
+    "income_grp": "4. Lower middle income",
+    "population": 96462106,
+    "iso_a3": "VNM",
+    "sovereignt": "Vietnam",
+    "wikidataid": "Q881",
+    "subregion": "South-Eastern Asia",
+    "population:year": 2019,
+    "region_un": "Asia",
+    "iso_a2": "VN",
+    "gdp_year": 2019,
+    "area_km2": 329677.25,
+    "lon": 105.387292,
+    "lat": 21.715416,
+    "url_alias": "vn",
+    "id": 647,
+    "merchantCount": 19
+  },
+  {
     "contact:telegram": "https://t.me/bitcoinpowerhouse21",
     "contact:twitter": "https://twitter.com/BitcoinpowerH21",
     "continent": "asia",
@@ -4881,32 +4923,6 @@
     "icon:square": "https://static.btcmap.org/images/communities/neuchatel.png",
     "population": 44531,
     "id": 501,
-    "merchantCount": 18
-  },
-  {
-    "continent": "Asia",
-    "gdp_md": 261921,
-    "type": "country",
-    "name": "Vietnam",
-    "country_type": "Sovereign country",
-    "economy": "5. Emerging region: G20",
-    "region_wb": "East Asia & Pacific",
-    "population:rank": 16,
-    "income_grp": "4. Lower middle income",
-    "population": 96462106,
-    "iso_a3": "VNM",
-    "sovereignt": "Vietnam",
-    "wikidataid": "Q881",
-    "subregion": "South-Eastern Asia",
-    "population:year": 2019,
-    "region_un": "Asia",
-    "iso_a2": "VN",
-    "gdp_year": 2019,
-    "area_km2": 329677.25,
-    "lon": 105.387292,
-    "lat": 21.715416,
-    "url_alias": "vn",
-    "id": 647,
     "merchantCount": 18
   },
   {
@@ -6568,6 +6584,28 @@
     "merchantCount": 9
   },
   {
+    "name:ru": "Биткойн Сайгон",
+    "box:north": "10.786009377232002",
+    "box:south": "10.767206697435249",
+    "contact:website": "http://www.bitcoinsaigon.org/",
+    "name": "Bitcoin Saigon",
+    "type": "community",
+    "box:west": "106.68591499328615",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-saigon.png",
+    "population:date": "2019-01-01",
+    "area_km2": 2407.13,
+    "contact:meetup": "https://www.meetup.com/Bitcoin-Saigon-Meetup/",
+    "continent": "asia",
+    "contact:nostr": "npub13ek3cargj3wtuduut5y0jkdlqkmvxmrvzzex96krzejjj580t9ashr4946",
+    "box:east": "106.71149253845215",
+    "contact:telegram": "https://t.me/BitcoinSaigon_public",
+    "contact:twitter": "https://twitter.com/BitcoinSaigon",
+    "population": "21281639",
+    "url_alias": "bitcoin-saigon",
+    "id": 137,
+    "merchantCount": 9
+  },
+  {
     "box:east": "-0.10557174682617189",
     "contact:telegram": "https://t.me/brighton_btc",
     "continent": "europe",
@@ -6890,28 +6928,6 @@
     "area_km2": 273.55,
     "contact:twitter": "https://twitter.com/BTCedinburgh",
     "id": 98,
-    "merchantCount": 8
-  },
-  {
-    "name:ru": "Биткойн Сайгон",
-    "box:north": "10.786009377232002",
-    "box:south": "10.767206697435249",
-    "contact:website": "http://www.bitcoinsaigon.org/",
-    "name": "Bitcoin Saigon",
-    "type": "community",
-    "box:west": "106.68591499328615",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-saigon.png",
-    "population:date": "2019-01-01",
-    "area_km2": 2407.13,
-    "contact:meetup": "https://www.meetup.com/Bitcoin-Saigon-Meetup/",
-    "continent": "asia",
-    "contact:nostr": "npub13ek3cargj3wtuduut5y0jkdlqkmvxmrvzzex96krzejjj580t9ashr4946",
-    "box:east": "106.71149253845215",
-    "contact:telegram": "https://t.me/BitcoinSaigon_public",
-    "contact:twitter": "https://twitter.com/BitcoinSaigon",
-    "population": "21281639",
-    "url_alias": "bitcoin-saigon",
-    "id": 137,
     "merchantCount": 8
   },
   {
@@ -8272,23 +8288,6 @@
     "type": "community",
     "area_km2": 33617.38,
     "id": 904,
-    "merchantCount": 6
-  },
-  {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitfiasi.jpg",
-    "name": "Bitfiasi",
-    "population": 5455692,
-    "population:date": "2021-06-30",
-    "url_alias": "bitfiasi",
-    "contact:email": "info@bitfiasi.org",
-    "contact:telegram": "https://t.me/BitfiasiNetwork",
-    "tips:lightning_address": "bitfiasi@blink.sv",
-    "type": "community",
-    "area_km2": 3717.2,
-    "contact:twitter": "https://x.com/bitfiasi",
-    "contact:website": "https://bitfiasi.org/",
-    "id": 905,
     "merchantCount": 6
   },
   {
@@ -17152,12 +17151,6 @@
     "merchantCount": 0
   },
   {
-    "id": 725,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "area_km2": 122,
     "contact:email": "huxleydarwin@proton.me",
     "contact:website": "https://aswsovla.elementor.cloud/",
@@ -17516,6 +17509,12 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
+  },
+  {
+    "id": 905,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 916,

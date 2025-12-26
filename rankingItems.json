@@ -906,7 +906,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 111
+    "merchantCount": 112
   },
   {
     "population": 287025,
@@ -1112,7 +1112,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 175
+    "merchantCount": 174
   },
   {
     "lat": 26.055972,
@@ -1523,7 +1523,7 @@
     "population": "6815962",
     "url_alias": "bitcoin-bulgaria",
     "id": 82,
-    "merchantCount": 181
+    "merchantCount": 180
   },
   {
     "organization": "2140-meetups",
@@ -2463,7 +2463,7 @@
     "population": "21281639",
     "url_alias": "bitcoin-saigon",
     "id": 137,
-    "merchantCount": 8
+    "merchantCount": 9
   },
   {
     "continent": "europe",
@@ -3070,7 +3070,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2072
+    "merchantCount": 2074
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -3845,7 +3845,7 @@
     "name": "Costa Rica",
     "url_alias": "cr",
     "id": 211,
-    "merchantCount": 388
+    "merchantCount": 389
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/crypto-mar-del-plata-argentina.png",
@@ -12144,7 +12144,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4216
+    "merchantCount": 4254
   },
   {
     "population": 1734000,
@@ -12449,7 +12449,7 @@
     "lat": 21.715416,
     "url_alias": "vn",
     "id": 647,
-    "merchantCount": 18
+    "merchantCount": 19
   },
   {
     "subregion": "Melanesia",
@@ -12754,7 +12754,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 21602
+    "merchantCount": 21642
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -13221,7 +13221,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 331
+    "merchantCount": 330
   },
   {
     "area_km2": 385110.87,
@@ -13968,10 +13968,20 @@
     "merchantCount": 2
   },
   {
+    "area_km2": 144,
+    "contact:email": "hector@miprimerbitcoin.io",
+    "contact:meetup": "https://www.meetup.com/bismarck-bitcoin-meetup/",
+    "contact:twitter": "https://x.com/BitcoinGrove",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-grove.webp",
+    "name": "Bitcoin Grove",
+    "organization": "mi-primer-bitcoin",
+    "population": 442241,
+    "population:date": "2020-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-grove",
     "id": 725,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 21
   },
   {
     "area_km2": 122,
@@ -16730,21 +16740,10 @@
     "merchantCount": 6
   },
   {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitfiasi.jpg",
-    "name": "Bitfiasi",
-    "population": 5455692,
-    "population:date": "2021-06-30",
-    "url_alias": "bitfiasi",
-    "contact:email": "info@bitfiasi.org",
-    "contact:telegram": "https://t.me/BitfiasiNetwork",
-    "tips:lightning_address": "bitfiasi@blink.sv",
-    "type": "community",
-    "area_km2": 3717.2,
-    "contact:twitter": "https://x.com/bitfiasi",
-    "contact:website": "https://bitfiasi.org/",
     "id": 905,
-    "merchantCount": 6
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "south-america",

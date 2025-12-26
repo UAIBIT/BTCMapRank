@@ -226,7 +226,7 @@
     "population": "6815962",
     "url_alias": "bitcoin-bulgaria",
     "id": 82,
-    "merchantCount": 181
+    "merchantCount": 180
   },
   {
     "box:south": 32.62782,
@@ -473,7 +473,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 111
+    "merchantCount": 112
   },
   {
     "area_km2": 11517.63,
@@ -2715,6 +2715,22 @@
     "merchantCount": 21
   },
   {
+    "area_km2": 144,
+    "contact:email": "hector@miprimerbitcoin.io",
+    "contact:meetup": "https://www.meetup.com/bismarck-bitcoin-meetup/",
+    "contact:twitter": "https://x.com/BitcoinGrove",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-grove.webp",
+    "name": "Bitcoin Grove",
+    "organization": "mi-primer-bitcoin",
+    "population": 442241,
+    "population:date": "2020-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-grove",
+    "id": 725,
+    "merchantCount": 21
+  },
+  {
     "area_km2": 102.13,
     "contact:signal": "https://signal.group/#CjQKIKjU9GK60QXNQyMqSDOizIl5L5WESmJRwM4fG3-ANAP7EhBS3FvBjUDUTjlreHoPfc9Y",
     "continent": "europe",
@@ -4450,6 +4466,28 @@
     "merchantCount": 9
   },
   {
+    "name:ru": "Биткойн Сайгон",
+    "box:north": "10.786009377232002",
+    "box:south": "10.767206697435249",
+    "contact:website": "http://www.bitcoinsaigon.org/",
+    "name": "Bitcoin Saigon",
+    "type": "community",
+    "box:west": "106.68591499328615",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-saigon.png",
+    "population:date": "2019-01-01",
+    "area_km2": 2407.13,
+    "contact:meetup": "https://www.meetup.com/Bitcoin-Saigon-Meetup/",
+    "continent": "asia",
+    "contact:nostr": "npub13ek3cargj3wtuduut5y0jkdlqkmvxmrvzzex96krzejjj580t9ashr4946",
+    "box:east": "106.71149253845215",
+    "contact:telegram": "https://t.me/BitcoinSaigon_public",
+    "contact:twitter": "https://twitter.com/BitcoinSaigon",
+    "population": "21281639",
+    "url_alias": "bitcoin-saigon",
+    "id": 137,
+    "merchantCount": 9
+  },
+  {
     "box:east": "-0.10557174682617189",
     "contact:telegram": "https://t.me/brighton_btc",
     "continent": "europe",
@@ -4716,28 +4754,6 @@
     "area_km2": 273.55,
     "contact:twitter": "https://twitter.com/BTCedinburgh",
     "id": 98,
-    "merchantCount": 8
-  },
-  {
-    "name:ru": "Биткойн Сайгон",
-    "box:north": "10.786009377232002",
-    "box:south": "10.767206697435249",
-    "contact:website": "http://www.bitcoinsaigon.org/",
-    "name": "Bitcoin Saigon",
-    "type": "community",
-    "box:west": "106.68591499328615",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-saigon.png",
-    "population:date": "2019-01-01",
-    "area_km2": 2407.13,
-    "contact:meetup": "https://www.meetup.com/Bitcoin-Saigon-Meetup/",
-    "continent": "asia",
-    "contact:nostr": "npub13ek3cargj3wtuduut5y0jkdlqkmvxmrvzzex96krzejjj580t9ashr4946",
-    "box:east": "106.71149253845215",
-    "contact:telegram": "https://t.me/BitcoinSaigon_public",
-    "contact:twitter": "https://twitter.com/BitcoinSaigon",
-    "population": "21281639",
-    "url_alias": "bitcoin-saigon",
-    "id": 137,
     "merchantCount": 8
   },
   {
@@ -5711,23 +5727,6 @@
     "type": "community",
     "area_km2": 33617.38,
     "id": 904,
-    "merchantCount": 6
-  },
-  {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitfiasi.jpg",
-    "name": "Bitfiasi",
-    "population": 5455692,
-    "population:date": "2021-06-30",
-    "url_alias": "bitfiasi",
-    "contact:email": "info@bitfiasi.org",
-    "contact:telegram": "https://t.me/BitfiasiNetwork",
-    "tips:lightning_address": "bitfiasi@blink.sv",
-    "type": "community",
-    "area_km2": 3717.2,
-    "contact:twitter": "https://x.com/bitfiasi",
-    "contact:website": "https://bitfiasi.org/",
-    "id": 905,
     "merchantCount": 6
   },
   {
