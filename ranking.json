@@ -639,32 +639,6 @@
     "merchantCount": 333
   },
   {
-    "area_km2": 636466.7,
-    "continent": "Europe",
-    "country_type": "Country",
-    "economy": "1. Developed region: G7",
-    "gdp_md": 2715518,
-    "gdp_year": 2019,
-    "income_grp": "1. High income: OECD",
-    "iso_a2": "FR",
-    "iso_a3": "FRA",
-    "lat": 46.696113,
-    "lon": 2.552275,
-    "name": "France",
-    "population": 67059887,
-    "population:rank": 16,
-    "population:year": 2019,
-    "region_un": "Europe",
-    "region_wb": "Europe & Central Asia",
-    "sovereignt": "France",
-    "subregion": "Western Europe",
-    "type": "country",
-    "url_alias": "fr",
-    "wikidataid": "Q142",
-    "id": 685,
-    "merchantCount": 330
-  },
-  {
     "name": "Poland",
     "type": "country",
     "income_grp": "1. High income: OECD",
@@ -17003,6 +16977,12 @@
     "tips:lightning_address": "bitcoinlille@walletofsatoshi.com",
     "id": 683,
     "merchantCount": 0
+  },
+  {
+    "id": 685,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 894,
