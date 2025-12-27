@@ -473,7 +473,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 112
+    "merchantCount": 115
   },
   {
     "area_km2": 11517.63,
@@ -588,7 +588,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 88
+    "merchantCount": 89
   },
   {
     "box:south": "-47.24913107596981",
@@ -1048,6 +1048,25 @@
     "merchantCount": 60
   },
   {
+    "name": "Mass Adoption",
+    "population": "6984723",
+    "icon:square": "https://static.btcmap.org/images/communities/mass-adoption.png",
+    "contact:email": "g25hoff@gmail.com",
+    "contact:meetup": "https://www.meetup.com/massachusetts-bitcoin-meetup/",
+    "area_km2": 27200.54,
+    "contact:youtube": "https://www.youtube.com/@massadoptionbtc",
+    "url_alias": "mass-adoption",
+    "continent": "north-america",
+    "type": "community",
+    "population:date": "2020-01-01",
+    "contact:twitter": "https://twitter.com/BTC_Mass",
+    "tips:lightning_address": "smoothsleet86@walletofsatoshi.com",
+    "contact:website": "https://www.massadoption.net/",
+    "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
+    "id": 463,
+    "merchantCount": 59
+  },
+  {
     "contact:twitter": "https://twitter.com/BelgianBitcoin",
     "box:north": "51.26685586346179",
     "population:date": "2022-01-01",
@@ -1107,25 +1126,6 @@
     "contact:email": "berlin2140@ph.dedyn.io",
     "organization": "2140-meetups",
     "id": 54,
-    "merchantCount": 57
-  },
-  {
-    "name": "Mass Adoption",
-    "population": "6984723",
-    "icon:square": "https://static.btcmap.org/images/communities/mass-adoption.png",
-    "contact:email": "g25hoff@gmail.com",
-    "contact:meetup": "https://www.meetup.com/massachusetts-bitcoin-meetup/",
-    "area_km2": 27200.54,
-    "contact:youtube": "https://www.youtube.com/@massadoptionbtc",
-    "url_alias": "mass-adoption",
-    "continent": "north-america",
-    "type": "community",
-    "population:date": "2020-01-01",
-    "contact:twitter": "https://twitter.com/BTC_Mass",
-    "tips:lightning_address": "smoothsleet86@walletofsatoshi.com",
-    "contact:website": "https://www.massadoption.net/",
-    "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
-    "id": 463,
     "merchantCount": 57
   },
   {
@@ -2335,6 +2335,22 @@
     "merchantCount": 26
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/san-antonio-bitcoin-club.png",
+    "name": "San Antonio Bitcoin Club",
+    "population": 1495000,
+    "population:date": "2023-01-01",
+    "url_alias": "san-antonio-bitcoin-club",
+    "contact:twitter": "https://x.com/sabtcclub",
+    "area_km2": 2147.51,
+    "contact:email": "ge@sanantoniobitcoinclub.com",
+    "contact:website": "https://www.sanantoniobitcoinclub.com/",
+    "contact:meetup": "https://www.meetup.com/pl-PL/sanantoniobitcoinclub/",
+    "type": "community",
+    "id": 824,
+    "merchantCount": 26
+  },
+  {
     "name": "Bitcoin Charlotte",
     "contact:website": "https://bitcoincharlotte.org",
     "population": "874579",
@@ -2406,22 +2422,6 @@
     "box:east": "-113.61236572265626",
     "contact:twitter": "https://twitter.com/yycbitcoin",
     "id": 655,
-    "merchantCount": 25
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/san-antonio-bitcoin-club.png",
-    "name": "San Antonio Bitcoin Club",
-    "population": 1495000,
-    "population:date": "2023-01-01",
-    "url_alias": "san-antonio-bitcoin-club",
-    "contact:twitter": "https://x.com/sabtcclub",
-    "area_km2": 2147.51,
-    "contact:email": "ge@sanantoniobitcoinclub.com",
-    "contact:website": "https://www.sanantoniobitcoinclub.com/",
-    "contact:meetup": "https://www.meetup.com/pl-PL/sanantoniobitcoinclub/",
-    "type": "community",
-    "id": 824,
     "merchantCount": 25
   },
   {
@@ -3262,6 +3262,21 @@
     "merchantCount": 16
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://raw.githubusercontent.com/ColumbusBitcoin/Files/main/ColumbusBitcoin.jpg",
+    "name": "Columbus Bitcoin",
+    "population": 905748,
+    "population:date": "2020-04-01",
+    "url_alias": "columbus-bitcoin",
+    "tips:lightning_address": "columbusbitcoin@cluborange.org",
+    "contact:twitter": "https://x.com/ColumbusBitcoin?t=5-dZ5kh_CLye5Er_Jag7PA&s=09",
+    "description": "Columbus Bitcoin is a monthly social gathering centered around Bitcoin. Our goal is to exchange stories related to Bitcoin, provide technical insights, foster business connections, and build lasting friendships. Regardless of whether you're just dipping your toes into the complex world of Bitcoin, struggling with its jargon, or you're a seasoned veteran who was involved in drafting the initial Bitcoin white paper in 2009, everyone is invited to learn and share their experiences.",
+    "type": "community",
+    "area_km2": 754.76,
+    "id": 964,
+    "merchantCount": 16
+  },
+  {
     "area_km2": 472.66,
     "contact:telegram": "https://t.me/Einundzwanzig_Seeland",
     "type": "community",
@@ -3459,21 +3474,6 @@
     "merchantCount": 15
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://raw.githubusercontent.com/ColumbusBitcoin/Files/main/ColumbusBitcoin.jpg",
-    "name": "Columbus Bitcoin",
-    "population": 905748,
-    "population:date": "2020-04-01",
-    "url_alias": "columbus-bitcoin",
-    "tips:lightning_address": "columbusbitcoin@cluborange.org",
-    "contact:twitter": "https://x.com/ColumbusBitcoin?t=5-dZ5kh_CLye5Er_Jag7PA&s=09",
-    "description": "Columbus Bitcoin is a monthly social gathering centered around Bitcoin. Our goal is to exchange stories related to Bitcoin, provide technical insights, foster business connections, and build lasting friendships. Regardless of whether you're just dipping your toes into the complex world of Bitcoin, struggling with its jargon, or you're a seasoned veteran who was involved in drafting the initial Bitcoin white paper in 2009, everyone is invited to learn and share their experiences.",
-    "type": "community",
-    "area_km2": 754.76,
-    "id": 964,
-    "merchantCount": 15
-  },
-  {
     "type": "community",
     "name": "Bitcoin Manchester",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-manchester-2.jpg",
@@ -3626,6 +3626,28 @@
     "contact:nostr": "npub16v6zr28ae067lmjf9vfnk2ckawjdclnna4frqfzy2yavz6htg6nqyq8jef",
     "type": "community",
     "id": 809,
+    "merchantCount": 14
+  },
+  {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-famba.jpg",
+    "name": "Bitcoin Famba",
+    "population": 61531,
+    "population:date": "2017-06-30",
+    "url_alias": "bitcoin-famba",
+    "type": "community",
+    "area_km2": 780.38,
+    "tips:lightning_address": "bitcoinfamba@blink.sv",
+    "contact:website": "https://linktr.ee/BitcoinFamba",
+    "contact:email": "bitcoinfamba@gmail.com",
+    "contact:twitter": "https://x.com/BitcoinFamba",
+    "tips:url": "https://geyser.fund/project/bitcoinfamba",
+    "contact:instagram": "https://www.instagram.com/bitcoinfamba",
+    "contact:nostr": "nprofile1qqspa6xq9dp3enac8d04ejwpczgnfzp6jqw6apcmxk0wdn3wfvmtmccuy30r4",
+    "contact:linkedin": "https://www.linkedin.com/in/bitcoin-famba-82a050365/",
+    "contact:youtube": "https://www.youtube.com/@bitcoinfamba",
+    "contact:facebook": "https://www.facebook.com/bitcoinfamba",
+    "id": 882,
     "merchantCount": 14
   },
   {
@@ -3789,28 +3811,6 @@
     "area_km2": 650760.82,
     "type": "community",
     "id": 839,
-    "merchantCount": 13
-  },
-  {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-famba.jpg",
-    "name": "Bitcoin Famba",
-    "population": 61531,
-    "population:date": "2017-06-30",
-    "url_alias": "bitcoin-famba",
-    "type": "community",
-    "area_km2": 780.38,
-    "tips:lightning_address": "bitcoinfamba@blink.sv",
-    "contact:website": "https://linktr.ee/BitcoinFamba",
-    "contact:email": "bitcoinfamba@gmail.com",
-    "contact:twitter": "https://x.com/BitcoinFamba",
-    "tips:url": "https://geyser.fund/project/bitcoinfamba",
-    "contact:instagram": "https://www.instagram.com/bitcoinfamba",
-    "contact:nostr": "nprofile1qqspa6xq9dp3enac8d04ejwpczgnfzp6jqw6apcmxk0wdn3wfvmtmccuy30r4",
-    "contact:linkedin": "https://www.linkedin.com/in/bitcoin-famba-82a050365/",
-    "contact:youtube": "https://www.youtube.com/@bitcoinfamba",
-    "contact:facebook": "https://www.facebook.com/bitcoinfamba",
-    "id": 882,
     "merchantCount": 13
   },
   {
@@ -4348,6 +4348,27 @@
     "merchantCount": 10
   },
   {
+    "area_km2": 9635.3,
+    "contact:email": "hello@nwabitcoin.org",
+    "contact:meetup": "https://www.meetup.com/fayetteville-cryptocurrency-meetup-group/",
+    "contact:nostr": "npub1wqpvs2tewfzm2vug3g3jk4935m2q32rmd6gptskeeffqwe4dnxvsj6fvyy",
+    "contact:telegram": "https://t.me/+_2v0ojvuzh1lMDlh",
+    "contact:twitter": "https://x.com/NWABitcoin",
+    "contact:website": "https://nwabitcoin.org/",
+    "continent": "north-america",
+    "description": "Growing a Bitcoin community in Northwest Arkansas",
+    "icon:square": "https://static.btcmap.org/images/communities/northwest-arkansas-bitcoin.png",
+    "language": "en",
+    "name": "Northwest Arkansas Bitcoin",
+    "population": 520000,
+    "population:date": "2024-01-01",
+    "tips:lightning_address": "nwabitcoin@getalby.com",
+    "type": "community",
+    "url_alias": "northwest-arkansas-bitcoin",
+    "id": 795,
+    "merchantCount": 10
+  },
+  {
     "area_km2": 669.6,
     "contact:nostr": "npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779",
     "contact:twitter": "https://www.twitter.com/bitcoinchatt",
@@ -4556,6 +4577,22 @@
   },
   {
     "type": "community",
+    "continent": "north-america",
+    "contact:website": "https://www.knoxvillebitcoin.com/",
+    "contact:email": "knoxvillebitcoin@gmail.com",
+    "name": "Knoxville Bitcoin",
+    "contact:meetup": "https://www.meetup.com/knoxville-bitcoin-network/",
+    "icon:square": "https://static.btcmap.org/images/communities/knoxville-bitcoin.jpeg",
+    "population": "478971",
+    "population:date": "2020-01-01",
+    "contact:twitter": "https://twitter.com/KnoxvilleBTC",
+    "url_alias": "knoxville-bitcoin",
+    "area_km2": 1361.12,
+    "id": 422,
+    "merchantCount": 9
+  },
+  {
+    "type": "community",
     "tips:lightning_address": "lyricalfarmer45@walletofsatoshi.com",
     "box:east": "-0.29937744140625",
     "contact:facebook": "https://www.facebook.com/profile.php?id=100089508867895",
@@ -4641,27 +4678,6 @@
     "organization": "dvadsatjeden",
     "language": "sk, en, de, es",
     "id": 682,
-    "merchantCount": 9
-  },
-  {
-    "area_km2": 9635.3,
-    "contact:email": "hello@nwabitcoin.org",
-    "contact:meetup": "https://www.meetup.com/fayetteville-cryptocurrency-meetup-group/",
-    "contact:nostr": "npub1wqpvs2tewfzm2vug3g3jk4935m2q32rmd6gptskeeffqwe4dnxvsj6fvyy",
-    "contact:telegram": "https://t.me/+_2v0ojvuzh1lMDlh",
-    "contact:twitter": "https://x.com/NWABitcoin",
-    "contact:website": "https://nwabitcoin.org/",
-    "continent": "north-america",
-    "description": "Growing a Bitcoin community in Northwest Arkansas",
-    "icon:square": "https://static.btcmap.org/images/communities/northwest-arkansas-bitcoin.png",
-    "language": "en",
-    "name": "Northwest Arkansas Bitcoin",
-    "population": 520000,
-    "population:date": "2024-01-01",
-    "tips:lightning_address": "nwabitcoin@getalby.com",
-    "type": "community",
-    "url_alias": "northwest-arkansas-bitcoin",
-    "id": 795,
     "merchantCount": 9
   },
   {
@@ -4799,22 +4815,6 @@
     "merchantCount": 8
   },
   {
-    "type": "community",
-    "continent": "north-america",
-    "contact:website": "https://www.knoxvillebitcoin.com/",
-    "contact:email": "knoxvillebitcoin@gmail.com",
-    "name": "Knoxville Bitcoin",
-    "contact:meetup": "https://www.meetup.com/knoxville-bitcoin-network/",
-    "icon:square": "https://static.btcmap.org/images/communities/knoxville-bitcoin.jpeg",
-    "population": "478971",
-    "population:date": "2020-01-01",
-    "contact:twitter": "https://twitter.com/KnoxvilleBTC",
-    "url_alias": "knoxville-bitcoin",
-    "area_km2": 1361.12,
-    "id": 422,
-    "merchantCount": 8
-  },
-  {
     "box:west": "-1.81137",
     "box:north": "53.95276",
     "box:east": "-1.27716",
@@ -4832,6 +4832,24 @@
     "contact:twitter": "https://twitter.com/LeedsBTC",
     "area_km2": 550.74,
     "id": 436,
+    "merchantCount": 8
+  },
+  {
+    "population": "70493",
+    "url_alias": "st-charles",
+    "icon:square": "https://static.btcmap.org/images/communities/st-charles.jpeg",
+    "continent": "north-america",
+    "box:north": "38.894506631693275",
+    "contact:meetup": "https://www.meetup.com/saint-charles-bitcoin-meetup-group/",
+    "contact:telegram": "https://t.me/ gMfT0Fi6VAw1YmIx",
+    "box:west": "-90.69900512695312",
+    "area_km2": 2036.8,
+    "type": "community",
+    "population:date": "2020-01-01",
+    "box:east": "-90.25131225585939",
+    "box:south": "38.678273561664",
+    "name": "St. Charles",
+    "id": 596,
     "merchantCount": 8
   },
   {
@@ -5191,24 +5209,6 @@
     "population": "82802",
     "box:west": "-8.697566986083986",
     "id": 534,
-    "merchantCount": 7
-  },
-  {
-    "population": "70493",
-    "url_alias": "st-charles",
-    "icon:square": "https://static.btcmap.org/images/communities/st-charles.jpeg",
-    "continent": "north-america",
-    "box:north": "38.894506631693275",
-    "contact:meetup": "https://www.meetup.com/saint-charles-bitcoin-meetup-group/",
-    "contact:telegram": "https://t.me/ gMfT0Fi6VAw1YmIx",
-    "box:west": "-90.69900512695312",
-    "area_km2": 2036.8,
-    "type": "community",
-    "population:date": "2020-01-01",
-    "box:east": "-90.25131225585939",
-    "box:south": "38.678273561664",
-    "name": "St. Charles",
-    "id": 596,
     "merchantCount": 7
   },
   {
@@ -7169,6 +7169,23 @@
     "merchantCount": 3
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/jersey-city-bitcoin.png",
+    "name": "Jersey City Bitcoin",
+    "population": 291657,
+    "population:date": "2023-01-01",
+    "url_alias": "jersey-city-bitcoin",
+    "contact:website": "https://jerseycitybitcoin.com/",
+    "description": "Jersey City Bitcoin is a decentralized community for those interested in meeting up to discuss, and learn more about bitcoin in the Jersey City, New Jersey / New York area. You can be well versed or new, all are welcome.",
+    "contact:meetup": "https://www.eventbrite.com/e/jersey-city-bitcoin-meetup-tickets-781681238627",
+    "contact:nostr": "npub1a6y4ujay2040xz4pygs30w5r9shw9qvu0nxwhc5dlefddpmuslpqdlu2s2",
+    "contact:twitter": "https://x.com/JerseyCityBTC",
+    "area_km2": 54.88,
+    "type": "community",
+    "id": 822,
+    "merchantCount": 3
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/satoshi-spritz-rovigo.png",
     "name": "Satoshi Spritz Rovigo",
@@ -7241,6 +7258,20 @@
     "type": "community",
     "area_km2": 3564.31,
     "id": 895,
+    "merchantCount": 3
+  },
+  {
+    "continent": "north-america",
+    "icon:square": "https://secure.meetupstatic.com/photos/event/b/2/1/6/clean_529605590.webp",
+    "name": "Central Florida Bitcoiners",
+    "population": 49219,
+    "population:date": "2020-04-01",
+    "url_alias": "central-florida-bitcoiners",
+    "contact:meetup": "https://www.meetup.com/central-florida-bitcoiners",
+    "contact:twitter": "https://x.com/CFL_Bitcoiners",
+    "type": "community",
+    "area_km2": 325.37,
+    "id": 930,
     "merchantCount": 3
   },
   {
@@ -7967,23 +7998,6 @@
     "merchantCount": 2
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/jersey-city-bitcoin.png",
-    "name": "Jersey City Bitcoin",
-    "population": 291657,
-    "population:date": "2023-01-01",
-    "url_alias": "jersey-city-bitcoin",
-    "contact:website": "https://jerseycitybitcoin.com/",
-    "description": "Jersey City Bitcoin is a decentralized community for those interested in meeting up to discuss, and learn more about bitcoin in the Jersey City, New Jersey / New York area. You can be well versed or new, all are welcome.",
-    "contact:meetup": "https://www.eventbrite.com/e/jersey-city-bitcoin-meetup-tickets-781681238627",
-    "contact:nostr": "npub1a6y4ujay2040xz4pygs30w5r9shw9qvu0nxwhc5dlefddpmuslpqdlu2s2",
-    "contact:twitter": "https://x.com/JerseyCityBTC",
-    "area_km2": 54.88,
-    "type": "community",
-    "id": 822,
-    "merchantCount": 2
-  },
-  {
     "continent": "south-america",
     "icon:square": "https://btcmap.org/.netlify/images?url=https://static.btcmap.org/images/communities/bitcoin-asu.webp&fit=cover&w=256&h=256",
     "name": "Bitcoin Encarnación",
@@ -8065,20 +8079,6 @@
     "type": "community",
     "area_km2": 297.4,
     "id": 891,
-    "merchantCount": 2
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://secure.meetupstatic.com/photos/event/b/2/1/6/clean_529605590.webp",
-    "name": "Central Florida Bitcoiners",
-    "population": 49219,
-    "population:date": "2020-04-01",
-    "url_alias": "central-florida-bitcoiners",
-    "contact:meetup": "https://www.meetup.com/central-florida-bitcoiners",
-    "contact:twitter": "https://x.com/CFL_Bitcoiners",
-    "type": "community",
-    "area_km2": 325.37,
-    "id": 930,
     "merchantCount": 2
   },
   {

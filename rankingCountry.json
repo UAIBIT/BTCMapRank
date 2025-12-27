@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4254
+    "merchantCount": 4308
   },
   {
     "wikidataid": "Q155",
@@ -1662,7 +1662,7 @@
     "name": "Chile",
     "url_alias": "cl",
     "id": 200,
-    "merchantCount": 19
+    "merchantCount": 20
   },
   {
     "area_km2": 443969.27,
@@ -1795,6 +1795,32 @@
     "merchantCount": 15
   },
   {
+    "wikidataid": "Q1029",
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "income_grp": "5. Low income",
+    "area_km2": 792438.1,
+    "population:rank": 15,
+    "lon": 37.83789,
+    "name": "Mozambique",
+    "region_wb": "Sub-Saharan Africa",
+    "continent": "Africa",
+    "type": "country",
+    "population": 30366036,
+    "economy": "7. Least developed region",
+    "subregion": "Eastern Africa",
+    "sovereignt": "Mozambique",
+    "iso_a2": "MZ",
+    "region_un": "Africa",
+    "lat": -13.94323,
+    "population:year": 2019,
+    "gdp_md": 15291,
+    "iso_a3": "MOZ",
+    "url_alias": "mz",
+    "id": 495,
+    "merchantCount": 15
+  },
+  {
     "region_un": "Asia",
     "subregion": "Western Asia",
     "country_type": "Disputed",
@@ -1844,32 +1870,6 @@
     "lon": 35.992892,
     "url_alias": "lb",
     "id": 433,
-    "merchantCount": 14
-  },
-  {
-    "wikidataid": "Q1029",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "income_grp": "5. Low income",
-    "area_km2": 792438.1,
-    "population:rank": 15,
-    "lon": 37.83789,
-    "name": "Mozambique",
-    "region_wb": "Sub-Saharan Africa",
-    "continent": "Africa",
-    "type": "country",
-    "population": 30366036,
-    "economy": "7. Least developed region",
-    "subregion": "Eastern Africa",
-    "sovereignt": "Mozambique",
-    "iso_a2": "MZ",
-    "region_un": "Africa",
-    "lat": -13.94323,
-    "population:year": 2019,
-    "gdp_md": 15291,
-    "iso_a3": "MOZ",
-    "url_alias": "mz",
-    "id": 495,
     "merchantCount": 14
   },
   {
