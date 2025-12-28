@@ -5947,18 +5947,10 @@
     "merchantCount": 18
   },
   {
-    "type": "community",
-    "contact:telegram": "https://t.me/Einundzwanzig_Thurgau",
-    "language": "fr",
-    "organization": "einundzwanzig",
-    "continent": "europe",
-    "name": "Einundzwanzig Thurgau",
-    "population": 285964,
-    "url_alias": "einundzwanzig-thurgau",
-    "population:date": "2021-12-31",
-    "area_km2": 989.9,
     "id": 339,
-    "merchantCount": 18
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "url_alias": "einundzwanzig-tirol",
@@ -13642,10 +13634,21 @@
     "merchantCount": 1
   },
   {
+    "area_km2": 67,
+    "contact:email": "francois@bitcoinzar.co.za",
+    "contact:facebook": "https://www.facebook.com/groups/bitcoinsedgefield",
+    "contact:twitter": "https://twitter.com/BTCSedgefield",
+    "contact:website": "https://www.bitcoinzar.co.za/",
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-sedgefield.jpeg",
+    "name": "Bitcoin Sedgefield",
+    "population": 8286,
+    "population:date": "2011-01-01",
+    "tips:lightning_address": "bitcoinzar@blink.sv",
+    "type": "community",
+    "url_alias": "bitcoin-sedgefield",
     "id": 706,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 54
   },
   {
     "area_km2": 699.45,
