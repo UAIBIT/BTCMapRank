@@ -4240,21 +4240,6 @@
     "merchantCount": 23
   },
   {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/2140-tenerife.jpg",
-    "name": "2140 Tenerife",
-    "population": 208563,
-    "population:date": "2022-04-19",
-    "url_alias": "2140-tenerife",
-    "contact:telegram": "https://t.me/+-tXjKS7ZY8c0OGE0",
-    "description": "Organizamos meetups todos los segundos viernes de mes.",
-    "type": "community",
-    "area_km2": 2592.37,
-    "organization": "2140-meetups",
-    "id": 929,
-    "merchantCount": 23
-  },
-  {
     "area_km2": 579.4,
     "continent": "north-america",
     "contact:twitter": "https://twitter.com/atlantabitdevs",
@@ -11941,21 +11926,6 @@
     "merchantCount": 1
   },
   {
-    "area_km2": 210.22,
-    "language": "de",
-    "population": 579432,
-    "type": "community",
-    "continent": "europe",
-    "population:date": "2021-12-31",
-    "name": "Einundzwanzig Essen",
-    "url_alias": "einundzwanzig-essen",
-    "contact:telegram": "https://t.me/Einundzwanzig_Ruhrgebiet",
-    "organization": "einundzwanzig",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-essen.webp",
-    "id": 268,
-    "merchantCount": 1
-  },
-  {
     "area_km2": 69.68,
     "contact:telegram": "https://t.me/+i7hOYiYDVagyOWVi",
     "population:date": "2021-12-31",
@@ -14195,6 +14165,12 @@
     "url_alias": "einundzwanzig-ellwangen",
     "id": 267,
     "merchantCount": 0
+  },
+  {
+    "id": 268,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population": 68462,
@@ -17541,6 +17517,12 @@
   },
   {
     "id": 922,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 929,
     "type": null,
     "merchantCount": 0,
     "name": null
