@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4377
+    "merchantCount": 4423
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2078
+    "merchantCount": 2083
   },
   {
     "population:year": 2019,
@@ -127,7 +127,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1097
+    "merchantCount": 1100
   },
   {
     "subregion": "Southern Europe",
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 612
+    "merchantCount": 613
   },
   {
     "region_un": "Americas",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 429
+    "merchantCount": 430
   },
   {
     "country_type": "Sovereign country",
@@ -365,32 +365,6 @@
     "merchantCount": 356
   },
   {
-    "region_un": "Europe",
-    "gdp_md": 2829108,
-    "subregion": "Northern Europe",
-    "iso_a2": "GB",
-    "wikidataid": "Q145",
-    "population:rank": 16,
-    "population:year": "2019",
-    "region_wb": "Europe & Central Asia",
-    "continent": "Europe",
-    "population": 66834405,
-    "gdp_year": 2019,
-    "lon": -2.116346,
-    "sovereignt": "United Kingdom",
-    "iso_a3": "GBR",
-    "country_type": "Country",
-    "name": "United Kingdom",
-    "income_grp": "1. High income: OECD",
-    "area_km2": 240644.66,
-    "lat": 54.402739,
-    "economy": "1. Developed region: G7",
-    "type": "country",
-    "url_alias": "gb",
-    "id": 364,
-    "merchantCount": 347
-  },
-  {
     "wikidataid": "Q45",
     "sovereignt": "Portugal",
     "population": 10269417,
@@ -414,6 +388,32 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
+    "merchantCount": 349
+  },
+  {
+    "region_un": "Europe",
+    "gdp_md": 2829108,
+    "subregion": "Northern Europe",
+    "iso_a2": "GB",
+    "wikidataid": "Q145",
+    "population:rank": 16,
+    "population:year": "2019",
+    "region_wb": "Europe & Central Asia",
+    "continent": "Europe",
+    "population": 66834405,
+    "gdp_year": 2019,
+    "lon": -2.116346,
+    "sovereignt": "United Kingdom",
+    "iso_a3": "GBR",
+    "country_type": "Country",
+    "name": "United Kingdom",
+    "income_grp": "1. High income: OECD",
+    "area_km2": 240644.66,
+    "lat": 54.402739,
+    "economy": "1. Developed region: G7",
+    "type": "country",
+    "url_alias": "gb",
+    "id": 364,
     "merchantCount": 347
   },
   {
@@ -570,7 +570,7 @@
     "lon": -64.173331,
     "url_alias": "ar",
     "id": 26,
-    "merchantCount": 250
+    "merchantCount": 251
   },
   {
     "gdp_year": 2019,
@@ -596,7 +596,7 @@
     "population:rank": 13,
     "url_alias": "at",
     "id": 31,
-    "merchantCount": 201
+    "merchantCount": 200
   },
   {
     "sovereignt": "Australia",
@@ -674,7 +674,33 @@
     "population:year": 2019,
     "url_alias": "zm",
     "id": 657,
-    "merchantCount": 172
+    "merchantCount": 158
+  },
+  {
+    "area_km2": 596166.85,
+    "economy": "5. Emerging region: G20",
+    "population": 52573973,
+    "type": "country",
+    "income_grp": "5. Low income",
+    "iso_a3": "KEN",
+    "name": "Kenya",
+    "population:year": 2019,
+    "iso_a2": "KE",
+    "region_wb": "Sub-Saharan Africa",
+    "subregion": "Eastern Africa",
+    "population:rank": 16,
+    "lat": 0.549043,
+    "gdp_md": 95503,
+    "region_un": "Africa",
+    "gdp_year": 2019,
+    "wikidataid": "Q114",
+    "continent": "Africa",
+    "sovereignt": "Kenya",
+    "country_type": "Sovereign country",
+    "lon": 37.907632,
+    "url_alias": "ke",
+    "id": 415,
+    "merchantCount": 127
   },
   {
     "lon": -70.653998,
@@ -701,32 +727,6 @@
     "url_alias": "do",
     "id": 232,
     "merchantCount": 126
-  },
-  {
-    "area_km2": 596166.85,
-    "economy": "5. Emerging region: G20",
-    "population": 52573973,
-    "type": "country",
-    "income_grp": "5. Low income",
-    "iso_a3": "KEN",
-    "name": "Kenya",
-    "population:year": 2019,
-    "iso_a2": "KE",
-    "region_wb": "Sub-Saharan Africa",
-    "subregion": "Eastern Africa",
-    "population:rank": 16,
-    "lat": 0.549043,
-    "gdp_md": 95503,
-    "region_un": "Africa",
-    "gdp_year": 2019,
-    "wikidataid": "Q114",
-    "continent": "Africa",
-    "sovereignt": "Kenya",
-    "country_type": "Sovereign country",
-    "lon": 37.907632,
-    "url_alias": "ke",
-    "id": 415,
-    "merchantCount": 124
   },
   {
     "iso_a2": "SR",

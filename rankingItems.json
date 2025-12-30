@@ -141,7 +141,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1839
+    "merchantCount": 1828
   },
   {
     "subregion": "Caribbean",
@@ -479,7 +479,7 @@
     "lon": -64.173331,
     "url_alias": "ar",
     "id": 26,
-    "merchantCount": 250
+    "merchantCount": 251
   },
   {
     "id": 27,
@@ -570,7 +570,7 @@
     "population:rank": 13,
     "url_alias": "at",
     "id": 31,
-    "merchantCount": 201
+    "merchantCount": 200
   },
   {
     "area_km2": 579.4,
@@ -1390,7 +1390,7 @@
     "area_km2": 83900.1,
     "type": "community",
     "id": 73,
-    "merchantCount": 195
+    "merchantCount": 194
   },
   {
     "url_alias": "bitcoin-beach",
@@ -2840,7 +2840,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 129
+    "merchantCount": 130
   },
   {
     "type": "community",
@@ -3022,7 +3022,7 @@
     "population": "330758",
     "continent": "north-america",
     "id": 170,
-    "merchantCount": 5
+    "merchantCount": 6
   },
   {
     "id": 171,
@@ -3070,7 +3070,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2078
+    "merchantCount": 2083
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -3245,7 +3245,7 @@
     "contact:github": "https://github.com/btcpt123/btcnorte",
     "area_km2": 21340.0,
     "id": 182,
-    "merchantCount": 43
+    "merchantCount": 44
   },
   {
     "subregion": "Southern Africa",
@@ -3813,7 +3813,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 91
+    "merchantCount": 92
   },
   {
     "id": 210,
@@ -4010,7 +4010,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1097
+    "merchantCount": 1100
   },
   {
     "organization": "plan-b-network",
@@ -4052,7 +4052,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 612
+    "merchantCount": 613
   },
   {
     "contact:reddit": "https://www.reddit.com/r/debitcoinshow",
@@ -4803,7 +4803,7 @@
     "population": "83695430",
     "continent": "europe",
     "id": 262,
-    "merchantCount": 619
+    "merchantCount": 620
   },
   {
     "continent": "europe",
@@ -4882,10 +4882,19 @@
     "merchantCount": 0
   },
   {
+    "area_km2": 210.22,
+    "language": "de",
+    "population": 579432,
+    "type": "community",
+    "continent": "europe",
+    "population:date": "2021-12-31",
+    "name": "Einundzwanzig Essen",
+    "url_alias": "einundzwanzig-essen",
+    "contact:telegram": "https://t.me/Einundzwanzig_Ruhrgebiet",
+    "organization": "einundzwanzig",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-essen.webp",
     "id": 268,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "continent": "europe",
@@ -5008,7 +5017,7 @@
     "population": 1853935,
     "organization": "einundzwanzig",
     "id": 276,
-    "merchantCount": 16
+    "merchantCount": 17
   },
   {
     "name": "Einundzwanzig Heide",
@@ -5601,7 +5610,7 @@
     "area_km2": 155452.15,
     "organization": "einundzwanzig",
     "id": 316,
-    "merchantCount": 348
+    "merchantCount": 350
   },
   {
     "type": "community",
@@ -7601,7 +7610,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 124
+    "merchantCount": 127
   },
   {
     "income_grp": "5. Low income",
@@ -8172,7 +8181,7 @@
     "contact:telegram": "https://t.me/lisbonbitcoin",
     "url_alias": "lisbon-bitcoin-maximalists",
     "id": 443,
-    "merchantCount": 25
+    "merchantCount": 26
   },
   {
     "area_km2": 66190.74,
@@ -8580,7 +8589,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 59
+    "merchantCount": 62
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/mayasbitcoiners.png",
@@ -10239,7 +10248,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 347
+    "merchantCount": 349
   },
   {
     "wikidataid": "Q695",
@@ -10737,7 +10746,7 @@
     "name": "San Diego Bitcoiners",
     "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 40
+    "merchantCount": 41
   },
   {
     "continent": "south-america",
@@ -11655,7 +11664,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 429
+    "merchantCount": 430
   },
   {
     "lat": 38.199835,
@@ -12135,7 +12144,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4377
+    "merchantCount": 4423
   },
   {
     "population": 1734000,
@@ -12414,7 +12423,7 @@
     "icon:square": "https://static.btcmap.org/images/communities/vinte-e-um.jpg",
     "area_km2": 149349.44,
     "id": 646,
-    "merchantCount": 347
+    "merchantCount": 349
   },
   {
     "continent": "Asia",
@@ -12667,7 +12676,7 @@
     "population:year": 2019,
     "url_alias": "zm",
     "id": 657,
-    "merchantCount": 172
+    "merchantCount": 158
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/zoolook.webp",
@@ -12745,7 +12754,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 21776
+    "merchantCount": 21823
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -13664,7 +13673,7 @@
     "contact:website": "https://bitcoinvictoriafalls.com/",
     "contact:nostr": "npub1xxcyzef28e5qcjncwmn6z2nmwaezs2apxc2v2f7unnvxw3r5edfsactfly",
     "id": 707,
-    "merchantCount": 168
+    "merchantCount": 154
   },
   {
     "area_km2": 1785,
@@ -13938,7 +13947,7 @@
     "type": "community",
     "url_alias": "operation-bitcoin",
     "id": 723,
-    "merchantCount": 3
+    "merchantCount": 4
   },
   {
     "area_km2": 137,
@@ -14917,7 +14926,7 @@
     "language": "en",
     "contact:github": "https://github.com/bitcoindistrict",
     "id": 785,
-    "merchantCount": 46
+    "merchantCount": 47
   },
   {
     "area_km2": 430.86,
@@ -16092,7 +16101,7 @@
     "type": "community",
     "area_km2": 1217.57,
     "id": 864,
-    "merchantCount": 36
+    "merchantCount": 37
   },
   {
     "continent": "africa",
@@ -16482,7 +16491,7 @@
     "type": "community",
     "area_km2": 951.54,
     "id": 890,
-    "merchantCount": 47
+    "merchantCount": 48
   },
   {
     "continent": "south-america",
@@ -16555,7 +16564,7 @@
     "type": "community",
     "area_km2": 774.79,
     "id": 894,
-    "merchantCount": 8
+    "merchantCount": 11
   },
   {
     "continent": "south-america",
@@ -16609,7 +16618,7 @@
     "type": "community",
     "area_km2": 313.45,
     "id": 897,
-    "merchantCount": 22
+    "merchantCount": 24
   },
   {
     "continent": "north-america",
@@ -17073,10 +17082,19 @@
     "merchantCount": 14
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/2140-tenerife.jpg",
+    "name": "2140 Tenerife",
+    "population": 208563,
+    "population:date": "2022-04-19",
+    "url_alias": "2140-tenerife",
+    "contact:telegram": "https://t.me/+-tXjKS7ZY8c0OGE0",
+    "description": "Organizamos meetups todos los segundos viernes de mes.",
+    "type": "community",
+    "area_km2": 2592.37,
+    "organization": "2140-meetups",
     "id": 929,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 23
   },
   {
     "continent": "north-america",
@@ -17565,7 +17583,7 @@
     "type": "community",
     "area_km2": 754.76,
     "id": 964,
-    "merchantCount": 16
+    "merchantCount": 17
   },
   {
     "continent": "europe",
