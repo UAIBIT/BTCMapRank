@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4423
+    "merchantCount": 4469
   },
   {
     "wikidataid": "Q155",
@@ -231,7 +231,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 539
+    "merchantCount": 540
   },
   {
     "sovereignt": "Canada",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 430
+    "merchantCount": 431
   },
   {
     "country_type": "Sovereign country",
@@ -1142,7 +1142,7 @@
     "sovereignt": "Cuba",
     "url_alias": "cu",
     "id": 213,
-    "merchantCount": 45
+    "merchantCount": 47
   },
   {
     "iso_a3": "GRC",
@@ -1301,6 +1301,32 @@
     "merchantCount": 35
   },
   {
+    "lon": 7.50322,
+    "area_km2": 913593.56,
+    "type": "country",
+    "region_wb": "Sub-Saharan Africa",
+    "income_grp": "4. Lower middle income",
+    "population": 200963599,
+    "subregion": "Western Africa",
+    "gdp_year": 2019,
+    "region_un": "Africa",
+    "population:year": 2019,
+    "wikidataid": "Q1033",
+    "sovereignt": "Nigeria",
+    "name": "Nigeria",
+    "gdp_md": 448120,
+    "iso_a2": "NG",
+    "economy": "5. Emerging region: G20",
+    "lat": 9.439799,
+    "population:rank": 17,
+    "country_type": "Sovereign country",
+    "iso_a3": "NGA",
+    "continent": "Africa",
+    "url_alias": "ng",
+    "id": 505,
+    "merchantCount": 33
+  },
+  {
     "area_km2": 385110.87,
     "continent": "Europe",
     "country_type": "Sovereign country",
@@ -1351,32 +1377,6 @@
     "url_alias": "tr",
     "id": 622,
     "merchantCount": 31
-  },
-  {
-    "lon": 7.50322,
-    "area_km2": 913593.56,
-    "type": "country",
-    "region_wb": "Sub-Saharan Africa",
-    "income_grp": "4. Lower middle income",
-    "population": 200963599,
-    "subregion": "Western Africa",
-    "gdp_year": 2019,
-    "region_un": "Africa",
-    "population:year": 2019,
-    "wikidataid": "Q1033",
-    "sovereignt": "Nigeria",
-    "name": "Nigeria",
-    "gdp_md": 448120,
-    "iso_a2": "NG",
-    "economy": "5. Emerging region: G20",
-    "lat": 9.439799,
-    "population:rank": 17,
-    "country_type": "Sovereign country",
-    "iso_a3": "NGA",
-    "continent": "Africa",
-    "url_alias": "ng",
-    "id": 505,
-    "merchantCount": 30
   },
   {
     "gdp_year": 2018,
