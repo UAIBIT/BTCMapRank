@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4486
+    "merchantCount": 4528
   },
   {
     "wikidataid": "Q155",
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1051
+    "merchantCount": 1053
   },
   {
     "iso_a2": "CH",
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 613
+    "merchantCount": 611
   },
   {
     "region_un": "Americas",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 431
+    "merchantCount": 433
   },
   {
     "country_type": "Sovereign country",
@@ -622,7 +622,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 196
+    "merchantCount": 197
   },
   {
     "income_grp": "3. Upper middle income",
@@ -2137,6 +2137,32 @@
     "merchantCount": 8
   },
   {
+    "iso_a3": "URY",
+    "wikidataid": "Q77",
+    "area_km2": 177958.98,
+    "region_wb": "Latin America & Caribbean",
+    "type": "country",
+    "name": "Uruguay",
+    "continent": "South America",
+    "population": 3461734,
+    "population:rank": 12,
+    "population:year": 2019,
+    "income_grp": "3. Upper middle income",
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "iso_a2": "UY",
+    "subregion": "South America",
+    "sovereignt": "Uruguay",
+    "lat": -32.961127,
+    "economy": "5. Emerging region: G20",
+    "region_un": "Americas",
+    "lon": -55.966942,
+    "gdp_md": 56045,
+    "url_alias": "uy",
+    "id": 635,
+    "merchantCount": 8
+  },
+  {
     "iso_a3": "BDI",
     "region_wb": "Sub-Saharan Africa",
     "lat": -3.332836,
@@ -2380,32 +2406,6 @@
     "subregion": "Caribbean",
     "url_alias": "ky",
     "id": 427,
-    "merchantCount": 6
-  },
-  {
-    "iso_a3": "URY",
-    "wikidataid": "Q77",
-    "area_km2": 177958.98,
-    "region_wb": "Latin America & Caribbean",
-    "type": "country",
-    "name": "Uruguay",
-    "continent": "South America",
-    "population": 3461734,
-    "population:rank": 12,
-    "population:year": 2019,
-    "income_grp": "3. Upper middle income",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "iso_a2": "UY",
-    "subregion": "South America",
-    "sovereignt": "Uruguay",
-    "lat": -32.961127,
-    "economy": "5. Emerging region: G20",
-    "region_un": "Americas",
-    "lon": -55.966942,
-    "gdp_md": 56045,
-    "url_alias": "uy",
-    "id": 635,
     "merchantCount": 6
   },
   {
