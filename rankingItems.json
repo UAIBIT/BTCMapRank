@@ -2341,19 +2341,10 @@
     "merchantCount": 9
   },
   {
-    "name": "Bitcoin - Orihuela Costa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-orihuela-costa.png",
-    "population": "80784",
-    "area_km2": 726.4,
-    "continent": "europe",
-    "population:date": "2022",
-    "contact:email": "derby_flagg@simplelogin.com",
-    "contact:telegram": "https://t.me/bitcoinorihuelacosta",
-    "url_alias": "bitcoin-orihuela-costa",
-    "organization": "2140-meetups",
-    "type": "community",
     "id": 130,
-    "merchantCount": 2
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "contact:nostr": "npub1theparkprcs70dcs437ke9zzwsr6u60f8flu7rg28m30438aep9sd94dha",
@@ -6802,10 +6793,19 @@
     "merchantCount": 47
   },
   {
+    "icon:square": "https://static.btcmap.org/images/communities/grenoble.png",
+    "language": "fr",
+    "area_km2": 4844.0,
+    "url_alias": "grenoble",
+    "population:date": "2020-01-01",
+    "continent": "europe",
+    "population": 157650,
+    "name": "Grenoble",
+    "contact:telegram": "https://t.me/GrenobleBitcoinMeetup",
+    "organization": "decouvre-bitcoin",
+    "type": "community",
     "id": 382,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 3
   },
   {
     "type": "country",

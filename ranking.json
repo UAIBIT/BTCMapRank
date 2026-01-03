@@ -9819,6 +9819,21 @@
     "merchantCount": 3
   },
   {
+    "icon:square": "https://static.btcmap.org/images/communities/grenoble.png",
+    "language": "fr",
+    "area_km2": 4844.0,
+    "url_alias": "grenoble",
+    "population:date": "2020-01-01",
+    "continent": "europe",
+    "population": 157650,
+    "name": "Grenoble",
+    "contact:telegram": "https://t.me/GrenobleBitcoinMeetup",
+    "organization": "decouvre-bitcoin",
+    "type": "community",
+    "id": 382,
+    "merchantCount": 3
+  },
+  {
     "type": "country",
     "sovereignt": "Jamaica",
     "wikidataid": "Q766",
@@ -10491,21 +10506,6 @@
     "url_alias": "bitcoin-naples",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-naples.jpg",
     "id": 126,
-    "merchantCount": 2
-  },
-  {
-    "name": "Bitcoin - Orihuela Costa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-orihuela-costa.png",
-    "population": "80784",
-    "area_km2": 726.4,
-    "continent": "europe",
-    "population:date": "2022",
-    "contact:email": "derby_flagg@simplelogin.com",
-    "contact:telegram": "https://t.me/bitcoinorihuelacosta",
-    "url_alias": "bitcoin-orihuela-costa",
-    "organization": "2140-meetups",
-    "type": "community",
-    "id": 130,
     "merchantCount": 2
   },
   {
@@ -13728,6 +13728,12 @@
     "merchantCount": 0
   },
   {
+    "id": 130,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "population": "20000",
     "type": "community",
     "url_alias": "bitcoin-patagonia",
@@ -14785,12 +14791,6 @@
     "url_alias": "gq",
     "id": 376,
     "merchantCount": 0
-  },
-  {
-    "id": 382,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "type": "country",
