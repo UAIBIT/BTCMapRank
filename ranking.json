@@ -10169,20 +10169,6 @@
   },
   {
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/satoshi-spritz-rovigo.png",
-    "name": "Satoshi Spritz Rovigo",
-    "population": 50279,
-    "population:date": "2022-01-01",
-    "url_alias": "satoshi-spritz-rovigo",
-    "contact:telegram": "https://t.me/satoshispritzrovigo",
-    "organization": "satoshi-spritz",
-    "area_km2": 1825.88,
-    "type": "community",
-    "id": 834,
-    "merchantCount": 3
-  },
-  {
-    "continent": "europe",
     "icon:square": "https://i0.wp.com/bitcoinevents.uk/wp-content/uploads/2024/04/img_8359-1-e1712690481714.jpg",
     "name": "Lincolnshire Bitcoin",
     "population": 1103320,
@@ -17388,6 +17374,12 @@
   },
   {
     "id": 829,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 834,
     "type": null,
     "merchantCount": 0,
     "name": null
