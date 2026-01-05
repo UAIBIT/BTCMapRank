@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4592
+    "merchantCount": 4621
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2092
+    "merchantCount": 2094
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1328
+    "merchantCount": 1327
   },
   {
     "gdp_md": 351431,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1237
+    "merchantCount": 1238
   },
   {
     "population:rank": 14,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1054
+    "merchantCount": 1056
   },
   {
     "iso_a2": "CH",
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 810
+    "merchantCount": 811
   },
   {
     "name": "Germany",
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 611
+    "merchantCount": 610
   },
   {
     "region_un": "Americas",
@@ -257,7 +257,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 530
+    "merchantCount": 533
   },
   {
     "gdp_md": 543548,
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 435
+    "merchantCount": 437
   },
   {
     "country_type": "Sovereign country",
@@ -622,7 +622,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 197
+    "merchantCount": 196
   },
   {
     "income_grp": "3. Upper middle income",
@@ -648,7 +648,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 174
+    "merchantCount": 175
   },
   {
     "continent": "Africa",
@@ -1015,6 +1015,32 @@
     "merchantCount": 65
   },
   {
+    "lat": 50.785392,
+    "region_wb": "Europe & Central Asia",
+    "name": "Belgium",
+    "gdp_md": 533097,
+    "income_grp": "1. High income: OECD",
+    "country_type": "Sovereign country",
+    "area_km2": 30699.29,
+    "population:rank": 14,
+    "gdp_year": 2019,
+    "type": "country",
+    "iso_a3": "BEL",
+    "lon": 4.800448,
+    "region_un": "Europe",
+    "population:year": 2019,
+    "sovereignt": "Belgium",
+    "wikidataid": "Q31",
+    "subregion": "Western Europe",
+    "iso_a2": "BE",
+    "economy": "2. Developed region: nonG7",
+    "continent": "Europe",
+    "population": 11484055,
+    "url_alias": "be",
+    "id": 50,
+    "merchantCount": 60
+  },
+  {
     "subregion": "South America",
     "area_km2": 1299185.71,
     "gdp_year": 2019,
@@ -1039,32 +1065,6 @@
     "url_alias": "pe",
     "id": 524,
     "merchantCount": 60
-  },
-  {
-    "lat": 50.785392,
-    "region_wb": "Europe & Central Asia",
-    "name": "Belgium",
-    "gdp_md": 533097,
-    "income_grp": "1. High income: OECD",
-    "country_type": "Sovereign country",
-    "area_km2": 30699.29,
-    "population:rank": 14,
-    "gdp_year": 2019,
-    "type": "country",
-    "iso_a3": "BEL",
-    "lon": 4.800448,
-    "region_un": "Europe",
-    "population:year": 2019,
-    "sovereignt": "Belgium",
-    "wikidataid": "Q31",
-    "subregion": "Western Europe",
-    "iso_a2": "BE",
-    "economy": "2. Developed region: nonG7",
-    "continent": "Europe",
-    "population": 11484055,
-    "url_alias": "be",
-    "id": 50,
-    "merchantCount": 59
   },
   {
     "type": "country",
@@ -1769,32 +1769,6 @@
     "merchantCount": 17
   },
   {
-    "iso_a3": "MLT",
-    "country_type": "Sovereign country",
-    "lon": 14.433005,
-    "continent": "Europe",
-    "name": "Malta",
-    "wikidataid": "Q233",
-    "population": 502653,
-    "subregion": "Southern Europe",
-    "population:rank": 11,
-    "population:year": 2019,
-    "gdp_md": 14989,
-    "region_wb": "Middle East & North Africa",
-    "sovereignt": "Malta",
-    "region_un": "Europe",
-    "type": "country",
-    "economy": "2. Developed region: nonG7",
-    "income_grp": "2. High income: nonOECD",
-    "gdp_year": 2019,
-    "lat": 35.892886,
-    "area_km2": 274.38,
-    "iso_a2": "MT",
-    "url_alias": "mt",
-    "id": 489,
-    "merchantCount": 15
-  },
-  {
     "wikidataid": "Q1029",
     "country_type": "Sovereign country",
     "gdp_year": 2019,
@@ -1818,6 +1792,32 @@
     "iso_a3": "MOZ",
     "url_alias": "mz",
     "id": 495,
+    "merchantCount": 16
+  },
+  {
+    "iso_a3": "MLT",
+    "country_type": "Sovereign country",
+    "lon": 14.433005,
+    "continent": "Europe",
+    "name": "Malta",
+    "wikidataid": "Q233",
+    "population": 502653,
+    "subregion": "Southern Europe",
+    "population:rank": 11,
+    "population:year": 2019,
+    "gdp_md": 14989,
+    "region_wb": "Middle East & North Africa",
+    "sovereignt": "Malta",
+    "region_un": "Europe",
+    "type": "country",
+    "economy": "2. Developed region: nonG7",
+    "income_grp": "2. High income: nonOECD",
+    "gdp_year": 2019,
+    "lat": 35.892886,
+    "area_km2": 274.38,
+    "iso_a2": "MT",
+    "url_alias": "mt",
+    "id": 489,
     "merchantCount": 15
   },
   {
@@ -3449,6 +3449,32 @@
     "merchantCount": 1
   },
   {
+    "iso_a3": "MDA",
+    "population:year": 2019,
+    "lon": 28.487904,
+    "gdp_md": 11968,
+    "lat": 47.434999,
+    "sovereignt": "Moldova",
+    "area_km2": 33190.98,
+    "economy": "6. Developing region",
+    "wikidataid": "Q217",
+    "income_grp": "4. Lower middle income",
+    "type": "country",
+    "region_wb": "Europe & Central Asia",
+    "population": 2657637,
+    "population:rank": 12,
+    "subregion": "Eastern Europe",
+    "country_type": "Sovereign country",
+    "iso_a2": "MD",
+    "region_un": "Europe",
+    "gdp_year": 2019,
+    "name": "Moldova",
+    "continent": "Europe",
+    "url_alias": "md",
+    "id": 466,
+    "merchantCount": 1
+  },
+  {
     "region_wb": "Sub-Saharan Africa",
     "lon": 46.704241,
     "population:year": 2019,
@@ -4850,32 +4876,6 @@
     "subregion": "Northern Africa",
     "url_alias": "ly",
     "id": 453,
-    "merchantCount": 0
-  },
-  {
-    "iso_a3": "MDA",
-    "population:year": 2019,
-    "lon": 28.487904,
-    "gdp_md": 11968,
-    "lat": 47.434999,
-    "sovereignt": "Moldova",
-    "area_km2": 33190.98,
-    "economy": "6. Developing region",
-    "wikidataid": "Q217",
-    "income_grp": "4. Lower middle income",
-    "type": "country",
-    "region_wb": "Europe & Central Asia",
-    "population": 2657637,
-    "population:rank": 12,
-    "subregion": "Eastern Europe",
-    "country_type": "Sovereign country",
-    "iso_a2": "MD",
-    "region_un": "Europe",
-    "gdp_year": 2019,
-    "name": "Moldova",
-    "continent": "Europe",
-    "url_alias": "md",
-    "id": 466,
     "merchantCount": 0
   },
   {
