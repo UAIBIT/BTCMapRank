@@ -3275,7 +3275,7 @@
   },
   {
     "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/satoshi-team.png",
+    "icon:square": "https://static.btcmap.org/images/areas/912.png",
     "name": "Satoshi Team - Comuna 13",
     "population": 160000,
     "population:date": "2025-01-01",
@@ -3283,6 +3283,8 @@
     "type": "community",
     "area_km2": 7.3,
     "organization": "satoshi-team",
+    "verified:date": "2026-01-07",
+    "contact:telegram": "https://t.me/satoshiteam21",
     "id": 912,
     "merchantCount": 36
   },
@@ -5864,7 +5866,7 @@
   },
   {
     "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/satoshi-team.png",
+    "icon:square": "https://static.btcmap.org/images/areas/913.png",
     "name": "Satoshi Team - Comuna 14",
     "population": 160000,
     "population:date": "2025-01-01",
@@ -5872,6 +5874,8 @@
     "organization": "satoshi-team",
     "type": "community",
     "area_km2": 14.77,
+    "contact:telegram": "https://t.me/satoshiteam21",
+    "verified:date": "2026-01-07",
     "id": 913,
     "merchantCount": 13
   },
@@ -15981,10 +15985,20 @@
     "name": null
   },
   {
+    "area_km2": 214.11,
+    "organization": "satoshi-spritz",
+    "population": "58863",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/satoshi-spritz-faenza.jpg",
+    "continent": "europe",
+    "contact:telegram": "https://t.me/satoshiSpritzFaenza",
+    "name": "Satoshi Spritz Faenza",
+    "population:date": "2017-07-01",
+    "contact:website": "https://satoshispritz.it/",
+    "contact:email": "fvalgio@gmail.com",
+    "url_alias": "satoshi-spritz-faenza",
     "id": 574,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "sovereignt": "Solomon Islands",
