@@ -193,20 +193,6 @@
     "merchantCount": 1056
   },
   {
-    "language": "fr",
-    "area_km2": 41284.66,
-    "population": 8738791,
-    "type": "community",
-    "name": "Einundzwanzig Schweiz",
-    "url_alias": "einundzwanzig-schweiz",
-    "population:date": "2021-12-31",
-    "contact:telegram": "https://t.me/joinchat/8-FBDoq3Y9hkODZk",
-    "continent": "europe",
-    "organization": "einundzwanzig",
-    "id": 331,
-    "merchantCount": 831
-  },
-  {
     "population": "8636896",
     "name": "Bitcoin Association Switzerland",
     "contact:twitter": "https://twitter.com/bitcoin_ch",
@@ -14440,6 +14426,12 @@
     "contact:telegram": "https://t.me/einundzwanzig_sauerland",
     "id": 330,
     "merchantCount": 0
+  },
+  {
+    "id": 331,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "contact:telegram": "https://t.me/einundzwanzig_siegen",
