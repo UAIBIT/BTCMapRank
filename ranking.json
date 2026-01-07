@@ -5500,7 +5500,6 @@
     "area_km2": 1644.48,
     "contact:nostr": "npub1w2d0xngltuu86yn0jfak23sty9xwnu6kwudswpdrhtxydwnhjslq60jesu",
     "contact:website": "http://www.bitcoinmanchester.org.uk/",
-    "foo": "bar",
     "centroid": "53.483959,-2.244644",
     "verified:date": "2026-01-06",
     "id": 120,
@@ -8499,26 +8498,6 @@
     "merchantCount": 5
   },
   {
-    "box:north": "53.41955860486595",
-    "box:east": "-1.3023948669433596",
-    "box:west": "-1.6319847106933594",
-    "icon:square": "https://static.btcmap.org/images/areas/140.png",
-    "url_alias": "bitcoin-sheffield",
-    "population": "556500",
-    "continent": "europe",
-    "contact:meetup": "https://meetu.ps/c/4QJGr/lxXHd/a",
-    "type": "community",
-    "contact:twitter": "https://twitter.com/btcsheffield21",
-    "name": "Bitcoin Sheffield",
-    "population:date": "2021-01-01",
-    "box:south": "53.33015537213008",
-    "contact:telegram": "https://t.me/BitcoinSheffield",
-    "area_km2": 367.75,
-    "verified:date": "2026-01-07",
-    "id": 140,
-    "merchantCount": 5
-  },
-  {
     "continent": "asia",
     "url_alias": "bitcoin4india-mumbai",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin4india-mumbai.jpeg",
@@ -8919,17 +8898,18 @@
     "merchantCount": 5
   },
   {
-    "area_km2": 357.1,
+    "area_km2": 368.47,
     "contact:email": "hello@bitcoinsheffield.org",
-    "contact:website": "https://bitcoinsheffield.org/",
+    "contact:website": "https://sheffieldbitcoin.org/",
     "continent": "europe",
-    "icon:square": "https://sheffieldbitcoin.org/wp-content/uploads/2024/12/Glowing-Bitcoin-Logo.jpg",
+    "icon:square": "https://static.btcmap.org/images/areas/794.png",
     "name": "Bitcoin Sheffield",
     "population": 585000,
     "population:date": "2024-01-01",
     "tips:lightning_address": "bitcoinsheffield@getalby.com",
     "type": "community",
     "url_alias": "bitcoin-sheffield",
+    "contact:telegram": "https://t.me/BitcoinSheffield",
     "id": 794,
     "merchantCount": 5
   },
@@ -13789,6 +13769,12 @@
   },
   {
     "id": 133,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 140,
     "type": null,
     "merchantCount": 0,
     "name": null
