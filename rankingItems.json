@@ -1530,7 +1530,7 @@
   },
   {
     "organization": "2140-meetups",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-cadiz.jpg",
+    "icon:square": "https://static.btcmap.org/images/areas/83.png",
     "population:date": "2022",
     "contact:telegram": "https://t.me/+SC-QCPbrDyBkYTY0",
     "population": "94120",
@@ -1540,6 +1540,7 @@
     "area_km2": 111.14,
     "type": "community",
     "continent": "europe",
+    "verified:date": "2026-01-08",
     "id": 83,
     "merchantCount": 1
   },
@@ -1759,7 +1760,7 @@
   {
     "box:south": "55.80222",
     "name": "Bitcoin Edinburgh",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-edinburgh.jpg",
+    "icon:square": "https://static.btcmap.org/images/areas/98.png",
     "contact:telegram": "http://www.t.me/+64bxXGJUEuYzMzQ8",
     "contact:email": "BTCedinburgh@gmail.com",
     "box:east": "-3.03909",
@@ -1771,8 +1772,9 @@
     "population:date": "2022-01-01",
     "url_alias": "bitcoin-edinburgh",
     "type": "community",
-    "area_km2": 273.55,
+    "area_km2": 291.35,
     "contact:twitter": "https://twitter.com/BTCedinburgh",
+    "verified:date": "2026-01-08",
     "id": 98,
     "merchantCount": 8
   },
@@ -5520,6 +5522,8 @@
     "name": "Einundzwanzig Ostfriesland",
     "organization": "einundzwanzig",
     "area_km2": 3150.79,
+    "icon:square": "https://static.btcmap.org/images/areas/311.png",
+    "verified:date": "2026-01-08",
     "id": 311,
     "merchantCount": 0
   },
@@ -7965,15 +7969,16 @@
   {
     "population:date": "2022-01-01",
     "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/lake-district-btc.jpeg",
+    "icon:square": "https://static.btcmap.org/images/areas/432.png",
     "population": "500012",
     "contact:telegram": "https://t.me/+bGUmltat0ShkNjdk",
     "tips:lightning_address": "lnbc1p3axxdfpp58amlatrycnwx5cjanvdvqxmdpwe6yxuzpejvm7dlpzew7gp43vzqdqqcqzzgxqyz5vqrzjqwnvuc0u4txn35cafc7w94gxvq5p3cu9dd95f7hlrh0fvs46wpvhdafcapgx0red9uqqqqryqqqqthqqpyrzjqw8c7yfutqqy3kz8662fxutjvef7q2ujsxtt45csu0k688lkzu3ldafcapgx0red9uqqqqryqqqqthqqpysp5cvktysd0tj52ty84rjcafued48vtkt25xjzrlg45zv9gssyp7jzq9qypqsqg7w4cy2uggzqcahwf0nh4qnedgv2zu0lsfvwaf2vyx2v63gffdmq3xq9q8an07z4d2fy62wu7m7mapuprg9r2cy0w073g9lqztl9a7gpqqqhpj",
-    "area_km2": 7183.64,
+    "area_km2": 7410.02,
     "name": "Lake District BTC",
     "continent": "europe",
     "url_alias": "lake-district-btc",
     "contact:twitter": "https://twitter.com/LakeDistrictBTC",
+    "verified:date": "2026-01-08",
     "id": 432,
     "merchantCount": 7
   },
