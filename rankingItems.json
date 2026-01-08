@@ -11346,10 +11346,20 @@
     "merchantCount": 8
   },
   {
+    "contact:telegram": "https://t.co/1fVvfdP1l3",
+    "continent": "europe",
+    "name": "Strasbourg",
+    "url_alias": "strasbourg",
+    "area_km2": 4798.25,
+    "population:date": "2020-01-01",
+    "language": "fr",
+    "contact:twitter": "https://twitter.com/ElsassBitcoin",
+    "organization": "decouvre-bitcoin",
+    "icon:square": "https://static.btcmap.org/images/communities/strasbourg.png",
+    "type": "community",
+    "population": 853110,
     "id": 597,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "tips:lightning_address": "brutalbowl88@walletofsatoshi.com",
@@ -11854,19 +11864,10 @@
     "merchantCount": 11
   },
   {
-    "icon:square": "https://static.btcmap.org/images/communities/tours.png",
-    "type": "community",
-    "continent": "europe",
-    "population:date": "2020-01-01",
-    "language": "fr",
-    "area_km2": 2640.52,
-    "organization": "decouvre-bitcoin",
-    "contact:telegram": "https://t.me/ToursBitcoinMeetup",
-    "url_alias": "tours",
-    "population": 137850,
-    "name": "Tours",
     "id": 621,
-    "merchantCount": 1
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 781554.63,
