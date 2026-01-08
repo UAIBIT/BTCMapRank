@@ -335,7 +335,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 136
+    "merchantCount": 138
   },
   {
     "area_km2": 122125.25,
@@ -372,7 +372,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 130
+    "merchantCount": 133
   },
   {
     "type": "community",
@@ -520,7 +520,7 @@
     "organization": "go-btc",
     "tips:lightning_address": "gobtcbr@getalby.com",
     "id": 570,
-    "merchantCount": 97
+    "merchantCount": 98
   },
   {
     "continent": "africa",
@@ -827,7 +827,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 71
+    "merchantCount": 72
   },
   {
     "continent": "europe",
@@ -2125,6 +2125,24 @@
     "merchantCount": 32
   },
   {
+    "population": "5231147",
+    "contact:youtube": "https://www.youtube.com/channel/UC7S0XRApYo06H69zYX7KFsA",
+    "population:date": "2021-01-01",
+    "continent": "oceania",
+    "contact:email": "jpratt3@hotmail.com",
+    "area_km2": 4324.67,
+    "contact:twitter": "https://twitter.com/Bitcoin_Sydney",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-sydney.jpeg",
+    "contact:meetup": "https://www.meetup.com/bitcoin_sydney",
+    "name": "Bitcoin Sydney",
+    "contact:telegram": "https://t.me/Bitcoin_Sydney",
+    "contact:website": "www.bitcoinsydney.org",
+    "url_alias": "bitcoin-sydney",
+    "type": "community",
+    "id": 143,
+    "merchantCount": 31
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/satoshi-spritz-bologna.png",
     "name": "Satoshi Spritz Bologna",
@@ -2203,24 +2221,6 @@
     "merchantCount": 29
   },
   {
-    "population": "5231147",
-    "contact:youtube": "https://www.youtube.com/channel/UC7S0XRApYo06H69zYX7KFsA",
-    "population:date": "2021-01-01",
-    "continent": "oceania",
-    "contact:email": "jpratt3@hotmail.com",
-    "area_km2": 4324.67,
-    "contact:twitter": "https://twitter.com/Bitcoin_Sydney",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-sydney.jpeg",
-    "contact:meetup": "https://www.meetup.com/bitcoin_sydney",
-    "name": "Bitcoin Sydney",
-    "contact:telegram": "https://t.me/Bitcoin_Sydney",
-    "contact:website": "www.bitcoinsydney.org",
-    "url_alias": "bitcoin-sydney",
-    "type": "community",
-    "id": 143,
-    "merchantCount": 29
-  },
-  {
     "type": "community",
     "population:date": "2022-01-01",
     "continent": "asia",
@@ -2237,6 +2237,24 @@
     "name:ru": "Сеульский Биткойн Митап",
     "contact:rss": "https://seoulbitcoin.kr/feed.xml",
     "id": 583,
+    "merchantCount": 29
+  },
+  {
+    "population:date": "2021-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/triangle-bit-devs.png",
+    "contact:email": "trianglebitdevs@protonmail.com",
+    "type": "community",
+    "url_alias": "triangle-bit-devs",
+    "area_km2": 2558.64,
+    "continent": "north-america",
+    "contact:meetup": "https://www.meetup.com/triangle-bitdevs/",
+    "contact:twitter": "https://twitter.com/TriangleBitDevs",
+    "contact:website": "http://trianglebitdevs.org",
+    "population": "1150204",
+    "name": "Triangle BitDevs",
+    "organization": "bit-devs",
+    "tips:lightning_address": "trianglebitdevs@getalby.com",
+    "id": 623,
     "merchantCount": 29
   },
   {
@@ -2286,24 +2304,6 @@
     "type": "community",
     "contact:meetup": "https://www.meetup.com/dresdner-bitcoin-stammtisch",
     "id": 94,
-    "merchantCount": 28
-  },
-  {
-    "population:date": "2021-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/triangle-bit-devs.png",
-    "contact:email": "trianglebitdevs@protonmail.com",
-    "type": "community",
-    "url_alias": "triangle-bit-devs",
-    "area_km2": 2558.64,
-    "continent": "north-america",
-    "contact:meetup": "https://www.meetup.com/triangle-bitdevs/",
-    "contact:twitter": "https://twitter.com/TriangleBitDevs",
-    "contact:website": "http://trianglebitdevs.org",
-    "population": "1150204",
-    "name": "Triangle BitDevs",
-    "organization": "bit-devs",
-    "tips:lightning_address": "trianglebitdevs@getalby.com",
-    "id": 623,
     "merchantCount": 28
   },
   {
@@ -3304,6 +3304,23 @@
     "merchantCount": 16
   },
   {
+    "population": 181440,
+    "contact:telegram": "https://t.me/zwollebitcoinstad",
+    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
+    "population:date": "2021-01-01",
+    "url_alias": "zwolle-bitcoinstad",
+    "type": "community",
+    "name": "Zwolle Bitcoinstad",
+    "contact:website": "https://zwollebitcoinstad.nl/",
+    "organization": "eenentwintig",
+    "icon:square": "https://static.btcmap.org/images/communities/zwolle-bitcoinstad.jpeg",
+    "contact:email": "info@zwollebitcoinstad.nl",
+    "area_km2": 176.44,
+    "continent": "europe",
+    "id": 660,
+    "merchantCount": 16
+  },
+  {
     "continent": "north-america",
     "icon:square": "https://i.imgur.com/zUSUHIt.jpeg",
     "name": "Bitcoin La Laguna",
@@ -3423,23 +3440,6 @@
     "box:north": "41.06369207946645",
     "area_km2": 11252.48,
     "id": 654,
-    "merchantCount": 15
-  },
-  {
-    "population": 181440,
-    "contact:telegram": "https://t.me/zwollebitcoinstad",
-    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
-    "population:date": "2021-01-01",
-    "url_alias": "zwolle-bitcoinstad",
-    "type": "community",
-    "name": "Zwolle Bitcoinstad",
-    "contact:website": "https://zwollebitcoinstad.nl/",
-    "organization": "eenentwintig",
-    "icon:square": "https://static.btcmap.org/images/communities/zwolle-bitcoinstad.jpeg",
-    "contact:email": "info@zwollebitcoinstad.nl",
-    "area_km2": 176.44,
-    "continent": "europe",
-    "id": 660,
     "merchantCount": 15
   },
   {
@@ -6391,6 +6391,21 @@
     "merchantCount": 5
   },
   {
+    "continent": "oceania",
+    "icon:square": "https://raw.githubusercontent.com/BitcoinNorthernBeaches/Files/refs/heads/main/BitcoinNorthernBeaches.png",
+    "name": "Bitcoin Northern Beaches",
+    "population": 270772,
+    "population:date": "2024-11-01",
+    "url_alias": "bitcoin-northern-beaches",
+    "contact:email": "bayanimills@gmail.com",
+    "contact:meetup": "https://www.meetup.com/Bitcoin_Sydney/",
+    "description": "Regional Social Group, part of Bitcoin Sydney",
+    "type": "community",
+    "area_km2": 292.3,
+    "id": 947,
+    "merchantCount": 5
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lithuania.png",
     "name": "Bitcoin Vilnius",
@@ -6424,6 +6439,23 @@
     "merchantCount": 5
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/972.png",
+    "name": "Bitcoin Beach Bournemouth",
+    "population": 196455,
+    "population:date": "2021-01-01",
+    "url_alias": "bitcoin-beach-bournemouth",
+    "contact:twitter": "https://x.com/BtcBeachBmouth",
+    "contact:telegram": "https://t.me/btcbeachbmouth",
+    "contact:email": "mark.suscens@gmail.com",
+    "description": "Meetup every third THURSDAY of the month. Open to all (just turn up). 💊 Clinic from 18:30 (for 1-2-1 help) 💬 Social from 19:30 - 22:30 Chaplins Bar / Modern Times (in The Cogg Room), 529 Christchurch Road, Boscombe, BH1 4AG",
+    "type": "community",
+    "area_km2": 51.75,
+    "verified:date": "2026-01-07",
+    "id": 972,
+    "merchantCount": 5
+  },
+  {
     "organization": "2140-meetups",
     "population": 344129.0,
     "area_km2": 110.1,
@@ -6437,6 +6469,20 @@
     "type": "community",
     "foo": "bar",
     "id": 1,
+    "merchantCount": 4
+  },
+  {
+    "url_alias": "ann-arbor-bitcoin",
+    "area_km2": 1872.12,
+    "contact:meetup": "https://www.meetup.com/ann-arbor-liberty-meetup-group/",
+    "population": 372258,
+    "continent": "north-america",
+    "type": "community",
+    "population:date": "2020-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/ann-arbor-bitcoin.png",
+    "name": "Ann Arbor Bitcoin",
+    "contact:email": "bitki@lavabit.com",
+    "id": 22,
     "merchantCount": 4
   },
   {
@@ -6775,35 +6821,6 @@
     "area_km2": 1478.97,
     "id": 945,
     "merchantCount": 4
-  },
-  {
-    "continent": "oceania",
-    "icon:square": "https://raw.githubusercontent.com/BitcoinNorthernBeaches/Files/refs/heads/main/BitcoinNorthernBeaches.png",
-    "name": "Bitcoin Northern Beaches",
-    "population": 270772,
-    "population:date": "2024-11-01",
-    "url_alias": "bitcoin-northern-beaches",
-    "contact:email": "bayanimills@gmail.com",
-    "contact:meetup": "https://www.meetup.com/Bitcoin_Sydney/",
-    "description": "Regional Social Group, part of Bitcoin Sydney",
-    "type": "community",
-    "area_km2": 292.3,
-    "id": 947,
-    "merchantCount": 4
-  },
-  {
-    "url_alias": "ann-arbor-bitcoin",
-    "area_km2": 1872.12,
-    "contact:meetup": "https://www.meetup.com/ann-arbor-liberty-meetup-group/",
-    "population": 372258,
-    "continent": "north-america",
-    "type": "community",
-    "population:date": "2020-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/ann-arbor-bitcoin.png",
-    "name": "Ann Arbor Bitcoin",
-    "contact:email": "bitki@lavabit.com",
-    "id": 22,
-    "merchantCount": 3
   },
   {
     "population:date": "2020-01-01",
@@ -7521,6 +7538,20 @@
     "contact:email": "ndesanjo@gmail.com",
     "population": 111859928,
     "id": 152,
+    "merchantCount": 2
+  },
+  {
+    "area_km2": 1874.34,
+    "contact:email": "1asdfah@gmail.com",
+    "icon:square": "https://static.btcmap.org/images/communities/coding-with-bitcoin.jpeg",
+    "url_alias": "coding-with-bitcoin",
+    "population:date": "2020-01-01",
+    "contact:meetup": "https://www.meetup.com/coding-with-bitcoin/",
+    "continent": "north-america",
+    "population": 160366,
+    "type": "community",
+    "name": "Coding with Bitcoin",
+    "id": 206,
     "merchantCount": 2
   },
   {
@@ -8311,20 +8342,6 @@
     "type": "community",
     "area_km2": 883.89,
     "id": 201,
-    "merchantCount": 1
-  },
-  {
-    "area_km2": 1874.34,
-    "contact:email": "1asdfah@gmail.com",
-    "icon:square": "https://static.btcmap.org/images/communities/coding-with-bitcoin.jpeg",
-    "url_alias": "coding-with-bitcoin",
-    "population:date": "2020-01-01",
-    "contact:meetup": "https://www.meetup.com/coding-with-bitcoin/",
-    "continent": "north-america",
-    "population": 160366,
-    "type": "community",
-    "name": "Coding with Bitcoin",
-    "id": 206,
     "merchantCount": 1
   },
   {
@@ -11010,22 +11027,5 @@
     "area_km2": 26.92,
     "id": 971,
     "merchantCount": 0
-  },
-  {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/areas/972.png",
-    "name": "Bitcoin Beach Bournemouth",
-    "population": 196455,
-    "population:date": "2021-01-01",
-    "url_alias": "bitcoin-beach-bournemouth",
-    "contact:twitter": "https://x.com/BtcBeachBmouth",
-    "contact:telegram": "https://t.me/btcbeachbmouth",
-    "contact:email": "mark.suscens@gmail.com",
-    "description": "Meetup every third THURSDAY of the month. Open to all (just turn up). 💊 Clinic from 18:30 (for 1-2-1 help) 💬 Social from 19:30 - 22:30 Chaplins Bar / Modern Times (in The Cogg Room), 529 Christchurch Road, Boscombe, BH1 4AG",
-    "type": "community",
-    "area_km2": 51.75,
-    "verified:date": "2026-01-07",
-    "id": 972,
-    "merchantCount": null
   }
 ]
