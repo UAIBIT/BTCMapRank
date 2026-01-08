@@ -12737,6 +12737,21 @@
     "merchantCount": 1
   },
   {
+    "icon:square": "https://static.btcmap.org/images/communities/tours.png",
+    "type": "community",
+    "continent": "europe",
+    "population:date": "2020-01-01",
+    "language": "fr",
+    "area_km2": 2640.52,
+    "organization": "decouvre-bitcoin",
+    "contact:telegram": "https://t.me/ToursBitcoinMeetup",
+    "url_alias": "tours",
+    "population": 137850,
+    "name": "Tours",
+    "id": 621,
+    "merchantCount": 1
+  },
+  {
     "subregion": "Melanesia",
     "population:year": 2019,
     "income_grp": "4. Lower middle income",
@@ -16542,12 +16557,6 @@
   },
   {
     "id": 619,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 621,
     "type": null,
     "merchantCount": 0,
     "name": null
