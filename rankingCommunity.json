@@ -3424,21 +3424,21 @@
     "merchantCount": 15
   },
   {
-    "organization": "einundzwanzig",
     "type": "community",
     "contact:website": "https://yirmibir.org",
     "continent": "europe",
     "population": 15840900,
     "language": "tr",
     "url_alias": "yirmibir-istanbul",
-    "box:east": "29.131450653076175",
-    "box:west": "28.801860809326175",
     "name": "Yirmibir Istanbul",
     "population:date": "2021-12-31",
     "contact:meetup": "https://www.meetup.com/istanbul-bitcoin-meetup-group/",
-    "box:south": "40.95877086680534",
-    "box:north": "41.06369207946645",
     "area_km2": 11252.48,
+    "contact:telegram": "https://t.me/yirmibirbitcoin",
+    "contact:twitter": "https://x.com/YirmibirBitcoin",
+    "contact:youtube": "https://www.youtube.com/@yirmibirbitcoin",
+    "icon:square": "https://static.btcmap.org/images/areas/654.png",
+    "verified:date": "2026-01-08",
     "id": 654,
     "merchantCount": 15
   },
@@ -4801,7 +4801,8 @@
     "contact:telegram": "https://t.me/Einundzwanzig_Augsburg",
     "organization": "einundzwanzig",
     "type": "community",
-    "area_km2": 157.94,
+    "area_km2": 163.51,
+    "verified:date": "2026-01-08",
     "id": 950,
     "merchantCount": 9
   },
@@ -4857,20 +4858,6 @@
     "name": "EasySats",
     "population": 2550226,
     "id": 244,
-    "merchantCount": 8
-  },
-  {
-    "contact:telegram": "https://t.me/Einundzwanzig_Augsburg",
-    "type": "community",
-    "url_alias": "einundzwanzig-augsburg",
-    "continent": "europe",
-    "organization": "einundzwanzig",
-    "area_km2": 146.93,
-    "language": "de",
-    "name": "Einundzwanzig Augsburg",
-    "population:date": "2021-12-31",
-    "population": 296478,
-    "id": 253,
     "merchantCount": 8
   },
   {
@@ -6995,6 +6982,8 @@
     "type": "community",
     "contact:telegram": "https://t.me/Einundzwanzig_Recklinghausen",
     "name": "Einundzwanzig Recklinghausen",
+    "icon:square": "https://static.btcmap.org/images/areas/318.png",
+    "verified:date": "2026-01-08",
     "id": 318,
     "merchantCount": 3
   },
