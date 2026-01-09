@@ -3352,32 +3352,6 @@
     "merchantCount": 35
   },
   {
-    "income_grp": "1. High income: OECD",
-    "population": 9769949,
-    "region_wb": "Europe & Central Asia",
-    "country_type": "Sovereign country",
-    "iso_a3": "HUN",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "HU",
-    "wikidataid": "Q28",
-    "lat": 47.086841,
-    "lon": 19.447867,
-    "sovereignt": "Hungary",
-    "area_km2": 93167.09,
-    "subregion": "Eastern Europe",
-    "gdp_year": 2019,
-    "population:rank": 13,
-    "population:year": 2019,
-    "name": "Hungary",
-    "region_un": "Europe",
-    "gdp_md": 163469,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "hu",
-    "id": 395,
-    "merchantCount": 35
-  },
-  {
     "population": 270625568,
     "economy": "4. Emerging region: MIKT",
     "iso_a2": "ID",
@@ -14969,6 +14943,12 @@
     "url_alias": "ht",
     "id": 394,
     "merchantCount": 0
+  },
+  {
+    "id": 395,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "economy": "2. Developed region: nonG7",
