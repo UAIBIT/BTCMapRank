@@ -7283,10 +7283,22 @@
     "merchantCount": 0
   },
   {
+    "name": "Isle of Man",
+    "box:north": 54.43413,
+    "contact:telegram": "https://t.me/IOMBitcoiners",
+    "box:east": -4.14054,
+    "url_alias": "iom",
+    "population": "84069",
+    "icon:square": "https://static.btcmap.org/images/communities/iom.png",
+    "box:south": 54.01989,
+    "box:west": -4.93704,
+    "population:date": "2021-01-01",
+    "area_km2": 4381.39,
+    "type": "community",
+    "contact:twitter": "https://twitter.com/BTCIOM",
+    "continent": "europe",
     "id": 402,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 36
   },
   {
     "population": 39309783,
@@ -14330,19 +14342,10 @@
     "merchantCount": 20
   },
   {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-salvador-bahia.png",
-    "name": "Bitcoin Salvador Bahia",
-    "population": 3919865,
-    "population:date": "2022-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-salvador-bahia",
-    "tips:lightning_address": "ornatetongue99@walletofsatoshi.com",
-    "contact:instagram": "https://www.instagram.com/brp2pcripto",
-    "contact:email": "brp2pcripto@proton.me",
-    "area_km2": 858,
     "id": 748,
-    "merchantCount": 41
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 5829.56,
