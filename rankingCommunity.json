@@ -1191,7 +1191,9 @@
     "type": "community",
     "population": 4043002,
     "url_alias": "einundzwanzig-sachsen",
-    "area_km2": 18414.59,
+    "area_km2": 20364.1,
+    "icon:square": "https://static.btcmap.org/images/areas/327.png",
+    "verified:date": "2026-01-09",
     "id": 327,
     "merchantCount": 53
   },
@@ -2790,13 +2792,14 @@
   {
     "contact:twitter": "https://twitter.com/bitcoinclubmt",
     "name": "Bitcoin Club Malta",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-club-malta.jpg",
+    "icon:square": "https://static.btcmap.org/images/areas/86.png",
     "type": "community",
     "contact:website": "https://bitcoinclubmalta.com/",
     "continent": "europe",
     "url_alias": "bitcoin-club-malta",
     "contact:telegram": "https://t.me/bitcoinclubmalta",
-    "area_km2": 2883.41,
+    "area_km2": 4359.02,
+    "verified:date": "2026-01-09",
     "id": 86,
     "merchantCount": 20
   },
@@ -6904,20 +6907,6 @@
     "merchantCount": 3
   },
   {
-    "population:date": "2021-12-31",
-    "contact:telegram": "https://t.me/+o2gLvxb2SxFhNTI0",
-    "name": "Einezwänzg Solothurn",
-    "url_alias": "einezwaenzg-solothurn",
-    "language": "fr",
-    "organization": "einundzwanzig",
-    "population": 16802,
-    "type": "community",
-    "continent": "europe",
-    "area_km2": 6.24,
-    "id": 251,
-    "merchantCount": 3
-  },
-  {
     "type": "community",
     "organization": "einundzwanzig",
     "contact:telegram": "https://t.me/einundzwanzig_bonn",
@@ -8374,13 +8363,15 @@
   {
     "type": "community",
     "contact:email": "bitcoinstudygroup@protonmail.com",
-    "area_km2": 86.16,
+    "area_km2": 130.29,
     "continent": "north-america",
     "contact:twitter": "https://twitter.com/Bitcoinlovesyou",
-    "population": "55638",
-    "population:date": "2020-01-01",
+    "population": 19071,
+    "population:date": "2026-01-09",
     "url_alias": "durango-bitcoiners",
     "name": "Durango Bitcoiners",
+    "icon:square": "https://static.btcmap.org/images/areas/236.png",
+    "verified:date": "2026-01-09",
     "id": 236,
     "merchantCount": 1
   },
