@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4793
+    "merchantCount": 4821
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2103
+    "merchantCount": 2105
   },
   {
     "population:year": 2019,
@@ -257,7 +257,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 533
+    "merchantCount": 534
   },
   {
     "gdp_md": 543548,
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 443
+    "merchantCount": 444
   },
   {
     "country_type": "Sovereign country",
@@ -544,7 +544,7 @@
     "continent": "Europe",
     "url_alias": "sk",
     "id": 587,
-    "merchantCount": 271
+    "merchantCount": 270
   },
   {
     "sovereignt": "Argentina",
@@ -596,7 +596,7 @@
     "population:rank": 13,
     "url_alias": "at",
     "id": 31,
-    "merchantCount": 200
+    "merchantCount": 201
   },
   {
     "sovereignt": "Australia",
@@ -651,32 +651,6 @@
     "merchantCount": 173
   },
   {
-    "continent": "Africa",
-    "sovereignt": "Zambia",
-    "region_un": "Africa",
-    "area_km2": 757283.84,
-    "iso_a3": "ZMB",
-    "wikidataid": "Q953",
-    "lat": -14.660804,
-    "subregion": "Eastern Africa",
-    "type": "country",
-    "iso_a2": "ZM",
-    "region_wb": "Sub-Saharan Africa",
-    "population": 17861030,
-    "lon": 26.395298,
-    "country_type": "Sovereign country",
-    "population:rank": 14,
-    "gdp_md": 23309,
-    "name": "Zambia",
-    "gdp_year": 2019,
-    "economy": "7. Least developed region",
-    "income_grp": "4. Lower middle income",
-    "population:year": 2019,
-    "url_alias": "zm",
-    "id": 657,
-    "merchantCount": 148
-  },
-  {
     "area_km2": 596166.85,
     "economy": "5. Emerging region: G20",
     "population": 52573973,
@@ -726,6 +700,32 @@
     "population:rank": 14,
     "url_alias": "do",
     "id": 232,
+    "merchantCount": 126
+  },
+  {
+    "continent": "Africa",
+    "sovereignt": "Zambia",
+    "region_un": "Africa",
+    "area_km2": 757283.84,
+    "iso_a3": "ZMB",
+    "wikidataid": "Q953",
+    "lat": -14.660804,
+    "subregion": "Eastern Africa",
+    "type": "country",
+    "iso_a2": "ZM",
+    "region_wb": "Sub-Saharan Africa",
+    "population": 17861030,
+    "lon": 26.395298,
+    "country_type": "Sovereign country",
+    "population:rank": 14,
+    "gdp_md": 23309,
+    "name": "Zambia",
+    "gdp_year": 2019,
+    "economy": "7. Least developed region",
+    "income_grp": "4. Lower middle income",
+    "population:year": 2019,
+    "url_alias": "zm",
+    "id": 657,
     "merchantCount": 126
   },
   {
