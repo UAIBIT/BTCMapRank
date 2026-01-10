@@ -16812,10 +16812,20 @@
     "merchantCount": 4
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-coast.png",
+    "name": "Bitcoin Coast",
+    "population": 100000,
+    "population:date": "2025-01-01",
+    "url_alias": "bitcoin_coast",
+    "contact:website": "https://bitcoincoast.sv/",
+    "contact:twitter": "https://x.com/bitcoincoast_sv",
+    "contact:instagram": "https://instagram.com/bitcoincoast_s",
+    "contact:phone": "+50370204642",
+    "type": "community",
+    "area_km2": 100.59,
     "id": 910,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 199
   },
   {
     "continent": "south-america",
