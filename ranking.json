@@ -7735,6 +7735,25 @@
     "merchantCount": 7
   },
   {
+    "type": "community",
+    "box:north": "42.44436131373518",
+    "continent": "europe",
+    "box:south": "42.38783896858117",
+    "language": "es",
+    "url_alias": "pontevedra-2140",
+    "area_km2": 5714.4,
+    "name": "Pontevedra 2140",
+    "icon:square": "https://static.btcmap.org/images/communities/pontevedra-2140.jpg",
+    "population:date": "2018-01-01",
+    "box:east": "-8.595256805419924",
+    "organization": "2140-meetups",
+    "contact:telegram": "https://t.me/PonteVedra_2140",
+    "population": "82802",
+    "box:west": "-8.697566986083986",
+    "id": 534,
+    "merchantCount": 7
+  },
+  {
     "income_grp": "2. High income: nonOECD",
     "sovereignt": "United States of America",
     "economy": "6. Developing region",
@@ -15872,12 +15891,6 @@
     "name": null
   },
   {
-    "id": 534,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "id": 535,
     "type": null,
     "merchantCount": 0,
@@ -16793,30 +16806,10 @@
     "merchantCount": 0
   },
   {
-    "gdp_md": 22581,
-    "name": "Yemen",
-    "lon": 45.874383,
-    "region_wb": "Middle East & North Africa",
-    "type": "country",
-    "income_grp": "4. Lower middle income",
-    "continent": "Asia",
-    "region_un": "Asia",
-    "country_type": "Sovereign country",
-    "subregion": "Western Asia",
-    "iso_a2": "YE",
-    "sovereignt": "Yemen",
-    "population": 29161922,
-    "population:rank": 15,
-    "economy": "7. Least developed region",
-    "area_km2": 455154.4,
-    "iso_a3": "YEM",
-    "gdp_year": 2019,
-    "lat": 15.328226,
-    "population:year": 2019,
-    "wikidataid": "Q805",
-    "url_alias": "ye",
     "id": 653,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/zoolook.webp",
