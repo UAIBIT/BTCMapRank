@@ -13136,22 +13136,6 @@
     "merchantCount": 1
   },
   {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-pezinok.svg",
-    "name": "21 Pezinok",
-    "population": 24443,
-    "population:date": "2022-03-31",
-    "url_alias": "dvadsatjeden-pezinok",
-    "contact:email": "pezinok@dvadsatjeden.org",
-    "contact:signal": "https://signal.group/#CjQKIGKlqj2aUse_McI-l2T-1-8cvNYiuy4OamSsGRBLU8f4EhAXaFCelPaLMWv7uCFkuHgN",
-    "contact:website": "https://www.dvadsatjeden.org",
-    "organization": "dvadsatjeden",
-    "type": "community",
-    "area_km2": 62.09,
-    "id": 841,
-    "merchantCount": 1
-  },
-  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-mucuge-bahia.png",
     "name": "Bitcoin Mucugê Bahia",
@@ -17465,6 +17449,12 @@
     "area_km2": 409.4,
     "id": 838,
     "merchantCount": 0
+  },
+  {
+    "id": 841,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "europe",
