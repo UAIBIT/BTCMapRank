@@ -929,22 +929,6 @@
     "merchantCount": 199
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-coast.png",
-    "name": "Bitcoin Coast",
-    "population": 100000,
-    "population:date": "2025-01-01",
-    "url_alias": "bitcoin_coast",
-    "contact:website": "https://bitcoincoast.sv/",
-    "contact:twitter": "https://x.com/bitcoincoast_sv",
-    "contact:instagram": "https://instagram.com/bitcoincoast_s",
-    "contact:phone": "+50370204642",
-    "type": "community",
-    "area_km2": 100.59,
-    "id": 910,
-    "merchantCount": 199
-  },
-  {
     "name": "Vancouver Bitcoiners",
     "box:south": "48.81861991362668",
     "population": "2642825",
@@ -4465,6 +4449,32 @@
     "name": "Croatia",
     "url_alias": "hr",
     "id": 393,
+    "merchantCount": 22
+  },
+  {
+    "iso_a2": "MY",
+    "region_un": "Asia",
+    "population": 31949777,
+    "area_km2": 328377.38,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "sovereignt": "Malaysia",
+    "lat": 2.528667,
+    "population:year": 2019,
+    "gdp_md": 364681,
+    "gdp_year": 2019,
+    "economy": "6. Developing region",
+    "income_grp": "3. Upper middle income",
+    "lon": 113.83708,
+    "type": "country",
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "MYS",
+    "subregion": "South-Eastern Asia",
+    "wikidataid": "Q833",
+    "population:rank": 15,
+    "name": "Malaysia",
+    "url_alias": "my",
+    "id": 494,
     "merchantCount": 22
   },
   {
@@ -15600,12 +15610,6 @@
     "merchantCount": 0
   },
   {
-    "id": 494,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "name": "Niger",
     "continent": "Africa",
     "population:year": 2019,
@@ -17561,6 +17565,12 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
+  },
+  {
+    "id": 910,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 916,
