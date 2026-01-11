@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4821
+    "merchantCount": 4853
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2105
+    "merchantCount": 2106
   },
   {
     "population:year": 2019,
@@ -208,6 +208,32 @@
     "merchantCount": 610
   },
   {
+    "sovereignt": "Canada",
+    "economy": "1. Developed region: G7",
+    "name": "Canada",
+    "wikidataid": "Q16",
+    "population:year": 2019,
+    "country_type": "Sovereign country",
+    "lat": 60.324287,
+    "iso_a2": "CA",
+    "gdp_year": 2019,
+    "continent": "North America",
+    "lon": -101.9107,
+    "iso_a3": "CAN",
+    "subregion": "Northern America",
+    "population": 37589262,
+    "region_un": "Americas",
+    "population:rank": 15,
+    "type": "country",
+    "gdp_md": 1736425,
+    "income_grp": "1. High income: OECD",
+    "region_wb": "North America",
+    "area_km2": 9894187.94,
+    "url_alias": "ca",
+    "id": 186,
+    "merchantCount": 553
+  },
+  {
     "region_un": "Americas",
     "country_type": "Sovereign country",
     "iso_a2": "MX",
@@ -232,32 +258,6 @@
     "url_alias": "mx",
     "id": 493,
     "merchantCount": 541
-  },
-  {
-    "sovereignt": "Canada",
-    "economy": "1. Developed region: G7",
-    "name": "Canada",
-    "wikidataid": "Q16",
-    "population:year": 2019,
-    "country_type": "Sovereign country",
-    "lat": 60.324287,
-    "iso_a2": "CA",
-    "gdp_year": 2019,
-    "continent": "North America",
-    "lon": -101.9107,
-    "iso_a3": "CAN",
-    "subregion": "Northern America",
-    "population": 37589262,
-    "region_un": "Americas",
-    "population:rank": 15,
-    "type": "country",
-    "gdp_md": 1736425,
-    "income_grp": "1. High income: OECD",
-    "region_wb": "North America",
-    "area_km2": 9894187.94,
-    "url_alias": "ca",
-    "id": 186,
-    "merchantCount": 534
   },
   {
     "gdp_md": 543548,
@@ -310,7 +310,7 @@
     "name": "Costa Rica",
     "url_alias": "cr",
     "id": 211,
-    "merchantCount": 389
+    "merchantCount": 390
   },
   {
     "population": 47076781,
@@ -622,7 +622,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 199
+    "merchantCount": 200
   },
   {
     "income_grp": "3. Upper middle income",
@@ -1142,7 +1142,7 @@
     "sovereignt": "Cuba",
     "url_alias": "cu",
     "id": 213,
-    "merchantCount": 47
+    "merchantCount": 49
   },
   {
     "iso_a3": "GRC",
@@ -1324,7 +1324,7 @@
     "continent": "Africa",
     "url_alias": "ng",
     "id": 505,
-    "merchantCount": 34
+    "merchantCount": 35
   },
   {
     "area_km2": 385110.87,
@@ -1457,6 +1457,32 @@
     "merchantCount": 27
   },
   {
+    "iso_a3": "GHA",
+    "gdp_md": 66983,
+    "subregion": "Western Africa",
+    "wikidataid": "Q117",
+    "lat": 7.717639,
+    "lon": -1.036941,
+    "continent": "Africa",
+    "type": "country",
+    "population:rank": 15,
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "area_km2": 240102.41,
+    "region_un": "Africa",
+    "income_grp": "4. Lower middle income",
+    "region_wb": "Sub-Saharan Africa",
+    "name": "Ghana",
+    "iso_a2": "GH",
+    "population": 30417856,
+    "population:year": 2019,
+    "sovereignt": "Ghana",
+    "economy": "6. Developing region",
+    "url_alias": "gh",
+    "id": 368,
+    "merchantCount": 26
+  },
+  {
     "income_grp": "1. High income: OECD",
     "country_type": "Sovereign country",
     "area_km2": 68853.38,
@@ -1507,32 +1533,6 @@
     "url_alias": "la",
     "id": 429,
     "merchantCount": 26
-  },
-  {
-    "iso_a3": "GHA",
-    "gdp_md": 66983,
-    "subregion": "Western Africa",
-    "wikidataid": "Q117",
-    "lat": 7.717639,
-    "lon": -1.036941,
-    "continent": "Africa",
-    "type": "country",
-    "population:rank": 15,
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "area_km2": 240102.41,
-    "region_un": "Africa",
-    "income_grp": "4. Lower middle income",
-    "region_wb": "Sub-Saharan Africa",
-    "name": "Ghana",
-    "iso_a2": "GH",
-    "population": 30417856,
-    "population:year": 2019,
-    "sovereignt": "Ghana",
-    "economy": "6. Developing region",
-    "url_alias": "gh",
-    "id": 368,
-    "merchantCount": 24
   },
   {
     "gdp_year": 2019,
