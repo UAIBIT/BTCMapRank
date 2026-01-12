@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4853
+    "merchantCount": 4871
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2106
+    "merchantCount": 2108
   },
   {
     "population:year": 2019,
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 610
+    "merchantCount": 611
   },
   {
     "sovereignt": "Canada",
@@ -231,7 +231,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 553
+    "merchantCount": 560
   },
   {
     "region_un": "Americas",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 444
+    "merchantCount": 443
   },
   {
     "country_type": "Sovereign country",
@@ -336,7 +336,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 379
+    "merchantCount": 380
   },
   {
     "iso_a2": "NL",
@@ -466,7 +466,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 330
+    "merchantCount": 331
   },
   {
     "name": "Poland",
@@ -1350,7 +1350,7 @@
     "url_alias": "no",
     "wikidataid": "Q20",
     "id": 686,
-    "merchantCount": 33
+    "merchantCount": 34
   },
   {
     "area_km2": 781554.63,
@@ -2241,32 +2241,6 @@
     "merchantCount": 7
   },
   {
-    "name": "Latvia",
-    "continent": "Europe",
-    "iso_a2": "LV",
-    "country_type": "Sovereign country",
-    "type": "country",
-    "population:year": 2019,
-    "lat": 57.066872,
-    "income_grp": "3. Upper middle income",
-    "lon": 25.458723,
-    "population": 1912789,
-    "gdp_md": 34102,
-    "gdp_year": 2019,
-    "wikidataid": "Q211",
-    "subregion": "Northern Europe",
-    "population:rank": 12,
-    "iso_a3": "LVA",
-    "region_wb": "Europe & Central Asia",
-    "economy": "2. Developed region: nonG7",
-    "area_km2": 64403.65,
-    "region_un": "Europe",
-    "sovereignt": "Latvia",
-    "url_alias": "lv",
-    "id": 452,
-    "merchantCount": 7
-  },
-  {
     "type": "country",
     "iso_a2": "ME",
     "population:year": 2019,
@@ -2406,6 +2380,32 @@
     "subregion": "Caribbean",
     "url_alias": "ky",
     "id": 427,
+    "merchantCount": 6
+  },
+  {
+    "name": "Latvia",
+    "continent": "Europe",
+    "iso_a2": "LV",
+    "country_type": "Sovereign country",
+    "type": "country",
+    "population:year": 2019,
+    "lat": 57.066872,
+    "income_grp": "3. Upper middle income",
+    "lon": 25.458723,
+    "population": 1912789,
+    "gdp_md": 34102,
+    "gdp_year": 2019,
+    "wikidataid": "Q211",
+    "subregion": "Northern Europe",
+    "population:rank": 12,
+    "iso_a3": "LVA",
+    "region_wb": "Europe & Central Asia",
+    "economy": "2. Developed region: nonG7",
+    "area_km2": 64403.65,
+    "region_un": "Europe",
+    "sovereignt": "Latvia",
+    "url_alias": "lv",
+    "id": 452,
     "merchantCount": 6
   },
   {
