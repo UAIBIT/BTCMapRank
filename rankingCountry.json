@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 4871
+    "merchantCount": 4921
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2108
+    "merchantCount": 2111
   },
   {
     "population:year": 2019,
@@ -492,7 +492,7 @@
     "area_km2": 313243.76,
     "url_alias": "pl",
     "id": 530,
-    "merchantCount": 301
+    "merchantCount": 302
   },
   {
     "population": 16604026,
@@ -622,7 +622,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 200
+    "merchantCount": 201
   },
   {
     "income_grp": "3. Upper middle income",
@@ -700,7 +700,7 @@
     "population:rank": 14,
     "url_alias": "do",
     "id": 232,
-    "merchantCount": 126
+    "merchantCount": 128
   },
   {
     "continent": "Africa",
@@ -1873,6 +1873,32 @@
     "merchantCount": 14
   },
   {
+    "lat": 23.466285,
+    "population": 9770529,
+    "income_grp": "2. High income: nonOECD",
+    "economy": "6. Developing region",
+    "continent": "Asia",
+    "gdp_md": 421142,
+    "gdp_year": 2019,
+    "iso_a2": "AE",
+    "region_un": "Asia",
+    "area_km2": 71435.38,
+    "population:rank": 13,
+    "country_type": "Sovereign country",
+    "sovereignt": "United Arab Emirates",
+    "subregion": "Western Asia",
+    "region_wb": "Middle East & North Africa",
+    "name": "United Arab Emirates",
+    "lon": 54.547256,
+    "type": "country",
+    "iso_a3": "ARE",
+    "wikidataid": "Q878",
+    "population:year": 2019,
+    "url_alias": "ae",
+    "id": 8,
+    "merchantCount": 11
+  },
+  {
     "region_wb": "Latin America & Caribbean",
     "gdp_md": 12520,
     "area_km2": 129533.01,
@@ -1897,32 +1923,6 @@
     "url_alias": "ni",
     "id": 506,
     "merchantCount": 11
-  },
-  {
-    "lat": 23.466285,
-    "population": 9770529,
-    "income_grp": "2. High income: nonOECD",
-    "economy": "6. Developing region",
-    "continent": "Asia",
-    "gdp_md": 421142,
-    "gdp_year": 2019,
-    "iso_a2": "AE",
-    "region_un": "Asia",
-    "area_km2": 71435.38,
-    "population:rank": 13,
-    "country_type": "Sovereign country",
-    "sovereignt": "United Arab Emirates",
-    "subregion": "Western Asia",
-    "region_wb": "Middle East & North Africa",
-    "name": "United Arab Emirates",
-    "lon": 54.547256,
-    "type": "country",
-    "iso_a3": "ARE",
-    "wikidataid": "Q878",
-    "population:year": 2019,
-    "url_alias": "ae",
-    "id": 8,
-    "merchantCount": 10
   },
   {
     "population:rank": 12,
@@ -3368,6 +3368,32 @@
     "gdp_md": 31471,
     "url_alias": "ee",
     "id": 246,
+    "merchantCount": 1
+  },
+  {
+    "gdp_year": 2019,
+    "subregion": "Western Africa",
+    "iso_a2": "GM",
+    "type": "country",
+    "region_wb": "Sub-Saharan Africa",
+    "income_grp": "5. Low income",
+    "sovereignt": "Gambia",
+    "continent": "Africa",
+    "gdp_md": 1826,
+    "region_un": "Africa",
+    "population:rank": 12,
+    "name": "Gambia",
+    "area_km2": 10336.73,
+    "lon": -14.998318,
+    "iso_a3": "GMB",
+    "population": 2347706,
+    "lat": 13.641721,
+    "country_type": "Sovereign country",
+    "wikidataid": "Q1005",
+    "population:year": 2019,
+    "economy": "7. Least developed region",
+    "url_alias": "gm",
+    "id": 374,
     "merchantCount": 1
   },
   {
