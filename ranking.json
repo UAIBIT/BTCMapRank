@@ -8118,22 +8118,6 @@
     "merchantCount": 6
   },
   {
-    "organization": "plan-b-network",
-    "contact:email": "nouroukta@protonmail.com",
-    "tips:lightning_address": "bitcoinsen@getalby.com",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/dakar.jpeg",
-    "population": 3938358,
-    "population:date": "2021-01-01",
-    "area_km2": 983.06,
-    "url_alias": "dakar",
-    "contact:twitter": "https://twitter.com/bitcoin_sen",
-    "name": "₿itcoin Sénégal - Dakar",
-    "continent": "africa",
-    "id": 219,
-    "merchantCount": 6
-  },
-  {
     "name": "Detroit Bitcoin and Beer",
     "url_alias": "detroit-bitcoin-and-beer",
     "population": 4365205,
@@ -14085,6 +14069,12 @@
   },
   {
     "id": 210,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 219,
     "type": null,
     "merchantCount": 0,
     "name": null
