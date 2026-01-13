@@ -4292,10 +4292,11 @@
     "population:date": "2021-09-21",
     "url_alias": "nola-bitcoin",
     "contact:twitter": "https://x.com/NOLA_Bitcoin",
-    "contact:meetup": "https://www.meetup.com/central-florida-bitcoiners",
+    "contact:meetup": "https://www.meetup.com/nolabitcoin",
     "contact:email": "nolabitcoin@gmail.com",
     "type": "community",
     "area_km2": 930.41,
+    "contact:nostr": "npub1ptsk65af6s52w2cdr2c40228ktdeet6tmtpe8spdl2t2y7l4030qdrwurx",
     "id": 944,
     "merchantCount": 11
   },
@@ -11033,5 +11034,20 @@
     "area_km2": 26.92,
     "id": 971,
     "merchantCount": 0
+  },
+  {
+    "continent": "africa",
+    "name": "EcoBitz",
+    "population": 1306411,
+    "population:date": "2020-02-11",
+    "url_alias": "ecobitz",
+    "contact:twitter": "https://x.com/ecobitz_21m",
+    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
+    "type": "community",
+    "verified:date": "2026-01-13",
+    "icon:square": "https://static.btcmap.org/images/areas/974.png",
+    "area_km2": 6075.63,
+    "id": 974,
+    "merchantCount": null
   }
 ]

@@ -6358,10 +6358,11 @@
     "population:date": "2021-09-21",
     "url_alias": "nola-bitcoin",
     "contact:twitter": "https://x.com/NOLA_Bitcoin",
-    "contact:meetup": "https://www.meetup.com/central-florida-bitcoiners",
+    "contact:meetup": "https://www.meetup.com/nolabitcoin",
     "contact:email": "nolabitcoin@gmail.com",
     "type": "community",
     "area_km2": 930.41,
+    "contact:nostr": "npub1ptsk65af6s52w2cdr2c40228ktdeet6tmtpe8spdl2t2y7l4030qdrwurx",
     "id": 944,
     "merchantCount": 11
   },
@@ -11907,32 +11908,6 @@
     "merchantCount": 1
   },
   {
-    "country_type": "Sovereign country",
-    "iso_a3": "EST",
-    "population": 1326590,
-    "sovereignt": "Estonia",
-    "lat": 58.724865,
-    "continent": "Europe",
-    "population:year": 2019,
-    "region_un": "Europe",
-    "lon": 25.867126,
-    "income_grp": "1. High income: OECD",
-    "area_km2": 45554.2,
-    "economy": "2. Developed region: nonG7",
-    "iso_a2": "EE",
-    "subregion": "Northern Europe",
-    "gdp_year": 2019,
-    "name": "Estonia",
-    "population:rank": 12,
-    "region_wb": "Europe & Central Asia",
-    "type": "country",
-    "wikidataid": "Q191",
-    "gdp_md": 31471,
-    "url_alias": "ee",
-    "id": 246,
-    "merchantCount": 1
-  },
-  {
     "url_alias": "einundzwanzig-bremen",
     "continent": "europe",
     "population": 563290,
@@ -14170,6 +14145,12 @@
   },
   {
     "id": 237,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 246,
     "type": null,
     "merchantCount": 0,
     "name": null
@@ -17726,10 +17707,19 @@
     "merchantCount": 0
   },
   {
+    "continent": "africa",
+    "name": "EcoBitz",
+    "population": 1306411,
+    "population:date": "2020-02-11",
+    "url_alias": "ecobitz",
+    "contact:twitter": "https://x.com/ecobitz_21m",
+    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
+    "type": "community",
+    "verified:date": "2026-01-13",
+    "icon:square": "https://static.btcmap.org/images/areas/974.png",
+    "area_km2": 6075.63,
     "id": 974,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
     "id": 975,
