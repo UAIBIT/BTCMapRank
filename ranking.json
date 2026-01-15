@@ -9087,6 +9087,21 @@
     "merchantCount": 5
   },
   {
+    "continent": "oceania",
+    "icon:square": "https://raw.githubusercontent.com/BitcoinNorthernBeaches/Files/refs/heads/main/BitcoinNorthernBeaches.png",
+    "name": "Bitcoin Northern Beaches",
+    "population": 270772,
+    "population:date": "2024-11-01",
+    "url_alias": "bitcoin-northern-beaches",
+    "contact:email": "bayanimills@gmail.com",
+    "contact:meetup": "https://www.meetup.com/Bitcoin_Sydney/",
+    "description": "Regional Social Group, part of Bitcoin Sydney",
+    "type": "community",
+    "area_km2": 292.3,
+    "id": 947,
+    "merchantCount": 5
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lithuania.png",
     "name": "Bitcoin Vilnius",
@@ -17633,12 +17648,6 @@
   },
   {
     "id": 946,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 947,
     "type": null,
     "merchantCount": 0,
     "name": null
