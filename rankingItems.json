@@ -10019,10 +10019,30 @@
     "merchantCount": 302
   },
   {
+    "iso_a2": "PM",
+    "continent": "North America",
+    "population:year": 2017,
+    "type": "country",
+    "wikidataid": "Q34617",
+    "lat": 47.040344,
+    "gdp_md": 215,
+    "gdp_year": 2016,
+    "economy": "2. Developed region: nonG7",
+    "area_km2": 205.74,
+    "region_un": "Americas",
+    "iso_a3": "SPM",
+    "name": "Saint Pierre and Miquelon",
+    "population": 5997,
+    "sovereignt": "France",
+    "income_grp": "3. Upper middle income",
+    "region_wb": "North America",
+    "lon": -56.332352,
+    "population:rank": 5,
+    "country_type": "Dependency",
+    "subregion": "Northern America",
+    "url_alias": "pm",
     "id": 531,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "country_type": "Dependency",
@@ -16792,20 +16812,10 @@
     "merchantCount": 6
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-coast.png",
-    "name": "Bitcoin Coast",
-    "population": 100000,
-    "population:date": "2025-01-01",
-    "url_alias": "bitcoin_coast",
-    "contact:website": "https://bitcoincoast.sv/",
-    "contact:twitter": "https://x.com/bitcoincoast_sv",
-    "contact:instagram": "https://instagram.com/bitcoincoast_s",
-    "contact:phone": "+50370204642",
-    "type": "community",
-    "area_km2": 100.59,
     "id": 910,
-    "merchantCount": 199
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "south-america",
