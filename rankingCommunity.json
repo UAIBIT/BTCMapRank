@@ -94,7 +94,7 @@
     "population": 2709418,
     "url_alias": "jednadvacet-praha",
     "id": 411,
-    "merchantCount": 332
+    "merchantCount": 333
   },
   {
     "box:east": 9.03617,
@@ -129,7 +129,7 @@
     "type": "community",
     "url_alias": "bitcoin-movement-georgia",
     "id": 765,
-    "merchantCount": 227
+    "merchantCount": 228
   },
   {
     "contact:nostr": "npub168dqt5c8ue3uj8ynlk0lhwalnp7uy39lvzf9tm09wy3htxwmw7qq5nerj4",
@@ -226,7 +226,7 @@
     "population": "6815962",
     "url_alias": "bitcoin-bulgaria",
     "id": 82,
-    "merchantCount": 179
+    "merchantCount": 178
   },
   {
     "box:south": 32.62782,
@@ -284,7 +284,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 148
+    "merchantCount": 149
   },
   {
     "contact:twitter": "https://twitter.com/bayareabtc",
@@ -506,7 +506,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 101
+    "merchantCount": 102
   },
   {
     "contact:website": "https://gobtc.com.br",
@@ -871,6 +871,25 @@
     "merchantCount": 69
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/pura-vida-bitcoin.png",
+    "name": "Pura Vida Bitcoin",
+    "population": 8308,
+    "population:date": "2024-01-01",
+    "url_alias": "pura-vida-bitcoin",
+    "area_km2": 125.21,
+    "contact:twitter": "https://x.com/PuraVidaBTC",
+    "contact:website": "https://puravidabitcoin.io/",
+    "contact:linkedin": "https://www.linkedin.com/company/pura-vida-bitcoin/",
+    "contact:instagram": "https://www.instagram.com/puravidabitcoin/",
+    "contact:github": "https://github.com/PuraVida-Technologies",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=61561955397001",
+    "contact:youtube": "https://www.youtube.com/channel/UCshqYCUZZOglP-eEyP-VP0g",
+    "type": "community",
+    "id": 801,
+    "merchantCount": 67
+  },
+  {
     "box:south": 13.47788,
     "continent": "asia",
     "url_alias": "bangkok",
@@ -892,26 +911,7 @@
     "contact:website": "https://www.bobspaces.net/",
     "contact:email": "bobspacesbkk@protonmail.com",
     "id": 44,
-    "merchantCount": 67
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/pura-vida-bitcoin.png",
-    "name": "Pura Vida Bitcoin",
-    "population": 8308,
-    "population:date": "2024-01-01",
-    "url_alias": "pura-vida-bitcoin",
-    "area_km2": 125.21,
-    "contact:twitter": "https://x.com/PuraVidaBTC",
-    "contact:website": "https://puravidabitcoin.io/",
-    "contact:linkedin": "https://www.linkedin.com/company/pura-vida-bitcoin/",
-    "contact:instagram": "https://www.instagram.com/puravidabitcoin/",
-    "contact:github": "https://github.com/PuraVida-Technologies",
-    "contact:facebook": "https://www.facebook.com/profile.php?id=61561955397001",
-    "contact:youtube": "https://www.youtube.com/channel/UCshqYCUZZOglP-eEyP-VP0g",
-    "type": "community",
-    "id": 801,
-    "merchantCount": 67
+    "merchantCount": 66
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-maximex-club.jpeg",
@@ -1382,7 +1382,7 @@
     "name": "San Diego Bitcoiners",
     "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 45
+    "merchantCount": 46
   },
   {
     "continent": "north-america",
@@ -2183,7 +2183,7 @@
     "organization": "bit-devs",
     "tips:lightning_address": "trianglebitdevs@getalby.com",
     "id": 623,
-    "merchantCount": 31
+    "merchantCount": 32
   },
   {
     "continent": "europe",
@@ -2197,20 +2197,6 @@
     "type": "community",
     "id": 835,
     "merchantCount": 31
-  },
-  {
-    "url_alias": "la-antigua-bitcoin",
-    "type": "community",
-    "continent": "south-america",
-    "contact:email": "jc@osmowallet.com",
-    "contact:twitter": "https://twitter.com/antiguabtc",
-    "population": 46054,
-    "name": "La Antigua Bitcoin",
-    "population:date": "2018-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/la-antigua-bitcoin.jpeg",
-    "area_km2": 181.87,
-    "id": 430,
-    "merchantCount": 30
   },
   {
     "area_km2": 306,
@@ -2277,6 +2263,20 @@
     "url_alias": "bitcoin-munich",
     "type": "community",
     "id": 124,
+    "merchantCount": 29
+  },
+  {
+    "url_alias": "la-antigua-bitcoin",
+    "type": "community",
+    "continent": "south-america",
+    "contact:email": "jc@osmowallet.com",
+    "contact:twitter": "https://twitter.com/antiguabtc",
+    "population": 46054,
+    "name": "La Antigua Bitcoin",
+    "population:date": "2018-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/la-antigua-bitcoin.jpeg",
+    "area_km2": 181.87,
+    "id": 430,
     "merchantCount": 29
   },
   {
@@ -4355,6 +4355,24 @@
     "merchantCount": 10
   },
   {
+    "name:ru": "Дубайская Цитадель",
+    "url_alias": "dubai-citadel",
+    "box:north": "25.37380917154398",
+    "population": "3515813",
+    "continent": "asia",
+    "box:east": "55.63751220703125",
+    "population:date": "2021-01-01",
+    "box:west": "54.81903076171876",
+    "area_km2": 5914.36,
+    "contact:twitter": "https://www.twitter.com/@DubaiCitadel",
+    "type": "community",
+    "name": "Dubai Citadel",
+    "box:south": "24.819146481739093",
+    "icon:square": "https://static.btcmap.org/images/communities/dubai-citadel.jpg",
+    "id": 234,
+    "merchantCount": 10
+  },
+  {
     "type": "community",
     "url_alias": "einundzwanzig-liechtenstein",
     "population:date": "2021-12-31",
@@ -4637,24 +4655,6 @@
     "population": "916202",
     "contact:twitter": "https://twitter.com/BTCGlos",
     "id": 181,
-    "merchantCount": 9
-  },
-  {
-    "name:ru": "Дубайская Цитадель",
-    "url_alias": "dubai-citadel",
-    "box:north": "25.37380917154398",
-    "population": "3515813",
-    "continent": "asia",
-    "box:east": "55.63751220703125",
-    "population:date": "2021-01-01",
-    "box:west": "54.81903076171876",
-    "area_km2": 5914.36,
-    "contact:twitter": "https://www.twitter.com/@DubaiCitadel",
-    "type": "community",
-    "name": "Dubai Citadel",
-    "box:south": "24.819146481739093",
-    "icon:square": "https://static.btcmap.org/images/communities/dubai-citadel.jpg",
-    "id": 234,
     "merchantCount": 9
   },
   {
@@ -5473,6 +5473,23 @@
     "merchantCount": 7
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/jersey-city-bitcoin.png",
+    "name": "Jersey City Bitcoin",
+    "population": 291657,
+    "population:date": "2023-01-01",
+    "url_alias": "jersey-city-bitcoin",
+    "contact:website": "https://jerseycitybitcoin.com/",
+    "description": "Jersey City Bitcoin is a decentralized community for those interested in meeting up to discuss, and learn more about bitcoin in the Jersey City, New Jersey / New York area. You can be well versed or new, all are welcome.",
+    "contact:meetup": "https://www.eventbrite.com/e/jersey-city-bitcoin-meetup-tickets-781681238627",
+    "contact:nostr": "npub1a6y4ujay2040xz4pygs30w5r9shw9qvu0nxwhc5dlefddpmuslpqdlu2s2",
+    "contact:twitter": "https://x.com/JerseyCityBTC",
+    "area_km2": 54.88,
+    "type": "community",
+    "id": 822,
+    "merchantCount": 7
+  },
+  {
     "continent": "africa",
     "icon:square": "https://static.btcmap.org/images/communities/btc-shule.jpg",
     "name": "BTC Shule",
@@ -5833,23 +5850,6 @@
     "type": "community",
     "organization": "bit-devs",
     "id": 817,
-    "merchantCount": 6
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/jersey-city-bitcoin.png",
-    "name": "Jersey City Bitcoin",
-    "population": 291657,
-    "population:date": "2023-01-01",
-    "url_alias": "jersey-city-bitcoin",
-    "contact:website": "https://jerseycitybitcoin.com/",
-    "description": "Jersey City Bitcoin is a decentralized community for those interested in meeting up to discuss, and learn more about bitcoin in the Jersey City, New Jersey / New York area. You can be well versed or new, all are welcome.",
-    "contact:meetup": "https://www.eventbrite.com/e/jersey-city-bitcoin-meetup-tickets-781681238627",
-    "contact:nostr": "npub1a6y4ujay2040xz4pygs30w5r9shw9qvu0nxwhc5dlefddpmuslpqdlu2s2",
-    "contact:twitter": "https://x.com/JerseyCityBTC",
-    "area_km2": 54.88,
-    "type": "community",
-    "id": 822,
     "merchantCount": 6
   },
   {
@@ -8173,6 +8173,21 @@
     "merchantCount": 2
   },
   {
+    "continent": "africa",
+    "name": "EcoBitz",
+    "population": 1306411,
+    "population:date": "2020-02-11",
+    "url_alias": "ecobitz",
+    "contact:twitter": "https://x.com/ecobitz_21m",
+    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
+    "type": "community",
+    "verified:date": "2026-01-13",
+    "icon:square": "https://static.btcmap.org/images/areas/974.png",
+    "area_km2": 6075.63,
+    "id": 974,
+    "merchantCount": 2
+  },
+  {
     "population": 147122,
     "area_km2": 1665.64,
     "contact:telegram": "https://t.me/aixbitcoin21",
@@ -9548,21 +9563,6 @@
     "type": "community",
     "area_km2": 8.88,
     "id": 942,
-    "merchantCount": 1
-  },
-  {
-    "continent": "africa",
-    "name": "EcoBitz",
-    "population": 1306411,
-    "population:date": "2020-02-11",
-    "url_alias": "ecobitz",
-    "contact:twitter": "https://x.com/ecobitz_21m",
-    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
-    "type": "community",
-    "verified:date": "2026-01-13",
-    "icon:square": "https://static.btcmap.org/images/areas/974.png",
-    "area_km2": 6075.63,
-    "id": 974,
     "merchantCount": 1
   },
   {
