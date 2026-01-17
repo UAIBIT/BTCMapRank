@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5009
+    "merchantCount": 5044
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2120
+    "merchantCount": 2121
   },
   {
     "population:year": 2019,
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 445
+    "merchantCount": 446
   },
   {
     "country_type": "Sovereign country",
@@ -362,7 +362,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 358
+    "merchantCount": 359
   },
   {
     "wikidataid": "Q45",
@@ -466,7 +466,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 331
+    "merchantCount": 330
   },
   {
     "name": "Poland",
@@ -1197,6 +1197,32 @@
     "merchantCount": 40
   },
   {
+    "lon": 7.50322,
+    "area_km2": 913593.56,
+    "type": "country",
+    "region_wb": "Sub-Saharan Africa",
+    "income_grp": "4. Lower middle income",
+    "population": 200963599,
+    "subregion": "Western Africa",
+    "gdp_year": 2019,
+    "region_un": "Africa",
+    "population:year": 2019,
+    "wikidataid": "Q1033",
+    "sovereignt": "Nigeria",
+    "name": "Nigeria",
+    "gdp_md": 448120,
+    "iso_a2": "NG",
+    "economy": "5. Emerging region: G20",
+    "lat": 9.439799,
+    "population:rank": 17,
+    "country_type": "Sovereign country",
+    "iso_a3": "NGA",
+    "continent": "Africa",
+    "url_alias": "ng",
+    "id": 505,
+    "merchantCount": 39
+  },
+  {
     "name": "India",
     "region_wb": "South Asia",
     "gdp_md": 2868929,
@@ -1246,32 +1272,6 @@
     "income_grp": "2. High income: nonOECD",
     "url_alias": "im",
     "id": 399,
-    "merchantCount": 36
-  },
-  {
-    "lon": 7.50322,
-    "area_km2": 913593.56,
-    "type": "country",
-    "region_wb": "Sub-Saharan Africa",
-    "income_grp": "4. Lower middle income",
-    "population": 200963599,
-    "subregion": "Western Africa",
-    "gdp_year": 2019,
-    "region_un": "Africa",
-    "population:year": 2019,
-    "wikidataid": "Q1033",
-    "sovereignt": "Nigeria",
-    "name": "Nigeria",
-    "gdp_md": 448120,
-    "iso_a2": "NG",
-    "economy": "5. Emerging region: G20",
-    "lat": 9.439799,
-    "population:rank": 17,
-    "country_type": "Sovereign country",
-    "iso_a3": "NGA",
-    "continent": "Africa",
-    "url_alias": "ng",
-    "id": 505,
     "merchantCount": 36
   },
   {
@@ -1561,6 +1561,32 @@
     "merchantCount": 23
   },
   {
+    "region_un": "Europe",
+    "gdp_md": 60752,
+    "economy": "2. Developed region: nonG7",
+    "income_grp": "2. High income: nonOECD",
+    "subregion": "Southern Europe",
+    "country_type": "Sovereign country",
+    "lon": 16.37241,
+    "continent": "Europe",
+    "population": 4067500,
+    "sovereignt": "Croatia",
+    "iso_a3": "HRV",
+    "region_wb": "Europe & Central Asia",
+    "population:rank": 12,
+    "type": "country",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "wikidataid": "Q224",
+    "iso_a2": "HR",
+    "area_km2": 54543.44,
+    "lat": 45.805799,
+    "name": "Croatia",
+    "url_alias": "hr",
+    "id": 393,
+    "merchantCount": 23
+  },
+  {
     "continent": "Africa",
     "gdp_md": 35165,
     "type": "country",
@@ -1585,32 +1611,6 @@
     "url_alias": "ug",
     "id": 630,
     "merchantCount": 23
-  },
-  {
-    "region_un": "Europe",
-    "gdp_md": 60752,
-    "economy": "2. Developed region: nonG7",
-    "income_grp": "2. High income: nonOECD",
-    "subregion": "Southern Europe",
-    "country_type": "Sovereign country",
-    "lon": 16.37241,
-    "continent": "Europe",
-    "population": 4067500,
-    "sovereignt": "Croatia",
-    "iso_a3": "HRV",
-    "region_wb": "Europe & Central Asia",
-    "population:rank": 12,
-    "type": "country",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "wikidataid": "Q224",
-    "iso_a2": "HR",
-    "area_km2": 54543.44,
-    "lat": 45.805799,
-    "name": "Croatia",
-    "url_alias": "hr",
-    "id": 393,
-    "merchantCount": 22
   },
   {
     "iso_a2": "MY",
