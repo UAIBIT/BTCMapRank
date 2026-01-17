@@ -11170,10 +11170,30 @@
     "merchantCount": 16
   },
   {
+    "income_grp": "2. High income: nonOECD",
+    "country_type": "Sovereign country",
+    "lon": 12.441206,
+    "iso_a3": "SMR",
+    "gdp_year": 2018,
+    "economy": "2. Developed region: nonG7",
+    "sovereignt": "San Marino",
+    "population:rank": 7,
+    "gdp_md": 1655,
+    "wikidataid": "Q238",
+    "lat": 43.933916,
+    "iso_a2": "SM",
+    "region_wb": "Europe & Central Asia",
+    "region_un": "Europe",
+    "subregion": "Southern Europe",
+    "type": "country",
+    "continent": "Europe",
+    "area_km2": 68.41,
+    "name": "San Marino",
+    "population": 33860,
+    "population:year": 2019,
+    "url_alias": "sm",
     "id": 590,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "gdp_md": 23578,
@@ -16192,17 +16212,10 @@
     "merchantCount": 1
   },
   {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lagoon.png",
-    "name": "Bitcoin Lagoon",
-    "population": 8300,
-    "population:date": "2024-01-01",
-    "url_alias": "bitcoin-lagoon",
-    "area_km2": 140.63,
-    "contact:twitter": "https://x.com/BitcoinLagoon",
-    "type": "community",
     "id": 872,
-    "merchantCount": 1
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "asia",
