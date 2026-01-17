@@ -3826,6 +3826,25 @@
     "merchantCount": 29
   },
   {
+    "type": "community",
+    "population:date": "2022-01-01",
+    "continent": "asia",
+    "population": 26037000,
+    "contact:twitter": "https://twitter.com/SeoulBitcoin",
+    "area_km2": 903.34,
+    "name": "Seoul Bitcoin Meetup | 서울 비트코인 모임",
+    "contact:meetup": "https://www.meetup.com/ko-KR/seoulbitcoin/",
+    "contact:facebook": "https://www.facebook.com/seoulbitcoinmeetup",
+    "contact:youtube": "https://www.youtube.com/channel/UC9ygnvBkGNTSNcfNjHAt6xQ",
+    "url_alias": "seoul-bitcoin-meetup",
+    "icon:square": "https://static.btcmap.org/images/communities/seoul-bitcoin-meetup.jpeg",
+    "contact:website": "https://seoulbitcoin.kr/",
+    "name:ru": "Сеульский Биткойн Митап",
+    "contact:rss": "https://seoulbitcoin.kr/feed.xml",
+    "id": 583,
+    "merchantCount": 29
+  },
+  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/club-satoshi.jpg",
     "name": "Club Satoshi",
@@ -16133,12 +16152,6 @@
     "url_alias": "sd",
     "id": 581,
     "merchantCount": 0
-  },
-  {
-    "id": 583,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "iso_a2": "SH",
