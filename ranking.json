@@ -5221,22 +5221,6 @@
     "merchantCount": 16
   },
   {
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-ubuntu.png",
-    "area_km2": 615.94,
-    "contact:website": "https://bitcoinubuntu.org",
-    "type": "community",
-    "population": "17500",
-    "name": "Bitcoin Ubuntu",
-    "continent": "africa",
-    "contact:twitter": "https://twitter.com/bitcoinubuntu",
-    "population:date": "2023-01-01",
-    "url_alias": "bitcoin-ubuntu",
-    "contact:email": "bitcoinubuntu@pm.me",
-    "organization": "mi-primer-bitcoin",
-    "id": 146,
-    "merchantCount": 16
-  },
-  {
     "wikidataid": "Q1029",
     "country_type": "Sovereign country",
     "gdp_year": 2019,
@@ -13844,6 +13828,12 @@
   },
   {
     "id": 140,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 146,
     "type": null,
     "merchantCount": 0,
     "name": null
