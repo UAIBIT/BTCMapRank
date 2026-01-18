@@ -241,32 +241,6 @@
     "merchantCount": 824
   },
   {
-    "iso_a2": "CH",
-    "income_grp": "1. High income: OECD",
-    "iso_a3": "CHE",
-    "country_type": "Sovereign country",
-    "population:rank": 13,
-    "lat": 46.719114,
-    "subregion": "Western Europe",
-    "gdp_md": 703082,
-    "gdp_year": 2019,
-    "area_km2": 41299.26,
-    "lon": 7.463965,
-    "economy": "2. Developed region: nonG7",
-    "type": "country",
-    "continent": "Europe",
-    "region_wb": "Europe & Central Asia",
-    "region_un": "Europe",
-    "population:year": 2019,
-    "wikidataid": "Q39",
-    "name": "Switzerland",
-    "sovereignt": "Switzerland",
-    "population": 8574832,
-    "url_alias": "ch",
-    "id": 194,
-    "merchantCount": 806
-  },
-  {
     "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-deutschland.jpg",
     "contact:website": "https://einundzwanzig.space/",
     "box:north": "55.22186514740016",
@@ -9107,7 +9081,7 @@
   },
   {
     "continent": "europe",
-    "icon:square": "https://raw.githubusercontent.com/BitcoinApesCascais/Files/main/BitcoinApesCascais.jpg",
+    "icon:square": "https://static.btcmap.org/images/areas/965.png",
     "name": "Bitcoin Apes Cascais",
     "population": 214158,
     "population:date": "2021-07-28",
@@ -10180,7 +10154,7 @@
     "contact:telegram": "https://t.me/btcnarbonne",
     "contact:twitter": "https://twitter.com/btcnarbonne",
     "continent": "europe",
-    "icon:square": "https://btcmap.org/images/narbonne.jpg",
+    "icon:square": "https://static.btcmap.org/images/areas/781.png",
     "name": "Narbonne",
     "population": 56395,
     "population:date": "2021-01-01",
@@ -10221,7 +10195,7 @@
   },
   {
     "continent": "europe",
-    "icon:square": "https://i0.wp.com/bitcoinevents.uk/wp-content/uploads/2024/04/img_8359-1-e1712690481714.jpg",
+    "icon:square": "https://static.btcmap.org/images/areas/840.png",
     "name": "Lincolnshire Bitcoin",
     "population": 1103320,
     "population:date": "2022-01-01",
@@ -12597,7 +12571,7 @@
   {
     "population:date": "2021-01-01",
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/newcastle-bitcoin-meetup.png",
+    "icon:square": "https://static.btcmap.org/images/areas/503.png",
     "contact:meetup": "https://www.meetup.com/newcastlebitcoinmeetup/",
     "contact:twitter": "https://twitter.com/BitcoinNCL",
     "url_alias": "newcastle-bitcoin-meetup",
@@ -14027,6 +14001,12 @@
     "url_alias": "cg",
     "id": 193,
     "merchantCount": 0
+  },
+  {
+    "id": 194,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "language": "fr",
@@ -17386,7 +17366,7 @@
     "area_km2": 84.79,
     "contact:email": "btcheretostay@proton.me",
     "continent": "europe",
-    "icon:square": "https://pbs.twimg.com/profile_images/1757130995365523456/CV51527X_400x400.jpg",
+    "icon:square": "https://static.btcmap.org/images/areas/783.png",
     "name": "Plymouth Bitcoiners",
     "population": 266862,
     "population:date": "2022-01-01",
