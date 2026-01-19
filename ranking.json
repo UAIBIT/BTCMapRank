@@ -1768,27 +1768,6 @@
     "merchantCount": 76
   },
   {
-    "area_km2": 699.45,
-    "contact:email": "martin@btcnairobi.com",
-    "contact:github": "https://github.com/btcnairobi",
-    "contact:nostr": "npub1pw778uxwkky3xgq7w3anykdwdw9g46xy8de9mnau0kgwzz375zkq3udv57",
-    "contact:telegram": "https://t.me/btcnairobi",
-    "contact:website": "https://btcnairobi.com",
-    "contact:whatsapp": "https://www.whatsapp.com/channel/0029VaOWaC90AgWH1gjfMB1o",
-    "continent": "africa",
-    "description": "Bitcoin Nairobi Circular Economy empowers Bitcoin education Adoption and Innovation in the region. We are natively English and Swahili speakers and hospitable people.",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-nairobi.png",
-    "language": "en, sw",
-    "name": "Bitcoin Nairobi",
-    "population": 5119000,
-    "population:date": "2022-01-01",
-    "tips:lightning_address": "btcnairobi@blink.sv",
-    "type": "community",
-    "url_alias": "bitcoin-nairobi",
-    "id": 767,
-    "merchantCount": 76
-  },
-  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/la-crypta.jpg",
     "name": "La Crypta",
@@ -17340,6 +17319,12 @@
   },
   {
     "id": 751,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 767,
     "type": null,
     "merchantCount": 0,
     "name": null
