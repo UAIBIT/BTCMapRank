@@ -12289,21 +12289,6 @@
     "merchantCount": 1
   },
   {
-    "contact:telegram": "https://t.me/+QmgW2FPIWPpiNWU0",
-    "url_alias": "gipuzkoa-2140",
-    "name": "Gipuzkoa 2140",
-    "type": "community",
-    "organization": "2140-meetups",
-    "continent": "europe",
-    "population:date": "2022",
-    "population": "187849",
-    "area_km2": 209.73,
-    "contact:email": "gipuzkoa2140@proton.me",
-    "icon:square": "https://static.btcmap.org/images/communities/gipuzkoa-2140.png",
-    "id": 371,
-    "merchantCount": 1
-  },
-  {
     "continent": "europe",
     "tips:lightning_address": "glasgowbitcoin@walletofsatoshi.com",
     "name": "Glasgow Bitcoin",
@@ -14824,6 +14809,12 @@
     "url_alias": "gg",
     "id": 367,
     "merchantCount": 0
+  },
+  {
+    "id": 371,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "region_un": "Americas",
