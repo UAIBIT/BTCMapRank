@@ -141,7 +141,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1835
+    "merchantCount": 1838
   },
   {
     "subregion": "Caribbean",
@@ -763,7 +763,7 @@
     "lat": 44.091051,
     "url_alias": "ba",
     "id": 40,
-    "merchantCount": 10
+    "merchantCount": 9
   },
   {
     "type": "community",
@@ -1628,7 +1628,7 @@
     "type": "community",
     "continent": "africa",
     "id": 89,
-    "merchantCount": 26
+    "merchantCount": 27
   },
   {
     "population:date": "2021-01-01",
@@ -1669,7 +1669,7 @@
     "name": "Bitcoin Dada Nairobi",
     "population:date": "2019-01-01",
     "id": 92,
-    "merchantCount": 93
+    "merchantCount": 95
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-derby.jpeg",
@@ -3039,7 +3039,7 @@
     "contact:nostr": "npub1d020nktlkel7q09xq4d5zy53w5jx0lgynhtxkg7ggf5kryajet2sxw4uh2",
     "url_alias": "bozeman-bitcoin",
     "id": 172,
-    "merchantCount": 4
+    "merchantCount": 5
   },
   {
     "wikidataid": "Q155",
@@ -3809,7 +3809,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 107
+    "merchantCount": 108
   },
   {
     "id": 210,
@@ -4112,7 +4112,7 @@
     "url_alias": "detroit-bitcoin",
     "box:east": "-80.34301757812501",
     "id": 224,
-    "merchantCount": 36
+    "merchantCount": 39
   },
   {
     "name": "Detroit Bitcoin and Beer",
@@ -4127,7 +4127,7 @@
     "area_km2": 496.7,
     "continent": "north-america",
     "id": 225,
-    "merchantCount": 6
+    "merchantCount": 8
   },
   {
     "contact:website": "https://dezentralschweiz.ch/",
@@ -6435,7 +6435,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 347
+    "merchantCount": 346
   },
   {
     "continent": "North America",
@@ -6539,7 +6539,7 @@
     "economy": "6. Developing region",
     "url_alias": "gh",
     "id": 368,
-    "merchantCount": 26
+    "merchantCount": 27
   },
   {
     "url_alias": "gi",
@@ -6756,7 +6756,7 @@
     "language": "fr",
     "contact:twitter": "https://x.com/parisbtcmeetup",
     "id": 379,
-    "merchantCount": 43
+    "merchantCount": 44
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/grand-rapids-bitcoin.jpeg",
@@ -7598,7 +7598,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 140
+    "merchantCount": 142
   },
   {
     "income_grp": "5. Low income",
@@ -7829,7 +7829,7 @@
     "gdp_md": 1646739,
     "url_alias": "kr",
     "id": 425,
-    "merchantCount": 69
+    "merchantCount": 70
   },
   {
     "country_type": "Sovereign country",
@@ -8578,7 +8578,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 80
+    "merchantCount": 81
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/mayasbitcoiners.png",
@@ -9209,7 +9209,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 540
+    "merchantCount": 541
   },
   {
     "iso_a2": "MY",
@@ -9846,7 +9846,7 @@
     "name": "Paris Centre",
     "contact:twitter": "https://x.com/parisbtcmeetup",
     "id": 523,
-    "merchantCount": 36
+    "merchantCount": 37
   },
   {
     "subregion": "South America",
@@ -10735,7 +10735,7 @@
     "name": "San Diego Bitcoiners",
     "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 48
+    "merchantCount": 49
   },
   {
     "continent": "south-america",
@@ -10858,19 +10858,10 @@
     "merchantCount": 56
   },
   {
-    "organization": "satoshi-spritz",
-    "population:date": "2019-01-01",
-    "type": "community",
-    "continent": "europe",
-    "url_alias": "satoshi-spritz-rovereto-e-trento",
-    "area_km2": 96.32,
-    "population": 541098,
-    "name": "Satoshi Spritz Rovereto e Trento",
-    "icon:square": "https://static.btcmap.org/images/communities/satoshi-spritz-rovereto-e-trento.jpg",
-    "contact:email": "kapras92@gmail.com",
-    "contact:telegram": "https://t.me/satoshispritzrovereto",
     "id": 576,
-    "merchantCount": 33
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "name": "Satoshi Spritz Torino",
@@ -11021,7 +11012,7 @@
     "name:ru": "Сеульский Биткойн Митап",
     "contact:rss": "https://seoulbitcoin.kr/feed.xml",
     "id": 583,
-    "merchantCount": 29
+    "merchantCount": 30
   },
   {
     "iso_a3": "SGP",
@@ -11653,7 +11644,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 449
+    "merchantCount": 450
   },
   {
     "lat": 38.199835,
@@ -12133,7 +12124,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5215
+    "merchantCount": 5248
   },
   {
     "population": 1734000,
@@ -12743,7 +12734,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 22761
+    "merchantCount": 22799
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -13210,7 +13201,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 328
+    "merchantCount": 329
   },
   {
     "area_km2": 385110.87,
@@ -13884,7 +13875,7 @@
     "type": "community",
     "url_alias": "the-core",
     "id": 720,
-    "merchantCount": 93
+    "merchantCount": 95
   },
   {
     "area_km2": 9155,
@@ -14472,7 +14463,7 @@
     "contact:meetup": "https://www.meetup.com/duc-bitcoin-meetup-paris/",
     "organization": "PLAN B NETWORK",
     "id": 756,
-    "merchantCount": 37
+    "merchantCount": 38
   },
   {
     "area_km2": 354.33,
@@ -14629,7 +14620,7 @@
     "type": "community",
     "url_alias": "sea-of-corea",
     "id": 766,
-    "merchantCount": 76
+    "merchantCount": 77
   },
   {
     "area_km2": 699.45,
@@ -16748,7 +16739,7 @@
     "contact:twitter": "https://x.com/bitfiasi",
     "contact:website": "https://bitfiasi.org/",
     "id": 905,
-    "merchantCount": 8
+    "merchantCount": 9
   },
   {
     "continent": "south-america",
@@ -16810,7 +16801,7 @@
     "type": "community",
     "area_km2": 393.89,
     "id": 909,
-    "merchantCount": 6
+    "merchantCount": 7
   },
   {
     "continent": "north-america",

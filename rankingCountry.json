@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5215
+    "merchantCount": 5248
   },
   {
     "wikidataid": "Q155",
@@ -257,7 +257,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 540
+    "merchantCount": 541
   },
   {
     "gdp_md": 543548,
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 449
+    "merchantCount": 450
   },
   {
     "country_type": "Sovereign country",
@@ -414,7 +414,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 347
+    "merchantCount": 346
   },
   {
     "gdp_md": 17477,
@@ -466,7 +466,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 328
+    "merchantCount": 329
   },
   {
     "name": "Poland",
@@ -674,7 +674,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 140
+    "merchantCount": 142
   },
   {
     "lon": -70.653998,
@@ -960,7 +960,7 @@
     "gdp_md": 1646739,
     "url_alias": "kr",
     "id": 425,
-    "merchantCount": 69
+    "merchantCount": 70
   },
   {
     "population:rank": 12,
@@ -1480,7 +1480,7 @@
     "economy": "6. Developing region",
     "url_alias": "gh",
     "id": 368,
-    "merchantCount": 26
+    "merchantCount": 27
   },
   {
     "income_grp": "1. High income: OECD",
@@ -1925,32 +1925,6 @@
     "merchantCount": 11
   },
   {
-    "population:rank": 12,
-    "iso_a3": "BIH",
-    "economy": "6. Developing region",
-    "sovereignt": "Bosnia and Herzegovina",
-    "subregion": "Southern Europe",
-    "population": 3301000,
-    "gdp_md": 20164,
-    "population:year": 2019,
-    "type": "country",
-    "area_km2": 51800.5,
-    "name": "Bosnia and Herzegovina",
-    "iso_a2": "BA",
-    "region_wb": "Europe & Central Asia",
-    "lon": 18.06841,
-    "income_grp": "3. Upper middle income",
-    "gdp_year": 2019,
-    "continent": "Europe",
-    "country_type": "Sovereign country",
-    "wikidataid": "Q225",
-    "region_un": "Europe",
-    "lat": 44.091051,
-    "url_alias": "ba",
-    "id": 40,
-    "merchantCount": 10
-  },
-  {
     "population:rank": 7,
     "country_type": "Sovereign country",
     "population:year": 2019,
@@ -1975,6 +1949,32 @@
     "url_alias": "li",
     "id": 437,
     "merchantCount": 10
+  },
+  {
+    "population:rank": 12,
+    "iso_a3": "BIH",
+    "economy": "6. Developing region",
+    "sovereignt": "Bosnia and Herzegovina",
+    "subregion": "Southern Europe",
+    "population": 3301000,
+    "gdp_md": 20164,
+    "population:year": 2019,
+    "type": "country",
+    "area_km2": 51800.5,
+    "name": "Bosnia and Herzegovina",
+    "iso_a2": "BA",
+    "region_wb": "Europe & Central Asia",
+    "lon": 18.06841,
+    "income_grp": "3. Upper middle income",
+    "gdp_year": 2019,
+    "continent": "Europe",
+    "country_type": "Sovereign country",
+    "wikidataid": "Q225",
+    "region_un": "Europe",
+    "lat": 44.091051,
+    "url_alias": "ba",
+    "id": 40,
+    "merchantCount": 9
   },
   {
     "iso_a3": "SGP",
