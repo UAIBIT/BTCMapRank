@@ -4424,21 +4424,6 @@
     "merchantCount": 23
   },
   {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/2140-tenerife.jpg",
-    "name": "2140 Tenerife",
-    "population": 208563,
-    "population:date": "2022-04-19",
-    "url_alias": "2140-tenerife",
-    "contact:telegram": "https://t.me/+-tXjKS7ZY8c0OGE0",
-    "description": "Organizamos meetups todos los segundos viernes de mes.",
-    "type": "community",
-    "area_km2": 2592.37,
-    "organization": "2140-meetups",
-    "id": 929,
-    "merchantCount": 23
-  },
-  {
     "population": 260958,
     "contact:website": "https://www.bitcoin-bordeaux.fr/",
     "contact:twitter": "https://twitter.com/BitcoinBordeaux",
@@ -17617,6 +17602,12 @@
   },
   {
     "id": 922,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 929,
     "type": null,
     "merchantCount": 0,
     "name": null
