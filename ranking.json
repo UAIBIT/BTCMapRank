@@ -2770,22 +2770,6 @@
     "merchantCount": 43
   },
   {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/areas/926.png",
-    "name": "Twenty One Kickoff",
-    "population": 2028289,
-    "population:date": "2025-01-01",
-    "url_alias": "twenty-one-kickoff",
-    "contact:website": "https://orangepill.app.link/TwentyOneLife",
-    "contact:nostr": "npub1u6ld6j8evt6fawp7ylekhzqftz3lmxfx8jkaxtfq9ghcdplt4wes7vxkh6",
-    "description": "Aufbau souveräner Zukunft",
-    "type": "community",
-    "area_km2": 414.91,
-    "verified:date": "2026-01-18",
-    "id": 926,
-    "merchantCount": 43
-  },
-  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/areas/953.png",
     "name": "BTC Conecta",
@@ -17617,6 +17601,12 @@
   },
   {
     "id": 922,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 926,
     "type": null,
     "merchantCount": 0,
     "name": null
