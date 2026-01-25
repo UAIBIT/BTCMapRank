@@ -11983,34 +11983,10 @@
     "merchantCount": 0
   },
   {
-    "name": "Taiwan",
-    "type": "country",
-    "box:north": 26.389444,
-    "box:east": 122.107778,
-    "box:south": 21.733333,
-    "box:west": 118.115255566105,
-    "url_alias": "tw",
-    "population": 23568378,
-    "lat": 23.652408,
-    "subregion": "Eastern Asia",
-    "region_wb": "East Asia & Pacific",
-    "gdp_md": 1127000,
-    "economy": "2. Developed region: nonG7",
-    "population:rank": 15,
-    "area_km2": 36073,
-    "iso_a3": "TWN",
-    "gdp_year": 2016,
-    "wikidataid": "Q865",
-    "sovereignt": "Taiwan",
-    "continent": "Asia",
-    "iso_a2": "TW",
-    "population:year": 2020,
-    "income_grp": "2. High income: nonOECD",
-    "region_un": "Asia",
-    "lon": 120.868204,
-    "country_type": "Sovereign country",
     "id": 627,
-    "merchantCount": 9
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population": 58005463,
@@ -15923,10 +15899,20 @@
     "merchantCount": 4
   },
   {
+    "continent": "asia",
+    "icon:square": "https://static.btcmap.org/images/areas/853.png",
+    "name": "Huai Phueng Project",
+    "population": 30343,
+    "population:date": "2024-01-01",
+    "url_alias": "huai-phueng-project",
+    "area_km2": 436.32,
+    "tips:url": "https://geyser.fund/project/huaiphuengproject?hero=saunter",
+    "tips:lightning_address": "huaiphuengproject@geyser.fund",
+    "contact:facebook": "https://www.facebook.com/Huaiphuenghasnothing/",
+    "contact:nostr": "npub1uprlst7kjp0eyfxe4yn7q36gr885mjr9fm6ejfqt8pmdta7stv9s2xvysq",
+    "type": "community",
     "id": 853,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 49
   },
   {
     "continent": "north-america",
