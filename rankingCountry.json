@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5295
+    "merchantCount": 5298
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2145
+    "merchantCount": 2146
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1320
+    "merchantCount": 1321
   },
   {
     "gdp_md": 351431,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1055
+    "merchantCount": 1056
   },
   {
     "iso_a2": "CH",
@@ -388,7 +388,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 350
+    "merchantCount": 351
   },
   {
     "region_un": "Europe",
@@ -648,7 +648,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 172
+    "merchantCount": 171
   },
   {
     "area_km2": 596166.85,
@@ -674,7 +674,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 142
+    "merchantCount": 144
   },
   {
     "lon": -70.653998,
@@ -882,7 +882,7 @@
     "economy": "5. Emerging region: G20",
     "url_alias": "bo",
     "id": 168,
-    "merchantCount": 73
+    "merchantCount": 74
   },
   {
     "population:rank": 13,
@@ -3631,6 +3631,32 @@
     "merchantCount": 1
   },
   {
+    "economy": "6. Developing region",
+    "iso_a3": "UZB",
+    "wikidataid": "Q265",
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "lat": 41.693603,
+    "lon": 64.005429,
+    "continent": "Asia",
+    "sovereignt": "Uzbekistan",
+    "iso_a2": "UZ",
+    "subregion": "Central Asia",
+    "area_km2": 448372.43,
+    "type": "country",
+    "region_wb": "Europe & Central Asia",
+    "name": "Uzbekistan",
+    "population": 33580650,
+    "population:rank": 15,
+    "population:year": 2019,
+    "region_un": "Asia",
+    "gdp_md": 57921,
+    "income_grp": "4. Lower middle income",
+    "url_alias": "uz",
+    "id": 636,
+    "merchantCount": 1
+  },
+  {
     "subregion": "Melanesia",
     "population:year": 2019,
     "income_grp": "4. Lower middle income",
@@ -5928,32 +5954,6 @@
     "type": "country",
     "area_km2": 49.26,
     "id": 632,
-    "merchantCount": 0
-  },
-  {
-    "economy": "6. Developing region",
-    "iso_a3": "UZB",
-    "wikidataid": "Q265",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "lat": 41.693603,
-    "lon": 64.005429,
-    "continent": "Asia",
-    "sovereignt": "Uzbekistan",
-    "iso_a2": "UZ",
-    "subregion": "Central Asia",
-    "area_km2": 448372.43,
-    "type": "country",
-    "region_wb": "Europe & Central Asia",
-    "name": "Uzbekistan",
-    "population": 33580650,
-    "population:rank": 15,
-    "population:year": 2019,
-    "region_un": "Asia",
-    "gdp_md": 57921,
-    "income_grp": "4. Lower middle income",
-    "url_alias": "uz",
-    "id": 636,
     "merchantCount": 0
   },
   {
