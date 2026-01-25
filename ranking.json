@@ -12164,20 +12164,6 @@
     "merchantCount": 1
   },
   {
-    "url_alias": "einundzwanzig-nordfriesland",
-    "continent": "europe",
-    "population": 165507,
-    "population:date": "2019-12-31",
-    "language": "de",
-    "type": "community",
-    "area_km2": 2077.01,
-    "organization": "einundzwanzig",
-    "contact:telegram": "https://t.me/Einundzwanzig_NF",
-    "name": "Einundzwanzig Nordfriesland",
-    "id": 305,
-    "merchantCount": 1
-  },
-  {
     "contact:telegram": "https://t.me/einundzwanzig_nordhausen",
     "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-nordhausen.webp",
     "continent": "europe",
@@ -14453,6 +14439,12 @@
     "continent": "europe",
     "id": 301,
     "merchantCount": 0
+  },
+  {
+    "id": 305,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population": 465170,
