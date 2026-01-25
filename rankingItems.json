@@ -3817,30 +3817,10 @@
     "name": null
   },
   {
-    "country_type": "Sovereign country",
-    "subregion": "Central America",
-    "wikidataid": "Q800",
-    "continent": "North America",
-    "economy": "5. Emerging region: G20",
-    "population:rank": 13,
-    "region_wb": "Latin America & Caribbean",
-    "income_grp": "3. Upper middle income",
-    "population": 5047561,
-    "lat": 10.0651,
-    "population:year": 2019,
-    "gdp_md": 61801,
-    "type": "country",
-    "gdp_year": 2019,
-    "region_un": "Americas",
-    "iso_a2": "CR",
-    "lon": -84.077922,
-    "iso_a3": "CRI",
-    "sovereignt": "Costa Rica",
-    "area_km2": 51628.28,
-    "name": "Costa Rica",
-    "url_alias": "cr",
     "id": 211,
-    "merchantCount": 390
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/crypto-mar-del-plata-argentina.png",
@@ -5418,10 +5398,18 @@
     "merchantCount": 22
   },
   {
+    "url_alias": "einundzwanzig-nordfriesland",
+    "continent": "europe",
+    "population": 165507,
+    "population:date": "2019-12-31",
+    "language": "de",
+    "type": "community",
+    "area_km2": 2077.01,
+    "organization": "einundzwanzig",
+    "contact:telegram": "https://t.me/Einundzwanzig_NF",
+    "name": "Einundzwanzig Nordfriesland",
     "id": 305,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "contact:telegram": "https://t.me/einundzwanzig_nordhausen",
