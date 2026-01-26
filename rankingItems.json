@@ -15526,10 +15526,20 @@
     "merchantCount": 2
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/satoshi-society.png",
+    "name": "The Satoshi Society",
+    "population": 264957,
+    "population:date": "2023-01-01",
+    "url_alias": "satoshi-society",
+    "contact:twitter": "https://x.com/satssociety",
+    "tips:lightning_address": "satoshisociety@speed.app",
+    "contact:telegram": "https://t.me/TheSatoshiSociety",
+    "contact:email": "thesatoshisociety@gmail.com",
+    "area_km2": 57.65,
+    "type": "community",
     "id": 827,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "continent": "africa",
