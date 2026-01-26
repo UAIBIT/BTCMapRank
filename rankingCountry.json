@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5298
+    "merchantCount": 5341
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2146
+    "merchantCount": 2147
   },
   {
     "population:year": 2019,
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 450
+    "merchantCount": 452
   },
   {
     "country_type": "Sovereign country",
@@ -518,7 +518,7 @@
     "type": "country",
     "url_alias": "gt",
     "id": 384,
-    "merchantCount": 276
+    "merchantCount": 277
   },
   {
     "lat": 48.734044,
@@ -674,7 +674,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 144
+    "merchantCount": 146
   },
   {
     "lon": -70.653998,
@@ -1483,32 +1483,6 @@
     "merchantCount": 27
   },
   {
-    "income_grp": "1. High income: OECD",
-    "country_type": "Sovereign country",
-    "area_km2": 68853.38,
-    "wikidataid": "Q27",
-    "gdp_md": 388698,
-    "name": "Ireland",
-    "region_un": "Europe",
-    "lon": -7.798588,
-    "iso_a3": "IRL",
-    "region_wb": "Europe & Central Asia",
-    "iso_a2": "IE",
-    "population:rank": 12,
-    "gdp_year": 2019,
-    "subregion": "Northern Europe",
-    "sovereignt": "Ireland",
-    "lat": 53.078726,
-    "continent": "Europe",
-    "type": "country",
-    "population": 4941444,
-    "economy": "2. Developed region: nonG7",
-    "population:year": 2019,
-    "url_alias": "ie",
-    "id": 397,
-    "merchantCount": 26
-  },
-  {
     "lat": 19.431821,
     "gdp_md": 18173,
     "country_type": "Sovereign country",
@@ -1532,6 +1506,32 @@
     "region_un": "Asia",
     "url_alias": "la",
     "id": 429,
+    "merchantCount": 27
+  },
+  {
+    "income_grp": "1. High income: OECD",
+    "country_type": "Sovereign country",
+    "area_km2": 68853.38,
+    "wikidataid": "Q27",
+    "gdp_md": 388698,
+    "name": "Ireland",
+    "region_un": "Europe",
+    "lon": -7.798588,
+    "iso_a3": "IRL",
+    "region_wb": "Europe & Central Asia",
+    "iso_a2": "IE",
+    "population:rank": 12,
+    "gdp_year": 2019,
+    "subregion": "Northern Europe",
+    "sovereignt": "Ireland",
+    "lat": 53.078726,
+    "continent": "Europe",
+    "type": "country",
+    "population": 4941444,
+    "economy": "2. Developed region: nonG7",
+    "population:year": 2019,
+    "url_alias": "ie",
+    "id": 397,
     "merchantCount": 26
   },
   {
@@ -1743,6 +1743,32 @@
     "merchantCount": 18
   },
   {
+    "wikidataid": "Q1029",
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "income_grp": "5. Low income",
+    "area_km2": 792438.1,
+    "population:rank": 15,
+    "lon": 37.83789,
+    "name": "Mozambique",
+    "region_wb": "Sub-Saharan Africa",
+    "continent": "Africa",
+    "type": "country",
+    "population": 30366036,
+    "economy": "7. Least developed region",
+    "subregion": "Eastern Africa",
+    "sovereignt": "Mozambique",
+    "iso_a2": "MZ",
+    "region_un": "Africa",
+    "lat": -13.94323,
+    "population:year": 2019,
+    "gdp_md": 15291,
+    "iso_a3": "MOZ",
+    "url_alias": "mz",
+    "id": 495,
+    "merchantCount": 17
+  },
+  {
     "iso_a3": "UKR",
     "population:rank": 15,
     "region_un": "Europe",
@@ -1767,32 +1793,6 @@
     "url_alias": "ua",
     "id": 629,
     "merchantCount": 17
-  },
-  {
-    "wikidataid": "Q1029",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "income_grp": "5. Low income",
-    "area_km2": 792438.1,
-    "population:rank": 15,
-    "lon": 37.83789,
-    "name": "Mozambique",
-    "region_wb": "Sub-Saharan Africa",
-    "continent": "Africa",
-    "type": "country",
-    "population": 30366036,
-    "economy": "7. Least developed region",
-    "subregion": "Eastern Africa",
-    "sovereignt": "Mozambique",
-    "iso_a2": "MZ",
-    "region_un": "Africa",
-    "lat": -13.94323,
-    "population:year": 2019,
-    "gdp_md": 15291,
-    "iso_a3": "MOZ",
-    "url_alias": "mz",
-    "id": 495,
-    "merchantCount": 16
   },
   {
     "iso_a3": "MLT",
