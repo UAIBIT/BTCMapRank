@@ -8226,6 +8226,32 @@
     "merchantCount": 6
   },
   {
+    "subregion": "Eastern Asia",
+    "income_grp": "2. High income: nonOECD",
+    "lon": 114.097769,
+    "lat": 22.448829,
+    "name": "Hong Kong S.A.R.",
+    "gdp_year": 2019,
+    "type": "country",
+    "population": 7507400,
+    "country_type": "Country",
+    "sovereignt": "China",
+    "continent": "Asia",
+    "economy": "6. Developing region",
+    "region_un": "Asia",
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "HKG",
+    "wikidataid": "Q8646",
+    "area_km2": 1031.22,
+    "population:rank": 13,
+    "population:year": 2019,
+    "gdp_md": 365711,
+    "iso_a2": "HK",
+    "url_alias": "hk",
+    "id": 390,
+    "merchantCount": 6
+  },
+  {
     "type": "country",
     "iso_a3": "CYM",
     "population:year": 2019,
@@ -13142,22 +13168,6 @@
   },
   {
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/satoshi-society.png",
-    "name": "The Satoshi Society",
-    "population": 264957,
-    "population:date": "2023-01-01",
-    "url_alias": "satoshi-society",
-    "contact:twitter": "https://x.com/satssociety",
-    "tips:lightning_address": "satoshisociety@speed.app",
-    "contact:telegram": "https://t.me/TheSatoshiSociety",
-    "contact:email": "thesatoshisociety@gmail.com",
-    "area_km2": 57.65,
-    "type": "community",
-    "id": 827,
-    "merchantCount": 1
-  },
-  {
-    "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-pezinok.svg",
     "name": "21 Pezinok",
     "population": 24443,
@@ -14954,12 +14964,6 @@
     "url_alias": "gw",
     "id": 386,
     "merchantCount": 0
-  },
-  {
-    "id": 390,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "sovereignt": "Australia",
@@ -17423,6 +17427,12 @@
   },
   {
     "id": 823,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 827,
     "type": null,
     "merchantCount": 0,
     "name": null
