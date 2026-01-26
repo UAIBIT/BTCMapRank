@@ -3557,6 +3557,21 @@
     "merchantCount": 15
   },
   {
+    "area_km2": 472.66,
+    "contact:telegram": "https://t.me/Einundzwanzig_Seeland",
+    "type": "community",
+    "population:date": "2021-12-31",
+    "url_alias": "32-einezwaenzg-seeland",
+    "continent": "europe",
+    "name": "32-Einezwänzg Seeland",
+    "icon:square": "https://static.btcmap.org/images/communities/32-einezwaenzg-seeland.webp",
+    "population": 80000,
+    "organization": "einundzwanzig",
+    "language": "fr",
+    "id": 2,
+    "merchantCount": 14
+  },
+  {
     "type": "community",
     "name": "Bitcoin Manchester",
     "icon:square": "https://static.btcmap.org/images/areas/120.png",
@@ -4552,6 +4567,22 @@
     "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
     "id": 804,
     "merchantCount": 10
+  },
+  {
+    "name": "Abidjan Bitcoin Meetup",
+    "contact:email": "AbidjanBTCMeet@proton.me",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/abidjan-bitcoin-2.png",
+    "tips:lightning_address": "abidjanbtc@8333.mobi",
+    "contact:twitter": "https://x.com/AbidjanBTC",
+    "continent": "africa",
+    "url_alias": "abidjan-bitcoin",
+    "area_km2": 334800.76,
+    "population": 29389150,
+    "population:date": "2021-01-01",
+    "contact:telegram": "https://t.me/AbidjanBitcoinMeetup",
+    "id": 6,
+    "merchantCount": 9
   },
   {
     "contact:meetup": "https://www.meetup.com/bitcoin-bern/",
@@ -6499,6 +6530,22 @@
     "verified:date": "2026-01-07",
     "id": 972,
     "merchantCount": 5
+  },
+  {
+    "organization": "2140-meetups",
+    "population": 344129.0,
+    "area_km2": 110.1,
+    "population:date": "2021-01-01",
+    "name": "2140 Bilbo",
+    "continent": "europe",
+    "contact:telegram": "https://t.me/BitcoinBilbo",
+    "contact:email": "aketzaaa@msn.com",
+    "icon:square": "https://static.btcmap.org/images/communities/2140-bilbo.png",
+    "url_alias": "2140-bilbo",
+    "type": "community",
+    "foo": "bar",
+    "id": 1,
+    "merchantCount": 4
   },
   {
     "url_alias": "ann-arbor-bitcoin",
