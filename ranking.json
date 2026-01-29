@@ -9069,21 +9069,6 @@
   },
   {
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-groningen.jpg",
-    "name": "Bitcoin Groningen",
-    "population": 360748,
-    "population:date": "2023-01-01",
-    "url_alias": "bitcoin-groningen",
-    "contact:twitter": "https://x.com/BitcoinGrunn",
-    "contact:email": "bitcoinishope.english@protonmail.com",
-    "contact:telegram": "https://t.me/+Hjn5frWClcc1NDU0",
-    "type": "community",
-    "area_km2": 126.46,
-    "id": 847,
-    "merchantCount": 5
-  },
-  {
-    "continent": "europe",
     "icon:square": "https://pbs.twimg.com/profile_images/1891054716668243968/dlPMtFWo_400x400.jpg",
     "name": "Bitcoin Academy Club",
     "population": 214158,
@@ -17491,6 +17476,12 @@
     "area_km2": 409.4,
     "id": 838,
     "merchantCount": 0
+  },
+  {
+    "id": 847,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "europe",
