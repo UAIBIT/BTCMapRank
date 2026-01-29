@@ -648,20 +648,10 @@
     "merchantCount": 25
   },
   {
-    "language": "fr",
-    "name": "Avignon",
-    "contact:telegram": "https://t.me/Avignon_Bitcoin_meet_up",
-    "icon:square": "https://static.btcmap.org/images/communities/avignon.png",
-    "organization": "decouvre-bitcoin",
-    "contact:twitter": "https://twitter.com/BitcoinVaucluse",
-    "continent": "europe",
-    "population": 91921,
-    "area_km2": 370.02,
-    "population:date": "2020-01-01",
-    "url_alias": "avignon",
-    "type": "community",
     "id": 36,
-    "merchantCount": 2
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "economy": "6. Developing region",
@@ -15844,10 +15834,19 @@
     "merchantCount": 29
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-groningen.jpg",
+    "name": "Bitcoin Groningen",
+    "population": 360748,
+    "population:date": "2023-01-01",
+    "url_alias": "bitcoin-groningen",
+    "contact:twitter": "https://x.com/BitcoinGrunn",
+    "contact:email": "bitcoinishope.english@protonmail.com",
+    "contact:telegram": "https://t.me/+Hjn5frWClcc1NDU0",
+    "type": "community",
+    "area_km2": 126.46,
     "id": 847,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 5
   },
   {
     "continent": "south-america",
