@@ -225,22 +225,6 @@
     "merchantCount": 824
   },
   {
-    "contact:website": "https://dezentralschweiz.ch/",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/dezentralschweiz.jpeg",
-    "population": "8636896",
-    "population:date": "2022-01-01",
-    "contact:twitter": "https://twitter.com/dezentralch",
-    "contact:email": "bitcoiner804@pm.me",
-    "url_alias": "dezentralschweiz",
-    "name": "Dezentralschweiz",
-    "area_km2": 41260.3,
-    "continent": "europe",
-    "contact:telegram": "http://t.me/+ETWFIUzxnlNkZDg0",
-    "id": 226,
-    "merchantCount": 824
-  },
-  {
     "iso_a2": "CH",
     "income_grp": "1. High income: OECD",
     "iso_a3": "CHE",
@@ -8884,17 +8868,17 @@
   {
     "area_km2": 133,
     "contact:email": "hello@lightningcheckout.eu",
-    "contact:meetup": "https://www.meetup.com/bitcoineindhoven/",
     "contact:twitter": "https://twitter.com/bitcoineindhove",
     "contact:website": "https://bitcoineindhoven.nl/",
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-eindhoven.jpeg",
+    "icon:square": "https://static.btcmap.org/images/areas/687.png",
     "name": "Bitcoin Eindhoven",
     "organization": "eenentwintig",
     "population": 780611,
     "population:date": "2014-05-01",
     "type": "community",
     "url_alias": "bitcoin-eindhoven",
+    "verified:date": "2026-01-29",
     "id": 687,
     "merchantCount": 5
   },
@@ -14142,6 +14126,12 @@
   },
   {
     "id": 222,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 226,
     "type": null,
     "merchantCount": 0,
     "name": null
