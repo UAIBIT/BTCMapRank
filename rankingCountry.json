@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5411
+    "merchantCount": 5462
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2150
+    "merchantCount": 2152
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1326
+    "merchantCount": 1329
   },
   {
     "gdp_md": 351431,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1249
+    "merchantCount": 1250
   },
   {
     "population:rank": 14,
@@ -231,7 +231,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 567
+    "merchantCount": 568
   },
   {
     "region_un": "Americas",
@@ -257,7 +257,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 539
+    "merchantCount": 538
   },
   {
     "gdp_md": 543548,
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 455
+    "merchantCount": 457
   },
   {
     "country_type": "Sovereign country",
@@ -336,7 +336,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 378
+    "merchantCount": 379
   },
   {
     "iso_a2": "NL",
@@ -440,7 +440,7 @@
     "wikidataid": "Q230",
     "url_alias": "ge",
     "id": 366,
-    "merchantCount": 345
+    "merchantCount": 344
   },
   {
     "area_km2": 636466.7,
@@ -882,7 +882,7 @@
     "economy": "5. Emerging region: G20",
     "url_alias": "bo",
     "id": 168,
-    "merchantCount": 74
+    "merchantCount": 75
   },
   {
     "population:rank": 13,
@@ -1194,7 +1194,7 @@
     "continent": "Africa",
     "url_alias": "ng",
     "id": 505,
-    "merchantCount": 41
+    "merchantCount": 42
   },
   {
     "population": 58005463,
@@ -1353,6 +1353,32 @@
     "merchantCount": 34
   },
   {
+    "sovereignt": "Panama",
+    "continent": "North America",
+    "population": 4246439,
+    "area_km2": 74410.93,
+    "country_type": "Sovereign country",
+    "wikidataid": "Q804",
+    "population:year": 2019,
+    "population:rank": 12,
+    "gdp_md": 66800,
+    "lat": 8.72198,
+    "type": "country",
+    "gdp_year": 2019,
+    "name": "Panama",
+    "region_un": "Americas",
+    "iso_a3": "PAN",
+    "subregion": "Central America",
+    "iso_a2": "PA",
+    "region_wb": "Latin America & Caribbean",
+    "economy": "6. Developing region",
+    "income_grp": "3. Upper middle income",
+    "lon": -80.352106,
+    "url_alias": "pa",
+    "id": 520,
+    "merchantCount": 31
+  },
+  {
     "area_km2": 781554.63,
     "region_un": "Asia",
     "iso_a2": "TR",
@@ -1405,29 +1431,29 @@
     "merchantCount": 29
   },
   {
-    "sovereignt": "Panama",
-    "continent": "North America",
-    "population": 4246439,
-    "area_km2": 74410.93,
-    "country_type": "Sovereign country",
-    "wikidataid": "Q804",
-    "population:year": 2019,
-    "population:rank": 12,
-    "gdp_md": 66800,
-    "lat": 8.72198,
+    "iso_a3": "GHA",
+    "gdp_md": 66983,
+    "subregion": "Western Africa",
+    "wikidataid": "Q117",
+    "lat": 7.717639,
+    "lon": -1.036941,
+    "continent": "Africa",
     "type": "country",
+    "population:rank": 15,
+    "country_type": "Sovereign country",
     "gdp_year": 2019,
-    "name": "Panama",
-    "region_un": "Americas",
-    "iso_a3": "PAN",
-    "subregion": "Central America",
-    "iso_a2": "PA",
-    "region_wb": "Latin America & Caribbean",
+    "area_km2": 240102.41,
+    "region_un": "Africa",
+    "income_grp": "4. Lower middle income",
+    "region_wb": "Sub-Saharan Africa",
+    "name": "Ghana",
+    "iso_a2": "GH",
+    "population": 30417856,
+    "population:year": 2019,
+    "sovereignt": "Ghana",
     "economy": "6. Developing region",
-    "income_grp": "3. Upper middle income",
-    "lon": -80.352106,
-    "url_alias": "pa",
-    "id": 520,
+    "url_alias": "gh",
+    "id": 368,
     "merchantCount": 28
   },
   {
@@ -1454,32 +1480,6 @@
     "economy": "2. Developed region: nonG7",
     "url_alias": "fi",
     "id": 356,
-    "merchantCount": 27
-  },
-  {
-    "iso_a3": "GHA",
-    "gdp_md": 66983,
-    "subregion": "Western Africa",
-    "wikidataid": "Q117",
-    "lat": 7.717639,
-    "lon": -1.036941,
-    "continent": "Africa",
-    "type": "country",
-    "population:rank": 15,
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "area_km2": 240102.41,
-    "region_un": "Africa",
-    "income_grp": "4. Lower middle income",
-    "region_wb": "Sub-Saharan Africa",
-    "name": "Ghana",
-    "iso_a2": "GH",
-    "population": 30417856,
-    "population:year": 2019,
-    "sovereignt": "Ghana",
-    "economy": "6. Developing region",
-    "url_alias": "gh",
-    "id": 368,
     "merchantCount": 27
   },
   {
