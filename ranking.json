@@ -9331,20 +9331,6 @@
     "merchantCount": 4
   },
   {
-    "area_km2": 120.0,
-    "type": "community",
-    "population:date": "2021-12-31",
-    "population": 102618,
-    "language": "de",
-    "url_alias": "einundzwanzig-klagenfurt",
-    "continent": "europe",
-    "name": "Einundzwanzig Klagenfurt",
-    "contact:telegram": "https://t.me/Einundzwanzig_Kaernten",
-    "organization": "einundzwanzig",
-    "id": 288,
-    "merchantCount": 4
-  },
-  {
     "contact:telegram": "https://t.me/einundzwanzigRostock",
     "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-rostock.webp",
     "continent": "europe",
@@ -14444,6 +14430,12 @@
     "url_alias": "einundzwanzig-kempten",
     "id": 287,
     "merchantCount": 0
+  },
+  {
+    "id": 288,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 69.77,
