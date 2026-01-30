@@ -2324,6 +2324,21 @@
     "merchantCount": 59
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/968.png",
+    "name": "Bitcoin Ahuachapán",
+    "population": 367406,
+    "population:date": "2020-02-10",
+    "url_alias": "bitcoin-ahuachapan",
+    "type": "community",
+    "area_km2": 1206.69,
+    "contact:nostr": "npub1hv58r6eryxk5kdaf4qcuusf74uxmfy6lh79j5g5cffk6cw45qr5q53rmt9",
+    "contact:twitter": "https://x.com/BTC_Ahuachapan",
+    "tips:lightning_address": "bitcoinahuachapan@geyser.fund",
+    "id": 968,
+    "merchantCount": 59
+  },
+  {
     "area_km2": 835.14,
     "contact:whatsapp": "https://chat.whatsapp.com/FQ9Uu5WR6VOGgh5sPaSuFK",
     "box:west": "-86.6374969482422",
@@ -2347,21 +2362,6 @@
     "tips:lightning_address": "amityage@blink.sv",
     "tips:url": "https://geyser.fund/project/amityageacademy",
     "id": 20,
-    "merchantCount": 57
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/968.png",
-    "name": "Bitcoin Ahuachapán",
-    "population": 367406,
-    "population:date": "2020-02-10",
-    "url_alias": "bitcoin-ahuachapan",
-    "type": "community",
-    "area_km2": 1206.69,
-    "contact:nostr": "npub1hv58r6eryxk5kdaf4qcuusf74uxmfy6lh79j5g5cffk6cw45qr5q53rmt9",
-    "contact:twitter": "https://x.com/BTC_Ahuachapan",
-    "tips:lightning_address": "bitcoinahuachapan@geyser.fund",
-    "id": 968,
     "merchantCount": 57
   },
   {
@@ -3093,6 +3093,23 @@
     "merchantCount": 38
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-research.png",
+    "name": "Bitcoin Research",
+    "population": 755732,
+    "population:date": "2024-12-01",
+    "url_alias": "bitcoin-research",
+    "area_km2": 130392.75,
+    "contact:telegram": "https://t.me/BtcxBolivia",
+    "tips:lightning_address": "bitcoinresearch@blink.sv",
+    "contact:email": "acarrillom@proton.me",
+    "language": "es",
+    "type": "community",
+    "contact:twitter": "https://x.com/BtcxBolivia",
+    "id": 886,
+    "merchantCount": 38
+  },
+  {
     "contact:instagram": "https://www.instagram.com/bitcoinbarcelonaxyz/",
     "contact:telegram": "https://t.me/BarcelonaBitcoinOnly",
     "url_alias": "barcelona-bitcoin-only",
@@ -3257,23 +3274,6 @@
     "type": "community",
     "area_km2": 9345.28,
     "id": 881,
-    "merchantCount": 37
-  },
-  {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-research.png",
-    "name": "Bitcoin Research",
-    "population": 755732,
-    "population:date": "2024-12-01",
-    "url_alias": "bitcoin-research",
-    "area_km2": 130392.75,
-    "contact:telegram": "https://t.me/BtcxBolivia",
-    "tips:lightning_address": "bitcoinresearch@blink.sv",
-    "contact:email": "acarrillom@proton.me",
-    "language": "es",
-    "type": "community",
-    "contact:twitter": "https://x.com/BtcxBolivia",
-    "id": 886,
     "merchantCount": 37
   },
   {
@@ -5778,6 +5778,24 @@
     "merchantCount": 14
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-chapeco.jpg",
+    "name": "Bitcoin Chapecó",
+    "population": 224013,
+    "population:date": "2020-06-30",
+    "url_alias": "bitcoin-chapeco",
+    "organization": "uaibit",
+    "tips:lightning_address": "bitcoinchapeco@coinos.io",
+    "contact:instagram": "https://www.instagram.com/bitcoin_chapeco",
+    "contact:discord": "https://discord.gg/vXeuRSCfbe",
+    "contact:whatsapp": "https://chat.whatsapp.com/Dacao1VLHQ35lFkekf1MF6",
+    "contact:email": "partnersrld25@gmail.com",
+    "type": "community",
+    "area_km2": 314.03,
+    "id": 906,
+    "merchantCount": 14
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-wallis.jpeg",
     "name": "Bitcoin Wallis",
@@ -5941,24 +5959,6 @@
     "area_km2": 1.63,
     "verified:date": "2026-01-07",
     "id": 900,
-    "merchantCount": 13
-  },
-  {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-chapeco.jpg",
-    "name": "Bitcoin Chapecó",
-    "population": 224013,
-    "population:date": "2020-06-30",
-    "url_alias": "bitcoin-chapeco",
-    "organization": "uaibit",
-    "tips:lightning_address": "bitcoinchapeco@coinos.io",
-    "contact:instagram": "https://www.instagram.com/bitcoin_chapeco",
-    "contact:discord": "https://discord.gg/vXeuRSCfbe",
-    "contact:whatsapp": "https://chat.whatsapp.com/Dacao1VLHQ35lFkekf1MF6",
-    "contact:email": "partnersrld25@gmail.com",
-    "type": "community",
-    "area_km2": 314.03,
-    "id": 906,
     "merchantCount": 13
   },
   {
@@ -6666,6 +6666,23 @@
     "merchantCount": 10
   },
   {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/bitfiasi.jpg",
+    "name": "Bitfiasi",
+    "population": 5455692,
+    "population:date": "2021-06-30",
+    "url_alias": "bitfiasi",
+    "contact:email": "info@bitfiasi.org",
+    "contact:telegram": "https://t.me/BitfiasiNetwork",
+    "tips:lightning_address": "bitfiasi@blink.sv",
+    "type": "community",
+    "area_km2": 3717.2,
+    "contact:twitter": "https://x.com/bitfiasi",
+    "contact:website": "https://bitfiasi.org/",
+    "id": 905,
+    "merchantCount": 10
+  },
+  {
     "name": "Abidjan Bitcoin Meetup",
     "contact:email": "AbidjanBTCMeet@proton.me",
     "type": "community",
@@ -7009,23 +7026,6 @@
     "type": "community",
     "area_km2": 33617.38,
     "id": 904,
-    "merchantCount": 9
-  },
-  {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitfiasi.jpg",
-    "name": "Bitfiasi",
-    "population": 5455692,
-    "population:date": "2021-06-30",
-    "url_alias": "bitfiasi",
-    "contact:email": "info@bitfiasi.org",
-    "contact:telegram": "https://t.me/BitfiasiNetwork",
-    "tips:lightning_address": "bitfiasi@blink.sv",
-    "type": "community",
-    "area_km2": 3717.2,
-    "contact:twitter": "https://x.com/bitfiasi",
-    "contact:website": "https://bitfiasi.org/",
-    "id": 905,
     "merchantCount": 9
   },
   {
