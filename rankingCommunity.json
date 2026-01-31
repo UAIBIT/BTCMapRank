@@ -315,7 +315,7 @@
     "contact:email": "bitcoinamantikir@gmail.com",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-amantikir.png",
     "id": 743,
-    "merchantCount": 145
+    "merchantCount": 146
   },
   {
     "contact:twitter": "https://twitter.com/BitcoinJungleCR",
@@ -440,7 +440,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 119
+    "merchantCount": 120
   },
   {
     "contact:twitter": "https://x.com/bitcoinlake",
@@ -541,7 +541,7 @@
     "name": "Bitcoin Dada Nairobi",
     "population:date": "2019-01-01",
     "id": 92,
-    "merchantCount": 97
+    "merchantCount": 98
   },
   {
     "area_km2": 1107,
@@ -562,7 +562,7 @@
     "type": "community",
     "url_alias": "the-core",
     "id": 720,
-    "merchantCount": 97
+    "merchantCount": 98
   },
   {
     "continent": "africa",
@@ -750,7 +750,7 @@
     "type": "community",
     "url_alias": "bitcoin-nairobi",
     "id": 767,
-    "merchantCount": 78
+    "merchantCount": 79
   },
   {
     "continent": "north-america",
@@ -1397,7 +1397,7 @@
     "contact:github": "https://github.com/btcpt123/btcnorte",
     "area_km2": 21340.0,
     "id": 182,
-    "merchantCount": 45
+    "merchantCount": 46
   },
   {
     "continent": "north-america",
@@ -1430,6 +1430,27 @@
     "box:east": -7.399,
     "contact:signal": "https://signal.group/#CjQKIGVVt4H1X6Civ-rAfLWStKB9PCujSSbAeXlgqdAWtgujEhBZ-3z1cPIhzX8IF-FIr_t5",
     "id": 16,
+    "merchantCount": 44
+  },
+  {
+    "box:north": "45.89574303912447",
+    "url_alias": "bitcoin-montreal",
+    "contact:facebook": "https://www.facebook.com/bitcoinembassy/",
+    "box:south": "45.03665569548622",
+    "continent": "north-america",
+    "type": "community",
+    "contact:meetup": "https://www.meetup.com/bitcoin-montreal/",
+    "box:west": "-74.40765380859376",
+    "contact:twitter": "https://www.twitter.com/pouliotfrancis_",
+    "name": "Bitcoin Montreal",
+    "population:date": "2021-01-01",
+    "box:east": "-72.77069091796876",
+    "population": "4291732",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-montreal.jpg",
+    "contact:website": "http://bitcoinembassy.ca/",
+    "contact:email": "kevin@satoshiportal.com",
+    "area_km2": 624.29,
+    "id": 122,
     "merchantCount": 44
   },
   {
@@ -1470,27 +1491,6 @@
     "population": "571026",
     "id": 496,
     "merchantCount": 44
-  },
-  {
-    "box:north": "45.89574303912447",
-    "url_alias": "bitcoin-montreal",
-    "contact:facebook": "https://www.facebook.com/bitcoinembassy/",
-    "box:south": "45.03665569548622",
-    "continent": "north-america",
-    "type": "community",
-    "contact:meetup": "https://www.meetup.com/bitcoin-montreal/",
-    "box:west": "-74.40765380859376",
-    "contact:twitter": "https://www.twitter.com/pouliotfrancis_",
-    "name": "Bitcoin Montreal",
-    "population:date": "2021-01-01",
-    "box:east": "-72.77069091796876",
-    "population": "4291732",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-montreal.jpg",
-    "contact:website": "http://bitcoinembassy.ca/",
-    "contact:email": "kevin@satoshiportal.com",
-    "area_km2": 624.29,
-    "id": 122,
-    "merchantCount": 43
   },
   {
     "area_km2": 414.61,
@@ -2478,6 +2478,22 @@
     "merchantCount": 27
   },
   {
+    "name": "SLC-BTC",
+    "population:date": "2022-01-01",
+    "contact:twitter": "https://twitter.com/SLC_BTC_Meetup",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/slc-btc.jpeg",
+    "contact:meetup": "https://www.meetup.com/meetup-group-zuyvgaos/",
+    "tips:url": "https://ibexpay.ibexmercado.com/bpt/1ce994e6-e591-4e85-a363-659a39d59f3a",
+    "population": "1185238",
+    "contact:website": "https://www.slc-btc.org/",
+    "url_alias": "slc-btc",
+    "area_km2": 2089.92,
+    "continent": "north-america",
+    "id": 589,
+    "merchantCount": 27
+  },
+  {
     "area_km2": 144,
     "contact:email": "hector@miprimerbitcoin.io",
     "contact:meetup": "https://www.meetup.com/bismarck-bitcoin-meetup/",
@@ -2492,22 +2508,6 @@
     "url_alias": "bitcoin-grove",
     "id": 725,
     "merchantCount": 27
-  },
-  {
-    "name": "SLC-BTC",
-    "population:date": "2022-01-01",
-    "contact:twitter": "https://twitter.com/SLC_BTC_Meetup",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/slc-btc.jpeg",
-    "contact:meetup": "https://www.meetup.com/meetup-group-zuyvgaos/",
-    "tips:url": "https://ibexpay.ibexmercado.com/bpt/1ce994e6-e591-4e85-a363-659a39d59f3a",
-    "population": "1185238",
-    "contact:website": "https://www.slc-btc.org/",
-    "url_alias": "slc-btc",
-    "area_km2": 2089.92,
-    "continent": "north-america",
-    "id": 589,
-    "merchantCount": 26
   },
   {
     "area_km2": 579.4,
@@ -4819,6 +4819,23 @@
     "merchantCount": 9
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/jersey-city-bitcoin.png",
+    "name": "Jersey City Bitcoin",
+    "population": 291657,
+    "population:date": "2023-01-01",
+    "url_alias": "jersey-city-bitcoin",
+    "contact:website": "https://jerseycitybitcoin.com/",
+    "description": "Jersey City Bitcoin is a decentralized community for those interested in meeting up to discuss, and learn more about bitcoin in the Jersey City, New Jersey / New York area. You can be well versed or new, all are welcome.",
+    "contact:meetup": "https://www.eventbrite.com/e/jersey-city-bitcoin-meetup-tickets-781681238627",
+    "contact:nostr": "npub1a6y4ujay2040xz4pygs30w5r9shw9qvu0nxwhc5dlefddpmuslpqdlu2s2",
+    "contact:twitter": "https://x.com/JerseyCityBTC",
+    "area_km2": 54.88,
+    "type": "community",
+    "id": 822,
+    "merchantCount": 9
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/banska-bystrica.svg",
     "name": "21 Banská Bystrica",
@@ -5098,23 +5115,6 @@
     "contact:facebook": "https://www.facebook.com/BitcoinAlderney",
     "type": "community",
     "id": 820,
-    "merchantCount": 8
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/jersey-city-bitcoin.png",
-    "name": "Jersey City Bitcoin",
-    "population": 291657,
-    "population:date": "2023-01-01",
-    "url_alias": "jersey-city-bitcoin",
-    "contact:website": "https://jerseycitybitcoin.com/",
-    "description": "Jersey City Bitcoin is a decentralized community for those interested in meeting up to discuss, and learn more about bitcoin in the Jersey City, New Jersey / New York area. You can be well versed or new, all are welcome.",
-    "contact:meetup": "https://www.eventbrite.com/e/jersey-city-bitcoin-meetup-tickets-781681238627",
-    "contact:nostr": "npub1a6y4ujay2040xz4pygs30w5r9shw9qvu0nxwhc5dlefddpmuslpqdlu2s2",
-    "contact:twitter": "https://x.com/JerseyCityBTC",
-    "area_km2": 54.88,
-    "type": "community",
-    "id": 822,
     "merchantCount": 8
   },
   {
@@ -7907,6 +7907,23 @@
     "merchantCount": 2
   },
   {
+    "area_km2": 70858,
+    "contact:email": "armandmul@gmail.com",
+    "contact:nostr": "npub1mjmaggp53xan2435wdse8ts06pzfcjejfex4pxasu67kxs5hqdpsyk7hx8",
+    "contact:telegram": "https://t.me/BitcoinHaiti",
+    "contact:twitter": "https://x.com/yesbitcoinhaiti",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/yes-bitcoin-haiti.webp",
+    "name": "Yes Bitcoin Haiti",
+    "population": 11470261,
+    "population:date": "2023-01-01",
+    "tips:lightning_address": "yesbitcoinhaiti@strike.me",
+    "type": "community",
+    "url_alias": "haiti",
+    "id": 704,
+    "merchantCount": 2
+  },
+  {
     "area_km2": 9155,
     "contact:email": "info@alaskabtc.com",
     "contact:phone": "+15018818076",
@@ -10652,23 +10669,6 @@
     "type": "community",
     "url_alias": "bitcoin-medan",
     "id": 702,
-    "merchantCount": 0
-  },
-  {
-    "area_km2": 70858,
-    "contact:email": "armandmul@gmail.com",
-    "contact:nostr": "npub1mjmaggp53xan2435wdse8ts06pzfcjejfex4pxasu67kxs5hqdpsyk7hx8",
-    "contact:telegram": "https://t.me/BitcoinHaiti",
-    "contact:twitter": "https://x.com/yesbitcoinhaiti",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/yes-bitcoin-haiti.webp",
-    "name": "Yes Bitcoin Haiti",
-    "population": 11470261,
-    "population:date": "2023-01-01",
-    "tips:lightning_address": "yesbitcoinhaiti@strike.me",
-    "type": "community",
-    "url_alias": "haiti",
-    "id": 704,
     "merchantCount": 0
   },
   {

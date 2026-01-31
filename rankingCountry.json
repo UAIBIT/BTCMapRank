@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5462
+    "merchantCount": 5480
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2152
+    "merchantCount": 2153
   },
   {
     "population:year": 2019,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1250
+    "merchantCount": 1249
   },
   {
     "population:rank": 14,
@@ -231,7 +231,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 568
+    "merchantCount": 569
   },
   {
     "region_un": "Americas",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 457
+    "merchantCount": 458
   },
   {
     "country_type": "Sovereign country",
@@ -388,7 +388,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 351
+    "merchantCount": 352
   },
   {
     "region_un": "Europe",
@@ -674,7 +674,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 147
+    "merchantCount": 149
   },
   {
     "lon": -70.653998,
@@ -1221,6 +1221,32 @@
     "url_alias": "tz",
     "id": 628,
     "merchantCount": 40
+  },
+  {
+    "name": "India",
+    "region_wb": "South Asia",
+    "gdp_md": 2868929,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "population:rank": 18,
+    "sovereignt": "India",
+    "area_km2": 3162895.72,
+    "economy": "3. Emerging region: BRIC",
+    "region_un": "Asia",
+    "population": 1366417754,
+    "population:year": 2019,
+    "type": "country",
+    "wikidataid": "Q668",
+    "lon": 79.358105,
+    "iso_a3": "IND",
+    "lat": 22.686852,
+    "gdp_year": 2019,
+    "subregion": "Southern Asia",
+    "income_grp": "4. Lower middle income",
+    "iso_a2": "IN",
+    "url_alias": "in",
+    "id": 400,
+    "merchantCount": 38
   },
   {
     "gdp_md": 7491,
@@ -2981,6 +3007,32 @@
     "merchantCount": 2
   },
   {
+    "lon": -72.224051,
+    "gdp_md": 14332,
+    "income_grp": "5. Low income",
+    "iso_a3": "HTI",
+    "country_type": "Sovereign country",
+    "continent": "North America",
+    "economy": "7. Least developed region",
+    "area_km2": 26865.18,
+    "sovereignt": "Haiti",
+    "gdp_year": 2019,
+    "iso_a2": "HT",
+    "name": "Haiti",
+    "population:rank": 14,
+    "subregion": "Caribbean",
+    "lat": 19.263784,
+    "population": 11263077,
+    "region_wb": "Latin America & Caribbean",
+    "wikidataid": "Q790",
+    "population:year": 2019,
+    "type": "country",
+    "region_un": "Americas",
+    "url_alias": "ht",
+    "id": 394,
+    "merchantCount": 2
+  },
+  {
     "income_grp": "5. Low income",
     "iso_a3": "KGZ",
     "subregion": "Central Asia",
@@ -4538,32 +4590,6 @@
     "lat": -53.103462,
     "url_alias": "hm",
     "id": 391,
-    "merchantCount": 0
-  },
-  {
-    "lon": -72.224051,
-    "gdp_md": 14332,
-    "income_grp": "5. Low income",
-    "iso_a3": "HTI",
-    "country_type": "Sovereign country",
-    "continent": "North America",
-    "economy": "7. Least developed region",
-    "area_km2": 26865.18,
-    "sovereignt": "Haiti",
-    "gdp_year": 2019,
-    "iso_a2": "HT",
-    "name": "Haiti",
-    "population:rank": 14,
-    "subregion": "Caribbean",
-    "lat": 19.263784,
-    "population": 11263077,
-    "region_wb": "Latin America & Caribbean",
-    "wikidataid": "Q790",
-    "population:year": 2019,
-    "type": "country",
-    "region_un": "Americas",
-    "url_alias": "ht",
-    "id": 394,
     "merchantCount": 0
   },
   {

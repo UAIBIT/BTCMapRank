@@ -141,7 +141,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1855
+    "merchantCount": 1856
   },
   {
     "subregion": "Caribbean",
@@ -1670,7 +1670,7 @@
     "name": "Bitcoin Dada Nairobi",
     "population:date": "2019-01-01",
     "id": 92,
-    "merchantCount": 97
+    "merchantCount": 98
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-derby.jpeg",
@@ -2229,7 +2229,7 @@
     "contact:email": "kevin@satoshiportal.com",
     "area_km2": 624.29,
     "id": 122,
-    "merchantCount": 43
+    "merchantCount": 44
   },
   {
     "area_km2": 28301.28,
@@ -3066,7 +3066,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2152
+    "merchantCount": 2153
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -3242,7 +3242,7 @@
     "contact:github": "https://github.com/btcpt123/btcnorte",
     "area_km2": 21340.0,
     "id": 182,
-    "merchantCount": 45
+    "merchantCount": 46
   },
   {
     "subregion": "Southern Africa",
@@ -3346,7 +3346,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 568
+    "merchantCount": 569
   },
   {
     "url_alias": "cafeteros-bitcoiners",
@@ -3810,7 +3810,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 119
+    "merchantCount": 120
   },
   {
     "id": 210,
@@ -5595,7 +5595,7 @@
     "area_km2": 155452.15,
     "organization": "einundzwanzig",
     "id": 316,
-    "merchantCount": 352
+    "merchantCount": 353
   },
   {
     "type": "community",
@@ -7099,7 +7099,7 @@
     "region_un": "Americas",
     "url_alias": "ht",
     "id": 394,
-    "merchantCount": 0
+    "merchantCount": 2
   },
   {
     "income_grp": "1. High income: OECD",
@@ -7232,10 +7232,30 @@
     "merchantCount": 36
   },
   {
+    "name": "India",
+    "region_wb": "South Asia",
+    "gdp_md": 2868929,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "population:rank": 18,
+    "sovereignt": "India",
+    "area_km2": 3162895.72,
+    "economy": "3. Emerging region: BRIC",
+    "region_un": "Asia",
+    "population": 1366417754,
+    "population:year": 2019,
+    "type": "country",
+    "wikidataid": "Q668",
+    "lon": 79.358105,
+    "iso_a3": "IND",
+    "lat": 22.686852,
+    "gdp_year": 2019,
+    "subregion": "Southern Asia",
+    "income_grp": "4. Lower middle income",
+    "iso_a2": "IN",
+    "url_alias": "in",
     "id": 400,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 38
   },
   {
     "economy": "2. Developed region: nonG7",
@@ -7579,7 +7599,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 147
+    "merchantCount": 149
   },
   {
     "income_grp": "5. Low income",
@@ -10218,7 +10238,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 351
+    "merchantCount": 352
   },
   {
     "wikidataid": "Q695",
@@ -11148,7 +11168,7 @@
     "area_km2": 2089.92,
     "continent": "north-america",
     "id": 589,
-    "merchantCount": 26
+    "merchantCount": 27
   },
   {
     "income_grp": "2. High income: nonOECD",
@@ -11634,7 +11654,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 457
+    "merchantCount": 458
   },
   {
     "lat": 38.199835,
@@ -12114,7 +12134,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5462
+    "merchantCount": 5480
   },
   {
     "population": 1734000,
@@ -12393,7 +12413,7 @@
     "icon:square": "https://static.btcmap.org/images/communities/vinte-e-um.jpg",
     "area_km2": 149349.44,
     "id": 646,
-    "merchantCount": 351
+    "merchantCount": 352
   },
   {
     "continent": "Asia",
@@ -12620,7 +12640,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1250
+    "merchantCount": 1249
   },
   {
     "continent": "Africa",
@@ -12728,7 +12748,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 23063
+    "merchantCount": 23088
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -13597,7 +13617,7 @@
     "type": "community",
     "url_alias": "haiti",
     "id": 704,
-    "merchantCount": 0
+    "merchantCount": 2
   },
   {
     "area_km2": 264,
@@ -13869,7 +13889,7 @@
     "type": "community",
     "url_alias": "the-core",
     "id": 720,
-    "merchantCount": 97
+    "merchantCount": 98
   },
   {
     "area_km2": 9155,
@@ -14280,7 +14300,7 @@
     "contact:email": "bitcoinamantikir@gmail.com",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-amantikir.png",
     "id": 743,
-    "merchantCount": 145
+    "merchantCount": 146
   },
   {
     "id": 744,
@@ -14635,7 +14655,7 @@
     "type": "community",
     "url_alias": "bitcoin-nairobi",
     "id": 767,
-    "merchantCount": 78
+    "merchantCount": 79
   },
   {
     "area_km2": 4544.04,
@@ -15456,7 +15476,7 @@
     "area_km2": 54.88,
     "type": "community",
     "id": 822,
-    "merchantCount": 8
+    "merchantCount": 9
   },
   {
     "id": 823,
