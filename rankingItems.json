@@ -5163,10 +5163,18 @@
     "merchantCount": 0
   },
   {
+    "area_km2": 120.0,
+    "type": "community",
+    "population:date": "2021-12-31",
+    "population": 102618,
+    "language": "de",
+    "url_alias": "einundzwanzig-klagenfurt",
+    "continent": "europe",
+    "name": "Einundzwanzig Klagenfurt",
+    "contact:telegram": "https://t.me/Einundzwanzig_Kaernten",
+    "organization": "einundzwanzig",
     "id": 288,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 4
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-koblenz.webp",
@@ -7224,30 +7232,10 @@
     "merchantCount": 36
   },
   {
-    "name": "India",
-    "region_wb": "South Asia",
-    "gdp_md": 2868929,
-    "country_type": "Sovereign country",
-    "continent": "Asia",
-    "population:rank": 18,
-    "sovereignt": "India",
-    "area_km2": 3162895.72,
-    "economy": "3. Emerging region: BRIC",
-    "region_un": "Asia",
-    "population": 1366417754,
-    "population:year": 2019,
-    "type": "country",
-    "wikidataid": "Q668",
-    "lon": 79.358105,
-    "iso_a3": "IND",
-    "lat": 22.686852,
-    "gdp_year": 2019,
-    "subregion": "Southern Asia",
-    "income_grp": "4. Lower middle income",
-    "iso_a2": "IN",
-    "url_alias": "in",
     "id": 400,
-    "merchantCount": 38
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "economy": "2. Developed region: nonG7",
@@ -17730,7 +17718,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/974.png",
     "area_km2": 6075.63,
     "id": 974,
-    "merchantCount": 5
+    "merchantCount": 6
   },
   {
     "continent": "south-america",

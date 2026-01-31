@@ -5944,6 +5944,21 @@
     "merchantCount": 6
   },
   {
+    "continent": "africa",
+    "name": "EcoBitz",
+    "population": 1306411,
+    "population:date": "2020-02-11",
+    "url_alias": "ecobitz",
+    "contact:twitter": "https://x.com/ecobitz_21m",
+    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
+    "type": "community",
+    "verified:date": "2026-01-13",
+    "icon:square": "https://static.btcmap.org/images/areas/974.png",
+    "area_km2": 6075.63,
+    "id": 974,
+    "merchantCount": 6
+  },
+  {
     "type": "community",
     "url_alias": "bitcoin-dua",
     "area_km2": 319.16,
@@ -6537,21 +6552,6 @@
     "merchantCount": 5
   },
   {
-    "continent": "africa",
-    "name": "EcoBitz",
-    "population": 1306411,
-    "population:date": "2020-02-11",
-    "url_alias": "ecobitz",
-    "contact:twitter": "https://x.com/ecobitz_21m",
-    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
-    "type": "community",
-    "verified:date": "2026-01-13",
-    "icon:square": "https://static.btcmap.org/images/areas/974.png",
-    "area_km2": 6075.63,
-    "id": 974,
-    "merchantCount": 5
-  },
-  {
     "organization": "2140-meetups",
     "population": 344129.0,
     "area_km2": 110.1,
@@ -6663,6 +6663,20 @@
     "organization": "einundzwanzig",
     "population": 159631,
     "id": 261,
+    "merchantCount": 4
+  },
+  {
+    "area_km2": 120.0,
+    "type": "community",
+    "population:date": "2021-12-31",
+    "population": 102618,
+    "language": "de",
+    "url_alias": "einundzwanzig-klagenfurt",
+    "continent": "europe",
+    "name": "Einundzwanzig Klagenfurt",
+    "contact:telegram": "https://t.me/Einundzwanzig_Kaernten",
+    "organization": "einundzwanzig",
+    "id": 288,
     "merchantCount": 4
   },
   {
