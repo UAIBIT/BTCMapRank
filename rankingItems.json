@@ -2070,22 +2070,10 @@
     "merchantCount": 9
   },
   {
-    "contact:twitter": "https://x.com/bitcoinlake",
-    "box:west": -91.30105,
-    "name": "Bitcoin Lake Guatemala",
-    "box:north": 14.76053,
-    "population": "10000",
-    "box:south": 14.60731,
-    "type": "community",
-    "area_km2": 284.5,
-    "url_alias": "bitcoin-lake-guatemala",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lake.jpg",
-    "continent": "north-america",
-    "population:date": "2023-01-01",
-    "box:east": -91.10794,
-    "contact:website": "http://bitcoinlake.org",
     "id": 114,
-    "merchantCount": 117
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "box:east": 7.32719421386719,
@@ -6703,10 +6691,30 @@
     "merchantCount": 0
   },
   {
+    "iso_a3": "GRC",
+    "lat": 39.492763,
+    "sovereignt": "Greece",
+    "population:rank": 14,
+    "continent": "Europe",
+    "lon": 21.72568,
+    "subregion": "Southern Europe",
+    "area_km2": 130458.37,
+    "income_grp": "1. High income: OECD",
+    "country_type": "Sovereign country",
+    "region_wb": "Europe & Central Asia",
+    "name": "Greece",
+    "region_un": "Europe",
+    "economy": "2. Developed region: nonG7",
+    "iso_a2": "GR",
+    "wikidataid": "Q41",
+    "population": 10716322,
+    "type": "country",
+    "gdp_md": 209852,
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "url_alias": "gr",
     "id": 377,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 42
   },
   {
     "contact:telegram": "https://t.me/+817pI2MCX3cxM2Fk",
