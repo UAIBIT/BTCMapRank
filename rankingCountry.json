@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5480
+    "merchantCount": 5514
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2153
+    "merchantCount": 2154
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1329
+    "merchantCount": 1330
   },
   {
     "gdp_md": 351431,
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 610
+    "merchantCount": 611
   },
   {
     "sovereignt": "Canada",
@@ -963,6 +963,32 @@
     "merchantCount": 70
   },
   {
+    "subregion": "South America",
+    "area_km2": 1299185.71,
+    "gdp_year": 2019,
+    "iso_a2": "PE",
+    "country_type": "Sovereign country",
+    "income_grp": "3. Upper middle income",
+    "lat": -12.976679,
+    "lon": -72.90016,
+    "iso_a3": "PER",
+    "region_wb": "Latin America & Caribbean",
+    "population:rank": 15,
+    "wikidataid": "Q419",
+    "sovereignt": "Peru",
+    "population": 32510453,
+    "name": "Peru",
+    "economy": "5. Emerging region: G20",
+    "type": "country",
+    "continent": "South America",
+    "population:year": 2019,
+    "region_un": "Americas",
+    "gdp_md": 226848,
+    "url_alias": "pe",
+    "id": 524,
+    "merchantCount": 68
+  },
+  {
     "population:rank": 12,
     "iso_a2": "SI",
     "region_wb": "Europe & Central Asia",
@@ -1039,32 +1065,6 @@
     "url_alias": "be",
     "id": 50,
     "merchantCount": 61
-  },
-  {
-    "subregion": "South America",
-    "area_km2": 1299185.71,
-    "gdp_year": 2019,
-    "iso_a2": "PE",
-    "country_type": "Sovereign country",
-    "income_grp": "3. Upper middle income",
-    "lat": -12.976679,
-    "lon": -72.90016,
-    "iso_a3": "PER",
-    "region_wb": "Latin America & Caribbean",
-    "population:rank": 15,
-    "wikidataid": "Q419",
-    "sovereignt": "Peru",
-    "population": 32510453,
-    "name": "Peru",
-    "economy": "5. Emerging region: G20",
-    "type": "country",
-    "continent": "South America",
-    "population:year": 2019,
-    "region_un": "Americas",
-    "gdp_md": 226848,
-    "url_alias": "pe",
-    "id": 524,
-    "merchantCount": 60
   },
   {
     "type": "country",
@@ -1249,6 +1249,32 @@
     "merchantCount": 38
   },
   {
+    "income_grp": "1. High income: OECD",
+    "population": 9769949,
+    "region_wb": "Europe & Central Asia",
+    "country_type": "Sovereign country",
+    "iso_a3": "HUN",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "HU",
+    "wikidataid": "Q28",
+    "lat": 47.086841,
+    "lon": 19.447867,
+    "sovereignt": "Hungary",
+    "area_km2": 93167.09,
+    "subregion": "Eastern Europe",
+    "gdp_year": 2019,
+    "population:rank": 13,
+    "population:year": 2019,
+    "name": "Hungary",
+    "region_un": "Europe",
+    "gdp_md": 163469,
+    "economy": "2. Developed region: nonG7",
+    "url_alias": "hu",
+    "id": 395,
+    "merchantCount": 36
+  },
+  {
     "gdp_md": 7491,
     "wikidataid": "Q9676",
     "region_un": "Europe",
@@ -1273,32 +1299,6 @@
     "url_alias": "im",
     "id": 399,
     "merchantCount": 36
-  },
-  {
-    "income_grp": "1. High income: OECD",
-    "population": 9769949,
-    "region_wb": "Europe & Central Asia",
-    "country_type": "Sovereign country",
-    "iso_a3": "HUN",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "HU",
-    "wikidataid": "Q28",
-    "lat": 47.086841,
-    "lon": 19.447867,
-    "sovereignt": "Hungary",
-    "area_km2": 93167.09,
-    "subregion": "Eastern Europe",
-    "gdp_year": 2019,
-    "population:rank": 13,
-    "population:year": 2019,
-    "name": "Hungary",
-    "region_un": "Europe",
-    "gdp_md": 163469,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "hu",
-    "id": 395,
-    "merchantCount": 35
   },
   {
     "population": 270625568,
@@ -1665,32 +1665,6 @@
     "merchantCount": 22
   },
   {
-    "area_km2": 443969.27,
-    "population:rank": 14,
-    "economy": "2. Developed region: nonG7",
-    "subregion": "Northern Europe",
-    "gdp_year": 2019,
-    "wikidataid": "Q34",
-    "region_un": "Europe",
-    "iso_a3": "SWE",
-    "lat": 65.85918,
-    "iso_a2": "SE",
-    "population": 10285453,
-    "income_grp": "1. High income: OECD",
-    "continent": "Europe",
-    "name": "Sweden",
-    "population:year": 2019,
-    "sovereignt": "Sweden",
-    "region_wb": "Europe & Central Asia",
-    "lon": 19.01705,
-    "country_type": "Sovereign country",
-    "type": "country",
-    "gdp_md": 530883,
-    "url_alias": "se",
-    "id": 582,
-    "merchantCount": 19
-  },
-  {
     "continent": "Asia",
     "gdp_md": 261921,
     "type": "country",
@@ -1714,6 +1688,32 @@
     "lat": 21.715416,
     "url_alias": "vn",
     "id": 647,
+    "merchantCount": 20
+  },
+  {
+    "area_km2": 443969.27,
+    "population:rank": 14,
+    "economy": "2. Developed region: nonG7",
+    "subregion": "Northern Europe",
+    "gdp_year": 2019,
+    "wikidataid": "Q34",
+    "region_un": "Europe",
+    "iso_a3": "SWE",
+    "lat": 65.85918,
+    "iso_a2": "SE",
+    "population": 10285453,
+    "income_grp": "1. High income: OECD",
+    "continent": "Europe",
+    "name": "Sweden",
+    "population:year": 2019,
+    "sovereignt": "Sweden",
+    "region_wb": "Europe & Central Asia",
+    "lon": 19.01705,
+    "country_type": "Sovereign country",
+    "type": "country",
+    "gdp_md": 530883,
+    "url_alias": "se",
+    "id": 582,
     "merchantCount": 19
   },
   {

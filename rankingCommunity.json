@@ -267,7 +267,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 158
+    "merchantCount": 160
   },
   {
     "contact:twitter": "https://twitter.com/bitplebsla",
@@ -282,7 +282,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 157
+    "merchantCount": 158
   },
   {
     "language": "es, en",
@@ -1102,7 +1102,7 @@
     "contact:twitter": "https://x.com/BTC_Ahuachapan",
     "tips:lightning_address": "bitcoinahuachapan@geyser.fund",
     "id": 968,
-    "merchantCount": 59
+    "merchantCount": 60
   },
   {
     "area_km2": 835.14,
@@ -1493,6 +1493,30 @@
     "merchantCount": 44
   },
   {
+    "contact:website": "https://detbtc.com/",
+    "contact:telegram": "https://t.me/detbtc",
+    "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
+    "area_km2": 3044.54,
+    "type": "community",
+    "box:south": "41.37474755643597",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin.jpg",
+    "contact:instagram": "https://www.instagram.com/detbtc/",
+    "contact:email": "duck@kronkltd.net",
+    "population": "7000000",
+    "population:date": "2020-01-01",
+    "tips:lightning_address": "detbtc@coinos.io",
+    "contact:twitter": "https://twitter.com/detbtc",
+    "name": "Detroit Bitcoin",
+    "box:west": "-85.61645507812501",
+    "box:north": "43.1450861841603",
+    "contact:meetup": "https://www.meetup.com/detbtc/",
+    "url_alias": "detroit-bitcoin",
+    "box:east": "-80.34301757812501",
+    "id": 224,
+    "merchantCount": 43
+  },
+  {
     "area_km2": 414.61,
     "type": "community",
     "name": "Einundzwanzig Wien",
@@ -1539,30 +1563,6 @@
     "area_km2": 5808.74,
     "id": 953,
     "merchantCount": 43
-  },
-  {
-    "contact:website": "https://detbtc.com/",
-    "contact:telegram": "https://t.me/detbtc",
-    "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
-    "area_km2": 3044.54,
-    "type": "community",
-    "box:south": "41.37474755643597",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin.jpg",
-    "contact:instagram": "https://www.instagram.com/detbtc/",
-    "contact:email": "duck@kronkltd.net",
-    "population": "7000000",
-    "population:date": "2020-01-01",
-    "tips:lightning_address": "detbtc@coinos.io",
-    "contact:twitter": "https://twitter.com/detbtc",
-    "name": "Detroit Bitcoin",
-    "box:west": "-85.61645507812501",
-    "box:north": "43.1450861841603",
-    "contact:meetup": "https://www.meetup.com/detbtc/",
-    "url_alias": "detroit-bitcoin",
-    "box:east": "-80.34301757812501",
-    "id": 224,
-    "merchantCount": 42
   },
   {
     "contact:website": "https://donate.montanhabitcoin.org/",
@@ -2225,7 +2225,7 @@
     "type": "community",
     "area_km2": 2350.82,
     "id": 918,
-    "merchantCount": 31
+    "merchantCount": 32
   },
   {
     "type": "community",
@@ -2542,6 +2542,22 @@
     "merchantCount": 25
   },
   {
+    "contact:instagram": "https://www.instagram.com/orangepillperu/",
+    "continent": "south-america",
+    "name": "Lima - Orange Pill Perú",
+    "type": "community",
+    "area_km2": 3726.15,
+    "contact:email": "orangepillperu@proton.me",
+    "population": 11283787,
+    "contact:telegram": "https://t.me/+KNI65gteoic1MjJh",
+    "icon:square": "https://static.btcmap.org/images/communities/lima.jpeg",
+    "url_alias": "lima",
+    "population:date": "2023-01-01",
+    "contact:twitter": "https://twitter.com/orangepillperu",
+    "id": 440,
+    "merchantCount": 25
+  },
+  {
     "type": "community",
     "contact:website": "https://praiabitcoin.org/",
     "contact:phone": "+5588999885652",
@@ -2668,22 +2684,6 @@
     "contact:meetup": "https://www.meetup.com/denver-bitdevs/",
     "icon:square": "https://static.btcmap.org/images/communities/denver-bit-devs.jpeg",
     "id": 223,
-    "merchantCount": 23
-  },
-  {
-    "contact:instagram": "https://www.instagram.com/orangepillperu/",
-    "continent": "south-america",
-    "name": "Lima - Orange Pill Perú",
-    "type": "community",
-    "area_km2": 3726.15,
-    "contact:email": "orangepillperu@proton.me",
-    "population": 11283787,
-    "contact:telegram": "https://t.me/+KNI65gteoic1MjJh",
-    "icon:square": "https://static.btcmap.org/images/communities/lima.jpeg",
-    "url_alias": "lima",
-    "population:date": "2023-01-01",
-    "contact:twitter": "https://twitter.com/orangepillperu",
-    "id": 440,
     "merchantCount": 23
   },
   {
@@ -3119,6 +3119,21 @@
     "merchantCount": 18
   },
   {
+    "population:date": "2021-12-31",
+    "language": "de",
+    "name": "Einundzwanzig Hamburg",
+    "area_km2": 974.22,
+    "url_alias": "einundzwanzig-hamburg",
+    "contact:telegram": "https://t.me/Einundzwanzig_HH",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-hamburg.webp",
+    "continent": "europe",
+    "population": 1853935,
+    "organization": "einundzwanzig",
+    "id": 276,
+    "merchantCount": 18
+  },
+  {
     "language": "de",
     "population:date": "2021-12-31",
     "url_alias": "einundzwanzig-thueringen",
@@ -3262,21 +3277,6 @@
     "icon:square": "https://static.btcmap.org/images/areas/142.png",
     "verified:date": "2026-01-07",
     "id": 142,
-    "merchantCount": 17
-  },
-  {
-    "population:date": "2021-12-31",
-    "language": "de",
-    "name": "Einundzwanzig Hamburg",
-    "area_km2": 974.22,
-    "url_alias": "einundzwanzig-hamburg",
-    "contact:telegram": "https://t.me/Einundzwanzig_HH",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-hamburg.webp",
-    "continent": "europe",
-    "population": 1853935,
-    "organization": "einundzwanzig",
-    "id": 276,
     "merchantCount": 17
   },
   {
@@ -3966,6 +3966,22 @@
     "merchantCount": 13
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/944.png",
+    "name": "Nola Bitcoin",
+    "population": 383997,
+    "population:date": "2021-09-21",
+    "url_alias": "nola-bitcoin",
+    "contact:twitter": "https://x.com/NOLA_Bitcoin",
+    "contact:meetup": "https://www.meetup.com/nolabitcoin",
+    "contact:email": "nolabitcoin@gmail.com",
+    "type": "community",
+    "area_km2": 930.41,
+    "contact:nostr": "npub1ptsk65af6s52w2cdr2c40228ktdeet6tmtpe8spdl2t2y7l4030qdrwurx",
+    "id": 944,
+    "merchantCount": 13
+  },
+  {
     "contact:telegram": "https://t.me/DwadziesciaJeden",
     "contact:twitter": "https://twitter.com/21BitcoinPolska",
     "population:date": "2022-01-01",
@@ -4128,22 +4144,6 @@
     "area_km2": 217.27,
     "organization": "einundzwanzig",
     "id": 932,
-    "merchantCount": 12
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/944.png",
-    "name": "Nola Bitcoin",
-    "population": 383997,
-    "population:date": "2021-09-21",
-    "url_alias": "nola-bitcoin",
-    "contact:twitter": "https://x.com/NOLA_Bitcoin",
-    "contact:meetup": "https://www.meetup.com/nolabitcoin",
-    "contact:email": "nolabitcoin@gmail.com",
-    "type": "community",
-    "area_km2": 930.41,
-    "contact:nostr": "npub1ptsk65af6s52w2cdr2c40228ktdeet6tmtpe8spdl2t2y7l4030qdrwurx",
-    "id": 944,
     "merchantCount": 12
   },
   {

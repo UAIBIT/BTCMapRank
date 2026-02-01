@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 23088
+    "merchantCount": 23136
   },
   {
     "sovereignt": "United States of America",
@@ -29,7 +29,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5480
+    "merchantCount": 5514
   },
   {
     "wikidataid": "Q155",
@@ -55,7 +55,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2153
+    "merchantCount": 2154
   },
   {
     "type": "trash",
@@ -96,7 +96,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1329
+    "merchantCount": 1330
   },
   {
     "gdp_md": 351431,
@@ -285,7 +285,7 @@
     "population": "83695430",
     "continent": "europe",
     "id": 262,
-    "merchantCount": 617
+    "merchantCount": 618
   },
   {
     "name": "Germany",
@@ -311,7 +311,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 610
+    "merchantCount": 611
   },
   {
     "sovereignt": "Canada",
@@ -1059,7 +1059,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 158
+    "merchantCount": 160
   },
   {
     "contact:twitter": "https://twitter.com/bitplebsla",
@@ -1074,7 +1074,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 157
+    "merchantCount": 158
   },
   {
     "language": "es, en",
@@ -1975,6 +1975,32 @@
     "merchantCount": 69
   },
   {
+    "subregion": "South America",
+    "area_km2": 1299185.71,
+    "gdp_year": 2019,
+    "iso_a2": "PE",
+    "country_type": "Sovereign country",
+    "income_grp": "3. Upper middle income",
+    "lat": -12.976679,
+    "lon": -72.90016,
+    "iso_a3": "PER",
+    "region_wb": "Latin America & Caribbean",
+    "population:rank": 15,
+    "wikidataid": "Q419",
+    "sovereignt": "Peru",
+    "population": 32510453,
+    "name": "Peru",
+    "economy": "5. Emerging region: G20",
+    "type": "country",
+    "continent": "South America",
+    "population:year": 2019,
+    "region_un": "Americas",
+    "gdp_md": 226848,
+    "url_alias": "pe",
+    "id": 524,
+    "merchantCount": 68
+  },
+  {
     "population:rank": 12,
     "iso_a2": "SI",
     "region_wb": "Europe & Central Asia",
@@ -2255,32 +2281,6 @@
     "merchantCount": 60
   },
   {
-    "subregion": "South America",
-    "area_km2": 1299185.71,
-    "gdp_year": 2019,
-    "iso_a2": "PE",
-    "country_type": "Sovereign country",
-    "income_grp": "3. Upper middle income",
-    "lat": -12.976679,
-    "lon": -72.90016,
-    "iso_a3": "PER",
-    "region_wb": "Latin America & Caribbean",
-    "population:rank": 15,
-    "wikidataid": "Q419",
-    "sovereignt": "Peru",
-    "population": 32510453,
-    "name": "Peru",
-    "economy": "5. Emerging region: G20",
-    "type": "country",
-    "continent": "South America",
-    "population:year": 2019,
-    "region_un": "Americas",
-    "gdp_md": 226848,
-    "url_alias": "pe",
-    "id": 524,
-    "merchantCount": 60
-  },
-  {
     "type": "community",
     "area_km2": 1294.49,
     "box:east": 12.93216,
@@ -2295,6 +2295,21 @@
     "continent": "europe",
     "population": "4342212",
     "id": 555,
+    "merchantCount": 60
+  },
+  {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/968.png",
+    "name": "Bitcoin Ahuachapán",
+    "population": 367406,
+    "population:date": "2020-02-10",
+    "url_alias": "bitcoin-ahuachapan",
+    "type": "community",
+    "area_km2": 1206.69,
+    "contact:nostr": "npub1hv58r6eryxk5kdaf4qcuusf74uxmfy6lh79j5g5cffk6cw45qr5q53rmt9",
+    "contact:twitter": "https://x.com/BTC_Ahuachapan",
+    "tips:lightning_address": "bitcoinahuachapan@geyser.fund",
+    "id": 968,
     "merchantCount": 60
   },
   {
@@ -2321,21 +2336,6 @@
     "area_km2": 370927.36,
     "url_alias": "jp",
     "id": 414,
-    "merchantCount": 59
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/968.png",
-    "name": "Bitcoin Ahuachapán",
-    "population": 367406,
-    "population:date": "2020-02-10",
-    "url_alias": "bitcoin-ahuachapan",
-    "type": "community",
-    "area_km2": 1206.69,
-    "contact:nostr": "npub1hv58r6eryxk5kdaf4qcuusf74uxmfy6lh79j5g5cffk6cw45qr5q53rmt9",
-    "contact:twitter": "https://x.com/BTC_Ahuachapan",
-    "tips:lightning_address": "bitcoinahuachapan@geyser.fund",
-    "id": 968,
     "merchantCount": 59
   },
   {
@@ -2779,6 +2779,30 @@
     "merchantCount": 44
   },
   {
+    "contact:website": "https://detbtc.com/",
+    "contact:telegram": "https://t.me/detbtc",
+    "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
+    "area_km2": 3044.54,
+    "type": "community",
+    "box:south": "41.37474755643597",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin.jpg",
+    "contact:instagram": "https://www.instagram.com/detbtc/",
+    "contact:email": "duck@kronkltd.net",
+    "population": "7000000",
+    "population:date": "2020-01-01",
+    "tips:lightning_address": "detbtc@coinos.io",
+    "contact:twitter": "https://twitter.com/detbtc",
+    "name": "Detroit Bitcoin",
+    "box:west": "-85.61645507812501",
+    "box:north": "43.1450861841603",
+    "contact:meetup": "https://www.meetup.com/detbtc/",
+    "url_alias": "detroit-bitcoin",
+    "box:east": "-80.34301757812501",
+    "id": 224,
+    "merchantCount": 43
+  },
+  {
     "area_km2": 414.61,
     "type": "community",
     "name": "Einundzwanzig Wien",
@@ -2825,30 +2849,6 @@
     "area_km2": 5808.74,
     "id": 953,
     "merchantCount": 43
-  },
-  {
-    "contact:website": "https://detbtc.com/",
-    "contact:telegram": "https://t.me/detbtc",
-    "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
-    "area_km2": 3044.54,
-    "type": "community",
-    "box:south": "41.37474755643597",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin.jpg",
-    "contact:instagram": "https://www.instagram.com/detbtc/",
-    "contact:email": "duck@kronkltd.net",
-    "population": "7000000",
-    "population:date": "2020-01-01",
-    "tips:lightning_address": "detbtc@coinos.io",
-    "contact:twitter": "https://twitter.com/detbtc",
-    "name": "Detroit Bitcoin",
-    "box:west": "-85.61645507812501",
-    "box:north": "43.1450861841603",
-    "contact:meetup": "https://www.meetup.com/detbtc/",
-    "url_alias": "detroit-bitcoin",
-    "box:east": "-80.34301757812501",
-    "id": 224,
-    "merchantCount": 42
   },
   {
     "iso_a3": "GRC",
@@ -3317,6 +3317,32 @@
     "merchantCount": 36
   },
   {
+    "income_grp": "1. High income: OECD",
+    "population": 9769949,
+    "region_wb": "Europe & Central Asia",
+    "country_type": "Sovereign country",
+    "iso_a3": "HUN",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "HU",
+    "wikidataid": "Q28",
+    "lat": 47.086841,
+    "lon": 19.447867,
+    "sovereignt": "Hungary",
+    "area_km2": 93167.09,
+    "subregion": "Eastern Europe",
+    "gdp_year": 2019,
+    "population:rank": 13,
+    "population:year": 2019,
+    "name": "Hungary",
+    "region_un": "Europe",
+    "gdp_md": 163469,
+    "economy": "2. Developed region: nonG7",
+    "url_alias": "hu",
+    "id": 395,
+    "merchantCount": 36
+  },
+  {
     "gdp_md": 7491,
     "wikidataid": "Q9676",
     "region_un": "Europe",
@@ -3443,32 +3469,6 @@
     "contact:email": "Bitcoinmeetup@posteo.net",
     "continent": "europe",
     "id": 221,
-    "merchantCount": 35
-  },
-  {
-    "income_grp": "1. High income: OECD",
-    "population": 9769949,
-    "region_wb": "Europe & Central Asia",
-    "country_type": "Sovereign country",
-    "iso_a3": "HUN",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "HU",
-    "wikidataid": "Q28",
-    "lat": 47.086841,
-    "lon": 19.447867,
-    "sovereignt": "Hungary",
-    "area_km2": 93167.09,
-    "subregion": "Eastern Europe",
-    "gdp_year": 2019,
-    "population:rank": 13,
-    "population:year": 2019,
-    "name": "Hungary",
-    "region_un": "Europe",
-    "gdp_md": 163469,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "hu",
-    "id": 395,
     "merchantCount": 35
   },
   {
@@ -3709,6 +3709,19 @@
     "merchantCount": 32
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/918.png",
+    "name": "Dallas Bitcoin",
+    "population": 1304379,
+    "population:date": "2020-04-24",
+    "url_alias": "dallas-bitcoin",
+    "contact:meetup": "https://www.meetup.com/dallas-bitcoin-meetup-group",
+    "type": "community",
+    "area_km2": 2350.82,
+    "id": 918,
+    "merchantCount": 32
+  },
+  {
     "sovereignt": "Panama",
     "continent": "North America",
     "population": 4246439,
@@ -3758,19 +3771,6 @@
     "type": "country",
     "url_alias": "tr",
     "id": 622,
-    "merchantCount": 31
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/918.png",
-    "name": "Dallas Bitcoin",
-    "population": 1304379,
-    "population:date": "2020-04-24",
-    "url_alias": "dallas-bitcoin",
-    "contact:meetup": "https://www.meetup.com/dallas-bitcoin-meetup-group",
-    "type": "community",
-    "area_km2": 2350.82,
-    "id": 918,
     "merchantCount": 31
   },
   {
@@ -4218,6 +4218,22 @@
     "merchantCount": 25
   },
   {
+    "contact:instagram": "https://www.instagram.com/orangepillperu/",
+    "continent": "south-america",
+    "name": "Lima - Orange Pill Perú",
+    "type": "community",
+    "area_km2": 3726.15,
+    "contact:email": "orangepillperu@proton.me",
+    "population": 11283787,
+    "contact:telegram": "https://t.me/+KNI65gteoic1MjJh",
+    "icon:square": "https://static.btcmap.org/images/communities/lima.jpeg",
+    "url_alias": "lima",
+    "population:date": "2023-01-01",
+    "contact:twitter": "https://twitter.com/orangepillperu",
+    "id": 440,
+    "merchantCount": 25
+  },
+  {
     "type": "community",
     "contact:website": "https://praiabitcoin.org/",
     "contact:phone": "+5588999885652",
@@ -4396,22 +4412,6 @@
     "name": "Croatia",
     "url_alias": "hr",
     "id": 393,
-    "merchantCount": 23
-  },
-  {
-    "contact:instagram": "https://www.instagram.com/orangepillperu/",
-    "continent": "south-america",
-    "name": "Lima - Orange Pill Perú",
-    "type": "community",
-    "area_km2": 3726.15,
-    "contact:email": "orangepillperu@proton.me",
-    "population": 11283787,
-    "contact:telegram": "https://t.me/+KNI65gteoic1MjJh",
-    "icon:square": "https://static.btcmap.org/images/communities/lima.jpeg",
-    "url_alias": "lima",
-    "population:date": "2023-01-01",
-    "contact:twitter": "https://twitter.com/orangepillperu",
-    "id": 440,
     "merchantCount": 23
   },
   {
@@ -4709,6 +4709,32 @@
     "merchantCount": 20
   },
   {
+    "continent": "Asia",
+    "gdp_md": 261921,
+    "type": "country",
+    "name": "Vietnam",
+    "country_type": "Sovereign country",
+    "economy": "5. Emerging region: G20",
+    "region_wb": "East Asia & Pacific",
+    "population:rank": 16,
+    "income_grp": "4. Lower middle income",
+    "population": 96462106,
+    "iso_a3": "VNM",
+    "sovereignt": "Vietnam",
+    "wikidataid": "Q881",
+    "subregion": "South-Eastern Asia",
+    "population:year": 2019,
+    "region_un": "Asia",
+    "iso_a2": "VN",
+    "gdp_year": 2019,
+    "area_km2": 329677.25,
+    "lon": 105.387292,
+    "lat": 21.715416,
+    "url_alias": "vn",
+    "id": 647,
+    "merchantCount": 20
+  },
+  {
     "contact:telegram": "https://t.me/bitcoinpowerhouse21",
     "contact:twitter": "https://twitter.com/BitcoinpowerH21",
     "continent": "asia",
@@ -4813,32 +4839,6 @@
     "gdp_md": 530883,
     "url_alias": "se",
     "id": 582,
-    "merchantCount": 19
-  },
-  {
-    "continent": "Asia",
-    "gdp_md": 261921,
-    "type": "country",
-    "name": "Vietnam",
-    "country_type": "Sovereign country",
-    "economy": "5. Emerging region: G20",
-    "region_wb": "East Asia & Pacific",
-    "population:rank": 16,
-    "income_grp": "4. Lower middle income",
-    "population": 96462106,
-    "iso_a3": "VNM",
-    "sovereignt": "Vietnam",
-    "wikidataid": "Q881",
-    "subregion": "South-Eastern Asia",
-    "population:year": 2019,
-    "region_un": "Asia",
-    "iso_a2": "VN",
-    "gdp_year": 2019,
-    "area_km2": 329677.25,
-    "lon": 105.387292,
-    "lat": 21.715416,
-    "url_alias": "vn",
-    "id": 647,
     "merchantCount": 19
   },
   {
@@ -5000,6 +5000,21 @@
     "economy": "6. Developing region",
     "url_alias": "ec",
     "id": 245,
+    "merchantCount": 18
+  },
+  {
+    "population:date": "2021-12-31",
+    "language": "de",
+    "name": "Einundzwanzig Hamburg",
+    "area_km2": 974.22,
+    "url_alias": "einundzwanzig-hamburg",
+    "contact:telegram": "https://t.me/Einundzwanzig_HH",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-hamburg.webp",
+    "continent": "europe",
+    "population": 1853935,
+    "organization": "einundzwanzig",
+    "id": 276,
     "merchantCount": 18
   },
   {
@@ -5172,21 +5187,6 @@
     "icon:square": "https://static.btcmap.org/images/areas/142.png",
     "verified:date": "2026-01-07",
     "id": 142,
-    "merchantCount": 17
-  },
-  {
-    "population:date": "2021-12-31",
-    "language": "de",
-    "name": "Einundzwanzig Hamburg",
-    "area_km2": 974.22,
-    "url_alias": "einundzwanzig-hamburg",
-    "contact:telegram": "https://t.me/Einundzwanzig_HH",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-hamburg.webp",
-    "continent": "europe",
-    "population": 1853935,
-    "organization": "einundzwanzig",
-    "id": 276,
     "merchantCount": 17
   },
   {
@@ -5980,6 +5980,22 @@
     "merchantCount": 13
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/944.png",
+    "name": "Nola Bitcoin",
+    "population": 383997,
+    "population:date": "2021-09-21",
+    "url_alias": "nola-bitcoin",
+    "contact:twitter": "https://x.com/NOLA_Bitcoin",
+    "contact:meetup": "https://www.meetup.com/nolabitcoin",
+    "contact:email": "nolabitcoin@gmail.com",
+    "type": "community",
+    "area_km2": 930.41,
+    "contact:nostr": "npub1ptsk65af6s52w2cdr2c40228ktdeet6tmtpe8spdl2t2y7l4030qdrwurx",
+    "id": 944,
+    "merchantCount": 13
+  },
+  {
     "lat": 23.466285,
     "population": 9770529,
     "income_grp": "2. High income: nonOECD",
@@ -6168,22 +6184,6 @@
     "area_km2": 217.27,
     "organization": "einundzwanzig",
     "id": 932,
-    "merchantCount": 12
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/944.png",
-    "name": "Nola Bitcoin",
-    "population": 383997,
-    "population:date": "2021-09-21",
-    "url_alias": "nola-bitcoin",
-    "contact:twitter": "https://x.com/NOLA_Bitcoin",
-    "contact:meetup": "https://www.meetup.com/nolabitcoin",
-    "contact:email": "nolabitcoin@gmail.com",
-    "type": "community",
-    "area_km2": 930.41,
-    "contact:nostr": "npub1ptsk65af6s52w2cdr2c40228ktdeet6tmtpe8spdl2t2y7l4030qdrwurx",
-    "id": 944,
     "merchantCount": 12
   },
   {
