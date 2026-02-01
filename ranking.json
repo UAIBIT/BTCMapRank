@@ -5033,20 +5033,6 @@
   },
   {
     "type": "community",
-    "contact:telegram": "https://t.me/Einundzwanzig_Thurgau",
-    "language": "fr",
-    "organization": "einundzwanzig",
-    "continent": "europe",
-    "name": "Einundzwanzig Thurgau",
-    "population": 285964,
-    "url_alias": "einundzwanzig-thurgau",
-    "population:date": "2021-12-31",
-    "area_km2": 989.9,
-    "id": 339,
-    "merchantCount": 18
-  },
-  {
-    "type": "community",
     "population:date": "2019-01-01",
     "box:east": "-44.30445761527792",
     "contact:telegram": "https://t.me/btcmaranhao",
@@ -9329,6 +9315,20 @@
     "organization": "einundzwanzig",
     "population": 159631,
     "id": 261,
+    "merchantCount": 4
+  },
+  {
+    "area_km2": 120.0,
+    "type": "community",
+    "population:date": "2021-12-31",
+    "population": 102618,
+    "language": "de",
+    "url_alias": "einundzwanzig-klagenfurt",
+    "continent": "europe",
+    "name": "Einundzwanzig Klagenfurt",
+    "contact:telegram": "https://t.me/Einundzwanzig_Kaernten",
+    "organization": "einundzwanzig",
+    "id": 288,
     "merchantCount": 4
   },
   {
@@ -14476,12 +14476,6 @@
     "merchantCount": 0
   },
   {
-    "id": 288,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "area_km2": 69.77,
     "language": "de",
     "population:date": "2021-12-31",
@@ -14633,6 +14627,12 @@
     "contact:telegram": "https://t.me/einundzwanzig_solingen",
     "id": 334,
     "merchantCount": 0
+  },
+  {
+    "id": 339,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "name": "Einundzwanzig Wacken",
