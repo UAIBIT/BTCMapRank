@@ -1102,7 +1102,7 @@
     "contact:twitter": "https://x.com/BTC_Ahuachapan",
     "tips:lightning_address": "bitcoinahuachapan@geyser.fund",
     "id": 968,
-    "merchantCount": 60
+    "merchantCount": 59
   },
   {
     "area_km2": 835.14,
@@ -1672,6 +1672,22 @@
     "merchantCount": 39
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/san-antonio-bitcoin-club.png",
+    "name": "San Antonio Bitcoin Club",
+    "population": 1495000,
+    "population:date": "2023-01-01",
+    "url_alias": "san-antonio-bitcoin-club",
+    "contact:twitter": "https://x.com/sabtcclub",
+    "area_km2": 2147.51,
+    "contact:email": "ge@sanantoniobitcoinclub.com",
+    "contact:website": "https://www.sanantoniobitcoinclub.com/",
+    "contact:meetup": "https://www.meetup.com/pl-PL/sanantoniobitcoinclub/",
+    "type": "community",
+    "id": 824,
+    "merchantCount": 39
+  },
+  {
     "url_alias": "cafeteros-bitcoiners",
     "organization": "2140-meetups",
     "area_km2": 236.21,
@@ -1957,22 +1973,6 @@
     "type": "community",
     "url_alias": "salento-bitcoin",
     "id": 749,
-    "merchantCount": 36
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/san-antonio-bitcoin-club.png",
-    "name": "San Antonio Bitcoin Club",
-    "population": 1495000,
-    "population:date": "2023-01-01",
-    "url_alias": "san-antonio-bitcoin-club",
-    "contact:twitter": "https://x.com/sabtcclub",
-    "area_km2": 2147.51,
-    "contact:email": "ge@sanantoniobitcoinclub.com",
-    "contact:website": "https://www.sanantoniobitcoinclub.com/",
-    "contact:meetup": "https://www.meetup.com/pl-PL/sanantoniobitcoinclub/",
-    "type": "community",
-    "id": 824,
     "merchantCount": 36
   },
   {
@@ -2542,6 +2542,25 @@
     "merchantCount": 25
   },
   {
+    "contact:nostr": "npub1theparkprcs70dcs437ke9zzwsr6u60f8flu7rg28m30438aep9sd94dha",
+    "contact:website": "https://bitcoinpark.com/",
+    "contact:twitter": "https://twitter.com/bitcoinpark_",
+    "contact:meetup": "https://www.meetup.com/bitcoinpark/",
+    "name": "Bitcoin Park",
+    "area_km2": 1739.18,
+    "type": "community",
+    "population:date": "2020-01-01",
+    "url_alias": "bitcoin-park",
+    "contact:telegram": "https://t.me/+y5UOdXGzRDEwY2Yx",
+    "contact:discord": "https://discord.gg/YZ8x7mfFKj",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-park.jpeg",
+    "population": 1989519,
+    "tips:lightning_address": "bitcoinpark@geyser.fund",
+    "continent": "north-america",
+    "id": 131,
+    "merchantCount": 25
+  },
+  {
     "contact:instagram": "https://www.instagram.com/orangepillperu/",
     "continent": "south-america",
     "name": "Lima - Orange Pill Perú",
@@ -2593,25 +2612,6 @@
     "area_km2": 313.45,
     "id": 897,
     "merchantCount": 25
-  },
-  {
-    "contact:nostr": "npub1theparkprcs70dcs437ke9zzwsr6u60f8flu7rg28m30438aep9sd94dha",
-    "contact:website": "https://bitcoinpark.com/",
-    "contact:twitter": "https://twitter.com/bitcoinpark_",
-    "contact:meetup": "https://www.meetup.com/bitcoinpark/",
-    "name": "Bitcoin Park",
-    "area_km2": 1739.18,
-    "type": "community",
-    "population:date": "2020-01-01",
-    "url_alias": "bitcoin-park",
-    "contact:telegram": "https://t.me/+y5UOdXGzRDEwY2Yx",
-    "contact:discord": "https://discord.gg/YZ8x7mfFKj",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-park.jpeg",
-    "population": 1989519,
-    "tips:lightning_address": "bitcoinpark@geyser.fund",
-    "continent": "north-america",
-    "id": 131,
-    "merchantCount": 24
   },
   {
     "area_km2": 462948.08,
@@ -4766,6 +4766,22 @@
     "merchantCount": 9
   },
   {
+    "population:date": "2021-01-01",
+    "url_alias": "paralelná-polis-levice",
+    "area_km2": 168.36,
+    "contact:website": "https://www.paralelnapolislevice.sk/",
+    "contact:email": "web@paralelnapolislevice.sk",
+    "type": "community",
+    "name": "Paralelná Polis Levice",
+    "tips:lightning_address": "pplv@pay.paralelnapolislevice.sk",
+    "population": 31440,
+    "contact:facebook": "https://www.facebook.com/paralelnapolislv",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/paralelná-polis-levice.webp",
+    "id": 522,
+    "merchantCount": 9
+  },
+  {
     "area_km2": 1980,
     "contact:email": "levice@dvadsatjeden.org",
     "contact:nostr": "npub15fgxyv80u6pjd494yh4ltqvmd50knfza75cjmd7z30sca8hlre7s8aqn2n",
@@ -4866,6 +4882,20 @@
     "type": "community",
     "area_km2": 128.17,
     "id": 908,
+    "merchantCount": 9
+  },
+  {
+    "continent": "asia",
+    "icon:square": "https://static.btcmap.org/images/areas/927.png",
+    "name": "Larn Grong Mans",
+    "population": 116417,
+    "population:date": "2025-01-01",
+    "url_alias": "larn-grong-mans",
+    "contact:facebook": "https://www.facebook.com/share/1BQeHry7bM/?mibextid=wwXIfr",
+    "contact:email": "larngrongmans@gmail.com",
+    "type": "community",
+    "area_km2": 354.96,
+    "id": 927,
     "merchantCount": 9
   },
   {
@@ -5161,20 +5191,6 @@
     "tips:lightning_address": "moralarmy45@walletofsatoshi.com",
     "contact:twitter": "https://x.com/BitcoinKitui",
     "id": 924,
-    "merchantCount": 8
-  },
-  {
-    "continent": "asia",
-    "icon:square": "https://static.btcmap.org/images/areas/927.png",
-    "name": "Larn Grong Mans",
-    "population": 116417,
-    "population:date": "2025-01-01",
-    "url_alias": "larn-grong-mans",
-    "contact:facebook": "https://www.facebook.com/share/1BQeHry7bM/?mibextid=wwXIfr",
-    "contact:email": "larngrongmans@gmail.com",
-    "type": "community",
-    "area_km2": 354.96,
-    "id": 927,
     "merchantCount": 8
   },
   {
