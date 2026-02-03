@@ -4929,19 +4929,10 @@
     "merchantCount": 2
   },
   {
-    "area_km2": 69.68,
-    "contact:telegram": "https://t.me/+i7hOYiYDVagyOWVi",
-    "population:date": "2021-12-31",
-    "organization": "einundzwanzig",
-    "language": "de",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-friedrichshafen.webp",
-    "url_alias": "einundzwanzig-friedrichshafen",
-    "population": 61561,
-    "name": "Einundzwanzig Friedrichshafen",
-    "type": "community",
     "id": 272,
-    "merchantCount": 1
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population": 68462,
@@ -15894,10 +15885,19 @@
     "merchantCount": 1
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-kitchen.jpg",
+    "name": "Bitcoin Kitchen",
+    "population": 1901,
+    "population:date": "2022-03-31",
+    "url_alias": "bitcoin-kitchen",
+    "tips:lightning_address": "justsmile@kitchen.anyone.eu.org",
+    "contact:website": "https://kitchen.anyone.eu.org/",
+    "contact:email": "carnhofdaki@gmail.com",
+    "area_km2": 57.63,
+    "type": "community",
     "id": 850,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "id": 851,
@@ -17126,7 +17126,7 @@
     "type": "community",
     "area_km2": 282.84,
     "id": 931,
-    "merchantCount": 117
+    "merchantCount": 118
   },
   {
     "continent": "europe",
@@ -17766,7 +17766,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/976.png",
     "area_km2": 336.83,
     "id": 976,
-    "merchantCount": null
+    "merchantCount": 17
   },
   {
     "continent": "south-america",
@@ -17783,7 +17783,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/977.png",
     "area_km2": 45.95,
     "id": 977,
-    "merchantCount": null
+    "merchantCount": 94
   },
   {
     "id": 978,

@@ -1339,6 +1339,21 @@
     "merchantCount": 120
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/lake-bitcoin.png",
+    "name": "Lago Bitcoin",
+    "population": 10000,
+    "population:date": "2023-01-01",
+    "url_alias": "lago-bitcoin",
+    "contact:twitter": "https://x.com/LakeBitcoin",
+    "organization": "veintiuno-lat",
+    "contact:email": "lago_bitcoin_atitlan@proton.me",
+    "type": "community",
+    "area_km2": 282.84,
+    "id": 931,
+    "merchantCount": 118
+  },
+  {
     "contact:twitter": "https://x.com/bitcoinlake",
     "box:west": -91.30105,
     "name": "Bitcoin Lake Guatemala",
@@ -1354,21 +1369,6 @@
     "box:east": -91.10794,
     "contact:website": "http://bitcoinlake.org",
     "id": 114,
-    "merchantCount": 117
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/lake-bitcoin.png",
-    "name": "Lago Bitcoin",
-    "population": 10000,
-    "population:date": "2023-01-01",
-    "url_alias": "lago-bitcoin",
-    "contact:twitter": "https://x.com/LakeBitcoin",
-    "organization": "veintiuno-lat",
-    "contact:email": "lago_bitcoin_atitlan@proton.me",
-    "type": "community",
-    "area_km2": 282.84,
-    "id": 931,
     "merchantCount": 117
   },
   {
@@ -1487,6 +1487,23 @@
     "contact:twitter": "https://x.com/comunidadbtc_sv",
     "id": 664,
     "merchantCount": 95
+  },
+  {
+    "continent": "south-america",
+    "name": "Bitcoin Santa Ana",
+    "population": 167200,
+    "population:date": "2026-02-02",
+    "url_alias": "bitcoin-santa-ana",
+    "description": "Idioma: Español",
+    "contact:website": "https://t.me/+SmYWdOizjbUzZDVh",
+    "contact:twitter": "https://x.com/la_hojita",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=61582698596505",
+    "type": "community",
+    "verified:date": "2026-02-02",
+    "icon:square": "https://static.btcmap.org/images/areas/977.png",
+    "area_km2": 45.95,
+    "id": 977,
+    "merchantCount": 94
   },
   {
     "continent": "north-america",
@@ -5270,6 +5287,25 @@
     "type": "community",
     "url_alias": "normandie",
     "id": 718,
+    "merchantCount": 17
+  },
+  {
+    "continent": "africa",
+    "name": "Bitsavers Eduhub",
+    "population": 300948,
+    "population:date": "2019-08-24",
+    "url_alias": "bitsavers-eduhub",
+    "tips:lightning_address": "biteduhub@blink.sv",
+    "description": "English Speaking",
+    "contact:instagram": "https://www.instagram.com/biteduhub?igsh=MTJudzgwNXF1cTg1ag==",
+    "contact:twitter": "https://x.com/BitEduhub?t=vQntL8hlwr-OI7cPWfmmWQ&s=08",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=61578651988175",
+    "contact:linkedin": "https://www.linkedin.com/company/bitsavers-eduhub/",
+    "type": "community",
+    "verified:date": "2026-02-02",
+    "icon:square": "https://static.btcmap.org/images/areas/976.png",
+    "area_km2": 336.83,
+    "id": 976,
     "merchantCount": 17
   },
   {
@@ -12077,21 +12113,6 @@
     "merchantCount": 1
   },
   {
-    "area_km2": 69.68,
-    "contact:telegram": "https://t.me/+i7hOYiYDVagyOWVi",
-    "population:date": "2021-12-31",
-    "organization": "einundzwanzig",
-    "language": "de",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-friedrichshafen.webp",
-    "url_alias": "einundzwanzig-friedrichshafen",
-    "population": 61561,
-    "name": "Einundzwanzig Friedrichshafen",
-    "type": "community",
-    "id": 272,
-    "merchantCount": 1
-  },
-  {
     "name": "Einundzwanzig Heide",
     "url_alias": "einundzwanzig-heide",
     "population": 2540,
@@ -14385,6 +14406,12 @@
     "url_alias": "einundzwanzig-ellwangen",
     "id": 267,
     "merchantCount": 0
+  },
+  {
+    "id": 272,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population": 68462,
@@ -17494,10 +17521,19 @@
     "merchantCount": 0
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-kitchen.jpg",
+    "name": "Bitcoin Kitchen",
+    "population": 1901,
+    "population:date": "2022-03-31",
+    "url_alias": "bitcoin-kitchen",
+    "tips:lightning_address": "justsmile@kitchen.anyone.eu.org",
+    "contact:website": "https://kitchen.anyone.eu.org/",
+    "contact:email": "carnhofdaki@gmail.com",
+    "area_km2": 57.63,
+    "type": "community",
     "id": 850,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "id": 851,
@@ -17748,42 +17784,6 @@
     "area_km2": 26.92,
     "id": 971,
     "merchantCount": 0
-  },
-  {
-    "continent": "africa",
-    "name": "Bitsavers Eduhub",
-    "population": 300948,
-    "population:date": "2019-08-24",
-    "url_alias": "bitsavers-eduhub",
-    "tips:lightning_address": "biteduhub@blink.sv",
-    "description": "English Speaking",
-    "contact:instagram": "https://www.instagram.com/biteduhub?igsh=MTJudzgwNXF1cTg1ag==",
-    "contact:twitter": "https://x.com/BitEduhub?t=vQntL8hlwr-OI7cPWfmmWQ&s=08",
-    "contact:facebook": "https://www.facebook.com/profile.php?id=61578651988175",
-    "contact:linkedin": "https://www.linkedin.com/company/bitsavers-eduhub/",
-    "type": "community",
-    "verified:date": "2026-02-02",
-    "icon:square": "https://static.btcmap.org/images/areas/976.png",
-    "area_km2": 336.83,
-    "id": 976,
-    "merchantCount": null
-  },
-  {
-    "continent": "south-america",
-    "name": "Bitcoin Santa Ana",
-    "population": 167200,
-    "population:date": "2026-02-02",
-    "url_alias": "bitcoin-santa-ana",
-    "description": "Idioma: Español",
-    "contact:website": "https://t.me/+SmYWdOizjbUzZDVh",
-    "contact:twitter": "https://x.com/la_hojita",
-    "contact:facebook": "https://www.facebook.com/profile.php?id=61582698596505",
-    "type": "community",
-    "verified:date": "2026-02-02",
-    "icon:square": "https://static.btcmap.org/images/areas/977.png",
-    "area_km2": 45.95,
-    "id": 977,
-    "merchantCount": null
   },
   {
     "id": 978,
