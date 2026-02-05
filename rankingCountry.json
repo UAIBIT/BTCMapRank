@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5580
+    "merchantCount": 5628
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2154
+    "merchantCount": 2155
   },
   {
     "population:year": 2019,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1251
+    "merchantCount": 1250
   },
   {
     "population:rank": 14,
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1056
+    "merchantCount": 1057
   },
   {
     "iso_a2": "CH",
@@ -231,7 +231,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 566
+    "merchantCount": 565
   },
   {
     "region_un": "Americas",
@@ -388,7 +388,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 351
+    "merchantCount": 352
   },
   {
     "region_un": "Europe",
@@ -674,7 +674,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 149
+    "merchantCount": 150
   },
   {
     "lon": -70.653998,
@@ -859,6 +859,32 @@
     "merchantCount": 78
   },
   {
+    "subregion": "South America",
+    "area_km2": 1299185.71,
+    "gdp_year": 2019,
+    "iso_a2": "PE",
+    "country_type": "Sovereign country",
+    "income_grp": "3. Upper middle income",
+    "lat": -12.976679,
+    "lon": -72.90016,
+    "iso_a3": "PER",
+    "region_wb": "Latin America & Caribbean",
+    "population:rank": 15,
+    "wikidataid": "Q419",
+    "sovereignt": "Peru",
+    "population": 32510453,
+    "name": "Peru",
+    "economy": "5. Emerging region: G20",
+    "type": "country",
+    "continent": "South America",
+    "population:year": 2019,
+    "region_un": "Americas",
+    "gdp_md": 226848,
+    "url_alias": "pe",
+    "id": 524,
+    "merchantCount": 76
+  },
+  {
     "region_wb": "Latin America & Caribbean",
     "type": "country",
     "wikidataid": "Q750",
@@ -961,32 +987,6 @@
     "url_alias": "kr",
     "id": 425,
     "merchantCount": 70
-  },
-  {
-    "subregion": "South America",
-    "area_km2": 1299185.71,
-    "gdp_year": 2019,
-    "iso_a2": "PE",
-    "country_type": "Sovereign country",
-    "income_grp": "3. Upper middle income",
-    "lat": -12.976679,
-    "lon": -72.90016,
-    "iso_a3": "PER",
-    "region_wb": "Latin America & Caribbean",
-    "population:rank": 15,
-    "wikidataid": "Q419",
-    "sovereignt": "Peru",
-    "population": 32510453,
-    "name": "Peru",
-    "economy": "5. Emerging region: G20",
-    "type": "country",
-    "continent": "South America",
-    "population:year": 2019,
-    "region_un": "Americas",
-    "gdp_md": 226848,
-    "url_alias": "pe",
-    "id": 524,
-    "merchantCount": 68
   },
   {
     "population:rank": 12,
@@ -2189,6 +2189,32 @@
     "merchantCount": 7
   },
   {
+    "population": 25716544,
+    "income_grp": "4. Lower middle income",
+    "population:rank": 15,
+    "iso_a3": "CIV",
+    "lon": -5.568618,
+    "type": "country",
+    "region_un": "Africa",
+    "economy": "6. Developing region",
+    "iso_a2": "CI",
+    "region_wb": "Sub-Saharan Africa",
+    "continent": "Africa",
+    "wikidataid": "Q1008",
+    "country_type": "Sovereign country",
+    "subregion": "Western Africa",
+    "lat": 7.49139,
+    "name": "Ivory Coast",
+    "sovereignt": "Ivory Coast",
+    "area_km2": 323018.59,
+    "gdp_year": 2019,
+    "gdp_md": 58539,
+    "population:year": 2019,
+    "url_alias": "ci",
+    "id": 198,
+    "merchantCount": 7
+  },
+  {
     "lat": 34.913329,
     "continent": "Asia",
     "gdp_year": 2019,
@@ -2291,32 +2317,6 @@
     "url_alias": "pr",
     "id": 537,
     "merchantCount": 7
-  },
-  {
-    "population": 25716544,
-    "income_grp": "4. Lower middle income",
-    "population:rank": 15,
-    "iso_a3": "CIV",
-    "lon": -5.568618,
-    "type": "country",
-    "region_un": "Africa",
-    "economy": "6. Developing region",
-    "iso_a2": "CI",
-    "region_wb": "Sub-Saharan Africa",
-    "continent": "Africa",
-    "wikidataid": "Q1008",
-    "country_type": "Sovereign country",
-    "subregion": "Western Africa",
-    "lat": 7.49139,
-    "name": "Ivory Coast",
-    "sovereignt": "Ivory Coast",
-    "area_km2": 323018.59,
-    "gdp_year": 2019,
-    "gdp_md": 58539,
-    "population:year": 2019,
-    "url_alias": "ci",
-    "id": 198,
-    "merchantCount": 6
   },
   {
     "url_alias": "gi",
