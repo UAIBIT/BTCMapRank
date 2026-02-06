@@ -16539,24 +16539,10 @@
     "merchantCount": 1
   },
   {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/banska-bystrica.svg",
-    "name": "21 Banská Bystrica",
-    "population": 111946,
-    "population:date": "2003-06-30",
-    "url_alias": "dvadsatjeden-banska-bystrica",
-    "organization": "dvadsatjeden",
-    "contact:email": "banska.bystrica@dvadsatjeden.org",
-    "contact:facebook": "https://www.facebook.com/Dvadsatjeden.org",
-    "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
-    "contact:twitter": "https://x.com/Dvadsatjeden",
-    "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
-    "contact:website": "https://www.dvadsatjeden.org/",
-    "type": "community",
-    "area_km2": 809.16,
-    "tips:lightning_address": "bb@dvadsatjeden.org",
     "id": 893,
-    "merchantCount": 9
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "europe",
@@ -17325,10 +17311,18 @@
     "merchantCount": 13
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/areas/945.png",
+    "name": "Bit Capivara JF",
+    "population": 540756,
+    "population:date": "2022-07-01",
+    "url_alias": "bit-capivara-jf",
+    "contact:email": "bitcapivarajf@tutamail.com",
+    "organization": "uaibit",
+    "type": "community",
+    "area_km2": 1478.97,
     "id": 945,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 6
   },
   {
     "id": 946,
