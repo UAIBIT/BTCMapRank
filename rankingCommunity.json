@@ -918,7 +918,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/44.png",
     "box:east": 100.93104,
     "box:north": 14.04945,
-    "name": "BOB Space",
+    "name": "BOB Space (Bangkok)",
     "type": "community",
     "meetup_lon": 100.557641359514,
     "meetup_lat": 13.7471357534166,
@@ -3156,6 +3156,21 @@
     "url_alias": "colombia-p2p",
     "area_km2": 716.21,
     "id": 208,
+    "merchantCount": 18
+  },
+  {
+    "population:date": "2021-12-31",
+    "language": "de",
+    "name": "Einundzwanzig Hamburg",
+    "area_km2": 974.22,
+    "url_alias": "einundzwanzig-hamburg",
+    "contact:telegram": "https://t.me/Einundzwanzig_HH",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-hamburg.webp",
+    "continent": "europe",
+    "population": 1853935,
+    "organization": "einundzwanzig",
+    "id": 276,
     "merchantCount": 18
   },
   {
@@ -9697,7 +9712,7 @@
     "contact:nostr": "npub10fkwpurnjpxm4fzz4h4ck0ltk3h8pvg5etdhjq52x6pt5s6yu99svu4fjl",
     "contact:github": "https://github.com/bitcoinbenin",
     "tips:lightning_address": "bitcoinbenin@blink.sv",
-    "contact:phone": "+229167483795",
+    "contact:phone": "+2290167483795",
     "verified:date": "2026-02-06",
     "id": 52,
     "merchantCount": 0
