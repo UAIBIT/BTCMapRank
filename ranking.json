@@ -5069,21 +5069,6 @@
     "merchantCount": 18
   },
   {
-    "population:date": "2021-12-31",
-    "language": "de",
-    "name": "Einundzwanzig Hamburg",
-    "area_km2": 974.22,
-    "url_alias": "einundzwanzig-hamburg",
-    "contact:telegram": "https://t.me/Einundzwanzig_HH",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-hamburg.webp",
-    "continent": "europe",
-    "population": 1853935,
-    "organization": "einundzwanzig",
-    "id": 276,
-    "merchantCount": 18
-  },
-  {
     "language": "de",
     "population:date": "2021-12-31",
     "url_alias": "einundzwanzig-thueringen",
@@ -8601,6 +8586,24 @@
     "area_km2": 97.23,
     "id": 965,
     "merchantCount": 6
+  },
+  {
+    "type": "community",
+    "url_alias": "bitcoin-dua",
+    "area_km2": 319.16,
+    "contact:twitter": "https://twitter.com/bitcoin_dua",
+    "contact:email": "bitcoindua67@gmail.com",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-dua.jpg",
+    "contact:telegram": "https://t.me/bitcoindua",
+    "contact:website": "https://geyser.fund/project/bitcoineducationcenter",
+    "contact:whatsapp": "https://chat.whatsapp.com/JEVV12USQIg6s9Z2UvFa4S",
+    "contact:phone": "0241154567",
+    "continent": "africa",
+    "name": "Bitcoin Dua Community",
+    "population": 200000,
+    "population:date": "2021-01-01",
+    "id": 96,
+    "merchantCount": 5
   },
   {
     "name": "Bitcoin Lille",
@@ -13903,12 +13906,6 @@
     "name": null
   },
   {
-    "id": 96,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "contact:email": "info@bitcoin-jamii.com",
     "name": "Goma",
     "population": 2000000,
@@ -14482,6 +14479,12 @@
     "contact:telegram": "https://t.me/einundzwanzig_gelnhausen",
     "id": 274,
     "merchantCount": 0
+  },
+  {
+    "id": 276,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 100.03,
