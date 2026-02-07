@@ -14251,7 +14251,7 @@
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-people-brescia.png",
     "langauge": "it",
     "id": 738,
-    "merchantCount": 51
+    "merchantCount": 52
   },
   {
     "id": 739,
@@ -14425,7 +14425,7 @@
     "type": "community",
     "url_alias": "bitcoin-cape-town",
     "id": 752,
-    "merchantCount": 207
+    "merchantCount": 206
   },
   {
     "area_km2": 61.41,
@@ -14931,7 +14931,7 @@
     "language": "en",
     "contact:github": "https://github.com/bitcoindistrict",
     "id": 785,
-    "merchantCount": 51
+    "merchantCount": 52
   },
   {
     "area_km2": 430.86,
@@ -15079,7 +15079,7 @@
     "type": "community",
     "url_alias": "northwest-arkansas-bitcoin",
     "id": 795,
-    "merchantCount": 11
+    "merchantCount": 12
   },
   {
     "area_km2": 669.6,
@@ -15437,7 +15437,7 @@
     "description": "The Cleveland Bitcoin Club has public, free meetups twice a month. One is typically a bar/social meetup and another is an education/demonstration/planning type meetup at a Public Library. Cleveland Bitcoin hosted the 2024 Halving Party at Town Hall in Ohio City in April 2024 with 60+ attendees and several vendors who accept Bitcoin attended. All are welcome - Bitcoin only.",
     "type": "community",
     "id": 819,
-    "merchantCount": 11
+    "merchantCount": 12
   },
   {
     "continent": "europe",
@@ -16539,10 +16539,24 @@
     "merchantCount": 1
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/banska-bystrica.svg",
+    "name": "21 Banská Bystrica",
+    "population": 111946,
+    "population:date": "2003-06-30",
+    "url_alias": "dvadsatjeden-banska-bystrica",
+    "organization": "dvadsatjeden",
+    "contact:email": "banska.bystrica@dvadsatjeden.org",
+    "contact:facebook": "https://www.facebook.com/Dvadsatjeden.org",
+    "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
+    "contact:twitter": "https://x.com/Dvadsatjeden",
+    "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
+    "contact:website": "https://www.dvadsatjeden.org/",
+    "type": "community",
+    "area_km2": 809.16,
+    "tips:lightning_address": "bb@dvadsatjeden.org",
     "id": 893,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 9
   },
   {
     "continent": "europe",
@@ -17648,7 +17662,7 @@
     "contact:twitter": "https://x.com/BTC_Ahuachapan",
     "tips:lightning_address": "bitcoinahuachapan@geyser.fund",
     "id": 968,
-    "merchantCount": 59
+    "merchantCount": 60
   },
   {
     "id": 969,
@@ -17735,7 +17749,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/974.png",
     "area_km2": 6075.63,
     "id": 974,
-    "merchantCount": 6
+    "merchantCount": 11
   },
   {
     "continent": "south-america",

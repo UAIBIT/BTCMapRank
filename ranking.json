@@ -874,7 +874,7 @@
     "type": "community",
     "url_alias": "bitcoin-cape-town",
     "id": 752,
-    "merchantCount": 207
+    "merchantCount": 206
   },
   {
     "gdp_year": 2019,
@@ -2315,6 +2315,21 @@
     "merchantCount": 60
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/968.png",
+    "name": "Bitcoin Ahuachapán",
+    "population": 367406,
+    "population:date": "2020-02-10",
+    "url_alias": "bitcoin-ahuachapan",
+    "type": "community",
+    "area_km2": 1206.69,
+    "contact:nostr": "npub1hv58r6eryxk5kdaf4qcuusf74uxmfy6lh79j5g5cffk6cw45qr5q53rmt9",
+    "contact:twitter": "https://x.com/BTC_Ahuachapan",
+    "tips:lightning_address": "bitcoinahuachapan@geyser.fund",
+    "id": 968,
+    "merchantCount": 60
+  },
+  {
     "type": "country",
     "region_un": "Asia",
     "country_type": "Sovereign country",
@@ -2338,21 +2353,6 @@
     "area_km2": 370927.36,
     "url_alias": "jp",
     "id": 414,
-    "merchantCount": 59
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/968.png",
-    "name": "Bitcoin Ahuachapán",
-    "population": 367406,
-    "population:date": "2020-02-10",
-    "url_alias": "bitcoin-ahuachapan",
-    "type": "community",
-    "area_km2": 1206.69,
-    "contact:nostr": "npub1hv58r6eryxk5kdaf4qcuusf74uxmfy6lh79j5g5cffk6cw45qr5q53rmt9",
-    "contact:twitter": "https://x.com/BTC_Ahuachapan",
-    "tips:lightning_address": "bitcoinahuachapan@geyser.fund",
-    "id": 968,
     "merchantCount": 59
   },
   {
@@ -2501,6 +2501,45 @@
     "merchantCount": 52
   },
   {
+    "area_km2": 6676,
+    "contact:email": "info@bitcoinpeople.it",
+    "contact:facebook": "https://www.facebook.com/bitcoinpeople.it/",
+    "contact:instagram": "https://www.instagram.com/bitcoinpeople.it/",
+    "contact:linkedin": "https://www.linkedin.com/company/btcpsrl/",
+    "contact:telegram": "https://t.me/+D84ehddzIbg4ZDQ0",
+    "contact:twitter": "https://twitter.com/btcpeopleit",
+    "contact:website": "https://bitcoinpeople.it/",
+    "continent": "europe",
+    "name": "Bitcoin People Brescia",
+    "population": 200423,
+    "population:date": "2019-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-people-brescia",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-people-brescia.png",
+    "langauge": "it",
+    "id": 738,
+    "merchantCount": 52
+  },
+  {
+    "area_km2": 313.96,
+    "contact:email": "info@bitcoindistrict.org",
+    "contact:meetup": "https://www.meetup.com/bitcoin-district",
+    "contact:twitter": "https://x.com/BTCDistrict",
+    "contact:website": "https://bitcoindistrict.org",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-district.png",
+    "name": "Bitcoin District",
+    "population": 678972,
+    "population:date": "2023-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-district",
+    "contact:nostr": "npub1mcke7stw5mrqp97lmdu0qdrfcz2uertdsy2n9pzvfnsdutx3hvkq7d5mnw",
+    "language": "en",
+    "contact:github": "https://github.com/bitcoindistrict",
+    "id": 785,
+    "merchantCount": 52
+  },
+  {
     "continent": "europe",
     "type": "community",
     "area_km2": 2124.88,
@@ -2530,45 +2569,6 @@
     "name": "San Diego Bitcoiners",
     "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 51
-  },
-  {
-    "area_km2": 6676,
-    "contact:email": "info@bitcoinpeople.it",
-    "contact:facebook": "https://www.facebook.com/bitcoinpeople.it/",
-    "contact:instagram": "https://www.instagram.com/bitcoinpeople.it/",
-    "contact:linkedin": "https://www.linkedin.com/company/btcpsrl/",
-    "contact:telegram": "https://t.me/+D84ehddzIbg4ZDQ0",
-    "contact:twitter": "https://twitter.com/btcpeopleit",
-    "contact:website": "https://bitcoinpeople.it/",
-    "continent": "europe",
-    "name": "Bitcoin People Brescia",
-    "population": 200423,
-    "population:date": "2019-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-people-brescia",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-people-brescia.png",
-    "langauge": "it",
-    "id": 738,
-    "merchantCount": 51
-  },
-  {
-    "area_km2": 313.96,
-    "contact:email": "info@bitcoindistrict.org",
-    "contact:meetup": "https://www.meetup.com/bitcoin-district",
-    "contact:twitter": "https://x.com/BTCDistrict",
-    "contact:website": "https://bitcoindistrict.org",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-district.png",
-    "name": "Bitcoin District",
-    "population": 678972,
-    "population:date": "2023-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-district",
-    "contact:nostr": "npub1mcke7stw5mrqp97lmdu0qdrfcz2uertdsy2n9pzvfnsdutx3hvkq7d5mnw",
-    "language": "en",
-    "contact:github": "https://github.com/bitcoindistrict",
-    "id": 785,
     "merchantCount": 51
   },
   {
@@ -6175,6 +6175,43 @@
     "merchantCount": 12
   },
   {
+    "area_km2": 9635.3,
+    "contact:email": "hello@nwabitcoin.org",
+    "contact:meetup": "https://www.meetup.com/fayetteville-cryptocurrency-meetup-group/",
+    "contact:nostr": "npub1wqpvs2tewfzm2vug3g3jk4935m2q32rmd6gptskeeffqwe4dnxvsj6fvyy",
+    "contact:telegram": "https://t.me/+_2v0ojvuzh1lMDlh",
+    "contact:twitter": "https://x.com/NWABitcoin",
+    "contact:website": "https://nwabitcoin.org/",
+    "continent": "north-america",
+    "description": "Growing a Bitcoin community in Northwest Arkansas",
+    "icon:square": "https://static.btcmap.org/images/communities/northwest-arkansas-bitcoin.png",
+    "language": "en",
+    "name": "Northwest Arkansas Bitcoin",
+    "population": 520000,
+    "population:date": "2024-01-01",
+    "tips:lightning_address": "nwabitcoin@getalby.com",
+    "type": "community",
+    "url_alias": "northwest-arkansas-bitcoin",
+    "id": 795,
+    "merchantCount": 12
+  },
+  {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/cleveland-bitcoin.png",
+    "name": "Cleveland Bitcoin",
+    "population": 362656,
+    "population:date": "2023-01-01",
+    "url_alias": "cleveland-bitcoin",
+    "contact:telegram": "https://web.telegram.org/k/#@ClevelandBitcoin",
+    "area_km2": 449.67,
+    "contact:email": "dinger56412@yahoo.com",
+    "contact:twitter": "https://twitter.com/CleBitcoinClub",
+    "description": "The Cleveland Bitcoin Club has public, free meetups twice a month. One is typically a bar/social meetup and another is an education/demonstration/planning type meetup at a Public Library. Cleveland Bitcoin hosted the 2024 Halving Party at Town Hall in Ohio City in April 2024 with 60+ attendees and several vendors who accept Bitcoin attended. All are welcome - Bitcoin only.",
+    "type": "community",
+    "id": 819,
+    "merchantCount": 12
+  },
+  {
     "continent": "africa",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-aves.jpg",
     "name": "Bitcoin Aves",
@@ -6350,27 +6387,6 @@
     "merchantCount": 11
   },
   {
-    "area_km2": 9635.3,
-    "contact:email": "hello@nwabitcoin.org",
-    "contact:meetup": "https://www.meetup.com/fayetteville-cryptocurrency-meetup-group/",
-    "contact:nostr": "npub1wqpvs2tewfzm2vug3g3jk4935m2q32rmd6gptskeeffqwe4dnxvsj6fvyy",
-    "contact:telegram": "https://t.me/+_2v0ojvuzh1lMDlh",
-    "contact:twitter": "https://x.com/NWABitcoin",
-    "contact:website": "https://nwabitcoin.org/",
-    "continent": "north-america",
-    "description": "Growing a Bitcoin community in Northwest Arkansas",
-    "icon:square": "https://static.btcmap.org/images/communities/northwest-arkansas-bitcoin.png",
-    "language": "en",
-    "name": "Northwest Arkansas Bitcoin",
-    "population": 520000,
-    "population:date": "2024-01-01",
-    "tips:lightning_address": "nwabitcoin@getalby.com",
-    "type": "community",
-    "url_alias": "northwest-arkansas-bitcoin",
-    "id": 795,
-    "merchantCount": 11
-  },
-  {
     "area_km2": 669.6,
     "contact:nostr": "npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779",
     "contact:twitter": "https://www.twitter.com/bitcoinchatt",
@@ -6384,22 +6400,6 @@
     "type": "community",
     "url_alias": "bitcoin-chatt",
     "id": 796,
-    "merchantCount": 11
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/cleveland-bitcoin.png",
-    "name": "Cleveland Bitcoin",
-    "population": 362656,
-    "population:date": "2023-01-01",
-    "url_alias": "cleveland-bitcoin",
-    "contact:telegram": "https://web.telegram.org/k/#@ClevelandBitcoin",
-    "area_km2": 449.67,
-    "contact:email": "dinger56412@yahoo.com",
-    "contact:twitter": "https://twitter.com/CleBitcoinClub",
-    "description": "The Cleveland Bitcoin Club has public, free meetups twice a month. One is typically a bar/social meetup and another is an education/demonstration/planning type meetup at a Public Library. Cleveland Bitcoin hosted the 2024 Halving Party at Town Hall in Ohio City in April 2024 with 60+ attendees and several vendors who accept Bitcoin attended. All are welcome - Bitcoin only.",
-    "type": "community",
-    "id": 819,
     "merchantCount": 11
   },
   {
@@ -6491,6 +6491,21 @@
     "type": "community",
     "area_km2": 57324.94,
     "id": 955,
+    "merchantCount": 11
+  },
+  {
+    "continent": "africa",
+    "name": "EcoBitz",
+    "population": 1306411,
+    "population:date": "2020-02-11",
+    "url_alias": "ecobitz",
+    "contact:twitter": "https://x.com/ecobitz_21m",
+    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
+    "type": "community",
+    "verified:date": "2026-01-13",
+    "icon:square": "https://static.btcmap.org/images/areas/974.png",
+    "area_km2": 6075.63,
+    "id": 974,
     "merchantCount": 11
   },
   {
@@ -7076,6 +7091,26 @@
     "area_km2": 54.88,
     "type": "community",
     "id": 822,
+    "merchantCount": 9
+  },
+  {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/banska-bystrica.svg",
+    "name": "21 Banská Bystrica",
+    "population": 111946,
+    "population:date": "2003-06-30",
+    "url_alias": "dvadsatjeden-banska-bystrica",
+    "organization": "dvadsatjeden",
+    "contact:email": "banska.bystrica@dvadsatjeden.org",
+    "contact:facebook": "https://www.facebook.com/Dvadsatjeden.org",
+    "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
+    "contact:twitter": "https://x.com/Dvadsatjeden",
+    "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
+    "contact:website": "https://www.dvadsatjeden.org/",
+    "type": "community",
+    "area_km2": 809.16,
+    "tips:lightning_address": "bb@dvadsatjeden.org",
+    "id": 893,
     "merchantCount": 9
   },
   {
@@ -8565,21 +8600,6 @@
     "type": "community",
     "area_km2": 97.23,
     "id": 965,
-    "merchantCount": 6
-  },
-  {
-    "continent": "africa",
-    "name": "EcoBitz",
-    "population": 1306411,
-    "population:date": "2020-02-11",
-    "url_alias": "ecobitz",
-    "contact:twitter": "https://x.com/ecobitz_21m",
-    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
-    "type": "community",
-    "verified:date": "2026-01-13",
-    "icon:square": "https://static.btcmap.org/images/areas/974.png",
-    "area_km2": 6075.63,
-    "id": 974,
     "merchantCount": 6
   },
   {
@@ -17631,12 +17651,6 @@
   },
   {
     "id": 888,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 893,
     "type": null,
     "merchantCount": 0,
     "name": null
