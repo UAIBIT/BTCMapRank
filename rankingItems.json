@@ -141,7 +141,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1863
+    "merchantCount": 1867
   },
   {
     "subregion": "Caribbean",
@@ -2845,7 +2845,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 164
+    "merchantCount": 168
   },
   {
     "type": "community",
@@ -4122,7 +4122,7 @@
     "url_alias": "detroit-bitcoin",
     "box:east": "-80.34301757812501",
     "id": 224,
-    "merchantCount": 43
+    "merchantCount": 44
   },
   {
     "name": "Detroit Bitcoin and Beer",
@@ -4137,7 +4137,7 @@
     "area_km2": 496.7,
     "continent": "north-america",
     "id": 225,
-    "merchantCount": 9
+    "merchantCount": 10
   },
   {
     "contact:website": "https://dezentralschweiz.ch/",
@@ -6172,7 +6172,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 378
+    "merchantCount": 379
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/escuelita-bitcoin.webp",
@@ -7412,7 +7412,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1058
+    "merchantCount": 1059
   },
   {
     "region_un": "Europe",
@@ -7608,7 +7608,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 150
+    "merchantCount": 155
   },
   {
     "income_grp": "5. Low income",
@@ -9515,30 +9515,10 @@
     "merchantCount": 11
   },
   {
-    "iso_a2": "NL",
-    "continent": "Europe",
-    "gdp_year": 2019,
-    "income_grp": "1. High income: OECD",
-    "region_wb": "Europe & Central Asia",
-    "name": "Netherlands",
-    "economy": "2. Developed region: nonG7",
-    "region_un": "Europe",
-    "area_km2": 37215.5,
-    "sovereignt": "Netherlands",
-    "subregion": "Western Europe",
-    "type": "country",
-    "lat": 52.422211,
-    "lon": 5.61144,
-    "iso_a3": "NLD",
-    "population": 17332850,
-    "country_type": "Country",
-    "wikidataid": "Q55",
-    "population:rank": 14,
-    "population:year": 2019,
-    "gdp_md": 907050,
-    "url_alias": "nl",
     "id": 507,
-    "merchantCount": 358
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population": 393027,
@@ -10648,7 +10628,7 @@
     "url_alias": "sactown-bitcoin",
     "icon:square": "https://static.btcmap.org/images/communities/sactown-bitcoin.jpeg",
     "id": 561,
-    "merchantCount": 22
+    "merchantCount": 23
   },
   {
     "contact:telegram": "https://t.me/StBrieucBitcoin",
@@ -10745,7 +10725,7 @@
     "name": "San Diego Bitcoiners",
     "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 51
+    "merchantCount": 52
   },
   {
     "continent": "south-america",
@@ -10815,7 +10795,7 @@
     "continent": "europe",
     "type": "trash",
     "id": 572,
-    "merchantCount": 1095
+    "merchantCount": 1096
   },
   {
     "name": "Arezzo Bitcoin Meetup",
@@ -11429,7 +11409,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1331
+    "merchantCount": 1332
   },
   {
     "lat": 18.04088,
@@ -11663,7 +11643,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 465
+    "merchantCount": 466
   },
   {
     "lat": 38.199835,
@@ -12143,7 +12123,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5647
+    "merchantCount": 5697
   },
   {
     "population": 1734000,
@@ -12186,7 +12166,7 @@
     "gdp_md": 56045,
     "url_alias": "uy",
     "id": 635,
-    "merchantCount": 8
+    "merchantCount": 9
   },
   {
     "economy": "6. Developing region",
@@ -12649,7 +12629,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1250
+    "merchantCount": 1249
   },
   {
     "continent": "Africa",
@@ -12757,7 +12737,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 23289
+    "merchantCount": 23348
   },
   {
     "url_alias": "horizonte_bitcoin",
