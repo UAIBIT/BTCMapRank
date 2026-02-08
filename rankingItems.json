@@ -15319,10 +15319,20 @@
     "merchantCount": 5
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/livefreebtc.png",
+    "name": "LiveFreeBTC",
+    "population": 44629,
+    "population:date": "2023-01-01",
+    "url_alias": "livefreebtc",
+    "contact:website": "https://livefreebtc.com",
+    "contact:email": "livefreebtc@protonmail.com",
+    "contact:twitter": "https://x.com/LiveFreeBTC",
+    "tips:lightning_address": "livefreebtcllc@strike.me",
+    "area_km2": 173.87,
+    "type": "community",
     "id": 811,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "continent": "africa",
