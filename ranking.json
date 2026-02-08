@@ -8075,20 +8075,6 @@
     "merchantCount": 7
   },
   {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/areas/956.png",
-    "name": "Pé Vermelho BTC",
-    "population": 581382,
-    "population:date": "2025-06-28",
-    "url_alias": "pe-vermelho-btc",
-    "contact:whatsapp": "https://chat.whatsapp.com/BmwEI798ifCKoPTppvFHpU",
-    "organization": "uaibit",
-    "type": "community",
-    "area_km2": 1686.95,
-    "id": 956,
-    "merchantCount": 7
-  },
-  {
     "contact:twitter": "https://twitter.com/BanskoBitcoin",
     "box:north": "41.866237149376",
     "population": "8873",
@@ -17743,6 +17729,12 @@
     "area_km2": 851.7,
     "id": 954,
     "merchantCount": 0
+  },
+  {
+    "id": 956,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "south-america",
