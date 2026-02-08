@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5697
+    "merchantCount": 5725
   },
   {
     "wikidataid": "Q155",
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1332
+    "merchantCount": 1333
   },
   {
     "gdp_md": 351431,
@@ -310,7 +310,7 @@
     "name": "Costa Rica",
     "url_alias": "cr",
     "id": 211,
-    "merchantCount": 390
+    "merchantCount": 391
   },
   {
     "population": 47076781,
@@ -362,7 +362,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 358
+    "merchantCount": 359
   },
   {
     "wikidataid": "Q45",
@@ -622,7 +622,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 200
+    "merchantCount": 199
   },
   {
     "income_grp": "3. Upper middle income",
@@ -674,7 +674,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 155
+    "merchantCount": 157
   },
   {
     "lon": -70.653998,
@@ -1821,32 +1821,6 @@
     "merchantCount": 15
   },
   {
-    "region_un": "Asia",
-    "subregion": "Western Asia",
-    "country_type": "Disputed",
-    "region_wb": "Middle East & North Africa",
-    "wikidataid": "Q801",
-    "iso_a2": "IL",
-    "iso_a3": "ISR",
-    "lon": 34.847915,
-    "continent": "Asia",
-    "type": "country",
-    "sovereignt": "Israel",
-    "population:year": 2019,
-    "area_km2": 22099.83,
-    "population": 9053300,
-    "lat": 30.911148,
-    "income_grp": "1. High income: OECD",
-    "population:rank": 13,
-    "name": "Israel",
-    "gdp_year": 2019,
-    "gdp_md": 394652,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "il",
-    "id": 398,
-    "merchantCount": 14
-  },
-  {
     "wikidataid": "Q822",
     "population": 6855713,
     "economy": "6. Developing region",
@@ -1871,6 +1845,32 @@
     "url_alias": "lb",
     "id": 433,
     "merchantCount": 14
+  },
+  {
+    "region_un": "Asia",
+    "subregion": "Western Asia",
+    "country_type": "Disputed",
+    "region_wb": "Middle East & North Africa",
+    "wikidataid": "Q801",
+    "iso_a2": "IL",
+    "iso_a3": "ISR",
+    "lon": 34.847915,
+    "continent": "Asia",
+    "type": "country",
+    "sovereignt": "Israel",
+    "population:year": 2019,
+    "area_km2": 22099.83,
+    "population": 9053300,
+    "lat": 30.911148,
+    "income_grp": "1. High income: OECD",
+    "population:rank": 13,
+    "name": "Israel",
+    "gdp_year": 2019,
+    "gdp_md": 394652,
+    "economy": "2. Developed region: nonG7",
+    "url_alias": "il",
+    "id": 398,
+    "merchantCount": 13
   },
   {
     "lat": 23.466285,
