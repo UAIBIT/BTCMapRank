@@ -3677,6 +3677,22 @@
     "merchantCount": 33
   },
   {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-karoo.jpg",
+    "name": "Bitcoin Karoo",
+    "population": 61507,
+    "population:date": "2001-01-01",
+    "url_alias": "bitcoin_karoo",
+    "contact:email": "bitcoinkaroo@gmail.com",
+    "tips:lightning_address": "bitcoinkaroo@blink.sv",
+    "contact:nostr": "npub1neu52lkuvk35asednf50qy9l864ln9nrzw7uv5eucj0rchmdfauqqqap7p",
+    "type": "community",
+    "area_km2": 14352.84,
+    "contact:twitter": "https://x.com/bitcoinkaroo",
+    "id": 907,
+    "merchantCount": 33
+  },
+  {
     "name": "Bitcoin Charlotte",
     "contact:website": "https://bitcoincharlotte.org",
     "population": "874579",
@@ -17672,12 +17688,6 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
-  },
-  {
-    "id": 907,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "id": 916,
