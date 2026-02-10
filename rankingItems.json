@@ -2529,7 +2529,7 @@
     "area_km2": 915.86,
     "contact:email": "hugowob@proton.me",
     "id": 141,
-    "merchantCount": 37
+    "merchantCount": 38
   },
   {
     "contact:twitter": "https://twitter.com/bitcoinsurrey",
@@ -2595,7 +2595,7 @@
     "area_km2": 915.86,
     "population:date": "2022",
     "id": 145,
-    "merchantCount": 37
+    "merchantCount": 38
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-ubuntu.png",
@@ -6172,7 +6172,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 379
+    "merchantCount": 380
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/escuelita-bitcoin.webp",
@@ -8675,7 +8675,7 @@
     "contact:email": "meetbmad.6f348@slmail.me",
     "contact:telegram": "https://t.me/+QtM6-to1ZBvHI6eg",
     "id": 468,
-    "merchantCount": 37
+    "merchantCount": 38
   },
   {
     "contact:website": "https://www.bitcoinonly.melbourne/",
@@ -9420,7 +9420,7 @@
     "contact:website": "https://nevadacountybitcoin.godaddysites.com/",
     "icon:square": "https://static.btcmap.org/images/communities/nevada-county-bitcoin.webp",
     "id": 502,
-    "merchantCount": 2
+    "merchantCount": 3
   },
   {
     "population:date": "2021-01-01",
@@ -12143,7 +12143,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5757
+    "merchantCount": 5783
   },
   {
     "population": 1734000,
@@ -12751,13 +12751,13 @@
     "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
     "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
     "id": 661,
-    "merchantCount": 14
+    "merchantCount": 15
   },
   {
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 23418
+    "merchantCount": 23445
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -16785,20 +16785,10 @@
     "merchantCount": 14
   },
   {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-karoo.jpg",
-    "name": "Bitcoin Karoo",
-    "population": 61507,
-    "population:date": "2001-01-01",
-    "url_alias": "bitcoin_karoo",
-    "contact:email": "bitcoinkaroo@gmail.com",
-    "tips:lightning_address": "bitcoinkaroo@blink.sv",
-    "contact:nostr": "npub1neu52lkuvk35asednf50qy9l864ln9nrzw7uv5eucj0rchmdfauqqqap7p",
-    "type": "community",
-    "area_km2": 14352.84,
-    "contact:twitter": "https://x.com/bitcoinkaroo",
     "id": 907,
-    "merchantCount": 33
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "europe",
