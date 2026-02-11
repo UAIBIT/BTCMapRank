@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5783
+    "merchantCount": 5825
   },
   {
     "wikidataid": "Q155",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 469
+    "merchantCount": 472
   },
   {
     "country_type": "Sovereign country",
@@ -466,7 +466,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 329
+    "merchantCount": 328
   },
   {
     "name": "Poland",
@@ -492,7 +492,7 @@
     "area_km2": 313243.76,
     "url_alias": "pl",
     "id": 530,
-    "merchantCount": 304
+    "merchantCount": 306
   },
   {
     "population": 16604026,
@@ -856,7 +856,7 @@
     "gdp_md": 376795,
     "url_alias": "ph",
     "id": 528,
-    "merchantCount": 78
+    "merchantCount": 77
   },
   {
     "subregion": "South America",
@@ -1324,7 +1324,7 @@
     "iso_a3": "IDN",
     "url_alias": "id",
     "id": 396,
-    "merchantCount": 35
+    "merchantCount": 34
   },
   {
     "area_km2": 385110.87,
@@ -1613,6 +1613,32 @@
     "merchantCount": 23
   },
   {
+    "iso_a2": "MY",
+    "region_un": "Asia",
+    "population": 31949777,
+    "area_km2": 328377.38,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "sovereignt": "Malaysia",
+    "lat": 2.528667,
+    "population:year": 2019,
+    "gdp_md": 364681,
+    "gdp_year": 2019,
+    "economy": "6. Developing region",
+    "income_grp": "3. Upper middle income",
+    "lon": 113.83708,
+    "type": "country",
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "MYS",
+    "subregion": "South-Eastern Asia",
+    "wikidataid": "Q833",
+    "population:rank": 15,
+    "name": "Malaysia",
+    "url_alias": "my",
+    "id": 494,
+    "merchantCount": 23
+  },
+  {
     "continent": "Africa",
     "gdp_md": 35165,
     "type": "country",
@@ -1637,32 +1663,6 @@
     "url_alias": "ug",
     "id": 630,
     "merchantCount": 23
-  },
-  {
-    "iso_a2": "MY",
-    "region_un": "Asia",
-    "population": 31949777,
-    "area_km2": 328377.38,
-    "country_type": "Sovereign country",
-    "continent": "Asia",
-    "sovereignt": "Malaysia",
-    "lat": 2.528667,
-    "population:year": 2019,
-    "gdp_md": 364681,
-    "gdp_year": 2019,
-    "economy": "6. Developing region",
-    "income_grp": "3. Upper middle income",
-    "lon": 113.83708,
-    "type": "country",
-    "region_wb": "East Asia & Pacific",
-    "iso_a3": "MYS",
-    "subregion": "South-Eastern Asia",
-    "wikidataid": "Q833",
-    "population:rank": 15,
-    "name": "Malaysia",
-    "url_alias": "my",
-    "id": 494,
-    "merchantCount": 22
   },
   {
     "continent": "Asia",
