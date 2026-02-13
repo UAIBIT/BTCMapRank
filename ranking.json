@@ -2845,32 +2845,6 @@
     "merchantCount": 43
   },
   {
-    "lon": 7.50322,
-    "area_km2": 913593.56,
-    "type": "country",
-    "region_wb": "Sub-Saharan Africa",
-    "income_grp": "4. Lower middle income",
-    "population": 200963599,
-    "subregion": "Western Africa",
-    "gdp_year": 2019,
-    "region_un": "Africa",
-    "population:year": 2019,
-    "wikidataid": "Q1033",
-    "sovereignt": "Nigeria",
-    "name": "Nigeria",
-    "gdp_md": 448120,
-    "iso_a2": "NG",
-    "economy": "5. Emerging region: G20",
-    "lat": 9.439799,
-    "population:rank": 17,
-    "country_type": "Sovereign country",
-    "iso_a3": "NGA",
-    "continent": "Africa",
-    "url_alias": "ng",
-    "id": 505,
-    "merchantCount": 43
-  },
-  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/areas/926.png",
     "name": "Twenty One Kickoff",
@@ -3317,6 +3291,7 @@
     "contact:youtube": "https://www.youtube.com/@BitcoinChiangMai",
     "tips:lightning_address": "Kostro@walletofsatoshi.com",
     "verified:date": "2026-02-11",
+    "contact:nostr": "npub1c9r9lad84kpqwnh09u58vdzwnfsnxcr7a40uf5ulkpdguq4667jsgaxu4k",
     "id": 196,
     "merchantCount": 36
   },
@@ -4279,6 +4254,21 @@
     "icon:square": "https://static.btcmap.org/images/communities/sactown-bitcoin.jpeg",
     "id": 561,
     "merchantCount": 26
+  },
+  {
+    "population:date": "2020-01-01",
+    "url_alias": "auxerre",
+    "organization": "decouvre-bitcoin",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/auxerre.png",
+    "language": "fr",
+    "population": 34151,
+    "name": "Auxerre",
+    "area_km2": 3454.84,
+    "contact:telegram": "https://t.me/AuxerreBitcoinMeetup",
+    "continent": "europe",
+    "id": 35,
+    "merchantCount": 25
   },
   {
     "area_km2": 462948.08,
@@ -13761,12 +13751,6 @@
     "merchantCount": 0
   },
   {
-    "id": 35,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "population": 29884,
     "gdp_year": 2016,
     "economy": "2. Developed region: nonG7",
@@ -15831,6 +15815,12 @@
     "url_alias": "nf",
     "id": 504,
     "merchantCount": 0
+  },
+  {
+    "id": 505,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population": 393027,

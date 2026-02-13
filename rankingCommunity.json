@@ -1927,6 +1927,7 @@
     "contact:youtube": "https://www.youtube.com/@BitcoinChiangMai",
     "tips:lightning_address": "Kostro@walletofsatoshi.com",
     "verified:date": "2026-02-11",
+    "contact:nostr": "npub1c9r9lad84kpqwnh09u58vdzwnfsnxcr7a40uf5ulkpdguq4667jsgaxu4k",
     "id": 196,
     "merchantCount": 36
   },
@@ -2603,6 +2604,21 @@
     "icon:square": "https://static.btcmap.org/images/communities/sactown-bitcoin.jpeg",
     "id": 561,
     "merchantCount": 26
+  },
+  {
+    "population:date": "2020-01-01",
+    "url_alias": "auxerre",
+    "organization": "decouvre-bitcoin",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/auxerre.png",
+    "language": "fr",
+    "population": 34151,
+    "name": "Auxerre",
+    "area_km2": 3454.84,
+    "contact:telegram": "https://t.me/AuxerreBitcoinMeetup",
+    "continent": "europe",
+    "id": 35,
+    "merchantCount": 25
   },
   {
     "area_km2": 462948.08,
