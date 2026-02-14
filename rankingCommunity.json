@@ -4100,6 +4100,21 @@
     "merchantCount": 13
   },
   {
+    "continent": "europe",
+    "name": "Eenentwintig Limburg",
+    "population": 1117201,
+    "population:date": "2026-02-13",
+    "url_alias": "eenentwintig-limburg",
+    "organization": "eenentwintig",
+    "type": "community",
+    "verified:date": "2026-02-13",
+    "icon:square": "https://static.btcmap.org/images/areas/981.png",
+    "area_km2": 2253.23,
+    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
+    "id": 981,
+    "merchantCount": 13
+  },
+  {
     "contact:telegram": "https://t.me/DwadziesciaJeden",
     "contact:twitter": "https://twitter.com/21BitcoinPolska",
     "population:date": "2022-01-01",
@@ -5285,6 +5300,22 @@
     "type": "community",
     "area_km2": 283.01,
     "id": 963,
+    "merchantCount": 8
+  },
+  {
+    "continent": "europe",
+    "name": "Eenentwintig Utrecht",
+    "population": 367947,
+    "population:date": "2026-02-13",
+    "url_alias": "eenentwintig-utrecht",
+    "type": "community",
+    "verified:date": "2026-02-13",
+    "icon:square": "https://static.btcmap.org/images/areas/980.png",
+    "area_km2": 105.05,
+    "contact:telegram": "https://t.me/+m8apa45pAD5mODY0",
+    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
+    "organization": "eenentwintig",
+    "id": 980,
     "merchantCount": 8
   },
   {
@@ -6551,10 +6582,10 @@
     "population:date": "2023-01-01",
     "url_alias": "bitcoin-groningen",
     "contact:twitter": "https://x.com/BitcoinGrunn",
-    "contact:email": "bitcoinishope.english@protonmail.com",
     "contact:telegram": "https://t.me/+Hjn5frWClcc1NDU0",
     "type": "community",
     "area_km2": 126.46,
+    "verified:date": "2026-02-13",
     "id": 847,
     "merchantCount": 5
   },
@@ -11154,21 +11185,5 @@
     "area_km2": 26.92,
     "id": 971,
     "merchantCount": 0
-  },
-  {
-    "continent": "europe",
-    "name": "Eenentwintig Utrecht",
-    "population": 367947,
-    "population:date": "2026-02-13",
-    "url_alias": "eenentwintig-utrecht",
-    "type": "community",
-    "verified:date": "2026-02-13",
-    "icon:square": "https://static.btcmap.org/images/areas/980.png",
-    "area_km2": 105.05,
-    "contact:telegram": "https://t.me/+m8apa45pAD5mODY0",
-    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
-    "organization": "eenentwintig",
-    "id": 980,
-    "merchantCount": null
   }
 ]

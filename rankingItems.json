@@ -15874,10 +15874,10 @@
     "population:date": "2023-01-01",
     "url_alias": "bitcoin-groningen",
     "contact:twitter": "https://x.com/BitcoinGrunn",
-    "contact:email": "bitcoinishope.english@protonmail.com",
     "contact:telegram": "https://t.me/+Hjn5frWClcc1NDU0",
     "type": "community",
     "area_km2": 126.46,
+    "verified:date": "2026-02-13",
     "id": 847,
     "merchantCount": 5
   },
@@ -17866,13 +17866,22 @@
     "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
     "organization": "eenentwintig",
     "id": 980,
-    "merchantCount": null
+    "merchantCount": 8
   },
   {
+    "continent": "europe",
+    "name": "Eenentwintig Limburg",
+    "population": 1117201,
+    "population:date": "2026-02-13",
+    "url_alias": "eenentwintig-limburg",
+    "organization": "eenentwintig",
+    "type": "community",
+    "verified:date": "2026-02-13",
+    "icon:square": "https://static.btcmap.org/images/areas/981.png",
+    "area_km2": 2253.23,
+    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
     "id": 981,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 13
   },
   {
     "id": 982,
