@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5908
+    "merchantCount": 5961
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2160
+    "merchantCount": 2162
   },
   {
     "population:year": 2019,
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 608
+    "merchantCount": 609
   },
   {
     "sovereignt": "Canada",
@@ -257,7 +257,7 @@
     "gdp_year": 2019,
     "url_alias": "mx",
     "id": 493,
-    "merchantCount": 538
+    "merchantCount": 539
   },
   {
     "gdp_md": 543548,
@@ -2033,32 +2033,6 @@
     "merchantCount": 9
   },
   {
-    "iso_a3": "URY",
-    "wikidataid": "Q77",
-    "area_km2": 177958.98,
-    "region_wb": "Latin America & Caribbean",
-    "type": "country",
-    "name": "Uruguay",
-    "continent": "South America",
-    "population": 3461734,
-    "population:rank": 12,
-    "population:year": 2019,
-    "income_grp": "3. Upper middle income",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "iso_a2": "UY",
-    "subregion": "South America",
-    "sovereignt": "Uruguay",
-    "lat": -32.961127,
-    "economy": "5. Emerging region: G20",
-    "region_un": "Americas",
-    "lon": -55.966942,
-    "gdp_md": 56045,
-    "url_alias": "uy",
-    "id": 635,
-    "merchantCount": 9
-  },
-  {
     "type": "country",
     "income_grp": "3. Upper middle income",
     "population:year": 2019,
@@ -2160,6 +2134,32 @@
     "sovereignt": "Senegal",
     "url_alias": "sn",
     "id": 591,
+    "merchantCount": 8
+  },
+  {
+    "iso_a3": "URY",
+    "wikidataid": "Q77",
+    "area_km2": 177958.98,
+    "region_wb": "Latin America & Caribbean",
+    "type": "country",
+    "name": "Uruguay",
+    "continent": "South America",
+    "population": 3461734,
+    "population:rank": 12,
+    "population:year": 2019,
+    "income_grp": "3. Upper middle income",
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "iso_a2": "UY",
+    "subregion": "South America",
+    "sovereignt": "Uruguay",
+    "lat": -32.961127,
+    "economy": "5. Emerging region: G20",
+    "region_un": "Americas",
+    "lon": -55.966942,
+    "gdp_md": 56045,
+    "url_alias": "uy",
+    "id": 635,
     "merchantCount": 8
   },
   {
