@@ -3937,22 +3937,6 @@
     "merchantCount": 29
   },
   {
-    "area_km2": 144,
-    "contact:email": "hector@miprimerbitcoin.io",
-    "contact:meetup": "https://www.meetup.com/bismarck-bitcoin-meetup/",
-    "contact:twitter": "https://x.com/BitcoinGrove",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/725.png",
-    "name": "Bitcoin Grove",
-    "organization": "mi-primer-bitcoin",
-    "population": 442241,
-    "population:date": "2020-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-grove",
-    "id": 725,
-    "merchantCount": 29
-  },
-  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/club-satoshi.jpg",
     "name": "Club Satoshi",
@@ -17376,6 +17360,12 @@
     "url_alias": "rikto-xonghoti",
     "id": 722,
     "merchantCount": 0
+  },
+  {
+    "id": 725,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 122,
