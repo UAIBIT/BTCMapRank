@@ -15539,20 +15539,10 @@
     "merchantCount": 1
   },
   {
-    "continent": "south-america",
-    "icon:square": "https://btcmap.org/.netlify/images?url=https://static.btcmap.org/images/communities/bitcoin-asu.webp&fit=cover&w=256&h=256",
-    "name": "Bitcoin Encarnación",
-    "population": 449642,
-    "population:date": "2022-01-01",
-    "url_alias": "bitcoin-encarnacion",
-    "contact:email": "enc@bitcoinparaguay.org",
-    "tips:lightning_address": "enc@ln.bitcoinparaguay.org",
-    "organization": "bitcoin-paraguay",
-    "area_km2": 15900.06,
-    "contact:whatsapp": "https://chat.whatsapp.com/Ji46qKv13WE1nGioxyodTH",
-    "type": "community",
     "id": 826,
-    "merchantCount": 2
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "europe",
@@ -17887,10 +17877,20 @@
     "merchantCount": 13
   },
   {
+    "continent": "asia",
+    "name": "Tokyo Bitcoin Base",
+    "population": 13613660,
+    "population:date": "2026-02-16",
+    "url_alias": "tokyo-bitcoin-base",
+    "type": "community",
+    "verified:date": "2026-02-16",
+    "icon:square": "https://static.btcmap.org/images/areas/982.png",
+    "area_km2": 2503.89,
+    "contact:twitter": "https://x.com/TBB_JP",
+    "contact:instagram": "https://www.instagram.com/tokyobitcoinbase_jp",
+    "contact:website": "https://tokyobitcoin.space/",
     "id": 982,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
     "id": 983,
