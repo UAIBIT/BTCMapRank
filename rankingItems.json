@@ -589,7 +589,7 @@
     "contact:website": "https://atlantabitdevs.org",
     "population:date": "2020-01-01",
     "id": 32,
-    "merchantCount": 26
+    "merchantCount": 27
   },
   {
     "sovereignt": "Australia",
@@ -907,7 +907,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 170
+    "merchantCount": 172
   },
   {
     "population": 287025,
@@ -1304,7 +1304,7 @@
     "population:date": "2020-01-01",
     "url_alias": "bitcoin-and-beer",
     "id": 67,
-    "merchantCount": 21
+    "merchantCount": 22
   },
   {
     "id": 68,
@@ -2846,7 +2846,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 184
+    "merchantCount": 185
   },
   {
     "type": "community",
@@ -3050,7 +3050,7 @@
     "contact:nostr": "npub1d020nktlkel7q09xq4d5zy53w5jx0lgynhtxkg7ggf5kryajet2sxw4uh2",
     "url_alias": "bozeman-bitcoin",
     "id": 172,
-    "merchantCount": 5
+    "merchantCount": 6
   },
   {
     "wikidataid": "Q155",
@@ -3076,7 +3076,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2161
+    "merchantCount": 2163
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -3822,7 +3822,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 134
+    "merchantCount": 135
   },
   {
     "id": 210,
@@ -4061,7 +4061,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 611
+    "merchantCount": 610
   },
   {
     "contact:reddit": "https://www.reddit.com/r/debitcoinshow",
@@ -4101,7 +4101,7 @@
     "contact:meetup": "https://www.meetup.com/denver-bitdevs/",
     "icon:square": "https://static.btcmap.org/images/communities/denver-bit-devs.jpeg",
     "id": 223,
-    "merchantCount": 25
+    "merchantCount": 26
   },
   {
     "contact:website": "https://detbtc.com/",
@@ -4240,7 +4240,7 @@
     "area_km2": 42511.96,
     "url_alias": "dk",
     "id": 230,
-    "merchantCount": 7
+    "merchantCount": 8
   },
   {
     "population": 71808,
@@ -4798,7 +4798,7 @@
     "population": "83695430",
     "continent": "europe",
     "id": 262,
-    "merchantCount": 618
+    "merchantCount": 617
   },
   {
     "continent": "europe",
@@ -5792,7 +5792,7 @@
     "name": "Einundzwanzig Sachsen-Anhalt",
     "contact:telegram": "https://t.me/Meetup21SA",
     "id": 328,
-    "merchantCount": 13
+    "merchantCount": 12
   },
   {
     "url_alias": "einundzwanzig-salzburg",
@@ -7563,30 +7563,10 @@
     "merchantCount": 3
   },
   {
-    "type": "country",
-    "region_un": "Asia",
-    "country_type": "Sovereign country",
-    "subregion": "Eastern Asia",
-    "region_wb": "East Asia & Pacific",
-    "sovereignt": "Japan",
-    "continent": "Asia",
-    "lon": 138.44217,
-    "iso_a2": "JP",
-    "wikidataid": "Q17",
-    "name": "Japan",
-    "population": 126264931,
-    "population:rank": 17,
-    "iso_a3": "JPN",
-    "gdp_md": 5081769,
-    "economy": "1. Developed region: G7",
-    "population:year": 2019,
-    "lat": 36.142538,
-    "income_grp": "1. High income: OECD",
-    "gdp_year": 2019,
-    "area_km2": 370927.36,
-    "url_alias": "jp",
     "id": 414,
-    "merchantCount": 59
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 596166.85,
@@ -8592,7 +8572,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 94
+    "merchantCount": 95
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/mayasbitcoiners.png",
@@ -9978,7 +9958,7 @@
     "gdp_md": 376795,
     "url_alias": "ph",
     "id": 528,
-    "merchantCount": 77
+    "merchantCount": 76
   },
   {
     "population": 216565318,
@@ -12147,7 +12127,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 5993
+    "merchantCount": 6014
   },
   {
     "population": 1734000,
@@ -12508,7 +12488,7 @@
     "contact:twitter": "https://twitter.com/MassBitcoin",
     "url_alias": "western-mass-bitcoin",
     "id": 650,
-    "merchantCount": 16
+    "merchantCount": 17
   },
   {
     "iso_a2": "WF",
