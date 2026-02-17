@@ -12761,7 +12761,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 23680
+    "merchantCount": 23703
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -12856,7 +12856,7 @@
     "contact:email": "kontakt@enogtyve.org",
     "contact:website": "https://www.enogtyve.org",
     "id": 667,
-    "merchantCount": 0
+    "merchantCount": 1
   },
   {
     "contact:nostr": "npub1h5gc62mhzak97z9y9mznc9jcwv0re8nx9eqt35ta9d4kyvjqt9csnzjx0m",
@@ -15539,10 +15539,20 @@
     "merchantCount": 1
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://btcmap.org/.netlify/images?url=https://static.btcmap.org/images/communities/bitcoin-asu.webp&fit=cover&w=256&h=256",
+    "name": "Bitcoin Encarnación",
+    "population": 449642,
+    "population:date": "2022-01-01",
+    "url_alias": "bitcoin-encarnacion",
+    "contact:email": "enc@bitcoinparaguay.org",
+    "tips:lightning_address": "enc@ln.bitcoinparaguay.org",
+    "organization": "bitcoin-paraguay",
+    "area_km2": 15900.06,
+    "contact:whatsapp": "https://chat.whatsapp.com/Ji46qKv13WE1nGioxyodTH",
+    "type": "community",
     "id": 826,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 2
   },
   {
     "continent": "europe",
@@ -17458,7 +17468,7 @@
     "type": "community",
     "area_km2": 5808.74,
     "id": 953,
-    "merchantCount": 43
+    "merchantCount": 44
   },
   {
     "continent": "south-america",
@@ -17890,7 +17900,7 @@
     "contact:instagram": "https://www.instagram.com/tokyobitcoinbase_jp",
     "contact:website": "https://tokyobitcoin.space/",
     "id": 982,
-    "merchantCount": null
+    "merchantCount": 41
   },
   {
     "id": 983,

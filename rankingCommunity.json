@@ -1544,6 +1544,23 @@
     "merchantCount": 44
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/areas/953.png",
+    "name": "BTC Conecta",
+    "population": 2817381,
+    "population:date": "2025-11-16",
+    "url_alias": "btc-conecta",
+    "tips:lightning_address": "lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhk66tww46x2emvdahk6dpn27wq2c",
+    "contact:website": "https://btcconecta.com.br",
+    "contact:instagram": "https://instagram.com/btcconecta",
+    "contact:email": "btcconecta@proton.me",
+    "organization": "uaibit",
+    "type": "community",
+    "area_km2": 5808.74,
+    "id": 953,
+    "merchantCount": 44
+  },
+  {
     "area_km2": 414.61,
     "type": "community",
     "name": "Einundzwanzig Wien",
@@ -1572,23 +1589,6 @@
     "area_km2": 414.91,
     "verified:date": "2026-01-18",
     "id": 926,
-    "merchantCount": 43
-  },
-  {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/areas/953.png",
-    "name": "BTC Conecta",
-    "population": 2817381,
-    "population:date": "2025-11-16",
-    "url_alias": "btc-conecta",
-    "tips:lightning_address": "lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhk66tww46x2emvdahk6dpn27wq2c",
-    "contact:website": "https://btcconecta.com.br",
-    "contact:instagram": "https://instagram.com/btcconecta",
-    "contact:email": "btcconecta@proton.me",
-    "organization": "uaibit",
-    "type": "community",
-    "area_km2": 5808.74,
-    "id": 953,
     "merchantCount": 43
   },
   {
@@ -1675,6 +1675,22 @@
     "organization": "satoshi-team",
     "verified:date": "2026-01-09",
     "id": 915,
+    "merchantCount": 41
+  },
+  {
+    "continent": "asia",
+    "name": "Tokyo Bitcoin Base",
+    "population": 13613660,
+    "population:date": "2026-02-16",
+    "url_alias": "tokyo-bitcoin-base",
+    "type": "community",
+    "verified:date": "2026-02-16",
+    "icon:square": "https://static.btcmap.org/images/areas/982.png",
+    "area_km2": 2503.89,
+    "contact:twitter": "https://x.com/TBB_JP",
+    "contact:instagram": "https://www.instagram.com/tokyobitcoinbase_jp",
+    "contact:website": "https://tokyobitcoin.space/",
+    "id": 982,
     "merchantCount": 41
   },
   {
@@ -8250,6 +8266,22 @@
     "merchantCount": 2
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://btcmap.org/.netlify/images?url=https://static.btcmap.org/images/communities/bitcoin-asu.webp&fit=cover&w=256&h=256",
+    "name": "Bitcoin Encarnación",
+    "population": 449642,
+    "population:date": "2022-01-01",
+    "url_alias": "bitcoin-encarnacion",
+    "contact:email": "enc@bitcoinparaguay.org",
+    "tips:lightning_address": "enc@ln.bitcoinparaguay.org",
+    "organization": "bitcoin-paraguay",
+    "area_km2": 15900.06,
+    "contact:whatsapp": "https://chat.whatsapp.com/Ji46qKv13WE1nGioxyodTH",
+    "type": "community",
+    "id": 826,
+    "merchantCount": 2
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/areas/840.png",
     "name": "Lincolnshire Bitcoin",
@@ -9170,6 +9202,28 @@
     "population": 137850,
     "name": "Tours",
     "id": 621,
+    "merchantCount": 1
+  },
+  {
+    "contact:nostr": "npub1h5gc62mhzak97z9y9mznc9jcwv0re8nx9eqt35ta9d4kyvjqt9csnzjx0m",
+    "type": "community",
+    "population:date": "2023-01-01",
+    "contact:youtube": "https://www.youtube.com/@enogtyvedanmark",
+    "continent": "europe",
+    "organization": "enogtyve",
+    "population": 207762,
+    "contact:telegram": "https://t.me/enogtyvedk",
+    "name": "Enogtyve Odense",
+    "contact:twitter": "https://twitter.com/enogtyvedk",
+    "icon:square": "https://static.btcmap.org/images/communities/enogtyve-odense.png",
+    "area_km2": 479,
+    "url_alias": "enogtyve-odense",
+    "contact:facebook": "https://www.facebook.com/groups/enogtyve/",
+    "contact:instagram": "https://www.instagram.com/enogtyvedanmark/",
+    "tips:lightning_address": "enogtyve@getalby.com",
+    "contact:email": "kontakt@enogtyve.org",
+    "contact:website": "https://www.enogtyve.org",
+    "id": 667,
     "merchantCount": 1
   },
   {
@@ -10486,28 +10540,6 @@
   },
   {
     "contact:nostr": "npub1h5gc62mhzak97z9y9mznc9jcwv0re8nx9eqt35ta9d4kyvjqt9csnzjx0m",
-    "type": "community",
-    "population:date": "2023-01-01",
-    "contact:youtube": "https://www.youtube.com/@enogtyvedanmark",
-    "continent": "europe",
-    "organization": "enogtyve",
-    "population": 207762,
-    "contact:telegram": "https://t.me/enogtyvedk",
-    "name": "Enogtyve Odense",
-    "contact:twitter": "https://twitter.com/enogtyvedk",
-    "icon:square": "https://static.btcmap.org/images/communities/enogtyve-odense.png",
-    "area_km2": 479,
-    "url_alias": "enogtyve-odense",
-    "contact:facebook": "https://www.facebook.com/groups/enogtyve/",
-    "contact:instagram": "https://www.instagram.com/enogtyvedanmark/",
-    "tips:lightning_address": "enogtyve@getalby.com",
-    "contact:email": "kontakt@enogtyve.org",
-    "contact:website": "https://www.enogtyve.org",
-    "id": 667,
-    "merchantCount": 0
-  },
-  {
-    "contact:nostr": "npub1h5gc62mhzak97z9y9mznc9jcwv0re8nx9eqt35ta9d4kyvjqt9csnzjx0m",
     "contact:youtube": "https://www.youtube.com/@enogtyvedanmark",
     "contact:facebook": "https://www.facebook.com/groups/enogtyve/",
     "icon:square": "https://static.btcmap.org/images/communities/enogtyve-ålborg.png",
@@ -11172,21 +11204,5 @@
     "area_km2": 26.92,
     "id": 971,
     "merchantCount": 0
-  },
-  {
-    "continent": "asia",
-    "name": "Tokyo Bitcoin Base",
-    "population": 13613660,
-    "population:date": "2026-02-16",
-    "url_alias": "tokyo-bitcoin-base",
-    "type": "community",
-    "verified:date": "2026-02-16",
-    "icon:square": "https://static.btcmap.org/images/areas/982.png",
-    "area_km2": 2503.89,
-    "contact:twitter": "https://x.com/TBB_JP",
-    "contact:instagram": "https://www.instagram.com/tokyobitcoinbase_jp",
-    "contact:website": "https://tokyobitcoin.space/",
-    "id": 982,
-    "merchantCount": null
   }
 ]
