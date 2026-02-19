@@ -9466,6 +9466,32 @@
     "merchantCount": 4
   },
   {
+    "subregion": "Northern Africa",
+    "lat": 31.650723,
+    "iso_a2": "MA",
+    "sovereignt": "Morocco",
+    "region_un": "Africa",
+    "gdp_md": 119700,
+    "iso_a3": "MAR",
+    "country_type": "Sovereign country",
+    "population:rank": 15,
+    "gdp_year": 2019,
+    "income_grp": "4. Lower middle income",
+    "population:year": 2019,
+    "name": "Morocco",
+    "area_km2": 583692.11,
+    "wikidataid": "Q1028",
+    "type": "country",
+    "continent": "Africa",
+    "region_wb": "Middle East & North Africa",
+    "economy": "6. Developing region",
+    "lon": -7.187296,
+    "population": 36471769,
+    "url_alias": "ma",
+    "id": 455,
+    "merchantCount": 4
+  },
+  {
     "sovereignt": "North Macedonia",
     "iso_a3": "MKD",
     "continent": "Europe",
@@ -11500,23 +11526,6 @@
     "type": "community",
     "url_alias": "juneau-btc",
     "id": 721,
-    "merchantCount": 2
-  },
-  {
-    "area_km2": 1954.84,
-    "contact:telegram": "https://t.me/BitcoinMetz_antiCBDC",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/metz.png",
-    "language": "fr",
-    "name": "Metz",
-    "population": 120874,
-    "population:date": "2021-01-01",
-    "type": "community",
-    "url_alias": "metz",
-    "contact:twitter": "https://x.com/btc_metz",
-    "contact:facebook": "https://www.facebook.com/groups/2115420038875684/",
-    "contact:website": "https://bitcoinmetz.fr/",
-    "id": 731,
     "merchantCount": 2
   },
   {
@@ -15540,12 +15549,6 @@
     "merchantCount": 0
   },
   {
-    "id": 455,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "contact:telegram": "https://t.me/Maconmeetupbitcoin",
     "population": 34414,
     "type": "community",
@@ -17391,6 +17394,12 @@
     "url_alias": "sovereign-student",
     "id": 726,
     "merchantCount": 0
+  },
+  {
+    "id": 731,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 111.27,
