@@ -16973,17 +16973,10 @@
     "merchantCount": 8
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/918.png",
-    "name": "Dallas Bitcoin",
-    "population": 1304379,
-    "population:date": "2020-04-24",
-    "url_alias": "dallas-bitcoin",
-    "contact:meetup": "https://www.meetup.com/dallas-bitcoin-meetup-group",
-    "type": "community",
-    "area_km2": 2350.82,
     "id": 918,
-    "merchantCount": 35
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "south-america",
@@ -17573,10 +17566,20 @@
     "merchantCount": 2
   },
   {
+    "continent": "europe",
+    "icon:square": "https://raw.githubusercontent.com/EinundzwanzigRottweil/Files/main/EinundzwanzigRottweil.png",
+    "name": "Einundzwanzig Rottweil",
+    "population": 25691,
+    "population:date": "2006-03-31",
+    "url_alias": "einundzwanzig-rottweil",
+    "tips:lightning_address": "einundzwanzig_rottweil@blink.sv",
+    "contact:website": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil?l=de",
+    "contact:email": "einundzwanzig-rottweil@mail.de",
+    "organization": "einundzwanzig",
+    "type": "community",
+    "area_km2": 79.88,
     "id": 962,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "continent": "south-america",
