@@ -1006,23 +1006,6 @@
     "merchantCount": 64
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitdevs-cdmx.png",
-    "name": "Bitdevs CDMX",
-    "population": 9209944,
-    "population:date": "2024-01-01",
-    "url_alias": "bitdevs-cdmx",
-    "organization": "bit-devs",
-    "contact:website": "https://www.cdmxbitdevs.org/",
-    "description": "La Casa de Satoshi CDMX is a non-profit organization leading Bitcoin adoption in Mexico City.",
-    "contact:meetup": "https://lu.ma/lacasadesatoshi",
-    "area_km2": 985.26,
-    "contact:twitter": "https://x.com/LaCasaDeSatoshi",
-    "type": "community",
-    "id": 844,
-    "merchantCount": 63
-  },
-  {
     "continent": "south-america",
     "icon:square": "https://btcmap.org/.netlify/images?url=https://static.btcmap.org/images/communities/porto-alegre-bitcoin.png&fit=cover&w=256&h=256",
     "name": "Belo Horizonte - Go BTC",
@@ -1037,7 +1020,7 @@
     "organization": "go-btc",
     "type": "community",
     "id": 861,
-    "merchantCount": 63
+    "merchantCount": 64
   },
   {
     "continent": "south-america",
@@ -1053,6 +1036,23 @@
     "type": "community",
     "area_km2": 330.14,
     "id": 868,
+    "merchantCount": 64
+  },
+  {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitdevs-cdmx.png",
+    "name": "Bitdevs CDMX",
+    "population": 9209944,
+    "population:date": "2024-01-01",
+    "url_alias": "bitdevs-cdmx",
+    "organization": "bit-devs",
+    "contact:website": "https://www.cdmxbitdevs.org/",
+    "description": "La Casa de Satoshi CDMX is a non-profit organization leading Bitcoin adoption in Mexico City.",
+    "contact:meetup": "https://lu.ma/lacasadesatoshi",
+    "area_km2": 985.26,
+    "contact:twitter": "https://x.com/LaCasaDeSatoshi",
+    "type": "community",
+    "id": 844,
     "merchantCount": 63
   },
   {
@@ -1337,20 +1337,6 @@
     "merchantCount": 51
   },
   {
-    "organization": "einundzwanzig",
-    "area_km2": 890.91,
-    "type": "community",
-    "population": 3677472,
-    "contact:telegram": "https://t.me/Einundzwanzig_Berlin",
-    "continent": "europe",
-    "url_alias": "einundzwanzig-berlin",
-    "name": "Einundzwanzig Berlin",
-    "population:date": "2021-12-31",
-    "language": "de",
-    "id": 257,
-    "merchantCount": 49
-  },
-  {
     "url_alias": "horizonte_bitcoin",
     "name": "Horizonte Bitcoin",
     "tips:lightning_address": "horizontebitcoin@getalby.com",
@@ -1363,6 +1349,20 @@
     "icon:square": "https://static.btcmap.org/images/communities/horizonte_bitcoin.jpeg",
     "area_km2": 552.91,
     "id": 663,
+    "merchantCount": 50
+  },
+  {
+    "organization": "einundzwanzig",
+    "area_km2": 890.91,
+    "type": "community",
+    "population": 3677472,
+    "contact:telegram": "https://t.me/Einundzwanzig_Berlin",
+    "continent": "europe",
+    "url_alias": "einundzwanzig-berlin",
+    "name": "Einundzwanzig Berlin",
+    "population:date": "2021-12-31",
+    "language": "de",
+    "id": 257,
     "merchantCount": 49
   },
   {
@@ -2077,24 +2077,6 @@
     "merchantCount": 35
   },
   {
-    "contact:reddit": "https://www.reddit.com/r/debitcoinshow",
-    "area_km2": 384.44,
-    "type": "community",
-    "contact:telegram": "https://t.me/de_bitcoin_show",
-    "url_alias": "de-bitcoin-meetup",
-    "name": "De Bitcoin Meetup",
-    "icon:square": "https://static.btcmap.org/images/communities/de-bitcoin-meetup.png",
-    "contact:meetup": "https://www.meetup.com/nl-NL/de-bitcoin-meetup/",
-    "contact:website": "https://debitcoinshow.nl/",
-    "population:date": "2022-11-01",
-    "population": "2480394",
-    "contact:rss": "https://anchor.fm/s/da403dc/podcast/rss",
-    "contact:email": "Bitcoinmeetup@posteo.net",
-    "continent": "europe",
-    "id": 221,
-    "merchantCount": 35
-  },
-  {
     "area_km2": 675.76,
     "contact:email": "floripacoin@vyp.li",
     "contact:instagram": "https://www.instagram.com/floripacoin/",
@@ -2344,6 +2326,22 @@
     "merchantCount": 30
   },
   {
+    "area_km2": 144,
+    "contact:email": "hector@miprimerbitcoin.io",
+    "contact:meetup": "https://www.meetup.com/bismarck-bitcoin-meetup/",
+    "contact:twitter": "https://x.com/BitcoinGrove",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/725.png",
+    "name": "Bitcoin Grove",
+    "organization": "mi-primer-bitcoin",
+    "population": 442241,
+    "population:date": "2020-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-grove",
+    "id": 725,
+    "merchantCount": 30
+  },
+  {
     "continent": "north-america",
     "population:date": "2020-01-01",
     "contact:meetup": "https://meetu.ps/c/4Xp7m/sCFz6/a",
@@ -2406,22 +2404,6 @@
     "icon:square": "https://static.btcmap.org/images/communities/la-antigua-bitcoin.jpeg",
     "area_km2": 181.87,
     "id": 430,
-    "merchantCount": 29
-  },
-  {
-    "area_km2": 144,
-    "contact:email": "hector@miprimerbitcoin.io",
-    "contact:meetup": "https://www.meetup.com/bismarck-bitcoin-meetup/",
-    "contact:twitter": "https://x.com/BitcoinGrove",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/725.png",
-    "name": "Bitcoin Grove",
-    "organization": "mi-primer-bitcoin",
-    "population": 442241,
-    "population:date": "2020-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-grove",
-    "id": 725,
     "merchantCount": 29
   },
   {
@@ -3297,6 +3279,24 @@
     "merchantCount": 18
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/rhode-island-bitcoiners.jpg",
+    "name": "Rhode Island Bitcoiners",
+    "population": 1112308,
+    "population:date": "2024-01-01",
+    "url_alias": "rhode-island-bitcoiners",
+    "tips:lightning_address": "ribitcoiners@geyser.fund",
+    "contact:website": "https://ribtc.carrd.co/",
+    "contact:telegram": "https://t.me/+BvuH154RY4A2NTRh",
+    "contact:twitter": "https://x.com/RIBitcoiners",
+    "contact:nostr": "nprofile1qqsv8m45un7q33kr34rwg2zse25xjgnkag2pne26nsw7kcnn5dgwydg0sk778",
+    "contact:meetup": "https://www.meetup.com/ribitcoiners/",
+    "type": "community",
+    "area_km2": 4682.16,
+    "id": 967,
+    "merchantCount": 18
+  },
+  {
     "population:date": "2021-01-01",
     "url_alias": "bitcoin-cypherpunks-uncensored-afterhours",
     "contact:email": "amerkazmiko@gmail.com",
@@ -3398,24 +3398,6 @@
     "type": "community",
     "url_alias": "normandie",
     "id": 718,
-    "merchantCount": 17
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/rhode-island-bitcoiners.jpg",
-    "name": "Rhode Island Bitcoiners",
-    "population": 1112308,
-    "population:date": "2024-01-01",
-    "url_alias": "rhode-island-bitcoiners",
-    "tips:lightning_address": "ribitcoiners@geyser.fund",
-    "contact:website": "https://ribtc.carrd.co/",
-    "contact:telegram": "https://t.me/+BvuH154RY4A2NTRh",
-    "contact:twitter": "https://x.com/RIBitcoiners",
-    "contact:nostr": "nprofile1qqsv8m45un7q33kr34rwg2zse25xjgnkag2pne26nsw7kcnn5dgwydg0sk778",
-    "contact:meetup": "https://www.meetup.com/ribitcoiners/",
-    "type": "community",
-    "area_km2": 4682.16,
-    "id": 967,
     "merchantCount": 17
   },
   {
@@ -3740,6 +3722,21 @@
     "merchantCount": 14
   },
   {
+    "population:date": "2022",
+    "url_alias": "valencia-bitcoin-plebs",
+    "area_km2": 386.91,
+    "icon:square": "https://static.btcmap.org/images/communities/valencia-bitcoin-plebs.jpg",
+    "organization": "2140-meetups",
+    "contact:telegram": "https://t.me/+s58_1nTCzqplZDhk",
+    "population": "792492",
+    "continent": "europe",
+    "contact:email": "jabravo@negotians.net",
+    "name": "Valencia Bitcoin Plebs",
+    "type": "community",
+    "id": 638,
+    "merchantCount": 14
+  },
+  {
     "area_km2": 2723,
     "contact:email": "bitcoinsafaritz@gmail.com",
     "contact:facebook": "https://www.facebook.com/bitcointanzania",
@@ -3876,6 +3873,21 @@
     "merchantCount": 14
   },
   {
+    "continent": "africa",
+    "name": "EcoBitz",
+    "population": 1306411,
+    "population:date": "2020-02-11",
+    "url_alias": "ecobitz",
+    "contact:twitter": "https://x.com/ecobitz_21m",
+    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
+    "type": "community",
+    "verified:date": "2026-01-13",
+    "icon:square": "https://static.btcmap.org/images/areas/974.png",
+    "area_km2": 6075.63,
+    "id": 974,
+    "merchantCount": 14
+  },
+  {
     "url_alias": "bitcoin-ibiza",
     "contact:telegram": "https://t.me/bitcoinibiza",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-ibiza.jpeg",
@@ -3934,21 +3946,6 @@
     "area_km2": 6497.16,
     "name": "Einundzwanzig Ostwestfalen-Lippe",
     "id": 312,
-    "merchantCount": 13
-  },
-  {
-    "population:date": "2022",
-    "url_alias": "valencia-bitcoin-plebs",
-    "area_km2": 386.91,
-    "icon:square": "https://static.btcmap.org/images/communities/valencia-bitcoin-plebs.jpg",
-    "organization": "2140-meetups",
-    "contact:telegram": "https://t.me/+s58_1nTCzqplZDhk",
-    "population": "792492",
-    "continent": "europe",
-    "contact:email": "jabravo@negotians.net",
-    "name": "Valencia Bitcoin Plebs",
-    "type": "community",
-    "id": 638,
     "merchantCount": 13
   },
   {
@@ -4086,21 +4083,6 @@
     "type": "community",
     "area_km2": 57324.94,
     "id": 955,
-    "merchantCount": 13
-  },
-  {
-    "continent": "africa",
-    "name": "EcoBitz",
-    "population": 1306411,
-    "population:date": "2020-02-11",
-    "url_alias": "ecobitz",
-    "contact:twitter": "https://x.com/ecobitz_21m",
-    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
-    "type": "community",
-    "verified:date": "2026-01-13",
-    "icon:square": "https://static.btcmap.org/images/areas/974.png",
-    "area_km2": 6075.63,
-    "id": 974,
     "merchantCount": 13
   },
   {
@@ -5764,25 +5746,6 @@
     "contact:telegram": "https://twitter.com/cobraenbitcoin",
     "organization": "2140-meetups",
     "id": 102,
-    "merchantCount": 6
-  },
-  {
-    "box:east": 7.32719421386719,
-    "url_alias": "bitcoin-lausanne",
-    "contact:twitter": "https://twitter.com/BitcoinLausanne",
-    "population": "139111",
-    "box:west": 6.00196838378906,
-    "contact:telegram": "https://t.me/BitcoinLausanne",
-    "name": "Bitcoin Lausanne",
-    "area_km2": 40.88,
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lausanne.jpg",
-    "continent": "europe",
-    "box:south": 46.3104186157758,
-    "population:date": "2019-01-01",
-    "type": "community",
-    "contact:website": "https://bitcoinlausanne.ch/",
-    "box:north": 46.7582095629924,
-    "id": 115,
     "merchantCount": 6
   },
   {
