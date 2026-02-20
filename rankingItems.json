@@ -4689,21 +4689,10 @@
     "merchantCount": 11
   },
   {
-    "organization": "einundzwanzig",
-    "contact:twitter": "https://twitter.com/einundzwanzigBS",
-    "url_alias": "einundzwanzig-basel-bitcoin-basel",
-    "name": "Einundzwanzig Basel",
-    "language": "fr",
-    "population:date": "2020-12-31",
-    "area_km2": 24.06,
-    "continent": "europe",
-    "contact:telegram": "https://t.me/EinundzwanzigBS",
-    "contact:website": "https://bitcoin-basel.ch",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-basel-bitcoin-basel.webp",
-    "population": 173863,
-    "type": "community",
     "id": 256,
-    "merchantCount": 11
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "organization": "einundzwanzig",
@@ -16645,10 +16634,24 @@
     "merchantCount": 25
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoincomoxvalley.jpg",
+    "name": "Bitcoin Comox Valley",
+    "population": 72445,
+    "population:date": "2023-12-02",
+    "url_alias": "bitcoincomoxvalley",
+    "area_km2": 2494.27,
+    "tips:lightning_address": "bitcoinvalley@coinos.io",
+    "contact:website": "https://bitcoincomoxvalley.ca/",
+    "contact:twitter": "https://x.com/btccomoxvalley",
+    "contact:instagram": "https://www.instagram.com/bitcoincomoxvalley",
+    "contact:email": "info@bitcoincomoxvalley.ca",
+    "contact:meetup": "https://www.meetup.com/bitcoinvanisle/",
+    "tips:url": "https://geyser.fund/project/bitcoinvalleycirculareconomy",
+    "language": "en, fr",
+    "type": "community",
     "id": 898,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 21
   },
   {
     "continent": "south-america",
