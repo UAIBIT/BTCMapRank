@@ -4467,32 +4467,6 @@
     "merchantCount": 23
   },
   {
-    "gdp_md": 282318,
-    "country_type": "Sovereign country",
-    "area_km2": 739098.84,
-    "iso_a2": "CL",
-    "sovereignt": "Chile",
-    "lat": -38.151771,
-    "region_un": "Americas",
-    "iso_a3": "CHL",
-    "population:year": 2019,
-    "economy": "5. Emerging region: G20",
-    "population:rank": 14,
-    "population": 18952038,
-    "continent": "South America",
-    "region_wb": "Latin America & Caribbean",
-    "gdp_year": 2019,
-    "type": "country",
-    "income_grp": "3. Upper middle income",
-    "subregion": "South America",
-    "lon": -72.318871,
-    "wikidataid": "Q298",
-    "name": "Chile",
-    "url_alias": "cl",
-    "id": 200,
-    "merchantCount": 23
-  },
-  {
     "region_un": "Europe",
     "gdp_md": 60752,
     "economy": "2. Developed region: nonG7",
@@ -14332,6 +14306,12 @@
     "url_alias": "ck",
     "id": 199,
     "merchantCount": 0
+  },
+  {
+    "id": 200,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "lat": 4.585041,
