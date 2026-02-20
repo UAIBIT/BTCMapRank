@@ -13572,6 +13572,22 @@
     "merchantCount": 1
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-alpujarra.jpg",
+    "name": "Bitcoin Alpujarra",
+    "population": 23339,
+    "population:date": "2023-01-01",
+    "url_alias": "bitcoin-alpujarra",
+    "contact:email": "stefankaiser67@icloud.com",
+    "contact:facebook": "https://www.facebook.com/groups/1396895501638824",
+    "contact:telegram": "https://t.me/+_-q6i8tKULw4ZTZi",
+    "tips:lightning_address": "lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkvmm4wf3ks6tdv5eng6ezk70",
+    "type": "community",
+    "area_km2": 1142.47,
+    "id": 878,
+    "merchantCount": 1
+  },
+  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/republica-do-bitcoin.jpg",
     "name": "República Do Bitcoin",
@@ -17717,12 +17733,6 @@
   },
   {
     "id": 863,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 878,
     "type": null,
     "merchantCount": 0,
     "name": null
