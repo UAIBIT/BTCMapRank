@@ -4892,10 +4892,20 @@
     "merchantCount": 1
   },
   {
+    "continent": "europe",
+    "organization": "einundzwanzig",
+    "name": "Einundzwanzig Franken",
+    "language": "de",
+    "url_alias": "einundzwanzig-franken",
+    "population:date": "2021-12-31",
+    "contact:twitter": "https://twitter.com/einundzwanzigFR",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-franken.webp",
+    "area_km2": 42763.68,
+    "contact:telegram": "https://t.me/Einundzwanzig_FRANKEN",
+    "population": 4131723,
+    "type": "community",
     "id": 269,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 36
   },
   {
     "name": "Einundzwanzig Frankfurt am Main",
@@ -12934,7 +12944,7 @@
     "contact:website": "https://www.dvadsatjeden.org/prievidza/",
     "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-prievidza.jpeg",
+    "icon:square": "https://static.btcmap.org/images/areas/672.png",
     "name": "21 Prievidza",
     "population": 128613,
     "population:date": "2023-12-31",
@@ -12944,6 +12954,7 @@
     "tips:lightning_address": "donate@dvadsatjeden.org",
     "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
     "contact:facebook": "https://www.facebook.com/Dvadsatjeden.org",
+    "verified:date": "2026-02-21",
     "id": 672,
     "merchantCount": 8
   },
@@ -14455,7 +14466,7 @@
     "contact:email": "petronelus@protonmail.com",
     "contact:signal": "https://signal.group/#CjQKIN6wf-gdM6BWWtWQW_qOjmHovkHrzlM3AMIMZzPX0QCrEhAjG8EVeumNs8Ev7EpQ-zPD",
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/21-banska-stiavnica.png",
+    "icon:square": "https://static.btcmap.org/images/areas/755.png",
     "language": "sk, cs, en",
     "name": "21 Banská Štiavnica",
     "organization": "dvadsatjeden",
@@ -14464,6 +14475,7 @@
     "tips:lightning_address": "21bs@pay.dvadsatjeden.org",
     "type": "community",
     "url_alias": "21-banska-stiavnica",
+    "verified:date": "2026-02-21",
     "id": 755,
     "merchantCount": 2
   },
@@ -14505,7 +14517,7 @@
     "contact:email": "tulo.michal@gmail.com",
     "contact:website": "https://www.dvadsatjeden.org/",
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-galanta.svg",
+    "icon:square": "https://static.btcmap.org/images/areas/758.png",
     "language": "sk, en, de, hu",
     "name": "21 Galanta",
     "organization": "dvadsatjeden",
@@ -14514,6 +14526,7 @@
     "tips:lightning_address": "galanta@dvadsatjeden.org",
     "type": "community",
     "url_alias": "dvadsatjeden-galanta",
+    "verified:date": "2026-02-21",
     "id": 758,
     "merchantCount": 3
   },
@@ -14522,7 +14535,7 @@
     "contact:email": "nitra@dvadsatjeden.org",
     "contact:website": "https://www.dvadsatjeden.org/",
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-nitra.svg",
+    "icon:square": "https://static.btcmap.org/images/areas/759.png",
     "language": "sk",
     "name": "21 Nitra",
     "organization": "dvadsatjeden",
@@ -14531,6 +14544,7 @@
     "tips:lightning_address": "nitra@dvadsatjeden.org",
     "type": "community",
     "url_alias": "dvadsatjeden-nitra",
+    "verified:date": "2026-02-21",
     "id": 759,
     "merchantCount": 13
   },
@@ -14556,13 +14570,14 @@
     "contact:email": "poprad@dvadsatjeden.org",
     "contact:website": "https://www.dvadsatjeden.org/",
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-poprad.svg",
+    "icon:square": "https://static.btcmap.org/images/areas/761.png",
     "name": "21 Poprad",
     "organization": "dvadsatjeden",
     "population": 102038,
     "population:date": "2023-12-31",
     "type": "community",
     "url_alias": "dvadsatjeden-poprad",
+    "verified:date": "2026-02-21",
     "id": 761,
     "merchantCount": 6
   },
@@ -14759,10 +14774,18 @@
     "merchantCount": 6
   },
   {
+    "area_km2": 102.13,
+    "contact:signal": "https://signal.group/#CjQKIKjU9GK60QXNQyMqSDOizIl5L5WESmJRwM4fG3-ANAP7EhBS3FvBjUDUTjlreHoPfc9Y",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-olomouc.svg",
+    "name": "Jednadvacet Olomouc",
+    "organization": "jednadvacet",
+    "population": 106063,
+    "population:date": "2021-01-01",
+    "type": "community",
+    "url_alias": "jednadvacet-olomouc",
     "id": 773,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 21
   },
   {
     "area_km2": 122125.25,
@@ -15175,7 +15198,7 @@
   },
   {
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-bratislava.svg",
+    "icon:square": "https://static.btcmap.org/images/areas/802.png",
     "name": "21 Bratislava",
     "population": 475000,
     "population:date": "2021-01-01",
@@ -15189,6 +15212,7 @@
     "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
     "type": "community",
     "organization": "dvadsatjeden",
+    "verified:date": "2026-02-21",
     "id": 802,
     "merchantCount": 71
   },
@@ -15212,7 +15236,7 @@
   },
   {
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-presov.svg",
+    "icon:square": "https://static.btcmap.org/images/areas/804.png",
     "name": "21 Prešov",
     "population": 82927,
     "population:date": "2022-01-01",
@@ -15225,6 +15249,7 @@
     "contact:email": "presov@dvadsatjeden.org",
     "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
     "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
+    "verified:date": "2026-02-21",
     "id": 804,
     "merchantCount": 10
   },
@@ -15743,7 +15768,7 @@
   },
   {
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-pezinok.svg",
+    "icon:square": "https://static.btcmap.org/images/areas/841.png",
     "name": "21 Pezinok",
     "population": 24443,
     "population:date": "2022-03-31",
@@ -15754,6 +15779,7 @@
     "organization": "dvadsatjeden",
     "type": "community",
     "area_km2": 62.09,
+    "verified:date": "2026-02-21",
     "id": 841,
     "merchantCount": 1
   },
@@ -16538,7 +16564,7 @@
   },
   {
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/banska-bystrica.svg",
+    "icon:square": "https://static.btcmap.org/images/areas/893.png",
     "name": "21 Banská Bystrica",
     "population": 111946,
     "population:date": "2003-06-30",
@@ -16553,6 +16579,7 @@
     "type": "community",
     "area_km2": 809.16,
     "tips:lightning_address": "bb@dvadsatjeden.org",
+    "verified:date": "2026-02-21",
     "id": 893,
     "merchantCount": 9
   },
