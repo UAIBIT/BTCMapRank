@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6117
+    "merchantCount": 6156
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2170
+    "merchantCount": 2171
   },
   {
     "population:year": 2019,
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1251
+    "merchantCount": 1250
   },
   {
     "population:rank": 14,
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 610
+    "merchantCount": 611
   },
   {
     "sovereignt": "Canada",
@@ -231,7 +231,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 566
+    "merchantCount": 567
   },
   {
     "region_un": "Americas",
@@ -388,7 +388,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 352
+    "merchantCount": 351
   },
   {
     "region_un": "Europe",
@@ -2617,6 +2617,32 @@
     "merchantCount": 4
   },
   {
+    "lon": 2.352018,
+    "area_km2": 116842.66,
+    "name": "Benin",
+    "iso_a2": "BJ",
+    "population": 11801151,
+    "gdp_year": 2019,
+    "iso_a3": "BEN",
+    "region_un": "Africa",
+    "region_wb": "Sub-Saharan Africa",
+    "lat": 10.324775,
+    "continent": "Africa",
+    "population:rank": 14,
+    "income_grp": "5. Low income",
+    "type": "country",
+    "population:year": 2019,
+    "sovereignt": "Benin",
+    "gdp_md": 14390,
+    "country_type": "Sovereign country",
+    "subregion": "Western Africa",
+    "economy": "7. Least developed region",
+    "wikidataid": "Q962",
+    "url_alias": "bj",
+    "id": 163,
+    "merchantCount": 3
+  },
+  {
     "name": "China",
     "region_wb": "East Asia & Pacific",
     "region_un": "Asia",
@@ -2874,32 +2900,6 @@
     "area_km2": 155.61,
     "url_alias": "aw",
     "id": 37,
-    "merchantCount": 2
-  },
-  {
-    "lon": 2.352018,
-    "area_km2": 116842.66,
-    "name": "Benin",
-    "iso_a2": "BJ",
-    "population": 11801151,
-    "gdp_year": 2019,
-    "iso_a3": "BEN",
-    "region_un": "Africa",
-    "region_wb": "Sub-Saharan Africa",
-    "lat": 10.324775,
-    "continent": "Africa",
-    "population:rank": 14,
-    "income_grp": "5. Low income",
-    "type": "country",
-    "population:year": 2019,
-    "sovereignt": "Benin",
-    "gdp_md": 14390,
-    "country_type": "Sovereign country",
-    "subregion": "Western Africa",
-    "economy": "7. Least developed region",
-    "wikidataid": "Q962",
-    "url_alias": "bj",
-    "id": 163,
     "merchantCount": 2
   },
   {
