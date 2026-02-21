@@ -3263,24 +3263,6 @@
     "merchantCount": 37
   },
   {
-    "language": "fr",
-    "url_alias": "paris-centre",
-    "area_km2": 105.12,
-    "contact:meetup": "https://www.meetup.com/fr-FR/bitcoin-paris/",
-    "population": 2145906,
-    "contact:website": "https://paris.btc.fr/",
-    "population:date": "2020-01-01",
-    "contact:telegram": "https://t.me/ParisCentreBitcoinMeetup",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/paris-centre.png",
-    "organization": "decouvre-bitcoin",
-    "type": "community",
-    "name": "Paris Centre",
-    "contact:twitter": "https://x.com/parisbtcmeetup",
-    "id": 523,
-    "merchantCount": 37
-  },
-  {
     "continent": "south-america",
     "icon:square": "https://btcmap.org/.netlify/images?url=https://static.btcmap.org/images/communities/porto-alegre-bitcoin.png&fit=cover&w=256&h=256",
     "name": "Rio de Janeiro",
@@ -16068,6 +16050,12 @@
   },
   {
     "id": 518,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 523,
     "type": null,
     "merchantCount": 0,
     "name": null
