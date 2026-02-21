@@ -1986,22 +1986,6 @@
     "merchantCount": 36
   },
   {
-    "continent": "europe",
-    "organization": "einundzwanzig",
-    "name": "Einundzwanzig Franken",
-    "language": "de",
-    "url_alias": "einundzwanzig-franken",
-    "population:date": "2021-12-31",
-    "contact:twitter": "https://twitter.com/einundzwanzigFR",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-franken.webp",
-    "area_km2": 42763.68,
-    "contact:telegram": "https://t.me/Einundzwanzig_FRANKEN",
-    "population": 4131723,
-    "type": "community",
-    "id": 269,
-    "merchantCount": 36
-  },
-  {
     "name": "Isle of Man",
     "box:north": 54.43413,
     "contact:telegram": "https://t.me/IOMBitcoiners",
@@ -2901,20 +2885,6 @@
     "population:date": "2021-12-31",
     "area_km2": 403.68,
     "id": 290,
-    "merchantCount": 21
-  },
-  {
-    "area_km2": 102.13,
-    "contact:signal": "https://signal.group/#CjQKIKjU9GK60QXNQyMqSDOizIl5L5WESmJRwM4fG3-ANAP7EhBS3FvBjUDUTjlreHoPfc9Y",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-olomouc.svg",
-    "name": "Jednadvacet Olomouc",
-    "organization": "jednadvacet",
-    "population": 106063,
-    "population:date": "2021-01-01",
-    "type": "community",
-    "url_alias": "jednadvacet-olomouc",
-    "id": 773,
     "merchantCount": 21
   },
   {
@@ -4964,10 +4934,9 @@
     "area_km2": 1980,
     "contact:email": "levice@dvadsatjeden.org",
     "contact:nostr": "npub15fgxyv80u6pjd494yh4ltqvmd50knfza75cjmd7z30sca8hlre7s8aqn2n",
-    "contact:phone": "+255676834366",
     "contact:website": "https://www.dvadsatjeden.org/komunity/levice/",
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/dvadsatjeden-levice.webp",
+    "icon:square": "https://static.btcmap.org/images/areas/682.png",
     "name": "21 Levice",
     "population": 31440,
     "population:date": "2021-01-01",
@@ -4976,6 +4945,7 @@
     "url_alias": "dvadsaťjeden-levice",
     "organization": "dvadsatjeden",
     "language": "sk, en, de, es",
+    "verified:date": "2026-02-21",
     "id": 682,
     "merchantCount": 9
   },
