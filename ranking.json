@@ -1462,6 +1462,25 @@
     "merchantCount": 100
   },
   {
+    "name": "Mass Adoption",
+    "population": "6984723",
+    "icon:square": "https://static.btcmap.org/images/communities/mass-adoption.png",
+    "contact:email": "g25hoff@gmail.com",
+    "contact:meetup": "https://www.meetup.com/massachusetts-bitcoin-meetup/",
+    "area_km2": 27200.54,
+    "contact:youtube": "https://www.youtube.com/@massadoptionbtc",
+    "url_alias": "mass-adoption",
+    "continent": "north-america",
+    "type": "community",
+    "population:date": "2020-01-01",
+    "contact:twitter": "https://twitter.com/BTC_Mass",
+    "tips:lightning_address": "smoothsleet86@walletofsatoshi.com",
+    "contact:website": "https://www.massadoption.net/",
+    "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
+    "id": 463,
+    "merchantCount": 97
+  },
+  {
     "continent": "africa",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-plett.jpg",
     "name": "Bitcoin Plett",
@@ -5915,21 +5934,6 @@
     "area_km2": 853.36,
     "population:date": "2019-01-01",
     "id": 104,
-    "merchantCount": 13
-  },
-  {
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-queretaro.png",
-    "population:date": "2010",
-    "area_km2": 275.9,
-    "continent": "south-america",
-    "contact:email": "gustavo@floresechaiz.com",
-    "organization": "2140-meetups",
-    "contact:telegram": "https://t.me/bitcoinqro",
-    "population": "804663",
-    "url_alias": "bitcoin-queretaro",
-    "name": "Bitcoin Querétaro",
-    "type": "community",
-    "id": 135,
     "merchantCount": 13
   },
   {
@@ -14104,6 +14108,12 @@
     "name": null
   },
   {
+    "id": 135,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "id": 140,
     "type": null,
     "merchantCount": 0,
@@ -15620,12 +15630,6 @@
     "contact:email": "krilin@gmx.es",
     "id": 460,
     "merchantCount": 0
-  },
-  {
-    "id": 463,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "id": 465,
