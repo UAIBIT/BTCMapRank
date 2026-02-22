@@ -459,6 +459,24 @@
     "merchantCount": 383
   },
   {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-business-network.jpg",
+    "name": "Proof of Bitcoin",
+    "population": 15099422,
+    "population:date": "2024-05-16",
+    "url_alias": "bitcoin-business-network",
+    "contact:website": "https://bbn.services",
+    "contact:email": "info@bbn.services",
+    "contact:youtube": "https://www.youtube.com/@bbn_21M",
+    "contact:twitter": "https://x.com/bbn_21M",
+    "contact:facebook": "https://www.facebook.com/bbn.services",
+    "area_km2": 18204.21,
+    "type": "community",
+    "contact:whatsapp": "https://chat.whatsapp.com/CoD0es9GG1x3iqk",
+    "id": 805,
+    "merchantCount": 363
+  },
+  {
     "iso_a2": "NL",
     "continent": "Europe",
     "gdp_year": 2019,
@@ -12834,32 +12852,6 @@
     "merchantCount": 1
   },
   {
-    "gdp_md": 10770,
-    "type": "country",
-    "wikidataid": "Q33788",
-    "economy": "6. Developing region",
-    "lon": 165.084004,
-    "income_grp": "2. High income: nonOECD",
-    "iso_a3": "NCL",
-    "region_un": "Oceania",
-    "gdp_year": 2016,
-    "iso_a2": "NC",
-    "area_km2": 18709.0,
-    "country_type": "Dependency",
-    "sovereignt": "France",
-    "population": 287800,
-    "continent": "Oceania",
-    "population:year": 2019,
-    "region_wb": "East Asia & Pacific",
-    "subregion": "Melanesia",
-    "population:rank": 10,
-    "lat": -21.064697,
-    "name": "New Caledonia",
-    "url_alias": "nc",
-    "id": 499,
-    "merchantCount": 1
-  },
-  {
     "population:date": "2021-01-01",
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/areas/503.png",
@@ -15875,6 +15867,12 @@
     "merchantCount": 0
   },
   {
+    "id": 499,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "name": "Niger",
     "continent": "Africa",
     "population:year": 2019,
@@ -17595,12 +17593,6 @@
   },
   {
     "id": 791,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 805,
     "type": null,
     "merchantCount": 0,
     "name": null
