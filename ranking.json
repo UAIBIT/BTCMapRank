@@ -5094,6 +5094,32 @@
     "merchantCount": 18
   },
   {
+    "subregion": "South America",
+    "lon": -78.188375,
+    "wikidataid": "Q736",
+    "region_un": "Americas",
+    "region_wb": "Latin America & Caribbean",
+    "iso_a2": "EC",
+    "income_grp": "3. Upper middle income",
+    "type": "country",
+    "population": 17373662,
+    "name": "Ecuador",
+    "lat": -1.259076,
+    "population:rank": 14,
+    "gdp_md": 107435,
+    "iso_a3": "ECU",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "sovereignt": "Ecuador",
+    "country_type": "Sovereign country",
+    "area_km2": 256239.78,
+    "continent": "South America",
+    "economy": "6. Developing region",
+    "url_alias": "ec",
+    "id": 245,
+    "merchantCount": 18
+  },
+  {
     "population:date": "2021-12-31",
     "language": "de",
     "name": "Einundzwanzig Hamburg",
@@ -8152,24 +8178,6 @@
     "area_km2": 1686.95,
     "id": 956,
     "merchantCount": 7
-  },
-  {
-    "contact:twitter": "https://twitter.com/BanskoBitcoin",
-    "box:north": "41.866237149376",
-    "population": "8873",
-    "url_alias": "bansko-bitcoin",
-    "type": "community",
-    "continent": "europe",
-    "box:south": "41.80919639152055",
-    "population:date": "2020-01-01",
-    "box:east": "23.537864685058597",
-    "area_km2": 476.36,
-    "box:west": "23.435554504394535",
-    "population_km2": "9797",
-    "icon:square": "https://static.btcmap.org/images/communities/bansko-bitcoin.jpg",
-    "name": "Bansko Bitcoin",
-    "id": 45,
-    "merchantCount": 6
   },
   {
     "population:date": "2021-01-01",
@@ -13920,6 +13928,12 @@
     "merchantCount": 0
   },
   {
+    "id": 45,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "population": 287025,
     "gdp_md": 5209,
     "population:rank": 10,
@@ -14452,12 +14466,6 @@
   },
   {
     "id": 237,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 245,
     "type": null,
     "merchantCount": 0,
     "name": null
