@@ -459,24 +459,6 @@
     "merchantCount": 383
   },
   {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-business-network.jpg",
-    "name": "Proof of Bitcoin",
-    "population": 15099422,
-    "population:date": "2024-05-16",
-    "url_alias": "bitcoin-business-network",
-    "contact:website": "https://bbn.services",
-    "contact:email": "info@bbn.services",
-    "contact:youtube": "https://www.youtube.com/@bbn_21M",
-    "contact:twitter": "https://x.com/bbn_21M",
-    "contact:facebook": "https://www.facebook.com/bbn.services",
-    "area_km2": 18204.21,
-    "type": "community",
-    "contact:whatsapp": "https://chat.whatsapp.com/CoD0es9GG1x3iqk",
-    "id": 805,
-    "merchantCount": 363
-  },
-  {
     "iso_a2": "NL",
     "continent": "Europe",
     "gdp_year": 2019,
@@ -6260,6 +6242,19 @@
     "url_alias": "montpellier",
     "name": "Montpellier",
     "id": 485,
+    "merchantCount": 12
+  },
+  {
+    "name": "Arezzo Bitcoin Meetup",
+    "contact:telegram": "https://t.me/arezzobitcoinmeetup",
+    "population:date": "2020-01-01",
+    "type": "community",
+    "area_km2": 3918.91,
+    "continent": "europe",
+    "url_alias": "satoshi-spritz-arezzo",
+    "icon:square": "https://static.btcmap.org/images/communities/arezzo-bitcoin-meetup.jpg",
+    "population": 100734,
+    "id": 573,
     "merchantCount": 12
   },
   {
@@ -16295,12 +16290,6 @@
     "name": null
   },
   {
-    "id": 573,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "area_km2": 214.11,
     "organization": "satoshi-spritz",
     "population": "58863",
@@ -17606,6 +17595,12 @@
   },
   {
     "id": 791,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 805,
     "type": null,
     "merchantCount": 0,
     "name": null
