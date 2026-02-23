@@ -4603,6 +4603,23 @@
     "merchantCount": 22
   },
   {
+    "population": 260958,
+    "contact:website": "https://www.bitcoin-bordeaux.fr/",
+    "contact:twitter": "https://twitter.com/BitcoinBordeaux",
+    "population:date": "2020-01-01",
+    "url_alias": "bordeaux",
+    "language": "fr",
+    "icon:square": "https://static.btcmap.org/images/communities/bordeaux.png",
+    "area_km2": 1524.56,
+    "contact:telegram": "https://t.me/+aIjgpyYwt-83Y2U0",
+    "type": "community",
+    "organization": "decouvre-bitcoin",
+    "continent": "europe",
+    "name": "Bordeaux",
+    "id": 169,
+    "merchantCount": 22
+  },
+  {
     "name": "Dwadzieścia Jeden Poznań",
     "organization": "dwadziescia-jeden",
     "contact:twitter": "https://twitter.com/21BitcoinPolska",
@@ -11335,32 +11352,6 @@
     "merchantCount": 2
   },
   {
-    "population": 216565318,
-    "sovereignt": "Pakistan",
-    "continent": "Asia",
-    "gdp_year": 2019,
-    "population:rank": 17,
-    "income_grp": "4. Lower middle income",
-    "lat": 29.328389,
-    "lon": 68.545632,
-    "region_un": "Asia",
-    "gdp_md": 278221,
-    "iso_a3": "PAK",
-    "name": "Pakistan",
-    "subregion": "Southern Asia",
-    "area_km2": 875729.06,
-    "population:year": 2019,
-    "wikidataid": "Q843",
-    "iso_a2": "PK",
-    "country_type": "Sovereign country",
-    "type": "country",
-    "economy": "5. Emerging region: G20",
-    "region_wb": "South Asia",
-    "url_alias": "pk",
-    "id": 529,
-    "merchantCount": 2
-  },
-  {
     "gdp_md": 16276,
     "sovereignt": "Israel",
     "country_type": "Indeterminate",
@@ -14228,12 +14219,6 @@
     "merchantCount": 0
   },
   {
-    "id": 169,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "id": 171,
     "type": null,
     "merchantCount": 0,
@@ -16087,6 +16072,12 @@
     "url_alias": "pg",
     "id": 527,
     "merchantCount": 0
+  },
+  {
+    "id": 529,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "iso_a2": "PM",
