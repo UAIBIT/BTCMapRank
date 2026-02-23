@@ -3000,21 +3000,10 @@
     "merchantCount": 76
   },
   {
-    "population": 260958,
-    "contact:website": "https://www.bitcoin-bordeaux.fr/",
-    "contact:twitter": "https://twitter.com/BitcoinBordeaux",
-    "population:date": "2020-01-01",
-    "url_alias": "bordeaux",
-    "language": "fr",
-    "icon:square": "https://static.btcmap.org/images/communities/bordeaux.png",
-    "area_km2": 1524.56,
-    "contact:telegram": "https://t.me/+aIjgpyYwt-83Y2U0",
-    "type": "community",
-    "organization": "decouvre-bitcoin",
-    "continent": "europe",
-    "name": "Bordeaux",
     "id": 169,
-    "merchantCount": 22
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "name": "Boulder Bitcoin",
@@ -16322,10 +16311,21 @@
     "merchantCount": 2
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/sao-bento-cripto.jpg",
+    "name": "São Bento Cripto",
+    "population": 85421,
+    "population:date": "2020-06-30",
+    "url_alias": "sao-bento-cripto",
+    "tips:lightning_address": "allchance67@walletofsatoshi.com",
+    "contact:nostr": "npub1mejzwx8cl3tjhcv0pdp5f398pyqff5znayz9sh8en0uryfkyengq3xhrx2",
+    "contact:instagram": "https://www.instagram.com/cripto_sbs/",
+    "contact:whatsapp": "https://chat.whatsapp.com/HYpNPBKwivJ7zEYuq89Cfc?fbclid=PAZXh0bgNhZW0CMTEAAacQnL6zXNPK3saq4srjGmQSQ1i-yRb_WFFSnR5LP0yz4_iCOrKPwJF_X7e_3g_aem_fWhs0_Il0MRZeUKVTxsVog",
+    "contact:email": "gabrieljuban@hotmail.com",
+    "type": "community",
+    "area_km2": 504.19,
     "id": 877,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 7
   },
   {
     "continent": "europe",
