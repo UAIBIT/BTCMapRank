@@ -10640,10 +10640,19 @@
     "merchantCount": 1
   },
   {
+    "type": "community",
+    "contact:email": "bitcoinkarlasactown@gmail.com",
+    "name": "SacTown Bitcoin",
+    "area_km2": 2569.35,
+    "population:date": "2020-01-01",
+    "population": "1585055",
+    "contact:twitter": "https://twitter.com/SactownBitcoin",
+    "continent": "north-america",
+    "contact:meetup": "https://www.meetup.com/bitcoin-only-sactown",
+    "url_alias": "sactown-bitcoin",
+    "icon:square": "https://static.btcmap.org/images/communities/sactown-bitcoin.jpeg",
     "id": 561,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 27
   },
   {
     "contact:telegram": "https://t.me/StBrieucBitcoin",
@@ -14504,22 +14513,10 @@
     "merchantCount": 2
   },
   {
-    "area_km2": 639.49,
-    "contact:email": "tulo.michal@gmail.com",
-    "contact:website": "https://www.dvadsatjeden.org/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/areas/758.png",
-    "language": "sk, en, de, hu",
-    "name": "21 Galanta",
-    "organization": "dvadsatjeden",
-    "population": 95457,
-    "population:date": "2023-12-31",
-    "tips:lightning_address": "galanta@dvadsatjeden.org",
-    "type": "community",
-    "url_alias": "dvadsatjeden-galanta",
-    "verified:date": "2026-02-21",
     "id": 758,
-    "merchantCount": 3
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 873.79,
