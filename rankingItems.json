@@ -1124,7 +1124,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 171
+    "merchantCount": 170
   },
   {
     "lat": 26.055972,
@@ -1366,7 +1366,7 @@
     "url_alias": "bitcoin-association-switzerland",
     "contact:telegram": "https://t.me/rogerdarin",
     "id": 71,
-    "merchantCount": 824
+    "merchantCount": 825
   },
   {
     "contact:email": "tokyocitadel.npm6r@aleeas.com",
@@ -1537,7 +1537,7 @@
     "population": "6815962",
     "url_alias": "bitcoin-bulgaria",
     "id": 82,
-    "merchantCount": 177
+    "merchantCount": 176
   },
   {
     "organization": "2140-meetups",
@@ -1572,7 +1572,7 @@
     "area_km2": 1181.04,
     "contact:nostr": "npub1p7g986pc56qmvryplgzka0fsrpuwlk6mxk3h686w4e46n74e56qqhz88vk",
     "id": 84,
-    "merchantCount": 35
+    "merchantCount": 36
   },
   {
     "population": 5543828,
@@ -2778,7 +2778,7 @@
     "name": "Bitcoiners in Minneapolis",
     "population:date": "2020-01-01",
     "id": 157,
-    "merchantCount": 8
+    "merchantCount": 12
   },
   {
     "icon:square": "https://static.btcmap.org/images/areas/158.png",
@@ -2846,7 +2846,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 192
+    "merchantCount": 194
   },
   {
     "type": "community",
@@ -3076,7 +3076,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2173
+    "merchantCount": 2176
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -3521,7 +3521,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 806
+    "merchantCount": 807
   },
   {
     "type": "community",
@@ -4156,7 +4156,7 @@
     "continent": "europe",
     "contact:telegram": "http://t.me/+ETWFIUzxnlNkZDg0",
     "id": 226,
-    "merchantCount": 824
+    "merchantCount": 825
   },
   {
     "type": "community",
@@ -5418,18 +5418,10 @@
     "merchantCount": 9
   },
   {
-    "area_km2": 203.46,
-    "language": "de",
-    "type": "community",
-    "name": "Einundzwanzig Norddeutschland",
-    "continent": "europe",
-    "population": 535932,
-    "contact:telegram": "https://t.me/Einundzwanzig_Norden",
-    "organization": "einundzwanzig",
-    "url_alias": "einundzwanzig-norddeutschland",
-    "population:date": "2021-12-31",
     "id": 304,
-    "merchantCount": 22
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "url_alias": "einundzwanzig-nordfriesland",
@@ -5835,7 +5827,7 @@
     "continent": "europe",
     "organization": "einundzwanzig",
     "id": 331,
-    "merchantCount": 827
+    "merchantCount": 828
   },
   {
     "contact:telegram": "https://t.me/einundzwanzig_siegen",
@@ -8869,10 +8861,30 @@
     "merchantCount": 1
   },
   {
+    "wikidataid": "Q836",
+    "region_un": "Asia",
+    "population:rank": 16,
+    "subregion": "South-Eastern Asia",
+    "gdp_md": 76085,
+    "lat": 21.573855,
+    "country_type": "Sovereign country",
+    "lon": 95.804497,
+    "population": 54045420,
+    "name": "Myanmar",
+    "iso_a3": "MMR",
+    "income_grp": "5. Low income",
+    "type": "country",
+    "population:year": 2019,
+    "sovereignt": "Myanmar",
+    "region_wb": "East Asia & Pacific",
+    "area_km2": 664249.87,
+    "economy": "7. Least developed region",
+    "gdp_year": 2019,
+    "iso_a2": "MM",
+    "continent": "Asia",
+    "url_alias": "mm",
     "id": 478,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "gdp_year": 2019,
@@ -9522,7 +9534,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 359
+    "merchantCount": 358
   },
   {
     "population": 393027,
@@ -11335,7 +11347,7 @@
     "box:south": "38.678273561664",
     "name": "St. Charles",
     "id": 596,
-    "merchantCount": 10
+    "merchantCount": 11
   },
   {
     "contact:telegram": "https://t.co/1fVvfdP1l3",
@@ -11413,7 +11425,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1338
+    "merchantCount": 1339
   },
   {
     "lat": 18.04088,
@@ -12127,7 +12139,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6205
+    "merchantCount": 6245
   },
   {
     "population": 1734000,
@@ -12741,7 +12753,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 23939
+    "merchantCount": 23982
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -14997,7 +15009,7 @@
     "type": "community",
     "url_alias": "einundzwanzig-ostschweiz",
     "id": 790,
-    "merchantCount": 107
+    "merchantCount": 108
   },
   {
     "id": 791,
@@ -16285,7 +16297,7 @@
     "contact:telegram": "https://t.co/UzFUrrlhzq",
     "type": "community",
     "id": 875,
-    "merchantCount": 17
+    "merchantCount": 18
   },
   {
     "continent": "north-america",
@@ -16316,7 +16328,7 @@
     "type": "community",
     "area_km2": 504.19,
     "id": 877,
-    "merchantCount": 7
+    "merchantCount": 9
   },
   {
     "continent": "europe",
@@ -17458,7 +17470,7 @@
     "type": "community",
     "area_km2": 5808.74,
     "id": 953,
-    "merchantCount": 44
+    "merchantCount": 45
   },
   {
     "continent": "south-america",

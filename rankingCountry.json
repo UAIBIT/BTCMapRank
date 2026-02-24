@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6205
+    "merchantCount": 6245
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2173
+    "merchantCount": 2176
   },
   {
     "population:year": 2019,
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1338
+    "merchantCount": 1339
   },
   {
     "gdp_md": 351431,
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 806
+    "merchantCount": 807
   },
   {
     "name": "Germany",
@@ -362,7 +362,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 359
+    "merchantCount": 358
   },
   {
     "wikidataid": "Q45",
@@ -648,7 +648,7 @@
     "gdp_year": 2019,
     "url_alias": "bg",
     "id": 57,
-    "merchantCount": 171
+    "merchantCount": 170
   },
   {
     "area_km2": 596166.85,
@@ -3550,6 +3550,32 @@
     "income_grp": "5. Low income",
     "url_alias": "ml",
     "id": 477,
+    "merchantCount": 1
+  },
+  {
+    "wikidataid": "Q836",
+    "region_un": "Asia",
+    "population:rank": 16,
+    "subregion": "South-Eastern Asia",
+    "gdp_md": 76085,
+    "lat": 21.573855,
+    "country_type": "Sovereign country",
+    "lon": 95.804497,
+    "population": 54045420,
+    "name": "Myanmar",
+    "iso_a3": "MMR",
+    "income_grp": "5. Low income",
+    "type": "country",
+    "population:year": 2019,
+    "sovereignt": "Myanmar",
+    "region_wb": "East Asia & Pacific",
+    "area_km2": 664249.87,
+    "economy": "7. Least developed region",
+    "gdp_year": 2019,
+    "iso_a2": "MM",
+    "continent": "Asia",
+    "url_alias": "mm",
+    "id": 478,
     "merchantCount": 1
   },
   {
