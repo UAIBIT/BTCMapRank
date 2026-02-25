@@ -1403,7 +1403,7 @@
     "type": "community",
     "url_alias": "einundzwanzig-ostschweiz",
     "id": 790,
-    "merchantCount": 108
+    "merchantCount": 109
   },
   {
     "contact:twitter": "https://twitter.com/btc_dada",
@@ -2963,6 +2963,24 @@
     "merchantCount": 42
   },
   {
+    "continent": "asia",
+    "name": "Tokyo Bitcoin Base",
+    "population": 13613660,
+    "population:date": "2026-02-16",
+    "url_alias": "tokyo-bitcoin-base",
+    "type": "community",
+    "verified:date": "2026-02-16",
+    "icon:square": "https://static.btcmap.org/images/areas/982.png",
+    "area_km2": 2503.89,
+    "contact:twitter": "https://x.com/TBB_JP",
+    "contact:website": "https://tokyobitcoin.space/",
+    "contact:meetup": "https://www.meetup.com/tokyo-bitcoin-base/",
+    "contact:youtube": "https://www.youtube.com/@TokyoBitcoinBase",
+    "contact:nostr": "npub10aenqgtumpwzvn29nx8sgsu93jxg8krlgymgwemw6semk9mqalzskuq4nm",
+    "id": 982,
+    "merchantCount": 42
+  },
+  {
     "box:north": 35.91467,
     "box:east": 139.99601,
     "url_alias": "tokyo-citadel",
@@ -3014,24 +3032,6 @@
     "organization": "satoshi-team",
     "verified:date": "2026-01-09",
     "id": 915,
-    "merchantCount": 41
-  },
-  {
-    "continent": "asia",
-    "name": "Tokyo Bitcoin Base",
-    "population": 13613660,
-    "population:date": "2026-02-16",
-    "url_alias": "tokyo-bitcoin-base",
-    "type": "community",
-    "verified:date": "2026-02-16",
-    "icon:square": "https://static.btcmap.org/images/areas/982.png",
-    "area_km2": 2503.89,
-    "contact:twitter": "https://x.com/TBB_JP",
-    "contact:website": "https://tokyobitcoin.space/",
-    "contact:meetup": "https://www.meetup.com/tokyo-bitcoin-base/",
-    "contact:youtube": "https://www.youtube.com/@TokyoBitcoinBase",
-    "contact:nostr": "npub10aenqgtumpwzvn29nx8sgsu93jxg8krlgymgwemw6semk9mqalzskuq4nm",
-    "id": 982,
     "merchantCount": 41
   },
   {
@@ -4020,6 +4020,21 @@
     "merchantCount": 29
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/964.png",
+    "name": "Columbus Bitcoin",
+    "population": 905748,
+    "population:date": "2020-04-01",
+    "url_alias": "columbus-bitcoin",
+    "tips:lightning_address": "columbusbitcoin@cluborange.org",
+    "contact:twitter": "https://x.com/ColumbusBitcoin?t=5-dZ5kh_CLye5Er_Jag7PA&s=09",
+    "description": "Columbus Bitcoin is a monthly social gathering centered around Bitcoin. Our goal is to exchange stories related to Bitcoin, provide technical insights, foster business connections, and build lasting friendships. Regardless of whether you're just dipping your toes into the complex world of Bitcoin, struggling with its jargon, or you're a seasoned veteran who was involved in drafting the initial Bitcoin white paper in 2009, everyone is invited to learn and share their experiences.",
+    "type": "community",
+    "area_km2": 754.76,
+    "id": 964,
+    "merchantCount": 29
+  },
+  {
     "population": "32103042",
     "contact:email": "bitcoincowries@gmail.com",
     "name": "Bitcoin Cowries",
@@ -4133,21 +4148,6 @@
     "contact:nostr": "npub1f75q50fcdudzzjczjg0u0we2krq4e48f4zc07nuvgaeljrnpkvgsr7gh94",
     "organization": "veintiuno-lat",
     "id": 737,
-    "merchantCount": 28
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/964.png",
-    "name": "Columbus Bitcoin",
-    "population": 905748,
-    "population:date": "2020-04-01",
-    "url_alias": "columbus-bitcoin",
-    "tips:lightning_address": "columbusbitcoin@cluborange.org",
-    "contact:twitter": "https://x.com/ColumbusBitcoin?t=5-dZ5kh_CLye5Er_Jag7PA&s=09",
-    "description": "Columbus Bitcoin is a monthly social gathering centered around Bitcoin. Our goal is to exchange stories related to Bitcoin, provide technical insights, foster business connections, and build lasting friendships. Regardless of whether you're just dipping your toes into the complex world of Bitcoin, struggling with its jargon, or you're a seasoned veteran who was involved in drafting the initial Bitcoin white paper in 2009, everyone is invited to learn and share their experiences.",
-    "type": "community",
-    "area_km2": 754.76,
-    "id": 964,
     "merchantCount": 28
   },
   {
@@ -5518,6 +5518,21 @@
     "merchantCount": 16
   },
   {
+    "continent": "africa",
+    "name": "EcoBitz",
+    "population": 1306411,
+    "population:date": "2020-02-11",
+    "url_alias": "ecobitz",
+    "contact:twitter": "https://x.com/ecobitz_21m",
+    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
+    "type": "community",
+    "verified:date": "2026-01-13",
+    "icon:square": "https://static.btcmap.org/images/areas/974.png",
+    "area_km2": 6075.63,
+    "id": 974,
+    "merchantCount": 16
+  },
+  {
     "contact:telegram": "https://t.me/Einundzwanzig_Suedtirol",
     "contact:twitter": "https://twitter.com/SudtirolBitcoin",
     "name": "Einundzwanzig Südtirol",
@@ -5806,6 +5821,23 @@
     "merchantCount": 14
   },
   {
+    "area_km2": 3021,
+    "contact:email": "twitter.d4pwq@aleeas.com",
+    "contact:twitter": "https://x.com/BitcoinFarmPA",
+    "contact:website": "https://www.lancobitco.in/bitcoinfarm/",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-farm.png",
+    "name": "Bitcoin Farm",
+    "organization": "mi-primer-bitcoin",
+    "population": 556629,
+    "population:date": "2022-01-01",
+    "tips:lightning_address": "hellstew@strike.me",
+    "type": "community",
+    "url_alias": "bitcoin-farm",
+    "id": 713,
+    "merchantCount": 14
+  },
+  {
     "area_km2": 2603.09,
     "contact:discord": "https://discord.gg/EqhrpmCn",
     "contact:email": "info@bitcoinvalais.ch",
@@ -5893,35 +5925,6 @@
     "merchantCount": 14
   },
   {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/battersea-bitcoiners.jpg",
-    "name": "Battersea Bitcoiners",
-    "population": 337655,
-    "population:date": "2024-01-01",
-    "url_alias": "battersea-bitcoiners",
-    "contact:telegram": "https://t.me/batterseabitcoiners",
-    "contact:email": "batterseabitcoiners@gmail.com",
-    "type": "community",
-    "area_km2": 35.16,
-    "id": 935,
-    "merchantCount": 14
-  },
-  {
-    "continent": "africa",
-    "name": "EcoBitz",
-    "population": 1306411,
-    "population:date": "2020-02-11",
-    "url_alias": "ecobitz",
-    "contact:twitter": "https://x.com/ecobitz_21m",
-    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
-    "type": "community",
-    "verified:date": "2026-01-13",
-    "icon:square": "https://static.btcmap.org/images/areas/974.png",
-    "area_km2": 6075.63,
-    "id": 974,
-    "merchantCount": 14
-  },
-  {
     "url_alias": "bitcoin-ibiza",
     "contact:telegram": "https://t.me/bitcoinibiza",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-ibiza.jpeg",
@@ -5999,23 +6002,6 @@
     "icon:square": "https://static.btcmap.org/images/areas/654.png",
     "verified:date": "2026-01-08",
     "id": 654,
-    "merchantCount": 13
-  },
-  {
-    "area_km2": 3021,
-    "contact:email": "twitter.d4pwq@aleeas.com",
-    "contact:twitter": "https://x.com/BitcoinFarmPA",
-    "contact:website": "https://www.lancobitco.in/bitcoinfarm/",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-farm.png",
-    "name": "Bitcoin Farm",
-    "organization": "mi-primer-bitcoin",
-    "population": 556629,
-    "population:date": "2022-01-01",
-    "tips:lightning_address": "hellstew@strike.me",
-    "type": "community",
-    "url_alias": "bitcoin-farm",
-    "id": 713,
     "merchantCount": 13
   },
   {
@@ -17797,6 +17783,12 @@
   },
   {
     "id": 922,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 935,
     "type": null,
     "merchantCount": 0,
     "name": null
