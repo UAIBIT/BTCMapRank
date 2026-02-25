@@ -7388,32 +7388,6 @@
     "merchantCount": 8
   },
   {
-    "type": "country",
-    "income_grp": "3. Upper middle income",
-    "population:year": 2019,
-    "iso_a3": "LTU",
-    "region_un": "Europe",
-    "population:rank": 12,
-    "gdp_md": 54627,
-    "gdp_year": 2019,
-    "subregion": "Northern Europe",
-    "name": "Lithuania",
-    "economy": "2. Developed region: nonG7",
-    "sovereignt": "Lithuania",
-    "country_type": "Sovereign country",
-    "lat": 55.103703,
-    "lon": 24.089932,
-    "population": 2786844,
-    "continent": "Europe",
-    "iso_a2": "LT",
-    "area_km2": 64662.62,
-    "region_wb": "Europe & Central Asia",
-    "wikidataid": "Q37",
-    "url_alias": "lt",
-    "id": 449,
-    "merchantCount": 8
-  },
-  {
     "country_type": "Sovereign country",
     "wikidataid": "Q1030",
     "sovereignt": "Namibia",
@@ -15566,6 +15540,12 @@
     "url_alias": "lr",
     "id": 447,
     "merchantCount": 0
+  },
+  {
+    "id": 449,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "Africa",
