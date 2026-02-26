@@ -100,7 +100,7 @@
     "population:year": 2019,
     "url_alias": "ae",
     "id": 8,
-    "merchantCount": 12
+    "merchantCount": 13
   },
   {
     "iso_a3": "AFG",
@@ -907,7 +907,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 176
+    "merchantCount": 177
   },
   {
     "population": 287025,
@@ -1731,7 +1731,7 @@
     "population:date": "2022-01-01",
     "population": "5296814",
     "id": 95,
-    "merchantCount": 18
+    "merchantCount": 17
   },
   {
     "type": "community",
@@ -2389,7 +2389,7 @@
     "tips:lightning_address": "bitcoinpark@geyser.fund",
     "continent": "north-america",
     "id": 131,
-    "merchantCount": 28
+    "merchantCount": 29
   },
   {
     "population": "20000",
@@ -2547,7 +2547,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/142.png",
     "verified:date": "2026-01-07",
     "id": 142,
-    "merchantCount": 17
+    "merchantCount": 18
   },
   {
     "population": "5231147",
@@ -2846,7 +2846,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 194
+    "merchantCount": 195
   },
   {
     "type": "community",
@@ -3822,7 +3822,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 138
+    "merchantCount": 139
   },
   {
     "id": 210,
@@ -4316,7 +4316,7 @@
     "box:south": "24.819146481739093",
     "icon:square": "https://static.btcmap.org/images/communities/dubai-citadel.jpg",
     "id": 234,
-    "merchantCount": 10
+    "merchantCount": 11
   },
   {
     "box:east": "-6.165390014648438",
@@ -5607,7 +5607,7 @@
     "area_km2": 155452.15,
     "organization": "einundzwanzig",
     "id": 316,
-    "merchantCount": 352
+    "merchantCount": 351
   },
   {
     "type": "community",
@@ -6382,7 +6382,7 @@
     "verified:date": "2026-02-10",
     "contact:satlantis": "https://www.satlantis.io/c/74/FREE-Madeira-Bitcoin-Meetups",
     "id": 361,
-    "merchantCount": 169
+    "merchantCount": 168
   },
   {
     "lat": -0.437739,
@@ -6449,7 +6449,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 347
+    "merchantCount": 348
   },
   {
     "continent": "North America",
@@ -8017,7 +8017,7 @@
     "lon": 35.992892,
     "url_alias": "lb",
     "id": 433,
-    "merchantCount": 14
+    "merchantCount": 13
   },
   {
     "iso_a3": "LCA",
@@ -8498,7 +8498,7 @@
     "contact:email": "birminghambtc@gmail.com",
     "contact:meetup": "https://www.meetup.com/magic-city-bitcoin/",
     "id": 457,
-    "merchantCount": 5
+    "merchantCount": 6
   },
   {
     "continent": "europe",
@@ -10251,7 +10251,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 351
+    "merchantCount": 350
   },
   {
     "wikidataid": "Q695",
@@ -10749,7 +10749,7 @@
     "name": "San Diego Bitcoiners",
     "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 55
+    "merchantCount": 57
   },
   {
     "continent": "south-america",
@@ -12147,24 +12147,13 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6281
+    "merchantCount": 6329
   },
   {
-    "population": 1734000,
-    "url_alias": "uusimaa",
-    "area_km2": 17338.83,
-    "icon:square": "https://static.btcmap.org/images/communities/uusimaa.png",
-    "population:date": "2023-01-01",
-    "tips:lightning_address": "lahjoitus@salamaverkko.fi",
-    "continent": "europe",
-    "type": "community",
-    "contact:email": "salamaverkko@salamaverkko.fi",
-    "name": "Uusimaa",
-    "contact:telegram": "https://t.me/salamaverkko",
-    "contact:meetup": "https://www.meetup.com/salamaverkko/",
-    "contact:website": "http://www.salamaverkko.fi",
     "id": 634,
-    "merchantCount": 17
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "iso_a3": "URY",
@@ -12426,7 +12415,7 @@
     "icon:square": "https://static.btcmap.org/images/communities/vinte-e-um.jpg",
     "area_km2": 149349.44,
     "id": 646,
-    "merchantCount": 351
+    "merchantCount": 350
   },
   {
     "continent": "Asia",
@@ -12761,7 +12750,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 24022
+    "merchantCount": 24070
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -14950,7 +14939,7 @@
     "language": "en",
     "contact:github": "https://github.com/bitcoindistrict",
     "id": 785,
-    "merchantCount": 54
+    "merchantCount": 55
   },
   {
     "area_km2": 430.86,
@@ -15114,7 +15103,7 @@
     "type": "community",
     "url_alias": "bitcoin-chatt",
     "id": 796,
-    "merchantCount": 11
+    "merchantCount": 12
   },
   {
     "continent": "south-america",
@@ -15529,7 +15518,7 @@
     "contact:meetup": "https://www.meetup.com/pl-PL/sanantoniobitcoinclub/",
     "type": "community",
     "id": 824,
-    "merchantCount": 43
+    "merchantCount": 44
   },
   {
     "continent": "oceania",

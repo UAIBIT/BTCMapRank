@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6281
+    "merchantCount": 6329
   },
   {
     "wikidataid": "Q155",
@@ -388,7 +388,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "id": 541,
-    "merchantCount": 351
+    "merchantCount": 350
   },
   {
     "region_un": "Europe",
@@ -414,7 +414,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 347
+    "merchantCount": 348
   },
   {
     "gdp_md": 17477,
@@ -1847,32 +1847,6 @@
     "merchantCount": 15
   },
   {
-    "wikidataid": "Q822",
-    "population": 6855713,
-    "economy": "6. Developing region",
-    "iso_a2": "LB",
-    "population:rank": 13,
-    "lat": 34.133368,
-    "name": "Lebanon",
-    "subregion": "Western Asia",
-    "region_wb": "Middle East & North Africa",
-    "country_type": "Sovereign country",
-    "area_km2": 10033.24,
-    "gdp_year": 2019,
-    "income_grp": "3. Upper middle income",
-    "iso_a3": "LBN",
-    "region_un": "Asia",
-    "sovereignt": "Lebanon",
-    "population:year": 2019,
-    "gdp_md": 51991,
-    "continent": "Asia",
-    "type": "country",
-    "lon": 35.992892,
-    "url_alias": "lb",
-    "id": 433,
-    "merchantCount": 14
-  },
-  {
     "lat": 23.466285,
     "population": 9770529,
     "income_grp": "2. High income: nonOECD",
@@ -1896,7 +1870,33 @@
     "population:year": 2019,
     "url_alias": "ae",
     "id": 8,
-    "merchantCount": 12
+    "merchantCount": 13
+  },
+  {
+    "wikidataid": "Q822",
+    "population": 6855713,
+    "economy": "6. Developing region",
+    "iso_a2": "LB",
+    "population:rank": 13,
+    "lat": 34.133368,
+    "name": "Lebanon",
+    "subregion": "Western Asia",
+    "region_wb": "Middle East & North Africa",
+    "country_type": "Sovereign country",
+    "area_km2": 10033.24,
+    "gdp_year": 2019,
+    "income_grp": "3. Upper middle income",
+    "iso_a3": "LBN",
+    "region_un": "Asia",
+    "sovereignt": "Lebanon",
+    "population:year": 2019,
+    "gdp_md": 51991,
+    "continent": "Asia",
+    "type": "country",
+    "lon": 35.992892,
+    "url_alias": "lb",
+    "id": 433,
+    "merchantCount": 13
   },
   {
     "region_wb": "Latin America & Caribbean",
