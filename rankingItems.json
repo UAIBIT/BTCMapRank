@@ -356,10 +356,20 @@
     "merchantCount": 57
   },
   {
+    "contact:twitter": "https://twitter.com/AngersBitcoin",
+    "url_alias": "angers",
+    "type": "community",
+    "population:date": "2020-01-01",
+    "name": "Angers",
+    "language": "fr",
+    "contact:telegram": "https://t.me/AngersBitcoinMeetup",
+    "continent": "europe",
+    "area_km2": 1764.11,
+    "icon:square": "https://static.btcmap.org/images/communities/angers.png",
+    "population": 155876,
+    "organization": "decouvre-bitcoin",
     "id": 21,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "url_alias": "ann-arbor-bitcoin",
@@ -856,10 +866,32 @@
     "merchantCount": 6
   },
   {
+    "contact:instagram": "https://www.instagram.com/bitcoinbarcelonaxyz/",
+    "contact:telegram": "https://t.me/BarcelonaBitcoinOnly",
+    "url_alias": "barcelona-bitcoin-only",
+    "contact:nostr": "npub10nlyn8wm0da6wqgawnl0qvjx6thyy00mvlpm0aetkx5nf7kw9xdsgz26e8",
+    "contact:twitter": "https://twitter.com/BcnBitcoinOnly",
+    "contact:youtube": "https://www.youtube.com/@barcelonabitcoincommunity2417",
+    "contact:meetup": "https://www.meetup.com/es-ES/bitcoin-barcelona/",
+    "name": "Barcelona Bitcoin Only",
+    "tips:lightning_address": "bitcoinbarcelona@getalby.com",
+    "contact:email": "hola@bitcoinbarcelona.xyz",
+    "organization": "2140-meetups",
+    "type": "community",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/46.png",
+    "population": "1636193",
+    "population:date": "2022",
+    "box:north": "41.42432247032703",
+    "box:east": "2.221126556396485",
+    "area_km2": 230.07,
+    "box:south": "41.36688935951691",
+    "box:west": "2.1188163757324223",
+    "contact:facebook": "https://www.facebook.com/barcelona.btc",
+    "contact:website": "https://bitcoinbarcelona.xyz/",
+    "contact:linkedin": "https://www.linkedin.com/company/bcnbitcoinonly",
     "id": 46,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 37
   },
   {
     "contact:twitter": "https://twitter.com/bayareabtc",
@@ -15787,10 +15819,21 @@
     "merchantCount": 15
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitdevs-cdmx.png",
+    "name": "Bitdevs CDMX",
+    "population": 9209944,
+    "population:date": "2024-01-01",
+    "url_alias": "bitdevs-cdmx",
+    "organization": "bit-devs",
+    "contact:website": "https://www.cdmxbitdevs.org/",
+    "description": "La Casa de Satoshi CDMX is a non-profit organization leading Bitcoin adoption in Mexico City.",
+    "contact:meetup": "https://lu.ma/lacasadesatoshi",
+    "area_km2": 985.26,
+    "contact:twitter": "https://x.com/LaCasaDeSatoshi",
+    "type": "community",
     "id": 844,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 63
   },
   {
     "continent": "south-america",
