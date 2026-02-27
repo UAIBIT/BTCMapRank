@@ -12022,6 +12022,25 @@
     "merchantCount": 1
   },
   {
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-jamii-congo.jpeg",
+    "contact:twitter": "https://twitter.com/BitcoinJamii",
+    "contact:website": "https://bitcoin-jamii.com/",
+    "contact:telegram": "https://t.me/BitcoinJamii",
+    "type": "community",
+    "url_alias": "bitcoin-jamii-kinshasa",
+    "population:date": "2023-01-01",
+    "contact:email": "info@bitcoin-jamii.com",
+    "population": 111859928,
+    "continent": "africa",
+    "area_km2": 12059.74,
+    "contact:phone": "+243999845870",
+    "organization": "bitcoin-jamii",
+    "contact:facebook": "https://www.facebook.com/AfricanBitcoinCommunity",
+    "name": "Kinshasa",
+    "id": 110,
+    "merchantCount": 1
+  },
+  {
     "population": 153448,
     "contact:website": "https://www.downtomeet.com/BTC-MI",
     "contact:nostr": "npub1afvu8hx9wv8zkvxawcx36kc2n5wpf4qwhjfk02rgl22n7pj2098qw6d8hh",
@@ -14057,12 +14076,6 @@
     "merchantCount": 0
   },
   {
-    "id": 110,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "name": "Lumumbashi",
     "contact:email": "info@bitcoin-jamii.com",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-jamii-congo.jpeg",
@@ -15602,21 +15615,10 @@
     "merchantCount": 0
   },
   {
-    "continent": "europe",
-    "contact:twitter": "https://twitter.com/magnybitcoin",
-    "population:date": "2020-01-01",
-    "area_km2": 16.78,
-    "name": "Magny-les-Hameaux",
-    "icon:square": "https://static.btcmap.org/images/communities/magny-les-hameaux.jpg",
-    "contact:telegram": "https://t.me/BitcoinMagny",
-    "url_alias": "magny-les-hameaux",
-    "contact:website": "https://www.magnybitcoin.fr/",
-    "organization": "decouvre-bitcoin",
-    "type": "community",
-    "language": "fr",
-    "population": 9418,
     "id": 458,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 459,
