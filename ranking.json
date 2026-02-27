@@ -2441,6 +2441,32 @@
     "merchantCount": 57
   },
   {
+    "economy": "5. Emerging region: G20",
+    "gdp_md": 38145,
+    "country_type": "Sovereign country",
+    "region_un": "Americas",
+    "subregion": "South America",
+    "wikidataid": "Q733",
+    "lon": -60.146394,
+    "income_grp": "4. Lower middle income",
+    "gdp_year": 2019,
+    "type": "country",
+    "iso_a3": "PRY",
+    "iso_a2": "PY",
+    "sovereignt": "Paraguay",
+    "continent": "South America",
+    "region_wb": "Latin America & Caribbean",
+    "lat": -21.674509,
+    "name": "Paraguay",
+    "area_km2": 401803.01,
+    "population": 7044636,
+    "population:rank": 13,
+    "population:year": 2019,
+    "url_alias": "py",
+    "id": 543,
+    "merchantCount": 56
+  },
+  {
     "contact:email": "valerio.vaccaro@gmail.com",
     "type": "community",
     "population:date": "2022-01-01",
@@ -12314,20 +12340,6 @@
     "merchantCount": 1
   },
   {
-    "organization": "einundzwanzig",
-    "contact:telegram": "https://t.me/Einundzwanzig_HEIDELBERG",
-    "name": "Einundzwanzig Heidelberg",
-    "population": 159245,
-    "url_alias": "einundzwanzig-heidelberg",
-    "area_km2": 109.38,
-    "language": "de",
-    "type": "community",
-    "continent": "europe",
-    "population:date": "2021-12-31",
-    "id": 278,
-    "merchantCount": 1
-  },
-  {
     "population": 47400,
     "contact:telegram": "https://t.me/einundzwanzig_hennef",
     "area_km2": 105.88,
@@ -14606,6 +14618,12 @@
     "merchantCount": 0
   },
   {
+    "id": 278,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "area_km2": 100.03,
     "url_alias": "einundzwanzig-heilbronn",
     "continent": "europe",
@@ -16164,12 +16182,6 @@
     "url_alias": "pw",
     "id": 542,
     "merchantCount": 0
-  },
-  {
-    "id": 543,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "id": 544,
