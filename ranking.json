@@ -4976,24 +4976,6 @@
     "merchantCount": 19
   },
   {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-balneario-camboriu.jpg",
-    "name": "Bitcoin Balneário Camboriú",
-    "population": 390990,
-    "population:date": "2020-01-01",
-    "url_alias": "bitcoin-balneario-camboriu",
-    "tips:lightning_address": "btcbc@coinos.io",
-    "contact:instagram": "https://www.instagram.com/btcbalneario",
-    "contact:discord": "https://discord.gg/zcrAHtVzvt",
-    "contact:whatsapp": "https://chat.whatsapp.com/DLA3hWpBFC3FDeRDoo1pcG",
-    "contact:email": "contato@uaibit.com.br",
-    "type": "community",
-    "area_km2": 142.7,
-    "organization": "uaibit",
-    "id": 911,
-    "merchantCount": 19
-  },
-  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/rhode-island-bitcoiners.jpg",
     "name": "Rhode Island Bitcoiners",
@@ -15615,10 +15597,21 @@
     "merchantCount": 0
   },
   {
+    "continent": "europe",
+    "contact:twitter": "https://twitter.com/magnybitcoin",
+    "population:date": "2020-01-01",
+    "area_km2": 16.78,
+    "name": "Magny-les-Hameaux",
+    "icon:square": "https://static.btcmap.org/images/communities/magny-les-hameaux.jpg",
+    "contact:telegram": "https://t.me/BitcoinMagny",
+    "url_alias": "magny-les-hameaux",
+    "contact:website": "https://www.magnybitcoin.fr/",
+    "organization": "decouvre-bitcoin",
+    "type": "community",
+    "language": "fr",
+    "population": 9418,
     "id": 458,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "id": 459,
@@ -17773,6 +17766,12 @@
     "area_km2": 3.83,
     "id": 896,
     "merchantCount": 0
+  },
+  {
+    "id": 911,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 916,
