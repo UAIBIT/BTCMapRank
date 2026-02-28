@@ -6563,24 +6563,6 @@
     "merchantCount": 11
   },
   {
-    "population": "70493",
-    "url_alias": "st-charles",
-    "icon:square": "https://static.btcmap.org/images/communities/st-charles.jpeg",
-    "continent": "north-america",
-    "box:north": "38.894506631693275",
-    "contact:meetup": "https://www.meetup.com/saint-charles-bitcoin-meetup-group/",
-    "contact:telegram": "https://t.me/ gMfT0Fi6VAw1YmIx",
-    "box:west": "-90.69900512695312",
-    "area_km2": 2036.8,
-    "type": "community",
-    "population:date": "2020-01-01",
-    "box:east": "-90.25131225585939",
-    "box:south": "38.678273561664",
-    "name": "St. Charles",
-    "id": 596,
-    "merchantCount": 11
-  },
-  {
     "type": "community",
     "contact:meetup": "https://www.meetup.com/toulouse-bitcoin/",
     "icon:square": "https://static.btcmap.org/images/communities/rennes.webp",
@@ -16506,6 +16488,12 @@
     "url_alias": "ss",
     "id": 594,
     "merchantCount": 0
+  },
+  {
+    "id": 596,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "contact:twitter": "https://twitter.com/bitcoinboomer12",
