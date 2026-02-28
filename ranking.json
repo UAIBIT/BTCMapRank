@@ -2905,6 +2905,22 @@
     "merchantCount": 43
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/926.png",
+    "name": "Twenty One Kickoff",
+    "population": 2028289,
+    "population:date": "2025-01-01",
+    "url_alias": "twenty-one-kickoff",
+    "contact:website": "https://orangepill.app.link/TwentyOneLife",
+    "contact:nostr": "npub1u6ld6j8evt6fawp7ylekhzqftz3lmxfx8jkaxtfq9ghcdplt4wes7vxkh6",
+    "description": "Aufbau souveräner Zukunft",
+    "type": "community",
+    "area_km2": 414.91,
+    "verified:date": "2026-01-18",
+    "id": 926,
+    "merchantCount": 43
+  },
+  {
     "iso_a3": "GRC",
     "lat": 39.492763,
     "sovereignt": "Greece",
@@ -12446,21 +12462,6 @@
     "merchantCount": 1
   },
   {
-    "contact:telegram": "https://t.me/einundzwanzig_nordhausen",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-nordhausen.webp",
-    "continent": "europe",
-    "name": "Einundzwanzig Nordhausen",
-    "area_km2": 108.12,
-    "population": 40563,
-    "population:date": "2021-12-31",
-    "organization": "einundzwanzig",
-    "url_alias": "einundzwanzig-nordhausen",
-    "type": "community",
-    "language": "de",
-    "id": 306,
-    "merchantCount": 1
-  },
-  {
     "population": 170389,
     "organization": "einundzwanzig",
     "population:date": "2021-12-31",
@@ -14702,6 +14703,12 @@
     "continent": "europe",
     "id": 301,
     "merchantCount": 0
+  },
+  {
+    "id": 306,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population": 465170,
@@ -17783,12 +17790,6 @@
   },
   {
     "id": 922,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 926,
     "type": null,
     "merchantCount": 0,
     "name": null
