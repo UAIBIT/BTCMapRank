@@ -903,6 +903,25 @@
     "merchantCount": 202
   },
   {
+    "name": "Vancouver Bitcoiners",
+    "box:south": "48.81861991362668",
+    "population": "2642825",
+    "url_alias": "vancouver-bitcoiners",
+    "box:north": "49.60003042758964",
+    "box:west": "-124.41604614257814",
+    "contact:twitter": "https://twitter.com/VanBitcoiners",
+    "population:date": "2021-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/vancouver-bitcoiners.jpg",
+    "box:east": "-121.77932739257814",
+    "continent": "north-america",
+    "type": "community",
+    "area_km2": 187.14,
+    "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
+    "contact:website": "https://linktr.ee/VancouverBitcoiners",
+    "id": 639,
+    "merchantCount": 201
+  },
+  {
     "sovereignt": "Australia",
     "population": 25364307,
     "area_km2": 7723242.99,
@@ -1906,6 +1925,28 @@
     "type": "community",
     "id": 801,
     "merchantCount": 76
+  },
+  {
+    "box:north": "51.45837579976947",
+    "contact:email": "admin@bitcoinembassylondon.com",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-embassy-london.jpg",
+    "population:date": "2021-01-01",
+    "contact:eventbrite": "https://www.eventbrite.co.uk/e/bitcoin-embassy-meetup-west-london-tickets-461809523717",
+    "continent": "europe",
+    "contact:instagram": "https://www.instagram.com/bitcoinembassylondon/",
+    "contact:website": "https://bitcoinembassylondon.com/",
+    "box:west": "-0.3055679798126221",
+    "url_alias": "bitcoin-embassy-london",
+    "box:south": "51.45738641562013",
+    "type": "community",
+    "name": "Bitcoin Embassy London",
+    "contact:twitter": "https://twitter.com/bitcoinembassyu",
+    "area_km2": 1598.54,
+    "box:east": "-0.3039801120758057",
+    "contact:facebook": "https://www.facebook.com/bitcoinembassylondon",
+    "population": "14257962",
+    "id": 100,
+    "merchantCount": 73
   },
   {
     "population:rank": 13,
@@ -14016,12 +14057,6 @@
     "name": null
   },
   {
-    "id": 100,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "contact:email": "info@bitcoin-jamii.com",
     "name": "Goma",
     "population": 2000000,
@@ -16189,20 +16224,10 @@
     "merchantCount": 0
   },
   {
-    "language": "fr",
-    "contact:telegram": "https://t.me/bitcoinreims",
-    "type": "community",
-    "organization": "decouvre-bitcoin",
-    "icon:square": "https://static.btcmap.org/images/communities/reims.png",
-    "url_alias": "reims",
-    "continent": "europe",
-    "name": "Reims",
-    "contact:twitter": "https://twitter.com/ReimsBitcoin",
-    "population:date": "2020-01-01",
-    "area_km2": 1428.32,
-    "population": 180319,
     "id": 549,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "name": "Roanne Bitcoin Ancien",
@@ -16882,12 +16907,6 @@
     "url_alias": "va",
     "id": 637,
     "merchantCount": 0
-  },
-  {
-    "id": 639,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "population:rank": 9,
