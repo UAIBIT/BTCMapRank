@@ -3258,20 +3258,6 @@
   },
   {
     "type": "community",
-    "contact:telegram": "https://t.me/Einundzwanzig_Thurgau",
-    "language": "fr",
-    "organization": "einundzwanzig",
-    "continent": "europe",
-    "name": "Einundzwanzig Thurgau",
-    "population": 285964,
-    "url_alias": "einundzwanzig-thurgau",
-    "population:date": "2021-12-31",
-    "area_km2": 989.9,
-    "id": 339,
-    "merchantCount": 18
-  },
-  {
-    "type": "community",
     "population:date": "2019-01-01",
     "box:east": "-44.30445761527792",
     "contact:telegram": "https://t.me/btcmaranhao",
@@ -8894,6 +8880,21 @@
     "contact:telegram": "https://t.me/Einundzwanzig_NF",
     "name": "Einundzwanzig Nordfriesland",
     "id": 305,
+    "merchantCount": 1
+  },
+  {
+    "contact:telegram": "https://t.me/einundzwanzig_nordhausen",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-nordhausen.webp",
+    "continent": "europe",
+    "name": "Einundzwanzig Nordhausen",
+    "area_km2": 108.12,
+    "population": 40563,
+    "population:date": "2021-12-31",
+    "organization": "einundzwanzig",
+    "url_alias": "einundzwanzig-nordhausen",
+    "type": "community",
+    "language": "de",
+    "id": 306,
     "merchantCount": 1
   },
   {

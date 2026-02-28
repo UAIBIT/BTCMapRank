@@ -5446,10 +5446,19 @@
     "merchantCount": 1
   },
   {
+    "contact:telegram": "https://t.me/einundzwanzig_nordhausen",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-nordhausen.webp",
+    "continent": "europe",
+    "name": "Einundzwanzig Nordhausen",
+    "area_km2": 108.12,
+    "population": 40563,
+    "population:date": "2021-12-31",
+    "organization": "einundzwanzig",
+    "url_alias": "einundzwanzig-nordhausen",
+    "type": "community",
+    "language": "de",
     "id": 306,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "name": "Einundzwanzig Oelde",
@@ -5939,18 +5948,10 @@
     "merchantCount": 18
   },
   {
-    "type": "community",
-    "contact:telegram": "https://t.me/Einundzwanzig_Thurgau",
-    "language": "fr",
-    "organization": "einundzwanzig",
-    "continent": "europe",
-    "name": "Einundzwanzig Thurgau",
-    "population": 285964,
-    "url_alias": "einundzwanzig-thurgau",
-    "population:date": "2021-12-31",
-    "area_km2": 989.9,
     "id": 339,
-    "merchantCount": 18
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "url_alias": "einundzwanzig-tirol",
