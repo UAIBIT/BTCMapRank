@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6367
+    "merchantCount": 6394
   },
   {
     "wikidataid": "Q155",
@@ -153,7 +153,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1060
+    "merchantCount": 1062
   },
   {
     "iso_a2": "CH",
@@ -365,6 +365,32 @@
     "merchantCount": 358
   },
   {
+    "region_un": "Europe",
+    "gdp_md": 2829108,
+    "subregion": "Northern Europe",
+    "iso_a2": "GB",
+    "wikidataid": "Q145",
+    "population:rank": 16,
+    "population:year": "2019",
+    "region_wb": "Europe & Central Asia",
+    "continent": "Europe",
+    "population": 66834405,
+    "gdp_year": 2019,
+    "lon": -2.116346,
+    "sovereignt": "United Kingdom",
+    "iso_a3": "GBR",
+    "country_type": "Country",
+    "name": "United Kingdom",
+    "income_grp": "1. High income: OECD",
+    "area_km2": 240644.66,
+    "lat": 54.402739,
+    "economy": "1. Developed region: G7",
+    "type": "country",
+    "url_alias": "gb",
+    "id": 364,
+    "merchantCount": 350
+  },
+  {
     "wikidataid": "Q45",
     "sovereignt": "Portugal",
     "population": 10269417,
@@ -389,32 +415,6 @@
     "url_alias": "pt",
     "id": 541,
     "merchantCount": 349
-  },
-  {
-    "region_un": "Europe",
-    "gdp_md": 2829108,
-    "subregion": "Northern Europe",
-    "iso_a2": "GB",
-    "wikidataid": "Q145",
-    "population:rank": 16,
-    "population:year": "2019",
-    "region_wb": "Europe & Central Asia",
-    "continent": "Europe",
-    "population": 66834405,
-    "gdp_year": 2019,
-    "lon": -2.116346,
-    "sovereignt": "United Kingdom",
-    "iso_a3": "GBR",
-    "country_type": "Country",
-    "name": "United Kingdom",
-    "income_grp": "1. High income: OECD",
-    "area_km2": 240644.66,
-    "lat": 54.402739,
-    "economy": "1. Developed region: G7",
-    "type": "country",
-    "url_alias": "gb",
-    "id": 364,
-    "merchantCount": 348
   },
   {
     "gdp_md": 17477,
@@ -674,7 +674,7 @@
     "lon": 37.907632,
     "url_alias": "ke",
     "id": 415,
-    "merchantCount": 167
+    "merchantCount": 168
   },
   {
     "lon": -70.653998,
@@ -1769,32 +1769,6 @@
     "merchantCount": 18
   },
   {
-    "iso_a3": "UKR",
-    "population:rank": 15,
-    "region_un": "Europe",
-    "population": 44385155,
-    "country_type": "Sovereign country",
-    "lat": 49.724739,
-    "iso_a2": "UA",
-    "continent": "Europe",
-    "name": "Ukraine",
-    "wikidataid": "Q212",
-    "sovereignt": "Ukraine",
-    "subregion": "Eastern Europe",
-    "region_wb": "Europe & Central Asia",
-    "population:year": 2019,
-    "gdp_md": 153781,
-    "type": "country",
-    "lon": 32.140865,
-    "gdp_year": 2019,
-    "economy": "6. Developing region",
-    "area_km2": 571433.13,
-    "income_grp": "4. Lower middle income",
-    "url_alias": "ua",
-    "id": 629,
-    "merchantCount": 17
-  },
-  {
     "region_un": "Asia",
     "subregion": "Western Asia",
     "country_type": "Disputed",
@@ -1818,6 +1792,32 @@
     "economy": "2. Developed region: nonG7",
     "url_alias": "il",
     "id": 398,
+    "merchantCount": 16
+  },
+  {
+    "iso_a3": "UKR",
+    "population:rank": 15,
+    "region_un": "Europe",
+    "population": 44385155,
+    "country_type": "Sovereign country",
+    "lat": 49.724739,
+    "iso_a2": "UA",
+    "continent": "Europe",
+    "name": "Ukraine",
+    "wikidataid": "Q212",
+    "sovereignt": "Ukraine",
+    "subregion": "Eastern Europe",
+    "region_wb": "Europe & Central Asia",
+    "population:year": 2019,
+    "gdp_md": 153781,
+    "type": "country",
+    "lon": 32.140865,
+    "gdp_year": 2019,
+    "economy": "6. Developing region",
+    "area_km2": 571433.13,
+    "income_grp": "4. Lower middle income",
+    "url_alias": "ua",
+    "id": 629,
     "merchantCount": 16
   },
   {
