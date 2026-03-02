@@ -129,7 +129,7 @@
     "type": "community",
     "url_alias": "bitcoin-movement-georgia",
     "id": 765,
-    "merchantCount": 226
+    "merchantCount": 225
   },
   {
     "contact:nostr": "npub168dqt5c8ue3uj8ynlk0lhwalnp7uy39lvzf9tm09wy3htxwmw7qq5nerj4",
@@ -163,6 +163,21 @@
     "merchantCount": 208
   },
   {
+    "contact:twitter": "https://twitter.com/bitplebsla",
+    "continent": "north-america",
+    "contact:meetup": "https://www.meetup.com/bitplebsla/",
+    "population:date": "2022-01-01",
+    "name": "BitPlebs Los Angeles",
+    "area_km2": 12362.56,
+    "contact:website": "la.bitplebs.com",
+    "url_alias": "bitplebs-los-angeles",
+    "population": "9861224",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
+    "id": 161,
+    "merchantCount": 201
+  },
+  {
     "name": "Vancouver Bitcoiners",
     "box:south": "48.81861991362668",
     "population": "2642825",
@@ -180,21 +195,6 @@
     "contact:website": "https://linktr.ee/VancouverBitcoiners",
     "id": 639,
     "merchantCount": 201
-  },
-  {
-    "contact:twitter": "https://twitter.com/bitplebsla",
-    "continent": "north-america",
-    "contact:meetup": "https://www.meetup.com/bitplebsla/",
-    "population:date": "2022-01-01",
-    "name": "BitPlebs Los Angeles",
-    "area_km2": 12362.56,
-    "contact:website": "la.bitplebs.com",
-    "url_alias": "bitplebs-los-angeles",
-    "population": "9861224",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
-    "id": 161,
-    "merchantCount": 200
   },
   {
     "continent": "north-america",
@@ -3034,6 +3034,29 @@
     "merchantCount": 20
   },
   {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/areas/882.jpg",
+    "name": "Bitcoin Famba",
+    "population": 61531,
+    "population:date": "2017-06-30",
+    "url_alias": "bitcoin-famba",
+    "type": "community",
+    "area_km2": 6301.1,
+    "tips:lightning_address": "bitcoinfamba@blink.sv",
+    "contact:website": "https://linktr.ee/BitcoinFamba",
+    "contact:email": "bitcoinfamba@gmail.com",
+    "contact:twitter": "https://x.com/BitcoinFamba",
+    "tips:url": "https://geyser.fund/project/bitcoinfamba",
+    "contact:instagram": "https://www.instagram.com/bitcoinfamba",
+    "contact:nostr": "nprofile1qqspa6xq9dp3enac8d04ejwpczgnfzp6jqw6apcmxk0wdn3wfvmtmccuy30r4",
+    "contact:linkedin": "https://www.linkedin.com/in/bitcoin-famba-82a050365/",
+    "contact:youtube": "https://www.youtube.com/@bitcoinfamba",
+    "contact:facebook": "https://www.facebook.com/bitcoinfamba",
+    "verified:date": "2026-01-06",
+    "id": 882,
+    "merchantCount": 20
+  },
+  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/rhode-island-bitcoiners.jpg",
     "name": "Rhode Island Bitcoiners",
@@ -3098,29 +3121,6 @@
     "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
     "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
     "id": 661,
-    "merchantCount": 19
-  },
-  {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/areas/882.jpg",
-    "name": "Bitcoin Famba",
-    "population": 61531,
-    "population:date": "2017-06-30",
-    "url_alias": "bitcoin-famba",
-    "type": "community",
-    "area_km2": 6301.1,
-    "tips:lightning_address": "bitcoinfamba@blink.sv",
-    "contact:website": "https://linktr.ee/BitcoinFamba",
-    "contact:email": "bitcoinfamba@gmail.com",
-    "contact:twitter": "https://x.com/BitcoinFamba",
-    "tips:url": "https://geyser.fund/project/bitcoinfamba",
-    "contact:instagram": "https://www.instagram.com/bitcoinfamba",
-    "contact:nostr": "nprofile1qqspa6xq9dp3enac8d04ejwpczgnfzp6jqw6apcmxk0wdn3wfvmtmccuy30r4",
-    "contact:linkedin": "https://www.linkedin.com/in/bitcoin-famba-82a050365/",
-    "contact:youtube": "https://www.youtube.com/@bitcoinfamba",
-    "contact:facebook": "https://www.facebook.com/bitcoinfamba",
-    "verified:date": "2026-01-06",
-    "id": 882,
     "merchantCount": 19
   },
   {
@@ -6108,6 +6108,19 @@
     "type": "community",
     "url_alias": "jednadvacet-znojemsko",
     "id": 772,
+    "merchantCount": 6
+  },
+  {
+    "area_km2": 67.84,
+    "contact:telegram": "https://t.me/BitcoinGoerlitz",
+    "continent": "europe",
+    "icon:square": "https://cdn4.cdn-telegram.org/file/J3uAZ77v6FJNzWKg3_b3aKQwm-pwCl794rfwBpS4uQhIenF5hGoBp3eqmCdqyuF-mzYALbdjphcyXdlwXpzBwJEGhfnDouYb5rNafb_xW_2z3V18yw-FYPMjRDyNw0EN3dW_eKPq23Sglp24DsYC78h2GOSo9A2GhBgtIPdnMqPrViaf2bpDCU_wKK7DbN6D--FMPSX_WP-06ND3ajxW8-fpm98jF19xBJxi9FAIEvdqgFKYtpeSAQCWAUqkmNi7TKGnyN0kfGI2m7JmM8fPdCk_JqSxuKs7whgkUZ202oev8sQj3whooJz8g9dRWMR6a_ncpI-SvbX6SUxD2rtepA.jpg",
+    "name": "Bitcoin Görlitz",
+    "population": 54664,
+    "population:date": "2022-01-01",
+    "type": "community",
+    "url_alias": "bitcoin-gorlitz",
+    "id": 778,
     "merchantCount": 6
   },
   {
