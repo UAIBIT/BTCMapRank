@@ -9148,30 +9148,10 @@
     "merchantCount": 2
   },
   {
-    "name": "Maldives",
-    "country_type": "Sovereign country",
-    "region_un": "Asia",
-    "region_wb": "South Asia",
-    "gdp_md": 5642,
-    "iso_a2": "MV",
-    "continent": "Seven seas (open ocean)",
-    "population": 530953,
-    "lat": 4.174441,
-    "sovereignt": "Maldives",
-    "wikidataid": "Q826",
-    "population:rank": 11,
-    "population:year": 2019,
-    "economy": "6. Developing region",
-    "area_km2": 66.56,
-    "type": "country",
-    "income_grp": "3. Upper middle income",
-    "subregion": "Southern Asia",
-    "gdp_year": 2019,
-    "lon": 73.507554,
-    "iso_a3": "MDV",
-    "url_alias": "mv",
     "id": 491,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "lat": -13.386737,
@@ -13869,10 +13849,21 @@
     "merchantCount": 17
   },
   {
+    "area_km2": 4.43,
+    "contact:meetup": "https://www.meetup.com/houilles-bitcoin-meetup/",
+    "contact:telegram": "https://t.me/HouillesBitcoinMeetup",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/houilles.png",
+    "language": "fr",
+    "name": "Houilles",
+    "organization": "decouvre-bitcoin",
+    "population": 31981,
+    "population:date": "2016-01-01",
+    "type": "community",
+    "url_alias": "houilles",
+    "contact:twitter": "https://x.com/Bitcoiners78800",
     "id": 719,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "area_km2": 1107,
