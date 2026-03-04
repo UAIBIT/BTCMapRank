@@ -607,23 +607,6 @@
     "merchantCount": 342
   },
   {
-    "population:date": "2022-01-01",
-    "continent": "europe",
-    "contact:nostr": "npub1lz8xv2dnyryrk4vswkcgf52vqqzruqwuyp53s7pvusx4fef9fh2s7hh86s",
-    "contact:website": "https://jednadvacet.org/",
-    "contact:signal": "https://signal.group/#CjQKIK0vXB9EYpepoD4CL_aB2BXXOTSk8rXX26bjIfVTmeZqEhCOdTX83XGSUnYr6BIwMgwy",
-    "name": "Jednadvacet Praha",
-    "organization": "jednadvacet",
-    "tips:lightning_address": "dvacetjedna@21m.lol",
-    "type": "community",
-    "area_km2": 735.1,
-    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-praha.png",
-    "population": 2709418,
-    "url_alias": "jednadvacet-praha",
-    "id": 411,
-    "merchantCount": 332
-  },
-  {
     "type": "trash",
     "contact:email": "bordel@duck.com",
     "contact:telegram": "https://t.me/PizzaDayPrague",
@@ -15326,6 +15309,12 @@
     "url_alias": "je",
     "id": 407,
     "merchantCount": 0
+  },
+  {
+    "id": 411,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "country_type": "Sovereign country",
