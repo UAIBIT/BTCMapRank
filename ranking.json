@@ -607,6 +607,23 @@
     "merchantCount": 342
   },
   {
+    "population:date": "2022-01-01",
+    "continent": "europe",
+    "contact:nostr": "npub1lz8xv2dnyryrk4vswkcgf52vqqzruqwuyp53s7pvusx4fef9fh2s7hh86s",
+    "contact:website": "https://jednadvacet.org/",
+    "contact:signal": "https://signal.group/#CjQKIK0vXB9EYpepoD4CL_aB2BXXOTSk8rXX26bjIfVTmeZqEhCOdTX83XGSUnYr6BIwMgwy",
+    "name": "Jednadvacet Praha",
+    "organization": "jednadvacet",
+    "tips:lightning_address": "dvacetjedna@21m.lol",
+    "type": "community",
+    "area_km2": 735.1,
+    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-praha.png",
+    "population": 2709418,
+    "url_alias": "jednadvacet-praha",
+    "id": 411,
+    "merchantCount": 332
+  },
+  {
     "type": "trash",
     "contact:email": "bordel@duck.com",
     "contact:telegram": "https://t.me/PizzaDayPrague",
@@ -7477,27 +7494,6 @@
     "gdp_md": 56045,
     "url_alias": "uy",
     "id": 635,
-    "merchantCount": 8
-  },
-  {
-    "area_km2": 990,
-    "contact:email": "bitcoin@dvadsatjeden.org",
-    "contact:twitter": "https://x.com/Dvadsatjeden",
-    "contact:website": "https://www.dvadsatjeden.org/prievidza/",
-    "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/areas/672.png",
-    "name": "21 Prievidza",
-    "population": 128613,
-    "population:date": "2023-12-31",
-    "type": "community",
-    "url_alias": "dvadsatjeden-prievidza",
-    "organization": "dvadsatjeden",
-    "tips:lightning_address": "donate@dvadsatjeden.org",
-    "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
-    "contact:facebook": "https://www.facebook.com/Dvadsatjeden.org",
-    "verified:date": "2026-02-21",
-    "id": 672,
     "merchantCount": 8
   },
   {
@@ -15311,12 +15307,6 @@
     "merchantCount": 0
   },
   {
-    "id": 411,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "country_type": "Sovereign country",
     "iso_a2": "KI",
     "population:rank": 9,
@@ -17143,6 +17133,12 @@
     "icon:square": "https://static.btcmap.org/images/areas/670.png",
     "id": 670,
     "merchantCount": 0
+  },
+  {
+    "id": 672,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "area_km2": 817,
