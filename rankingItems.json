@@ -2472,7 +2472,7 @@
     "name": "Bitcoin Saigon",
     "type": "community",
     "box:west": "106.68591499328615",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-saigon.png",
+    "icon:square": "https://static.btcmap.org/images/areas/137.png",
     "population:date": "2019-01-01",
     "area_km2": 2407.13,
     "contact:meetup": "https://www.meetup.com/Bitcoin-Saigon-Meetup/",
@@ -2483,6 +2483,7 @@
     "contact:twitter": "https://twitter.com/BitcoinSaigon",
     "population": "21281639",
     "url_alias": "bitcoin-saigon",
+    "verified:date": "2026-03-04",
     "id": 137,
     "merchantCount": 9
   },
@@ -2760,13 +2761,14 @@
     "population": "33871431",
     "box:west": "88.04443359375001",
     "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoiner-malaysia.jpg",
+    "icon:square": "https://static.btcmap.org/images/areas/156.png",
     "population:date": "2022-01-01",
     "contact:telegram": "https://t.me/bitcoinermalaysia",
     "contact:meetup": "https://www.meetup.com/bitcoiner-malaysia",
     "box:south": "-7.01366792756663",
     "name:ru": "Малазийские Биткойнеры",
     "box:north": "12.060809058367306",
+    "verified:date": "2026-03-04",
     "id": 156,
     "merchantCount": 25
   },
@@ -7781,12 +7783,13 @@
     "tips:lightning_address": "nolim1t@getalby.com",
     "continent": "asia",
     "population:date": "2020-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/koh-pha-ngan-btc.jpeg",
+    "icon:square": "https://static.btcmap.org/images/areas/423.png",
     "name": "Koh Pha Ngan BTC",
     "population": 10094,
     "type": "community",
     "contact:matrix": "https://matrix.to/#/%23cnx-kpg-hard-money-fan-club:matrix.org",
     "contact:simplex": "https://simplex.chat/contact/#/?v=2-5&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2F-k2ULFDKXou2gI3nlFiTxzZUOeg8sCq7%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAbQwnPY_jxin9J4xMPhJ4qFkfr_sXva5UE-5DCuUY7hk%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22k-CWr-V1kFVnZStlW_EMjA%3D%3D%22%7D",
+    "verified:date": "2026-03-04",
     "id": 423,
     "merchantCount": 6
   },
@@ -9245,6 +9248,8 @@
     "population:rank": 15,
     "name": "Malaysia",
     "url_alias": "my",
+    "icon:square": "https://static.btcmap.org/images/areas/494.png",
+    "verified:date": "2026-03-04",
     "id": 494,
     "merchantCount": 23
   },
@@ -12448,6 +12453,8 @@
     "lon": 105.387292,
     "lat": 21.715416,
     "url_alias": "vn",
+    "icon:square": "https://static.btcmap.org/images/areas/647.png",
+    "verified:date": "2026-03-04",
     "id": 647,
     "merchantCount": 20
   },
@@ -17041,19 +17048,10 @@
     "name": null
   },
   {
-    "continent": "asia",
-    "icon:square": "https://static.btcmap.org/images/areas/923.png",
-    "name": "Samui Bits",
-    "population": 70059,
-    "population:date": "2019-12-31",
-    "url_alias": "samui-bits",
-    "type": "community",
-    "area_km2": 236.28,
-    "contact:email": "samuibits@samuiweb.net",
-    "contact:nostr": "npub1gkptc8cngu94yl7unndmptdgcqk5zs6vcu9kcwpqlmqrc6py9gqqdv2e6r",
-    "tips:lightning_address": "bronzehusky2@primal.net",
     "id": 923,
-    "merchantCount": 11
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "africa",
@@ -17243,18 +17241,10 @@
     "merchantCount": 1
   },
   {
-    "continent": "asia",
-    "icon:square": "https://static.btcmap.org/images/areas/937.png",
-    "name": "Y BTC",
-    "population": 549946,
-    "population:date": "2022-03-24",
-    "url_alias": "y-btc",
-    "contact:facebook": "https://www.facebook.com/profile.php?id=61578132292240",
-    "contact:email": "bitcoin.b.bismillah@gmail.com",
-    "type": "community",
-    "area_km2": 4545.37,
     "id": 937,
-    "merchantCount": 15
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "oceania",
