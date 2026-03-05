@@ -1195,7 +1195,7 @@
     "tips:url": "https://geyser.fund/project/dominicanrepublic",
     "contact:nostr": "npub1wx0stgry8qs5vph59zz0v2kv0keqqtdtkc28uf3247g9leq6l4ysnmq5mk",
     "id": 774,
-    "merchantCount": 136
+    "merchantCount": 137
   },
   {
     "type": "community",
@@ -1767,7 +1767,7 @@
     "contact:telegram": "https://t.me/+5vuB9qMJKdI4MmQx",
     "contact:github": "https://github.com/tokiopy/SatoshiSomosTodos",
     "id": 869,
-    "merchantCount": 78
+    "merchantCount": 79
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -2684,6 +2684,24 @@
     "merchantCount": 48
   },
   {
+    "continent": "asia",
+    "name": "Tokyo Bitcoin Base",
+    "population": 13613660,
+    "population:date": "2026-02-16",
+    "url_alias": "tokyo-bitcoin-base",
+    "type": "community",
+    "verified:date": "2026-02-16",
+    "icon:square": "https://static.btcmap.org/images/areas/982.png",
+    "area_km2": 2503.89,
+    "contact:twitter": "https://x.com/TBB_JP",
+    "contact:website": "https://tokyobitcoin.space/",
+    "contact:meetup": "https://www.meetup.com/tokyo-bitcoin-base/",
+    "contact:youtube": "https://www.youtube.com/@TokyoBitcoinBase",
+    "contact:nostr": "npub10aenqgtumpwzvn29nx8sgsu93jxg8krlgymgwemw6semk9mqalzskuq4nm",
+    "id": 982,
+    "merchantCount": 48
+  },
+  {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-witsand.jpg",
     "name": "Bitcoin Witsand",
     "continent": "africa",
@@ -2986,24 +3004,6 @@
     "contact:nostr": "npub1cl42c2k2j7zw2upef2c2qjpd7sz7ks0r5nkvjag7k86q8zev8l0qwmgf39",
     "name": "Tokyo Citadel",
     "id": 617,
-    "merchantCount": 42
-  },
-  {
-    "continent": "asia",
-    "name": "Tokyo Bitcoin Base",
-    "population": 13613660,
-    "population:date": "2026-02-16",
-    "url_alias": "tokyo-bitcoin-base",
-    "type": "community",
-    "verified:date": "2026-02-16",
-    "icon:square": "https://static.btcmap.org/images/areas/982.png",
-    "area_km2": 2503.89,
-    "contact:twitter": "https://x.com/TBB_JP",
-    "contact:website": "https://tokyobitcoin.space/",
-    "contact:meetup": "https://www.meetup.com/tokyo-bitcoin-base/",
-    "contact:youtube": "https://www.youtube.com/@TokyoBitcoinBase",
-    "contact:nostr": "npub10aenqgtumpwzvn29nx8sgsu93jxg8krlgymgwemw6semk9mqalzskuq4nm",
-    "id": 982,
     "merchantCount": 42
   },
   {
@@ -7497,6 +7497,27 @@
     "merchantCount": 8
   },
   {
+    "area_km2": 990,
+    "contact:email": "bitcoin@dvadsatjeden.org",
+    "contact:twitter": "https://x.com/Dvadsatjeden",
+    "contact:website": "https://www.dvadsatjeden.org/prievidza/",
+    "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/672.png",
+    "name": "21 Prievidza",
+    "population": 128613,
+    "population:date": "2023-12-31",
+    "type": "community",
+    "url_alias": "dvadsatjeden-prievidza",
+    "organization": "dvadsatjeden",
+    "tips:lightning_address": "donate@dvadsatjeden.org",
+    "contact:nostr": "npub18gh7tx4s28dt9t2hhvd6lrwhsmwg94gnxppkezzq0ucqgscav5ysmqwkad",
+    "contact:facebook": "https://www.facebook.com/Dvadsatjeden.org",
+    "verified:date": "2026-02-21",
+    "id": 672,
+    "merchantCount": 8
+  },
+  {
     "area_km2": 17,
     "contact:email": "connect@simplysow.org",
     "contact:phone": "+27826113453",
@@ -10531,19 +10552,6 @@
     "merchantCount": 3
   },
   {
-    "continent": "oceania",
-    "icon:square": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitcoin_Logo.png",
-    "name": "Canberra Bitcoin",
-    "population": 473855,
-    "population:date": "2025-03-27",
-    "url_alias": "canberra-bitcoin",
-    "contact:meetup": "https://www.meetup.com/central-florida-bitcoiners",
-    "type": "community",
-    "area_km2": 2393.83,
-    "id": 943,
-    "merchantCount": 3
-  },
-  {
     "continent": "south-america",
     "name": "Bitmaxis",
     "population": 2985379,
@@ -11768,6 +11776,19 @@
     "type": "community",
     "area_km2": 1.77,
     "id": 941,
+    "merchantCount": 2
+  },
+  {
+    "continent": "oceania",
+    "icon:square": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitcoin_Logo.png",
+    "name": "Canberra Bitcoin",
+    "population": 473855,
+    "population:date": "2025-03-27",
+    "url_alias": "canberra-bitcoin",
+    "contact:meetup": "https://www.meetup.com/central-florida-bitcoiners",
+    "type": "community",
+    "area_km2": 2393.83,
+    "id": 943,
     "merchantCount": 2
   },
   {
@@ -17133,12 +17154,6 @@
     "icon:square": "https://static.btcmap.org/images/areas/670.png",
     "id": 670,
     "merchantCount": 0
-  },
-  {
-    "id": 672,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "area_km2": 817,
