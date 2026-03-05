@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6489
+    "merchantCount": 6524
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2179
+    "merchantCount": 2178
   },
   {
     "population:year": 2019,
@@ -127,7 +127,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1099
+    "merchantCount": 1098
   },
   {
     "subregion": "Southern Europe",
@@ -518,7 +518,7 @@
     "type": "country",
     "url_alias": "gt",
     "id": 384,
-    "merchantCount": 278
+    "merchantCount": 276
   },
   {
     "lat": 48.734044,
@@ -622,7 +622,7 @@
     "name": "Australia",
     "url_alias": "au",
     "id": 33,
-    "merchantCount": 200
+    "merchantCount": 199
   },
   {
     "income_grp": "3. Upper middle income",
@@ -700,7 +700,7 @@
     "population:rank": 14,
     "url_alias": "do",
     "id": 232,
-    "merchantCount": 128
+    "merchantCount": 129
   },
   {
     "continent": "Africa",
@@ -859,32 +859,6 @@
     "merchantCount": 77
   },
   {
-    "subregion": "South America",
-    "area_km2": 1299185.71,
-    "gdp_year": 2019,
-    "iso_a2": "PE",
-    "country_type": "Sovereign country",
-    "income_grp": "3. Upper middle income",
-    "lat": -12.976679,
-    "lon": -72.90016,
-    "iso_a3": "PER",
-    "region_wb": "Latin America & Caribbean",
-    "population:rank": 15,
-    "wikidataid": "Q419",
-    "sovereignt": "Peru",
-    "population": 32510453,
-    "name": "Peru",
-    "economy": "5. Emerging region: G20",
-    "type": "country",
-    "continent": "South America",
-    "population:year": 2019,
-    "region_un": "Americas",
-    "gdp_md": 226848,
-    "url_alias": "pe",
-    "id": 524,
-    "merchantCount": 76
-  },
-  {
     "continent": "Asia",
     "lon": 122.465,
     "area_km2": 290954.62,
@@ -908,6 +882,32 @@
     "gdp_md": 376795,
     "url_alias": "ph",
     "id": 528,
+    "merchantCount": 77
+  },
+  {
+    "subregion": "South America",
+    "area_km2": 1299185.71,
+    "gdp_year": 2019,
+    "iso_a2": "PE",
+    "country_type": "Sovereign country",
+    "income_grp": "3. Upper middle income",
+    "lat": -12.976679,
+    "lon": -72.90016,
+    "iso_a3": "PER",
+    "region_wb": "Latin America & Caribbean",
+    "population:rank": 15,
+    "wikidataid": "Q419",
+    "sovereignt": "Peru",
+    "population": 32510453,
+    "name": "Peru",
+    "economy": "5. Emerging region: G20",
+    "type": "country",
+    "continent": "South America",
+    "population:year": 2019,
+    "region_un": "Americas",
+    "gdp_md": 226848,
+    "url_alias": "pe",
+    "id": 524,
     "merchantCount": 76
   },
   {
@@ -1015,6 +1015,32 @@
     "merchantCount": 68
   },
   {
+    "type": "country",
+    "region_un": "Asia",
+    "country_type": "Sovereign country",
+    "subregion": "Eastern Asia",
+    "region_wb": "East Asia & Pacific",
+    "sovereignt": "Japan",
+    "continent": "Asia",
+    "lon": 138.44217,
+    "iso_a2": "JP",
+    "wikidataid": "Q17",
+    "name": "Japan",
+    "population": 126264931,
+    "population:rank": 17,
+    "iso_a3": "JPN",
+    "gdp_md": 5081769,
+    "economy": "1. Developed region: G7",
+    "population:year": 2019,
+    "lat": 36.142538,
+    "income_grp": "1. High income: OECD",
+    "gdp_year": 2019,
+    "area_km2": 370927.36,
+    "url_alias": "jp",
+    "id": 414,
+    "merchantCount": 67
+  },
+  {
     "lat": 7.182476,
     "iso_a2": "VE",
     "area_km2": 916364.49,
@@ -1064,33 +1090,7 @@
     "population": 11484055,
     "url_alias": "be",
     "id": 50,
-    "merchantCount": 62
-  },
-  {
-    "type": "country",
-    "region_un": "Asia",
-    "country_type": "Sovereign country",
-    "subregion": "Eastern Asia",
-    "region_wb": "East Asia & Pacific",
-    "sovereignt": "Japan",
-    "continent": "Asia",
-    "lon": 138.44217,
-    "iso_a2": "JP",
-    "wikidataid": "Q17",
-    "name": "Japan",
-    "population": 126264931,
-    "population:rank": 17,
-    "iso_a3": "JPN",
-    "gdp_md": 5081769,
-    "economy": "1. Developed region: G7",
-    "population:year": 2019,
-    "lat": 36.142538,
-    "income_grp": "1. High income: OECD",
-    "gdp_year": 2019,
-    "area_km2": 370927.36,
-    "url_alias": "jp",
-    "id": 414,
-    "merchantCount": 60
+    "merchantCount": 63
   },
   {
     "economy": "5. Emerging region: G20",
@@ -1981,6 +1981,32 @@
     "merchantCount": 9
   },
   {
+    "economy": "3. Emerging region: BRIC",
+    "continent": "Europe",
+    "lat": 58.249357,
+    "income_grp": "3. Upper middle income",
+    "iso_a3": "RUS",
+    "gdp_year": 2019,
+    "area_km2": 16917468.03,
+    "name": "Russia",
+    "region_un": "Europe",
+    "lon": 44.686469,
+    "population": 144373535,
+    "iso_a2": "RU",
+    "country_type": "Sovereign country",
+    "sovereignt": "Russia",
+    "type": "country",
+    "subregion": "Eastern Europe",
+    "population:year": 2019,
+    "wikidataid": "Q159",
+    "gdp_md": 1699876,
+    "region_wb": "Europe & Central Asia",
+    "population:rank": 17,
+    "url_alias": "ru",
+    "id": 558,
+    "merchantCount": 9
+  },
+  {
     "iso_a3": "SGP",
     "wikidataid": "Q334",
     "population:rank": 13,
@@ -2112,32 +2138,6 @@
     "population": 2494530,
     "url_alias": "na",
     "id": 497,
-    "merchantCount": 8
-  },
-  {
-    "economy": "3. Emerging region: BRIC",
-    "continent": "Europe",
-    "lat": 58.249357,
-    "income_grp": "3. Upper middle income",
-    "iso_a3": "RUS",
-    "gdp_year": 2019,
-    "area_km2": 16917468.03,
-    "name": "Russia",
-    "region_un": "Europe",
-    "lon": 44.686469,
-    "population": 144373535,
-    "iso_a2": "RU",
-    "country_type": "Sovereign country",
-    "sovereignt": "Russia",
-    "type": "country",
-    "subregion": "Eastern Europe",
-    "population:year": 2019,
-    "wikidataid": "Q159",
-    "gdp_md": 1699876,
-    "region_wb": "Europe & Central Asia",
-    "population:rank": 17,
-    "url_alias": "ru",
-    "id": 558,
     "merchantCount": 8
   },
   {
