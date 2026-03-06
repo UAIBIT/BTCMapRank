@@ -445,7 +445,7 @@
     "contact:website": "https://bitcoinvictoriafalls.com/",
     "contact:nostr": "npub1xxcyzef28e5qcjncwmn6z2nmwaezs2apxc2v2f7unnvxw3r5edfsactfly",
     "id": 707,
-    "merchantCount": 123
+    "merchantCount": 119
   },
   {
     "contact:twitter": "https://x.com/bitcoinlake",
@@ -1897,6 +1897,27 @@
     "merchantCount": 37
   },
   {
+    "area_km2": 5748,
+    "contact:email": "info@bitcoinfriesland.com",
+    "contact:nostr": "npub15qgfat6kkmzecup683u64lalqdceaejq97d8z8njhwk0c68umx6qcs5dcm",
+    "contact:telegram": "https://t.me/BitcoinFriesland",
+    "contact:twitter": "https://x.com/BitcoinFryslan",
+    "contact:website": "https://bitcoinfriesland.com",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/709.png",
+    "name": "Bitcoin Friesland",
+    "population": 661904,
+    "population:date": "2024-01-01",
+    "tips:lightning_address": "yearlylicense09@walletofsatoshi.com",
+    "type": "community",
+    "url_alias": "bitcoin-friesland",
+    "contact:phone": "+31515444422",
+    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
+    "verified:date": "2026-01-22",
+    "id": 709,
+    "merchantCount": 37
+  },
+  {
     "area_km2": 254,
     "contact:instagram": "https://www.instagram.com/bitcoinparaguay/",
     "contact:nostr": "npub1l57mdhhlkuulspszd6qarjxennpytglns6kth2agmjvrwyx8aqdqgj645x",
@@ -2107,27 +2128,6 @@
     "box:south": "-38.41271038284708",
     "continent": "oceania",
     "id": 469,
-    "merchantCount": 36
-  },
-  {
-    "area_km2": 5748,
-    "contact:email": "info@bitcoinfriesland.com",
-    "contact:nostr": "npub15qgfat6kkmzecup683u64lalqdceaejq97d8z8njhwk0c68umx6qcs5dcm",
-    "contact:telegram": "https://t.me/BitcoinFriesland",
-    "contact:twitter": "https://x.com/BitcoinFryslan",
-    "contact:website": "https://bitcoinfriesland.com",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/areas/709.png",
-    "name": "Bitcoin Friesland",
-    "population": 661904,
-    "population:date": "2024-01-01",
-    "tips:lightning_address": "yearlylicense09@walletofsatoshi.com",
-    "type": "community",
-    "url_alias": "bitcoin-friesland",
-    "contact:phone": "+31515444422",
-    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
-    "verified:date": "2026-01-22",
-    "id": 709,
     "merchantCount": 36
   },
   {
@@ -2910,6 +2910,20 @@
   },
   {
     "continent": "north-america",
+    "population": "2104238",
+    "name": "Portland Bitcoin Group",
+    "type": "community",
+    "contact:email": "EricYHF@pm.me",
+    "area_km2": 380.29,
+    "population:date": "2020-01-01",
+    "url_alias": "portland_bitcoin_group",
+    "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
+    "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
+    "id": 661,
+    "merchantCount": 21
+  },
+  {
+    "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoincomoxvalley.jpg",
     "name": "Bitcoin Comox Valley",
     "population": 72445,
@@ -2973,19 +2987,6 @@
     "contact:email": "ayuda@osmowallet.com",
     "continent": "north-america",
     "id": 350,
-    "merchantCount": 20
-  },
-  {
-    "contact:telegram": "https://t.me/bitcoinpowerhouse21",
-    "continent": "asia",
-    "icon:square": "https://static.btcmap.org/images/areas/671.png",
-    "name": "Phuket Bitcoin Meetup",
-    "type": "community",
-    "url_alias": "bitcoin-powerhouse",
-    "description": "Come join us at Beerfest Restaurant and Brewery for a laid-back meetup where we’ll dive into conversations about Bitcoin and related topics. It’s a perfect chance to exchange ideas, discuss, and trade in a chill atmosphere. The event kicks off at 19:00.",
-    "contact:meetup": "https://www.meetup.com/phuket-bitcoin-meetup/",
-    "verified:date": "2026-03-04",
-    "id": 671,
     "merchantCount": 20
   },
   {
@@ -3113,17 +3114,16 @@
     "merchantCount": 19
   },
   {
-    "continent": "north-america",
-    "population": "2104238",
-    "name": "Portland Bitcoin Group",
+    "contact:telegram": "https://t.me/bitcoinpowerhouse21",
+    "continent": "asia",
+    "icon:square": "https://static.btcmap.org/images/areas/671.png",
+    "name": "Phuket Bitcoin Meetup",
     "type": "community",
-    "contact:email": "EricYHF@pm.me",
-    "area_km2": 380.29,
-    "population:date": "2020-01-01",
-    "url_alias": "portland_bitcoin_group",
-    "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
-    "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
-    "id": 661,
+    "url_alias": "bitcoin-powerhouse",
+    "description": "Come join us at Beerfest Restaurant and Brewery for a laid-back meetup where we’ll dive into conversations about Bitcoin and related topics. It’s a perfect chance to exchange ideas, discuss, and trade in a chill atmosphere. The event kicks off at 19:00.",
+    "contact:meetup": "https://www.meetup.com/phuket-bitcoin-meetup/",
+    "verified:date": "2026-03-04",
+    "id": 671,
     "merchantCount": 19
   },
   {
@@ -3397,23 +3397,6 @@
     "merchantCount": 17
   },
   {
-    "population": 1734000,
-    "url_alias": "uusimaa",
-    "area_km2": 17338.83,
-    "icon:square": "https://static.btcmap.org/images/communities/uusimaa.png",
-    "population:date": "2023-01-01",
-    "tips:lightning_address": "lahjoitus@salamaverkko.fi",
-    "continent": "europe",
-    "type": "community",
-    "contact:email": "salamaverkko@salamaverkko.fi",
-    "name": "Uusimaa",
-    "contact:telegram": "https://t.me/salamaverkko",
-    "contact:meetup": "https://www.meetup.com/salamaverkko/",
-    "contact:website": "http://www.salamaverkko.fi",
-    "id": 634,
-    "merchantCount": 17
-  },
-  {
     "area_km2": 9753.3,
     "contact:email": "BTCFreedomMoney@gmail.com",
     "population:date": "2000-01-01",
@@ -3514,6 +3497,23 @@
     "population:date": "2011-01-01",
     "contact:twitter": "https://twitter.com/talvasconcelos",
     "id": 516,
+    "merchantCount": 16
+  },
+  {
+    "population": 1734000,
+    "url_alias": "uusimaa",
+    "area_km2": 17338.83,
+    "icon:square": "https://static.btcmap.org/images/communities/uusimaa.png",
+    "population:date": "2023-01-01",
+    "tips:lightning_address": "lahjoitus@salamaverkko.fi",
+    "continent": "europe",
+    "type": "community",
+    "contact:email": "salamaverkko@salamaverkko.fi",
+    "name": "Uusimaa",
+    "contact:telegram": "https://t.me/salamaverkko",
+    "contact:meetup": "https://www.meetup.com/salamaverkko/",
+    "contact:website": "http://www.salamaverkko.fi",
+    "id": 634,
     "merchantCount": 16
   },
   {

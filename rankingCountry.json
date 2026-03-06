@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6524
+    "merchantCount": 6526
   },
   {
     "wikidataid": "Q155",
@@ -75,7 +75,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1340
+    "merchantCount": 1341
   },
   {
     "gdp_md": 351431,
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 612
+    "merchantCount": 613
   },
   {
     "sovereignt": "Canada",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 475
+    "merchantCount": 474
   },
   {
     "country_type": "Sovereign country",
@@ -362,7 +362,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 358
+    "merchantCount": 359
   },
   {
     "region_un": "Europe",
@@ -703,32 +703,6 @@
     "merchantCount": 129
   },
   {
-    "continent": "Africa",
-    "sovereignt": "Zambia",
-    "region_un": "Africa",
-    "area_km2": 757283.84,
-    "iso_a3": "ZMB",
-    "wikidataid": "Q953",
-    "lat": -14.660804,
-    "subregion": "Eastern Africa",
-    "type": "country",
-    "iso_a2": "ZM",
-    "region_wb": "Sub-Saharan Africa",
-    "population": 17861030,
-    "lon": 26.395298,
-    "country_type": "Sovereign country",
-    "population:rank": 14,
-    "gdp_md": 23309,
-    "name": "Zambia",
-    "gdp_year": 2019,
-    "economy": "7. Least developed region",
-    "income_grp": "4. Lower middle income",
-    "population:year": 2019,
-    "url_alias": "zm",
-    "id": 657,
-    "merchantCount": 127
-  },
-  {
     "iso_a2": "SR",
     "continent": "South America",
     "iso_a3": "SUR",
@@ -753,6 +727,32 @@
     "url_alias": "sr",
     "id": 593,
     "merchantCount": 124
+  },
+  {
+    "continent": "Africa",
+    "sovereignt": "Zambia",
+    "region_un": "Africa",
+    "area_km2": 757283.84,
+    "iso_a3": "ZMB",
+    "wikidataid": "Q953",
+    "lat": -14.660804,
+    "subregion": "Eastern Africa",
+    "type": "country",
+    "iso_a2": "ZM",
+    "region_wb": "Sub-Saharan Africa",
+    "population": 17861030,
+    "lon": 26.395298,
+    "country_type": "Sovereign country",
+    "population:rank": 14,
+    "gdp_md": 23309,
+    "name": "Zambia",
+    "gdp_year": 2019,
+    "economy": "7. Least developed region",
+    "income_grp": "4. Lower middle income",
+    "population:year": 2019,
+    "url_alias": "zm",
+    "id": 657,
+    "merchantCount": 123
   },
   {
     "sovereignt": "Colombia",
@@ -1272,7 +1272,7 @@
     "economy": "2. Developed region: nonG7",
     "url_alias": "hu",
     "id": 395,
-    "merchantCount": 36
+    "merchantCount": 37
   },
   {
     "gdp_md": 7491,
@@ -1431,32 +1431,6 @@
     "merchantCount": 28
   },
   {
-    "iso_a3": "FIN",
-    "type": "country",
-    "wikidataid": "Q33",
-    "income_grp": "1. High income: OECD",
-    "region_wb": "Europe & Central Asia",
-    "name": "Finland",
-    "subregion": "Northern Europe",
-    "lon": 27.276449,
-    "iso_a2": "FI",
-    "gdp_md": 269296,
-    "area_km2": 331233.66,
-    "continent": "Europe",
-    "population": 5520314,
-    "gdp_year": 2019,
-    "lat": 63.252361,
-    "sovereignt": "Finland",
-    "country_type": "Country",
-    "population:rank": 13,
-    "region_un": "Europe",
-    "population:year": 2019,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "fi",
-    "id": 356,
-    "merchantCount": 27
-  },
-  {
     "lat": 19.431821,
     "gdp_md": 18173,
     "country_type": "Sovereign country",
@@ -1507,6 +1481,32 @@
     "url_alias": "tr",
     "id": 622,
     "merchantCount": 27
+  },
+  {
+    "iso_a3": "FIN",
+    "type": "country",
+    "wikidataid": "Q33",
+    "income_grp": "1. High income: OECD",
+    "region_wb": "Europe & Central Asia",
+    "name": "Finland",
+    "subregion": "Northern Europe",
+    "lon": 27.276449,
+    "iso_a2": "FI",
+    "gdp_md": 269296,
+    "area_km2": 331233.66,
+    "continent": "Europe",
+    "population": 5520314,
+    "gdp_year": 2019,
+    "lat": 63.252361,
+    "sovereignt": "Finland",
+    "country_type": "Country",
+    "population:rank": 13,
+    "region_un": "Europe",
+    "population:year": 2019,
+    "economy": "2. Developed region: nonG7",
+    "url_alias": "fi",
+    "id": 356,
+    "merchantCount": 26
   },
   {
     "income_grp": "1. High income: OECD",

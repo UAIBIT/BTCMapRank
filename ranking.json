@@ -29,7 +29,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6524
+    "merchantCount": 6526
   },
   {
     "wikidataid": "Q155",
@@ -70,7 +70,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 1891
+    "merchantCount": 1887
   },
   {
     "population:year": 2019,
@@ -96,7 +96,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "id": 600,
-    "merchantCount": 1340
+    "merchantCount": 1341
   },
   {
     "gdp_md": 351431,
@@ -285,7 +285,7 @@
     "population": "83695430",
     "continent": "europe",
     "id": 262,
-    "merchantCount": 619
+    "merchantCount": 620
   },
   {
     "name": "Germany",
@@ -311,7 +311,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 612
+    "merchantCount": 613
   },
   {
     "sovereignt": "Canada",
@@ -390,7 +390,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 475
+    "merchantCount": 474
   },
   {
     "continent": "south-america",
@@ -500,7 +500,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 358
+    "merchantCount": 359
   },
   {
     "name": "Einundzwanzig Portugal",
@@ -1253,32 +1253,6 @@
     "merchantCount": 127
   },
   {
-    "continent": "Africa",
-    "sovereignt": "Zambia",
-    "region_un": "Africa",
-    "area_km2": 757283.84,
-    "iso_a3": "ZMB",
-    "wikidataid": "Q953",
-    "lat": -14.660804,
-    "subregion": "Eastern Africa",
-    "type": "country",
-    "iso_a2": "ZM",
-    "region_wb": "Sub-Saharan Africa",
-    "population": 17861030,
-    "lon": 26.395298,
-    "country_type": "Sovereign country",
-    "population:rank": 14,
-    "gdp_md": 23309,
-    "name": "Zambia",
-    "gdp_year": 2019,
-    "economy": "7. Least developed region",
-    "income_grp": "4. Lower middle income",
-    "population:year": 2019,
-    "url_alias": "zm",
-    "id": 657,
-    "merchantCount": 127
-  },
-  {
     "continent": "south-america",
     "area_km2": 751.95,
     "tips:lightning_address": "gobtcbr@getalby.com",
@@ -1327,6 +1301,32 @@
     "merchantCount": 124
   },
   {
+    "continent": "Africa",
+    "sovereignt": "Zambia",
+    "region_un": "Africa",
+    "area_km2": 757283.84,
+    "iso_a3": "ZMB",
+    "wikidataid": "Q953",
+    "lat": -14.660804,
+    "subregion": "Eastern Africa",
+    "type": "country",
+    "iso_a2": "ZM",
+    "region_wb": "Sub-Saharan Africa",
+    "population": 17861030,
+    "lon": 26.395298,
+    "country_type": "Sovereign country",
+    "population:rank": 14,
+    "gdp_md": 23309,
+    "name": "Zambia",
+    "gdp_year": 2019,
+    "economy": "7. Least developed region",
+    "income_grp": "4. Lower middle income",
+    "population:year": 2019,
+    "url_alias": "zm",
+    "id": 657,
+    "merchantCount": 123
+  },
+  {
     "area_km2": 699.45,
     "contact:email": "bitcoinvictoriafalls@gmail.com",
     "contact:twitter": "https://twitter.com/BitcoinVicFalls",
@@ -1341,7 +1341,7 @@
     "contact:website": "https://bitcoinvictoriafalls.com/",
     "contact:nostr": "npub1xxcyzef28e5qcjncwmn6z2nmwaezs2apxc2v2f7unnvxw3r5edfsactfly",
     "id": 707,
-    "merchantCount": 123
+    "merchantCount": 119
   },
   {
     "contact:twitter": "https://x.com/bitcoinlake",
@@ -3269,6 +3269,32 @@
     "merchantCount": 37
   },
   {
+    "income_grp": "1. High income: OECD",
+    "population": 9769949,
+    "region_wb": "Europe & Central Asia",
+    "country_type": "Sovereign country",
+    "iso_a3": "HUN",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "HU",
+    "wikidataid": "Q28",
+    "lat": 47.086841,
+    "lon": 19.447867,
+    "sovereignt": "Hungary",
+    "area_km2": 93167.09,
+    "subregion": "Eastern Europe",
+    "gdp_year": 2019,
+    "population:rank": 13,
+    "population:year": 2019,
+    "name": "Hungary",
+    "region_un": "Europe",
+    "gdp_md": 163469,
+    "economy": "2. Developed region: nonG7",
+    "url_alias": "hu",
+    "id": 395,
+    "merchantCount": 37
+  },
+  {
     "language": "fr",
     "url_alias": "paris-centre",
     "area_km2": 105.12,
@@ -3284,6 +3310,27 @@
     "name": "Paris Centre",
     "contact:twitter": "https://x.com/parisbtcmeetup",
     "id": 523,
+    "merchantCount": 37
+  },
+  {
+    "area_km2": 5748,
+    "contact:email": "info@bitcoinfriesland.com",
+    "contact:nostr": "npub15qgfat6kkmzecup683u64lalqdceaejq97d8z8njhwk0c68umx6qcs5dcm",
+    "contact:telegram": "https://t.me/BitcoinFriesland",
+    "contact:twitter": "https://x.com/BitcoinFryslan",
+    "contact:website": "https://bitcoinfriesland.com",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/709.png",
+    "name": "Bitcoin Friesland",
+    "population": 661904,
+    "population:date": "2024-01-01",
+    "tips:lightning_address": "yearlylicense09@walletofsatoshi.com",
+    "type": "community",
+    "url_alias": "bitcoin-friesland",
+    "contact:phone": "+31515444422",
+    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
+    "verified:date": "2026-01-22",
+    "id": 709,
     "merchantCount": 37
   },
   {
@@ -3461,32 +3508,6 @@
     "merchantCount": 36
   },
   {
-    "income_grp": "1. High income: OECD",
-    "population": 9769949,
-    "region_wb": "Europe & Central Asia",
-    "country_type": "Sovereign country",
-    "iso_a3": "HUN",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "HU",
-    "wikidataid": "Q28",
-    "lat": 47.086841,
-    "lon": 19.447867,
-    "sovereignt": "Hungary",
-    "area_km2": 93167.09,
-    "subregion": "Eastern Europe",
-    "gdp_year": 2019,
-    "population:rank": 13,
-    "population:year": 2019,
-    "name": "Hungary",
-    "region_un": "Europe",
-    "gdp_md": 163469,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "hu",
-    "id": 395,
-    "merchantCount": 36
-  },
-  {
     "gdp_md": 7491,
     "wikidataid": "Q9676",
     "region_un": "Europe",
@@ -3549,27 +3570,6 @@
     "box:south": "-38.41271038284708",
     "continent": "oceania",
     "id": 469,
-    "merchantCount": 36
-  },
-  {
-    "area_km2": 5748,
-    "contact:email": "info@bitcoinfriesland.com",
-    "contact:nostr": "npub15qgfat6kkmzecup683u64lalqdceaejq97d8z8njhwk0c68umx6qcs5dcm",
-    "contact:telegram": "https://t.me/BitcoinFriesland",
-    "contact:twitter": "https://x.com/BitcoinFryslan",
-    "contact:website": "https://bitcoinfriesland.com",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/areas/709.png",
-    "name": "Bitcoin Friesland",
-    "population": 661904,
-    "population:date": "2024-01-01",
-    "tips:lightning_address": "yearlylicense09@walletofsatoshi.com",
-    "type": "community",
-    "url_alias": "bitcoin-friesland",
-    "contact:phone": "+31515444422",
-    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
-    "verified:date": "2026-01-22",
-    "id": 709,
     "merchantCount": 36
   },
   {
@@ -4188,32 +4188,6 @@
     "merchantCount": 27
   },
   {
-    "iso_a3": "FIN",
-    "type": "country",
-    "wikidataid": "Q33",
-    "income_grp": "1. High income: OECD",
-    "region_wb": "Europe & Central Asia",
-    "name": "Finland",
-    "subregion": "Northern Europe",
-    "lon": 27.276449,
-    "iso_a2": "FI",
-    "gdp_md": 269296,
-    "area_km2": 331233.66,
-    "continent": "Europe",
-    "population": 5520314,
-    "gdp_year": 2019,
-    "lat": 63.252361,
-    "sovereignt": "Finland",
-    "country_type": "Country",
-    "population:rank": 13,
-    "region_un": "Europe",
-    "population:year": 2019,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "fi",
-    "id": 356,
-    "merchantCount": 27
-  },
-  {
     "lat": 19.431821,
     "gdp_md": 18173,
     "country_type": "Sovereign country",
@@ -4307,6 +4281,32 @@
     "url_alias": "tr",
     "id": 622,
     "merchantCount": 27
+  },
+  {
+    "iso_a3": "FIN",
+    "type": "country",
+    "wikidataid": "Q33",
+    "income_grp": "1. High income: OECD",
+    "region_wb": "Europe & Central Asia",
+    "name": "Finland",
+    "subregion": "Northern Europe",
+    "lon": 27.276449,
+    "iso_a2": "FI",
+    "gdp_md": 269296,
+    "area_km2": 331233.66,
+    "continent": "Europe",
+    "population": 5520314,
+    "gdp_year": 2019,
+    "lat": 63.252361,
+    "sovereignt": "Finland",
+    "country_type": "Country",
+    "population:rank": 13,
+    "region_un": "Europe",
+    "population:year": 2019,
+    "economy": "2. Developed region: nonG7",
+    "url_alias": "fi",
+    "id": 356,
+    "merchantCount": 26
   },
   {
     "income_grp": "1. High income: OECD",
@@ -4744,6 +4744,20 @@
   },
   {
     "continent": "north-america",
+    "population": "2104238",
+    "name": "Portland Bitcoin Group",
+    "type": "community",
+    "contact:email": "EricYHF@pm.me",
+    "area_km2": 380.29,
+    "population:date": "2020-01-01",
+    "url_alias": "portland_bitcoin_group",
+    "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
+    "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
+    "id": 661,
+    "merchantCount": 21
+  },
+  {
+    "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoincomoxvalley.jpg",
     "name": "Bitcoin Comox Valley",
     "population": 72445,
@@ -4835,19 +4849,6 @@
     "icon:square": "https://static.btcmap.org/images/areas/647.png",
     "verified:date": "2026-03-04",
     "id": 647,
-    "merchantCount": 20
-  },
-  {
-    "contact:telegram": "https://t.me/bitcoinpowerhouse21",
-    "continent": "asia",
-    "icon:square": "https://static.btcmap.org/images/areas/671.png",
-    "name": "Phuket Bitcoin Meetup",
-    "type": "community",
-    "url_alias": "bitcoin-powerhouse",
-    "description": "Come join us at Beerfest Restaurant and Brewery for a laid-back meetup where we’ll dive into conversations about Bitcoin and related topics. It’s a perfect chance to exchange ideas, discuss, and trade in a chill atmosphere. The event kicks off at 19:00.",
-    "contact:meetup": "https://www.meetup.com/phuket-bitcoin-meetup/",
-    "verified:date": "2026-03-04",
-    "id": 671,
     "merchantCount": 20
   },
   {
@@ -5001,17 +5002,16 @@
     "merchantCount": 19
   },
   {
-    "continent": "north-america",
-    "population": "2104238",
-    "name": "Portland Bitcoin Group",
+    "contact:telegram": "https://t.me/bitcoinpowerhouse21",
+    "continent": "asia",
+    "icon:square": "https://static.btcmap.org/images/areas/671.png",
+    "name": "Phuket Bitcoin Meetup",
     "type": "community",
-    "contact:email": "EricYHF@pm.me",
-    "area_km2": 380.29,
-    "population:date": "2020-01-01",
-    "url_alias": "portland_bitcoin_group",
-    "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
-    "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
-    "id": 661,
+    "url_alias": "bitcoin-powerhouse",
+    "description": "Come join us at Beerfest Restaurant and Brewery for a laid-back meetup where we’ll dive into conversations about Bitcoin and related topics. It’s a perfect chance to exchange ideas, discuss, and trade in a chill atmosphere. The event kicks off at 19:00.",
+    "contact:meetup": "https://www.meetup.com/phuket-bitcoin-meetup/",
+    "verified:date": "2026-03-04",
+    "id": 671,
     "merchantCount": 19
   },
   {
@@ -5311,23 +5311,6 @@
     "merchantCount": 17
   },
   {
-    "population": 1734000,
-    "url_alias": "uusimaa",
-    "area_km2": 17338.83,
-    "icon:square": "https://static.btcmap.org/images/communities/uusimaa.png",
-    "population:date": "2023-01-01",
-    "tips:lightning_address": "lahjoitus@salamaverkko.fi",
-    "continent": "europe",
-    "type": "community",
-    "contact:email": "salamaverkko@salamaverkko.fi",
-    "name": "Uusimaa",
-    "contact:telegram": "https://t.me/salamaverkko",
-    "contact:meetup": "https://www.meetup.com/salamaverkko/",
-    "contact:website": "http://www.salamaverkko.fi",
-    "id": 634,
-    "merchantCount": 17
-  },
-  {
     "area_km2": 9753.3,
     "contact:email": "BTCFreedomMoney@gmail.com",
     "population:date": "2000-01-01",
@@ -5480,6 +5463,23 @@
     "income_grp": "4. Lower middle income",
     "url_alias": "ua",
     "id": 629,
+    "merchantCount": 16
+  },
+  {
+    "population": 1734000,
+    "url_alias": "uusimaa",
+    "area_km2": 17338.83,
+    "icon:square": "https://static.btcmap.org/images/communities/uusimaa.png",
+    "population:date": "2023-01-01",
+    "tips:lightning_address": "lahjoitus@salamaverkko.fi",
+    "continent": "europe",
+    "type": "community",
+    "contact:email": "salamaverkko@salamaverkko.fi",
+    "name": "Uusimaa",
+    "contact:telegram": "https://t.me/salamaverkko",
+    "contact:meetup": "https://www.meetup.com/salamaverkko/",
+    "contact:website": "http://www.salamaverkko.fi",
+    "id": 634,
     "merchantCount": 16
   },
   {
