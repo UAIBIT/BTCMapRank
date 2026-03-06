@@ -4043,22 +4043,6 @@
     "merchantCount": 29
   },
   {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/club-satoshi.jpg",
-    "name": "Club Satoshi",
-    "population": 1703186,
-    "population:date": "2023-01-31",
-    "url_alias": "club-satoshi",
-    "area_km2": 22728.14,
-    "tips:lightning_address": "clubsatoshi@blink.sv",
-    "contact:instagram": "https://www.instagram.com/club.satoshi/",
-    "contact:email": "contact@club-satoshi.com",
-    "type": "community",
-    "contact:website": "https://clubsatoshi.notion.site/Club-Satoshi-1500936c4df4808092efe527e111d2c8",
-    "id": 846,
-    "merchantCount": 29
-  },
-  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/fornelli.jpg",
     "name": "Fornelli",
@@ -14673,10 +14657,18 @@
     "merchantCount": 0
   },
   {
+    "organization": "einundzwanzig",
+    "url_alias": "einundzwanzig-karlsruhe",
+    "name": "Einundzwanzig Karlsruhe",
+    "population:date": "2021-12-31",
+    "area_km2": 174.15,
+    "contact:telegram": "https://t.me/BitcoinKarlsruhe",
+    "type": "community",
+    "language": "de",
+    "continent": "europe",
+    "population": 306502,
     "id": 285,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 0
   },
   {
     "area_km2": 69.77,
@@ -15570,7 +15562,7 @@
     "merchantCount": 0
   },
   {
-    "contact:telegram": "https://t.me/Maconmeetupbitcoin",
+    "contact:telegram": "https://t.me/MaconBitcoin",
     "population": 34414,
     "type": "community",
     "continent": "europe",
@@ -15580,11 +15572,12 @@
     "organization": "decouvre-bitcoin",
     "name": "Macon",
     "language": "fr",
-    "contact:website": "https://allo-crypto.com/meetup-bitcoin/",
-    "icon:square": "https://static.btcmap.org/images/communities/macon.jpeg",
+    "contact:website": "https://academie-resilience.fr/macon-bitcoin/",
+    "icon:square": "https://static.btcmap.org/images/areas/456.png",
     "area_km2": 1204.69,
-    "contact:twitter": "https://twitter.com/MeetupBTCMacon",
-    "contact:facebook": "https://www.facebook.com/groups/maconmeetupbitcoin",
+    "contact:twitter": "https://twitter.com/MaconBitcoin",
+    "contact:facebook": "https://www.facebook.com/groups/maconbitcoin",
+    "verified:date": "2026-03-06",
     "id": 456,
     "merchantCount": 0
   },
@@ -17656,6 +17649,12 @@
     "area_km2": 409.4,
     "id": 838,
     "merchantCount": 0
+  },
+  {
+    "id": 846,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "continent": "europe",
