@@ -5063,6 +5063,21 @@
     "merchantCount": 9
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/950.jpg",
+    "name": "Einundzwanzig Augsburg",
+    "population": 286000,
+    "population:date": "2015-01-01",
+    "url_alias": "einundzwanzig-augsburg",
+    "contact:telegram": "https://t.me/Einundzwanzig_Augsburg",
+    "organization": "einundzwanzig",
+    "type": "community",
+    "area_km2": 163.51,
+    "verified:date": "2026-01-08",
+    "id": 950,
+    "merchantCount": 9
+  },
+  {
     "area_km2": 13.15,
     "box:north": "47.49842",
     "type": "community",
@@ -6785,6 +6800,21 @@
     "organization": "2140-meetups",
     "population": "593337",
     "id": 212,
+    "merchantCount": 4
+  },
+  {
+    "url_alias": "einundzwanzig-darmstadt",
+    "name": "Einundzwanzig Darmstadt",
+    "population:date": "2021-12-31",
+    "type": "community",
+    "continent": "europe",
+    "area_km2": 122.25,
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-darmstadt.webp",
+    "contact:telegram": "https://t.me/einundzwanzigda",
+    "language": "de",
+    "organization": "einundzwanzig",
+    "population": 159631,
+    "id": 261,
     "merchantCount": 4
   },
   {

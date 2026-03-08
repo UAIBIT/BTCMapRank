@@ -5575,32 +5575,6 @@
     "merchantCount": 15
   },
   {
-    "iso_a3": "MLT",
-    "country_type": "Sovereign country",
-    "lon": 14.433005,
-    "continent": "Europe",
-    "name": "Malta",
-    "wikidataid": "Q233",
-    "population": 502653,
-    "subregion": "Southern Europe",
-    "population:rank": 11,
-    "population:year": 2019,
-    "gdp_md": 14989,
-    "region_wb": "Middle East & North Africa",
-    "sovereignt": "Malta",
-    "region_un": "Europe",
-    "type": "country",
-    "economy": "2. Developed region: nonG7",
-    "income_grp": "2. High income: nonOECD",
-    "gdp_year": 2019,
-    "lat": 35.892886,
-    "area_km2": 274.38,
-    "iso_a2": "MT",
-    "url_alias": "mt",
-    "id": 489,
-    "merchantCount": 15
-  },
-  {
     "tips:lightning_address": "brutalbowl88@walletofsatoshi.com",
     "area_km2": 3865.59,
     "type": "community",
@@ -7264,6 +7238,21 @@
     "type": "community",
     "area_km2": 128.17,
     "id": 908,
+    "merchantCount": 9
+  },
+  {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/950.jpg",
+    "name": "Einundzwanzig Augsburg",
+    "population": 286000,
+    "population:date": "2015-01-01",
+    "url_alias": "einundzwanzig-augsburg",
+    "contact:telegram": "https://t.me/Einundzwanzig_Augsburg",
+    "organization": "einundzwanzig",
+    "type": "community",
+    "area_km2": 163.51,
+    "verified:date": "2026-01-08",
+    "id": 950,
     "merchantCount": 9
   },
   {
@@ -9480,6 +9469,21 @@
     "organization": "2140-meetups",
     "population": "593337",
     "id": 212,
+    "merchantCount": 4
+  },
+  {
+    "url_alias": "einundzwanzig-darmstadt",
+    "name": "Einundzwanzig Darmstadt",
+    "population:date": "2021-12-31",
+    "type": "community",
+    "continent": "europe",
+    "area_km2": 122.25,
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-darmstadt.webp",
+    "contact:telegram": "https://t.me/einundzwanzigda",
+    "language": "de",
+    "organization": "einundzwanzig",
+    "population": 159631,
+    "id": 261,
     "merchantCount": 4
   },
   {
@@ -14538,12 +14542,6 @@
     "merchantCount": 0
   },
   {
-    "id": 261,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "continent": "europe",
     "url_alias": "einundzwanzig-dingolfing-landau",
     "population:date": "2021-12-31",
@@ -15802,30 +15800,16 @@
     "merchantCount": 0
   },
   {
-    "name": "Maldives",
-    "country_type": "Sovereign country",
-    "region_un": "Asia",
-    "region_wb": "South Asia",
-    "gdp_md": 5642,
-    "iso_a2": "MV",
-    "continent": "Seven seas (open ocean)",
-    "population": 530953,
-    "lat": 4.174441,
-    "sovereignt": "Maldives",
-    "wikidataid": "Q826",
-    "population:rank": 11,
-    "population:year": 2019,
-    "economy": "6. Developing region",
-    "area_km2": 66.56,
-    "type": "country",
-    "income_grp": "3. Upper middle income",
-    "subregion": "Southern Asia",
-    "gdp_year": 2019,
-    "lon": 73.507554,
-    "iso_a3": "MDV",
-    "url_alias": "mv",
+    "id": 489,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "id": 491,
-    "merchantCount": 0
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "lat": -13.386737,
@@ -17789,12 +17773,6 @@
   },
   {
     "id": 946,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
-    "id": 950,
     "type": null,
     "merchantCount": 0,
     "name": null
