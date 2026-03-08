@@ -1330,25 +1330,10 @@
     "merchantCount": 7
   },
   {
-    "box:west": "-70.22220611572267",
-    "continent": "north-america",
-    "contact:email": "buy@btc.aw",
-    "box:north": "12.645698276524334",
-    "contact:instagram": "https://instagram.com/btcaruba",
-    "box:south": "12.374880155986922",
-    "box:east": "-69.75425720214845",
-    "name": "Bitcoin Aruba",
-    "contact:facebook": "https://fb.com/bitcoinaruba",
-    "contact:twitter": "https://twitter.com/BitcoinAruba",
-    "population:date": "2019-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-aruba.png",
-    "population": "116576",
-    "area_km2": 2935.01,
-    "type": "community",
-    "url_alias": "bitcoin-aruba",
-    "contact:website": "https://btc.aw/",
     "id": 70,
-    "merchantCount": 2
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "population": "8636896",
@@ -4821,10 +4806,18 @@
     "merchantCount": 0
   },
   {
+    "organization": "einundzwanzig",
+    "url_alias": "einundzwanzig-dortmund",
+    "area_km2": 280.34,
+    "contact:telegram": "https://t.me/Dortmund_Einundzwanzig_Bitcoin",
+    "type": "community",
+    "continent": "europe",
+    "name": "Einundzwanzig Dortmund",
+    "language": "de",
+    "population:date": "2021-12-31",
+    "population": 586852,
     "id": 264,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 1
   },
   {
     "url_alias": "einundzwanzig-duesseldorf",
@@ -6017,10 +6010,19 @@
     "merchantCount": 11
   },
   {
+    "organization": "einundzwanzig",
+    "name": "Einundzwanzig Vreden",
+    "type": "community",
+    "contact:twitter": "https://twitter.com/",
+    "population": 535932,
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-vreden.png",
+    "url_alias": "einundzwanzig-vreden",
+    "area_km2": 203.46,
+    "continent": "europe",
+    "population:date": "2021-12-31",
+    "language": "de",
     "id": 344,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": 22
   },
   {
     "url_alias": "einundzwanzig-vulkaneifel",
