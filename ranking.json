@@ -32,6 +32,32 @@
     "merchantCount": 6568
   },
   {
+    "wikidataid": "Q155",
+    "area_km2": 8518390.58,
+    "country_type": "Sovereign country",
+    "region_wb": "Latin America & Caribbean",
+    "lat": -12.098687,
+    "gdp_md": 1839758,
+    "continent": "South America",
+    "region_un": "Americas",
+    "gdp_year": 2019,
+    "population:rank": 17,
+    "type": "country",
+    "population:year": 2019,
+    "sovereignt": "Brazil",
+    "income_grp": "3. Upper middle income",
+    "name": "Brazil",
+    "subregion": "South America",
+    "iso_a3": "BRA",
+    "population": 211049527,
+    "economy": "3. Emerging region: BRIC",
+    "lon": -49.55945,
+    "iso_a2": "BR",
+    "url_alias": "br",
+    "id": 173,
+    "merchantCount": 2178
+  },
+  {
     "type": "trash",
     "name": "African Bitcoiners",
     "continent": "africa",
@@ -4628,21 +4654,6 @@
     "url_alias": "einundzwanzig-norddeutschland",
     "population:date": "2021-12-31",
     "id": 304,
-    "merchantCount": 22
-  },
-  {
-    "organization": "einundzwanzig",
-    "name": "Einundzwanzig Vreden",
-    "type": "community",
-    "contact:twitter": "https://twitter.com/",
-    "population": 535932,
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-vreden.png",
-    "url_alias": "einundzwanzig-vreden",
-    "area_km2": 203.46,
-    "continent": "europe",
-    "population:date": "2021-12-31",
-    "language": "de",
-    "id": 344,
     "merchantCount": 22
   },
   {
@@ -12223,20 +12234,6 @@
     "merchantCount": 1
   },
   {
-    "organization": "einundzwanzig",
-    "url_alias": "einundzwanzig-dortmund",
-    "area_km2": 280.34,
-    "contact:telegram": "https://t.me/Dortmund_Einundzwanzig_Bitcoin",
-    "type": "community",
-    "continent": "europe",
-    "name": "Einundzwanzig Dortmund",
-    "language": "de",
-    "population:date": "2021-12-31",
-    "population": 586852,
-    "id": 264,
-    "merchantCount": 1
-  },
-  {
     "name": "Einundzwanzig Elbe-Elster",
     "type": "community",
     "url_alias": "einundzwanzig-elbe-elster",
@@ -14225,12 +14222,6 @@
     "name": null
   },
   {
-    "id": 173,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "icon:square": "https://static.btcmap.org/images/communities/brest.png",
     "population": 139456,
     "name": "Brest",
@@ -14565,6 +14556,12 @@
     "merchantCount": 0
   },
   {
+    "id": 264,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-ellwangen.webp",
     "contact:telegram": "https://t.me/einundzwanzigEllwangen",
     "language": "de",
@@ -14818,6 +14815,12 @@
     "contact:telegram": "https://t.me/einundzwanzig_solingen",
     "id": 334,
     "merchantCount": 0
+  },
+  {
+    "id": 344,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "name": "Einundzwanzig Wacken",
