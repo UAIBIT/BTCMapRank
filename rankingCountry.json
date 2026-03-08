@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6548
+    "merchantCount": 6568
   },
   {
     "wikidataid": "Q155",
@@ -127,7 +127,33 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "id": 218,
-    "merchantCount": 1098
+    "merchantCount": 1096
+  },
+  {
+    "subregion": "Southern Europe",
+    "wikidataid": "Q38",
+    "area_km2": 300959.88,
+    "population:year": 2019,
+    "name": "Italy",
+    "country_type": "Sovereign country",
+    "lon": 11.076907,
+    "gdp_md": 2003576,
+    "iso_a3": "ITA",
+    "population": 60297396,
+    "type": "country",
+    "economy": "1. Developed region: G7",
+    "sovereignt": "Italy",
+    "income_grp": "1. High income: OECD",
+    "gdp_year": 2019,
+    "iso_a2": "IT",
+    "lat": 44.732482,
+    "population:rank": 16,
+    "continent": "Europe",
+    "region_un": "Europe",
+    "region_wb": "Europe & Central Asia",
+    "url_alias": "it",
+    "id": 406,
+    "merchantCount": 1061
   },
   {
     "iso_a2": "CH",
@@ -179,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 613
+    "merchantCount": 615
   },
   {
     "sovereignt": "Canada",
@@ -205,7 +231,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 567
+    "merchantCount": 568
   },
   {
     "region_un": "Americas",
@@ -284,7 +310,7 @@
     "name": "Costa Rica",
     "url_alias": "cr",
     "id": 211,
-    "merchantCount": 399
+    "merchantCount": 400
   },
   {
     "population": 47076781,
@@ -362,7 +388,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 352
+    "merchantCount": 353
   },
   {
     "wikidataid": "Q45",
@@ -440,7 +466,7 @@
     "url_alias": "fr",
     "wikidataid": "Q142",
     "id": 685,
-    "merchantCount": 328
+    "merchantCount": 329
   },
   {
     "name": "Poland",
@@ -544,7 +570,7 @@
     "lon": -64.173331,
     "url_alias": "ar",
     "id": 26,
-    "merchantCount": 251
+    "merchantCount": 253
   },
   {
     "gdp_year": 2019,
@@ -1428,7 +1454,7 @@
     "region_un": "Asia",
     "url_alias": "la",
     "id": 429,
-    "merchantCount": 27
+    "merchantCount": 28
   },
   {
     "area_km2": 781554.63,
@@ -1667,6 +1693,32 @@
     "merchantCount": 21
   },
   {
+    "area_km2": 443969.27,
+    "population:rank": 14,
+    "economy": "2. Developed region: nonG7",
+    "subregion": "Northern Europe",
+    "gdp_year": 2019,
+    "wikidataid": "Q34",
+    "region_un": "Europe",
+    "iso_a3": "SWE",
+    "lat": 65.85918,
+    "iso_a2": "SE",
+    "population": 10285453,
+    "income_grp": "1. High income: OECD",
+    "continent": "Europe",
+    "name": "Sweden",
+    "population:year": 2019,
+    "sovereignt": "Sweden",
+    "region_wb": "Europe & Central Asia",
+    "lon": 19.01705,
+    "country_type": "Sovereign country",
+    "type": "country",
+    "gdp_md": 530883,
+    "url_alias": "se",
+    "id": 582,
+    "merchantCount": 20
+  },
+  {
     "continent": "Asia",
     "gdp_md": 261921,
     "type": "country",
@@ -1693,32 +1745,6 @@
     "verified:date": "2026-03-04",
     "id": 647,
     "merchantCount": 20
-  },
-  {
-    "area_km2": 443969.27,
-    "population:rank": 14,
-    "economy": "2. Developed region: nonG7",
-    "subregion": "Northern Europe",
-    "gdp_year": 2019,
-    "wikidataid": "Q34",
-    "region_un": "Europe",
-    "iso_a3": "SWE",
-    "lat": 65.85918,
-    "iso_a2": "SE",
-    "population": 10285453,
-    "income_grp": "1. High income: OECD",
-    "continent": "Europe",
-    "name": "Sweden",
-    "population:year": 2019,
-    "sovereignt": "Sweden",
-    "region_wb": "Europe & Central Asia",
-    "lon": 19.01705,
-    "country_type": "Sovereign country",
-    "type": "country",
-    "gdp_md": 530883,
-    "url_alias": "se",
-    "id": 582,
-    "merchantCount": 19
   },
   {
     "subregion": "South America",
@@ -4880,6 +4906,32 @@
     "subregion": "Northern Africa",
     "url_alias": "ly",
     "id": 453,
+    "merchantCount": 0
+  },
+  {
+    "subregion": "Caribbean",
+    "lon": -63.049399,
+    "iso_a3": "MAF",
+    "region_un": "Americas",
+    "wikidataid": "Q126125",
+    "population:year": 2019,
+    "country_type": "Dependency",
+    "income_grp": "2. High income: nonOECD",
+    "population": 38002,
+    "economy": "6. Developing region",
+    "name": "Saint Martin",
+    "lat": 18.081302,
+    "continent": "North America",
+    "type": "country",
+    "iso_a2": "MF",
+    "sovereignt": "France",
+    "gdp_year": 2016,
+    "population:rank": 7,
+    "area_km2": 49.12,
+    "gdp_md": 562,
+    "region_wb": "Latin America & Caribbean",
+    "url_alias": "mf",
+    "id": 471,
     "merchantCount": 0
   },
   {
