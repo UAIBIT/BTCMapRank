@@ -7684,12 +7684,13 @@
     "population:date": "2026-02-13",
     "url_alias": "eenentwintig-utrecht",
     "type": "community",
-    "verified:date": "2026-02-13",
+    "verified:date": "2026-03-09",
     "icon:square": "https://static.btcmap.org/images/areas/980.png",
     "area_km2": 105.05,
-    "contact:telegram": "https://t.me/+m8apa45pAD5mODY0",
+    "contact:telegram": "https://t.me/+xufhhOEqwNVhODZk",
     "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
     "organization": "eenentwintig",
+    "contact:website": "https://eenentwintig.net/",
     "id": 980,
     "merchantCount": 8
   },
@@ -9228,6 +9229,27 @@
     "merchantCount": 5
   },
   {
+    "area_km2": 136,
+    "contact:email": "info@bitcoinbreda.nl",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=100091658061283",
+    "contact:linkedin": "https://www.linkedin.com/groups/12821289/",
+    "contact:telegram": "https://t.me/bitcoinbreda",
+    "contact:twitter": "https://x.com/bitcoinbreda",
+    "contact:website": "https://bitcoinbreda.nl/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/732.png",
+    "name": "Bitcoin Breda",
+    "population": 324812,
+    "population:date": "2014-01-01",
+    "tips:lightning_address": "bitcoinbreda@blink.sv",
+    "type": "community",
+    "url_alias": "bitcoin-breda",
+    "contact:meetup": "https://www.meetup.com/nl-NL/bitcoinmeetup/events/",
+    "verified:date": "2026-02-01",
+    "id": 732,
+    "merchantCount": 5
+  },
+  {
     "area_km2": 4544.04,
     "contact:email": "plebstogetherstrong@gmail.com",
     "contact:nostr": "npub1ygxyuhdqpdnhhatdrtwxnzs4je733v3n2s0wd8zfzhuneyvgxaasn3pet7",
@@ -10522,21 +10544,6 @@
     "type": "community",
     "area_km2": 870.12,
     "id": 933,
-    "merchantCount": 3
-  },
-  {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/areas/940.png",
-    "name": "Bitcoin Búzios",
-    "population": 40006,
-    "population:date": "2022-07-01",
-    "url_alias": "bitcoin-buzios",
-    "contact:email": "almirbuziano@hotmail.com",
-    "description": "Não seja escravo seja soberano",
-    "type": "community",
-    "area_km2": 81.04,
-    "organization": "uaibit",
-    "id": 940,
     "merchantCount": 3
   },
   {
@@ -17414,12 +17421,6 @@
     "merchantCount": 0
   },
   {
-    "id": 732,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
-  },
-  {
     "area_km2": 111.27,
     "contact:discord": "https://discord.gg/75Hd3zYBV4",
     "contact:email": "info@becrypto.org",
@@ -17804,6 +17805,12 @@
     "area_km2": 53.21,
     "id": 938,
     "merchantCount": 0
+  },
+  {
+    "id": 940,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "id": 946,
