@@ -2895,6 +2895,29 @@
     "merchantCount": 44
   },
   {
+    "box:west": "-5.39703369140625",
+    "url_alias": "málaga-2140",
+    "name": "Málaga 2140",
+    "box:east": "-3.7600708007812504",
+    "contact:website": "https://malaga2140.xyz/",
+    "organization": "2140-meetups",
+    "population:date": "2018-01-01",
+    "contact:telegram": "https://t.me/ WF5B_6BILcg4N2Ey",
+    "language": "es",
+    "box:north": "37.23032838760387",
+    "icon:square": "https://static.btcmap.org/images/areas/496.png",
+    "type": "community",
+    "box:south": "36.24870331653198",
+    "tips:lightning_address": "malaga2140@coinos.io",
+    "continent": "europe",
+    "contact:twitter": "https://twitter.com/Malaga2140",
+    "contact:email": "malaga2140@proton.me",
+    "area_km2": 7830.21,
+    "population": "571026",
+    "id": 496,
+    "merchantCount": 44
+  },
+  {
     "box:north": "45.89574303912447",
     "url_alias": "bitcoin-montreal",
     "contact:facebook": "https://www.facebook.com/bitcoinembassy/",
@@ -5536,22 +5559,6 @@
     "merchantCount": 16
   },
   {
-    "contact:telegram": "https://t.me/Einundzwanzig_Suedtirol",
-    "contact:twitter": "https://twitter.com/SudtirolBitcoin",
-    "name": "Einundzwanzig Südtirol",
-    "population:date": "2020-12-31",
-    "continent": "europe",
-    "population": 532080,
-    "organization": "einundzwanzig",
-    "type": "community",
-    "url_alias": "einundzwanzig-suedtirol",
-    "area_km2": 7410.51,
-    "language": "it",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-suedtirol.webp",
-    "id": 337,
-    "merchantCount": 15
-  },
-  {
     "iso_a3": "MLT",
     "country_type": "Sovereign country",
     "lon": 14.433005,
@@ -5905,6 +5912,7 @@
     "wikidataid": "Q878",
     "population:year": 2019,
     "url_alias": "ae",
+    "icon:square": "https://static.btcmap.org/images/areas/8.png",
     "id": 8,
     "merchantCount": 13
   },
@@ -10605,6 +10613,7 @@
     "region_wb": "Latin America & Caribbean",
     "iso_a2": "AI",
     "url_alias": "ai",
+    "icon:square": "https://static.btcmap.org/images/areas/12.png",
     "id": 12,
     "merchantCount": 2
   },
@@ -10631,6 +10640,7 @@
     "economy": "6. Developing region",
     "population:year": 2019,
     "url_alias": "al",
+    "icon:square": "https://static.btcmap.org/images/areas/14.png",
     "id": 14,
     "merchantCount": 2
   },
@@ -13751,6 +13761,7 @@
     "area_km2": 643491.64,
     "economy": "7. Least developed region",
     "url_alias": "af",
+    "icon:square": "https://static.btcmap.org/images/areas/9.png",
     "id": 9,
     "merchantCount": 0
   },
@@ -13777,6 +13788,7 @@
     "lat": 17.352249,
     "region_un": "Americas",
     "url_alias": "ag",
+    "icon:square": "https://static.btcmap.org/images/areas/11.png",
     "id": 11,
     "merchantCount": 0
   },
@@ -14817,6 +14829,12 @@
     "merchantCount": 0
   },
   {
+    "id": 337,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "name": "Einundzwanzig Wacken",
     "population": 1990,
     "contact:telegram": "https://t.me/einundzwanzigWOA",
@@ -15853,12 +15871,6 @@
     "url_alias": "mw",
     "id": 492,
     "merchantCount": 0
-  },
-  {
-    "id": 496,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
   },
   {
     "name": "Niger",
