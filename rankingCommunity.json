@@ -7566,6 +7566,21 @@
   },
   {
     "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/areas/940.png",
+    "name": "Bitcoin Búzios",
+    "population": 40006,
+    "population:date": "2022-07-01",
+    "url_alias": "bitcoin-buzios",
+    "contact:email": "almirbuziano@hotmail.com",
+    "description": "Não seja escravo seja soberano",
+    "type": "community",
+    "area_km2": 81.04,
+    "organization": "uaibit",
+    "id": 940,
+    "merchantCount": 3
+  },
+  {
+    "continent": "south-america",
     "name": "Bitmaxis",
     "population": 2985379,
     "population:date": "2026-01-13",
@@ -11206,5 +11221,20 @@
     "area_km2": 26.92,
     "id": 971,
     "merchantCount": 0
+  },
+  {
+    "continent": "europe",
+    "name": "Bitcoin Bergen",
+    "population": 29839,
+    "population:date": "2026-03-09",
+    "url_alias": "bitcoin-bergen",
+    "type": "community",
+    "verified:date": "2026-03-09",
+    "icon:square": "https://static.btcmap.org/images/areas/984.png",
+    "area_km2": 125.71,
+    "contact:telegram": "https://t.me/+eO9z6jjZ01E0ZjY0",
+    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
+    "id": 984,
+    "merchantCount": null
   }
 ]
