@@ -5178,11 +5178,16 @@
     "language": "de",
     "name": "Einundzwanzig Kempten",
     "contact:telegram": "https://t.me/EinundzwanzigKempten",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-kempten.webp",
+    "icon:square": "https://static.btcmap.org/images/areas/287.png",
     "type": "community",
     "organization": "einundzwanzig",
     "contact:twitter": "https://twitter.com/MountBitcoin21",
     "url_alias": "einundzwanzig-kempten",
+    "contact:nostr": "npub1p69q4wcnglw90lvae357p7xrzhyprdx9mf8qaf7zt9tnk5zchkhqfrvp46",
+    "contact:simplex": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FPtsqghzQKU83kYTlQ1VKg996dW4Cw4x_bvpKmiv8uns%3D%40smp18.simplex.im%2FdppdXyGFFriR8W1ChKe6czDck5lzgbng%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAv8rqX3twDe3aj6E-MPjsD6Ipl0tqUvDycCGUkvYq41g%253D%26srv%3Dlyqpnwbs2zqfr45jqkncwpywpbtq7jrhxnib5qddtr6npjyezuwd3nqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22u0yMeSegI-ONdwfi_SakPg%3D%3D%22%7D",
+    "contact:signal": "https://signal.group/#CjQKINeVbNqApCemZ3G-TrTvkAMWgw2JhwnzQMHCW2UBDAGtEhDehhHevySegrfzliXa8S0q",
+    "contact:website": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
+    "verified:date": "2026-03-10",
     "id": 287,
     "merchantCount": 1
   },
@@ -17983,10 +17988,20 @@
     "merchantCount": null
   },
   {
+    "continent": "europe",
+    "name": "Einundzwanzig Außerfern",
+    "population": 32600,
+    "population:date": "2025-01-01",
+    "url_alias": "einundzwanzig-ausserfern",
+    "contact:telegram": "https://t.me/einundzwanzig_AUSSERFERN",
+    "type": "community",
+    "verified:date": "2026-03-10",
+    "icon:square": "https://static.btcmap.org/images/areas/987.png",
+    "area_km2": 1262.38,
+    "contact:simplex": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2F3Xkuh5xFq6x78ANTngeK1B_-WVe-42k1%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAWvNuqmSo0HKlw1JM-HUscI05-IzZwjxk8Pql7-QyI3s%253D%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22CcALIilzR1YmBjt7-8NfuQ%3D%3D%22%7D",
+    "organization": "einundzwanzig",
     "id": 987,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
     "id": 988,
