@@ -484,7 +484,7 @@
     "lon": -64.173331,
     "url_alias": "ar",
     "id": 26,
-    "merchantCount": 253
+    "merchantCount": 252
   },
   {
     "id": 27,
@@ -594,7 +594,7 @@
     "contact:website": "https://atlantabitdevs.org",
     "population:date": "2020-01-01",
     "id": 32,
-    "merchantCount": 29
+    "merchantCount": 30
   },
   {
     "sovereignt": "Australia",
@@ -912,7 +912,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 190
+    "merchantCount": 191
   },
   {
     "population": 287025,
@@ -1585,7 +1585,7 @@
     "area_km2": 1181.04,
     "contact:nostr": "npub1p7g986pc56qmvryplgzka0fsrpuwlk6mxk3h686w4e46n74e56qqhz88vk",
     "id": 84,
-    "merchantCount": 36
+    "merchantCount": 38
   },
   {
     "population": 5543828,
@@ -2793,7 +2793,7 @@
     "name": "Bitcoiners in Minneapolis",
     "population:date": "2020-01-01",
     "id": 157,
-    "merchantCount": 12
+    "merchantCount": 13
   },
   {
     "icon:square": "https://static.btcmap.org/images/areas/158.png",
@@ -2861,7 +2861,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 209
+    "merchantCount": 210
   },
   {
     "type": "community",
@@ -3091,7 +3091,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2179
+    "merchantCount": 2181
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
@@ -7428,7 +7428,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "it",
     "id": 406,
-    "merchantCount": 1061
+    "merchantCount": 1062
   },
   {
     "region_un": "Europe",
@@ -7786,7 +7786,7 @@
     "url_alias": "knoxville-bitcoin",
     "area_km2": 1361.12,
     "id": 422,
-    "merchantCount": 9
+    "merchantCount": 10
   },
   {
     "area_km2": 186.56,
@@ -10765,7 +10765,7 @@
     "name": "San Diego Bitcoiners",
     "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 63
+    "merchantCount": 64
   },
   {
     "continent": "south-america",
@@ -10835,7 +10835,7 @@
     "continent": "europe",
     "type": "trash",
     "id": 572,
-    "merchantCount": 1099
+    "merchantCount": 1100
   },
   {
     "name": "Arezzo Bitcoin Meetup",
@@ -12163,7 +12163,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6600
+    "merchantCount": 6628
   },
   {
     "population": 1734000,
@@ -12779,7 +12779,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 24375
+    "merchantCount": 24405
   },
   {
     "url_alias": "horizonte_bitcoin",
@@ -14968,7 +14968,7 @@
     "language": "en",
     "contact:github": "https://github.com/bitcoindistrict",
     "id": 785,
-    "merchantCount": 56
+    "merchantCount": 55
   },
   {
     "area_km2": 430.86,
@@ -16108,7 +16108,7 @@
     "organization": "go-btc",
     "type": "community",
     "id": 861,
-    "merchantCount": 64
+    "merchantCount": 65
   },
   {
     "continent": "africa",
@@ -16214,7 +16214,7 @@
     "type": "community",
     "area_km2": 330.14,
     "id": 868,
-    "merchantCount": 64
+    "merchantCount": 65
   },
   {
     "continent": "north-america",
@@ -17953,7 +17953,7 @@
     "contact:telegram": "https://t.me/+eO9z6jjZ01E0ZjY0",
     "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
     "id": 984,
-    "merchantCount": null
+    "merchantCount": 3
   },
   {
     "continent": "europe",
@@ -17969,13 +17969,28 @@
     "contact:facebook": "https://www.facebook.com/groups/2348994045614117/",
     "organization": "einundzwanzig",
     "id": 985,
-    "merchantCount": null
+    "merchantCount": 1
   },
   {
+    "continent": "europe",
+    "name": "Bitcoin Club",
+    "population": 1284870,
+    "population:date": "2026-01-01",
+    "url_alias": "bitcoin-club",
+    "type": "community",
+    "verified:date": "2026-03-10",
+    "icon:square": "https://static.btcmap.org/images/areas/986.png",
+    "area_km2": 1366.61,
+    "contact:website": "https://www.bitcoinclub.bg/",
+    "contact:facebook": "https://www.facebook.com/bitcoinclub.bg/",
+    "contact:instagram": "https://www.instagram.com/bitcoinclubbg/",
+    "contact:twitter": "https://x.com/bitcoinclubbg",
+    "contact:youtube": "https://www.youtube.com/@bitcoinclubbg",
+    "contact:email": "bitcoinclubbg@gmail.com",
+    "tips:lightning_address": "bitcoinclub@walletofsatoshi.com",
+    "contact:phone": "+359878413688",
     "id": 986,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
     "id": 987,
