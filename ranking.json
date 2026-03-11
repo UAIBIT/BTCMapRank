@@ -4805,10 +4805,11 @@
     "contact:website": "https://ribtc.carrd.co/",
     "contact:telegram": "https://t.me/+BvuH154RY4A2NTRh",
     "contact:twitter": "https://x.com/RIBitcoiners",
-    "contact:nostr": "nprofile1qqsv8m45un7q33kr34rwg2zse25xjgnkag2pne26nsw7kcnn5dgwydg0sk778",
+    "contact:nostr": "npub1c0htfe8uprrv8r2xus59pj4gdy38d6s5r8j448qaad388g6sug6sy9ur5k",
     "contact:meetup": "https://www.meetup.com/ribitcoiners/",
     "type": "community",
     "area_km2": 4682.16,
+    "contact:instagram": "https://www.instagram.com/ribitcoiners/",
     "id": 967,
     "merchantCount": 21
   },
@@ -6796,19 +6797,6 @@
     "organization": "bit-devs",
     "name:ru": "Тайвань BitDevs",
     "id": 604,
-    "merchantCount": 10
-  },
-  {
-    "area_km2": 61.41,
-    "contact:twitter": "https://x.com/btc_stellies",
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-stellenbosch.jpg",
-    "name": "Bitcoin Stellenbosch",
-    "population": 77476,
-    "population:date": "2011-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-stellenbosch",
-    "id": 753,
     "merchantCount": 10
   },
   {
@@ -10500,21 +10488,6 @@
     "url_alias": "bitcoin-narbonne",
     "organization": "decouvre-bitcoin",
     "id": 781,
-    "merchantCount": 3
-  },
-  {
-    "area_km2": 838.21,
-    "contact:telegram": "https://t.me/+w8gBdChb2I43MTc0",
-    "contact:twitter": "https://twitter.com/BlockchainJura",
-    "continent": "europe",
-    "icon:square": "https://pbs.twimg.com/profile_images/1643908400210649088/IONfC-ux_400x400.jpg",
-    "language": "fr, en",
-    "name": "Bitcoin Jura",
-    "population": 73709,
-    "population:date": "2024-01-01",
-    "type": "community",
-    "url_alias": "bitcoin-jura",
-    "id": 789,
     "merchantCount": 3
   },
   {
@@ -17541,6 +17514,12 @@
     "name": null
   },
   {
+    "id": 753,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
     "id": 776,
     "type": null,
     "merchantCount": 0,
@@ -17608,6 +17587,12 @@
   },
   {
     "id": 788,
+    "type": null,
+    "merchantCount": 0,
+    "name": null
+  },
+  {
+    "id": 789,
     "type": null,
     "merchantCount": 0,
     "name": null
