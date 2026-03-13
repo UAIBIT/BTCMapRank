@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6716
+    "merchantCount": 6772
   },
   {
     "wikidataid": "Q155",
@@ -101,7 +101,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "id": 656,
-    "merchantCount": 1249
+    "merchantCount": 1248
   },
   {
     "population:rank": 14,
@@ -179,7 +179,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "id": 194,
-    "merchantCount": 808
+    "merchantCount": 807
   },
   {
     "name": "Germany",
@@ -362,7 +362,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "id": 507,
-    "merchantCount": 358
+    "merchantCount": 360
   },
   {
     "region_un": "Europe",
@@ -1262,7 +1262,7 @@
     "economy": "2. Developed region: nonG7",
     "url_alias": "hu",
     "id": 395,
-    "merchantCount": 37
+    "merchantCount": 36
   },
   {
     "gdp_md": 7491,
@@ -1525,29 +1525,6 @@
     "merchantCount": 26
   },
   {
-    "continent": "Asia",
-    "name": "Armenia",
-    "iso_a2": "AM",
-    "iso_a3": "ARM",
-    "population:year": 2019,
-    "population": 2957731,
-    "wikidataid": "Q399",
-    "region_wb": "Europe & Central Asia",
-    "region_un": "Asia",
-    "sovereignt": "Armenia",
-    "lat": 40.459077,
-    "lon": 44.800564,
-    "type": "country",
-    "gdp_md": 13672,
-    "area_km2": 29623.75,
-    "subregion": "Western Asia",
-    "url_alias": "am",
-    "icon:square": "https://static.btcmap.org/images/areas/18.png",
-    "verified:date": "2026-03-11",
-    "id": 18,
-    "merchantCount": 23
-  },
-  {
     "gdp_md": 282318,
     "country_type": "Sovereign country",
     "area_km2": 739098.84,
@@ -1571,6 +1548,29 @@
     "name": "Chile",
     "url_alias": "cl",
     "id": 200,
+    "merchantCount": 24
+  },
+  {
+    "continent": "Asia",
+    "name": "Armenia",
+    "iso_a2": "AM",
+    "iso_a3": "ARM",
+    "population:year": 2019,
+    "population": 2957731,
+    "wikidataid": "Q399",
+    "region_wb": "Europe & Central Asia",
+    "region_un": "Asia",
+    "sovereignt": "Armenia",
+    "lat": 40.459077,
+    "lon": 44.800564,
+    "type": "country",
+    "gdp_md": 13672,
+    "area_km2": 29623.75,
+    "subregion": "Western Asia",
+    "url_alias": "am",
+    "icon:square": "https://static.btcmap.org/images/areas/18.png",
+    "verified:date": "2026-03-11",
+    "id": 18,
     "merchantCount": 23
   },
   {
