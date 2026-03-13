@@ -4316,25 +4316,10 @@
     "name": null
   },
   {
-    "url_alias": "dwadzieścia-jeden",
-    "box:west": "12.63427734375",
-    "population:date": "2022-01-01",
-    "contact:telegram": "https://t.me/DwadziesciaJeden",
-    "organization": "dwadziescia-jeden",
-    "contact:website": "https://dwadziesciajeden.pl/",
-    "icon:square": "https://static.btcmap.org/images/communities/dwadzies%CC%81cia-jeden.svg",
-    "type": "trash",
-    "box:north": "54.96500166110205",
-    "area_km2": 322113.9,
-    "population": "37796000",
-    "box:east": "25.72998046875",
-    "box:south": "48.936934954094035",
-    "name": "Dwadzieścia Jeden",
-    "tips:lightning_address": "dwadziesciajeden@getalby.com",
-    "continent": "europe",
-    "contact:twitter": "https://twitter.com/21BitcoinPolska",
     "id": 238,
-    "merchantCount": 301
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "name": "Dwadzieścia Jeden Poznań",
@@ -9994,6 +9979,7 @@
     "lon": 19.490468,
     "area_km2": 313243.76,
     "url_alias": "pl",
+    "icon:square": "https://static.btcmap.org/images/areas/530.png",
     "id": 530,
     "merchantCount": 309
   },
