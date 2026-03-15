@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6804
+    "merchantCount": 6839
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2184
+    "merchantCount": 2185
   },
   {
     "population:year": 2019,
@@ -205,7 +205,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "id": 220,
-    "merchantCount": 614
+    "merchantCount": 613
   },
   {
     "sovereignt": "Canada",
@@ -567,7 +567,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/26.png",
     "verified:date": "2026-03-11",
     "id": 26,
-    "merchantCount": 253
+    "merchantCount": 250
   },
   {
     "gdp_year": 2019,
@@ -1266,32 +1266,6 @@
     "merchantCount": 36
   },
   {
-    "gdp_md": 7491,
-    "wikidataid": "Q9676",
-    "region_un": "Europe",
-    "economy": "2. Developed region: nonG7",
-    "gdp_year": 2018,
-    "country_type": "Country",
-    "iso_a3": "IMN",
-    "area_km2": 558.63,
-    "subregion": "Northern Europe",
-    "lat": 54.220833,
-    "lon": -4.530069,
-    "population:rank": 8,
-    "population": 84584,
-    "population:year": 2019,
-    "name": "Isle of Man",
-    "region_wb": "Europe & Central Asia",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "IM",
-    "sovereignt": "United Kingdom",
-    "income_grp": "2. High income: nonOECD",
-    "url_alias": "im",
-    "id": 399,
-    "merchantCount": 36
-  },
-  {
     "area_km2": 385110.87,
     "continent": "Europe",
     "country_type": "Sovereign country",
@@ -1344,6 +1318,32 @@
     "merchantCount": 34
   },
   {
+    "gdp_md": 7491,
+    "wikidataid": "Q9676",
+    "region_un": "Europe",
+    "economy": "2. Developed region: nonG7",
+    "gdp_year": 2018,
+    "country_type": "Country",
+    "iso_a3": "IMN",
+    "area_km2": 558.63,
+    "subregion": "Northern Europe",
+    "lat": 54.220833,
+    "lon": -4.530069,
+    "population:rank": 8,
+    "population": 84584,
+    "population:year": 2019,
+    "name": "Isle of Man",
+    "region_wb": "Europe & Central Asia",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "IM",
+    "sovereignt": "United Kingdom",
+    "income_grp": "2. High income: nonOECD",
+    "url_alias": "im",
+    "id": 399,
+    "merchantCount": 34
+  },
+  {
     "sovereignt": "Panama",
     "continent": "North America",
     "population": 4246439,
@@ -1368,6 +1368,32 @@
     "url_alias": "pa",
     "id": 520,
     "merchantCount": 31
+  },
+  {
+    "iso_a3": "GHA",
+    "gdp_md": 66983,
+    "subregion": "Western Africa",
+    "wikidataid": "Q117",
+    "lat": 7.717639,
+    "lon": -1.036941,
+    "continent": "Africa",
+    "type": "country",
+    "population:rank": 15,
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "area_km2": 240102.41,
+    "region_un": "Africa",
+    "income_grp": "4. Lower middle income",
+    "region_wb": "Sub-Saharan Africa",
+    "name": "Ghana",
+    "iso_a2": "GH",
+    "population": 30417856,
+    "population:year": 2019,
+    "sovereignt": "Ghana",
+    "economy": "6. Developing region",
+    "url_alias": "gh",
+    "id": 368,
+    "merchantCount": 29
   },
   {
     "gdp_year": 2018,
@@ -1395,32 +1421,6 @@
     "icon:square": "https://static.btcmap.org/images/areas/404.png",
     "id": 404,
     "merchantCount": 29
-  },
-  {
-    "iso_a3": "GHA",
-    "gdp_md": 66983,
-    "subregion": "Western Africa",
-    "wikidataid": "Q117",
-    "lat": 7.717639,
-    "lon": -1.036941,
-    "continent": "Africa",
-    "type": "country",
-    "population:rank": 15,
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "area_km2": 240102.41,
-    "region_un": "Africa",
-    "income_grp": "4. Lower middle income",
-    "region_wb": "Sub-Saharan Africa",
-    "name": "Ghana",
-    "iso_a2": "GH",
-    "population": 30417856,
-    "population:year": 2019,
-    "sovereignt": "Ghana",
-    "economy": "6. Developing region",
-    "url_alias": "gh",
-    "id": 368,
-    "merchantCount": 28
   },
   {
     "lat": 19.431821,
