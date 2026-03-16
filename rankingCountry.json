@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6839
+    "merchantCount": 6867
   },
   {
     "wikidataid": "Q155",
@@ -49,7 +49,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "id": 173,
-    "merchantCount": 2185
+    "merchantCount": 2187
   },
   {
     "population:year": 2019,
@@ -336,7 +336,7 @@
     "gdp_md": 1393490,
     "url_alias": "es",
     "id": 352,
-    "merchantCount": 384
+    "merchantCount": 385
   },
   {
     "iso_a2": "NL",
@@ -388,7 +388,7 @@
     "type": "country",
     "url_alias": "gb",
     "id": 364,
-    "merchantCount": 354
+    "merchantCount": 353
   },
   {
     "wikidataid": "Q45",
@@ -1318,32 +1318,6 @@
     "merchantCount": 34
   },
   {
-    "gdp_md": 7491,
-    "wikidataid": "Q9676",
-    "region_un": "Europe",
-    "economy": "2. Developed region: nonG7",
-    "gdp_year": 2018,
-    "country_type": "Country",
-    "iso_a3": "IMN",
-    "area_km2": 558.63,
-    "subregion": "Northern Europe",
-    "lat": 54.220833,
-    "lon": -4.530069,
-    "population:rank": 8,
-    "population": 84584,
-    "population:year": 2019,
-    "name": "Isle of Man",
-    "region_wb": "Europe & Central Asia",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "IM",
-    "sovereignt": "United Kingdom",
-    "income_grp": "2. High income: nonOECD",
-    "url_alias": "im",
-    "id": 399,
-    "merchantCount": 34
-  },
-  {
     "sovereignt": "Panama",
     "continent": "North America",
     "population": 4246439,
@@ -1525,6 +1499,32 @@
     "url_alias": "ie",
     "id": 397,
     "merchantCount": 26
+  },
+  {
+    "gdp_md": 7491,
+    "wikidataid": "Q9676",
+    "region_un": "Europe",
+    "economy": "2. Developed region: nonG7",
+    "gdp_year": 2018,
+    "country_type": "Country",
+    "iso_a3": "IMN",
+    "area_km2": 558.63,
+    "subregion": "Northern Europe",
+    "lat": 54.220833,
+    "lon": -4.530069,
+    "population:rank": 8,
+    "population": 84584,
+    "population:year": 2019,
+    "name": "Isle of Man",
+    "region_wb": "Europe & Central Asia",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "IM",
+    "sovereignt": "United Kingdom",
+    "income_grp": "2. High income: nonOECD",
+    "url_alias": "im",
+    "id": 399,
+    "merchantCount": 25
   },
   {
     "gdp_md": 282318,
