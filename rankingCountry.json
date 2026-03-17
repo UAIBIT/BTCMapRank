@@ -23,7 +23,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6867
+    "merchantCount": 6878
   },
   {
     "wikidataid": "Q155",
@@ -231,7 +231,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 568
+    "merchantCount": 567
   },
   {
     "region_un": "Americas",
@@ -284,7 +284,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 475
+    "merchantCount": 476
   },
   {
     "country_type": "Sovereign country",
@@ -545,7 +545,7 @@
     "continent": "Europe",
     "url_alias": "sk",
     "id": 587,
-    "merchantCount": 270
+    "merchantCount": 269
   },
   {
     "sovereignt": "Argentina",
@@ -1501,32 +1501,6 @@
     "merchantCount": 26
   },
   {
-    "gdp_md": 7491,
-    "wikidataid": "Q9676",
-    "region_un": "Europe",
-    "economy": "2. Developed region: nonG7",
-    "gdp_year": 2018,
-    "country_type": "Country",
-    "iso_a3": "IMN",
-    "area_km2": 558.63,
-    "subregion": "Northern Europe",
-    "lat": 54.220833,
-    "lon": -4.530069,
-    "population:rank": 8,
-    "population": 84584,
-    "population:year": 2019,
-    "name": "Isle of Man",
-    "region_wb": "Europe & Central Asia",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "IM",
-    "sovereignt": "United Kingdom",
-    "income_grp": "2. High income: nonOECD",
-    "url_alias": "im",
-    "id": 399,
-    "merchantCount": 25
-  },
-  {
     "gdp_md": 282318,
     "country_type": "Sovereign country",
     "area_km2": 739098.84,
@@ -1599,6 +1573,32 @@
     "name": "Croatia",
     "url_alias": "hr",
     "id": 393,
+    "merchantCount": 23
+  },
+  {
+    "gdp_md": 7491,
+    "wikidataid": "Q9676",
+    "region_un": "Europe",
+    "economy": "2. Developed region: nonG7",
+    "gdp_year": 2018,
+    "country_type": "Country",
+    "iso_a3": "IMN",
+    "area_km2": 558.63,
+    "subregion": "Northern Europe",
+    "lat": 54.220833,
+    "lon": -4.530069,
+    "population:rank": 8,
+    "population": 84584,
+    "population:year": 2019,
+    "name": "Isle of Man",
+    "region_wb": "Europe & Central Asia",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "IM",
+    "sovereignt": "United Kingdom",
+    "income_grp": "2. High income: nonOECD",
+    "url_alias": "im",
+    "id": 399,
     "merchantCount": 23
   },
   {

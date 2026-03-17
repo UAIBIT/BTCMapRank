@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 24635
+    "merchantCount": 24643
   },
   {
     "sovereignt": "United States of America",
@@ -29,7 +29,7 @@
     "type": "country",
     "url_alias": "us",
     "id": 633,
-    "merchantCount": 6867
+    "merchantCount": 6878
   },
   {
     "wikidataid": "Q155",
@@ -337,7 +337,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "id": 186,
-    "merchantCount": 568
+    "merchantCount": 567
   },
   {
     "region_un": "Americas",
@@ -390,7 +390,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 475
+    "merchantCount": 476
   },
   {
     "continent": "south-america",
@@ -761,7 +761,7 @@
     "continent": "Europe",
     "url_alias": "sk",
     "id": 587,
-    "merchantCount": 270
+    "merchantCount": 269
   },
   {
     "sovereignt": "Argentina",
@@ -831,7 +831,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 218
+    "merchantCount": 222
   },
   {
     "area_km2": 3354.54,
@@ -1102,7 +1102,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 157
+    "merchantCount": 158
   },
   {
     "language": "es, en",
@@ -4373,50 +4373,6 @@
     "merchantCount": 25
   },
   {
-    "gdp_md": 7491,
-    "wikidataid": "Q9676",
-    "region_un": "Europe",
-    "economy": "2. Developed region: nonG7",
-    "gdp_year": 2018,
-    "country_type": "Country",
-    "iso_a3": "IMN",
-    "area_km2": 558.63,
-    "subregion": "Northern Europe",
-    "lat": 54.220833,
-    "lon": -4.530069,
-    "population:rank": 8,
-    "population": 84584,
-    "population:year": 2019,
-    "name": "Isle of Man",
-    "region_wb": "Europe & Central Asia",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "IM",
-    "sovereignt": "United Kingdom",
-    "income_grp": "2. High income: nonOECD",
-    "url_alias": "im",
-    "id": 399,
-    "merchantCount": 25
-  },
-  {
-    "name": "Isle of Man",
-    "box:north": 54.43413,
-    "contact:telegram": "https://t.me/IOMBitcoiners",
-    "box:east": -4.14054,
-    "url_alias": "iom",
-    "population": "84069",
-    "icon:square": "https://static.btcmap.org/images/communities/iom.png",
-    "box:south": 54.01989,
-    "box:west": -4.93704,
-    "population:date": "2021-01-01",
-    "area_km2": 4381.39,
-    "type": "community",
-    "contact:twitter": "https://twitter.com/BTCIOM",
-    "continent": "europe",
-    "id": 402,
-    "merchantCount": 25
-  },
-  {
     "type": "community",
     "contact:website": "https://praiabitcoin.org/",
     "contact:phone": "+5588999885652",
@@ -4555,6 +4511,50 @@
     "name": "Croatia",
     "url_alias": "hr",
     "id": 393,
+    "merchantCount": 23
+  },
+  {
+    "gdp_md": 7491,
+    "wikidataid": "Q9676",
+    "region_un": "Europe",
+    "economy": "2. Developed region: nonG7",
+    "gdp_year": 2018,
+    "country_type": "Country",
+    "iso_a3": "IMN",
+    "area_km2": 558.63,
+    "subregion": "Northern Europe",
+    "lat": 54.220833,
+    "lon": -4.530069,
+    "population:rank": 8,
+    "population": 84584,
+    "population:year": 2019,
+    "name": "Isle of Man",
+    "region_wb": "Europe & Central Asia",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "IM",
+    "sovereignt": "United Kingdom",
+    "income_grp": "2. High income: nonOECD",
+    "url_alias": "im",
+    "id": 399,
+    "merchantCount": 23
+  },
+  {
+    "name": "Isle of Man",
+    "box:north": 54.43413,
+    "contact:telegram": "https://t.me/IOMBitcoiners",
+    "box:east": -4.14054,
+    "url_alias": "iom",
+    "population": "84069",
+    "icon:square": "https://static.btcmap.org/images/communities/iom.png",
+    "box:south": 54.01989,
+    "box:west": -4.93704,
+    "population:date": "2021-01-01",
+    "area_km2": 4381.39,
+    "type": "community",
+    "contact:twitter": "https://twitter.com/BTCIOM",
+    "continent": "europe",
+    "id": 402,
     "merchantCount": 23
   },
   {
@@ -5286,20 +5286,6 @@
     "merchantCount": 18
   },
   {
-    "population:date": "2021-01-01",
-    "url_alias": "bitcoin-cypherpunks-uncensored-afterhours",
-    "contact:email": "amerkazmiko@gmail.com",
-    "area_km2": 240.47,
-    "name": "Bitcoin Cypherpunks Uncensored Afterhours",
-    "continent": "north-america",
-    "population": "6202225",
-    "contact:telegram": "https://t.me/+yh3VjTzwAcdkYjlh",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-cypherpunks-uncensored-afterhours.jpg",
-    "type": "community",
-    "id": 90,
-    "merchantCount": 17
-  },
-  {
     "type": "community",
     "continent": "asia",
     "url_alias": "bitcoin-du-liban",
@@ -5374,19 +5360,17 @@
     "merchantCount": 17
   },
   {
-    "contact:twitter": "https://twitter.com/bitcointoronto_",
-    "contact:meetup": "https://www.meetup.com/bitcointoronto/",
-    "contact:youtube": "https://www.youtube.com/channel/UCqb28syPQJYIFWFRvREwJBA",
-    "area_km2": 120.04,
-    "url_alias": "bitcoin-toronto",
-    "type": "community",
-    "continent": "north-america",
-    "contact:email": "bitcointoronto@protonmail.com",
-    "population": "6202225",
-    "name": "Bitcoin Toronto",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-toronto.jpeg",
     "population:date": "2021-01-01",
-    "id": 144,
+    "url_alias": "bitcoin-cypherpunks-uncensored-afterhours",
+    "contact:email": "amerkazmiko@gmail.com",
+    "area_km2": 240.47,
+    "name": "Bitcoin Cypherpunks Uncensored Afterhours",
+    "continent": "north-america",
+    "population": "6202225",
+    "contact:telegram": "https://t.me/+yh3VjTzwAcdkYjlh",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-cypherpunks-uncensored-afterhours.jpg",
+    "type": "community",
+    "id": 90,
     "merchantCount": 16
   },
   {
@@ -5564,6 +5548,22 @@
     "area_km2": 6075.63,
     "id": 974,
     "merchantCount": 16
+  },
+  {
+    "contact:twitter": "https://twitter.com/bitcointoronto_",
+    "contact:meetup": "https://www.meetup.com/bitcointoronto/",
+    "contact:youtube": "https://www.youtube.com/channel/UCqb28syPQJYIFWFRvREwJBA",
+    "area_km2": 120.04,
+    "url_alias": "bitcoin-toronto",
+    "type": "community",
+    "continent": "north-america",
+    "contact:email": "bitcointoronto@protonmail.com",
+    "population": "6202225",
+    "name": "Bitcoin Toronto",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-toronto.jpeg",
+    "population:date": "2021-01-01",
+    "id": 144,
+    "merchantCount": 15
   },
   {
     "contact:telegram": "https://t.me/Einundzwanzig_Suedtirol",
