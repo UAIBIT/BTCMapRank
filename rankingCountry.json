@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 6878
+    "merchantCount": 6907
   },
   {
     "wikidataid": "Q155",
@@ -510,7 +510,7 @@
     "url_alias": "pl",
     "icon:square": "https://static.btcmap.org/images/areas/530.png",
     "id": 530,
-    "merchantCount": 309
+    "merchantCount": 310
   },
   {
     "population": 16604026,
@@ -802,7 +802,7 @@
     "url_alias": "co",
     "icon:square": "https://static.btcmap.org/images/countries/co.svg",
     "id": 205,
-    "merchantCount": 92
+    "merchantCount": 98
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -823,6 +823,33 @@
     "verified:date": "2026-03-12",
     "id": 216,
     "merchantCount": 92
+  },
+  {
+    "region_wb": "Latin America & Caribbean",
+    "type": "country",
+    "wikidataid": "Q750",
+    "lat": -16.666015,
+    "lon": -64.593433,
+    "population:year": 2019,
+    "iso_a3": "BOL",
+    "name": "Bolivia",
+    "continent": "South America",
+    "gdp_year": 2019,
+    "sovereignt": "Bolivia",
+    "region_un": "Americas",
+    "population:rank": 14,
+    "area_km2": 1092709.98,
+    "income_grp": "4. Lower middle income",
+    "country_type": "Sovereign country",
+    "iso_a2": "BO",
+    "subregion": "South America",
+    "population": 11513100,
+    "gdp_md": 40895,
+    "economy": "5. Emerging region: G20",
+    "url_alias": "bo",
+    "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
+    "id": 168,
+    "merchantCount": 82
   },
   {
     "type": "country",
@@ -850,33 +877,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/nz.svg",
     "id": 514,
     "merchantCount": 79
-  },
-  {
-    "region_wb": "Latin America & Caribbean",
-    "type": "country",
-    "wikidataid": "Q750",
-    "lat": -16.666015,
-    "lon": -64.593433,
-    "population:year": 2019,
-    "iso_a3": "BOL",
-    "name": "Bolivia",
-    "continent": "South America",
-    "gdp_year": 2019,
-    "sovereignt": "Bolivia",
-    "region_un": "Americas",
-    "population:rank": 14,
-    "area_km2": 1092709.98,
-    "income_grp": "4. Lower middle income",
-    "country_type": "Sovereign country",
-    "iso_a2": "BO",
-    "subregion": "South America",
-    "population": 11513100,
-    "gdp_md": 40895,
-    "economy": "5. Emerging region: G20",
-    "url_alias": "bo",
-    "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
-    "id": 168,
-    "merchantCount": 77
   },
   {
     "continent": "Asia",
@@ -1308,7 +1308,7 @@
     "url_alias": "hu",
     "icon:square": "https://static.btcmap.org/images/countries/hu.svg",
     "id": 395,
-    "merchantCount": 36
+    "merchantCount": 37
   },
   {
     "area_km2": 385110.87,
@@ -1631,33 +1631,6 @@
     "merchantCount": 23
   },
   {
-    "gdp_md": 7491,
-    "wikidataid": "Q9676",
-    "region_un": "Europe",
-    "economy": "2. Developed region: nonG7",
-    "gdp_year": 2018,
-    "country_type": "Country",
-    "iso_a3": "IMN",
-    "area_km2": 558.63,
-    "subregion": "Northern Europe",
-    "lat": 54.220833,
-    "lon": -4.530069,
-    "population:rank": 8,
-    "population": 84584,
-    "population:year": 2019,
-    "name": "Isle of Man",
-    "region_wb": "Europe & Central Asia",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "IM",
-    "sovereignt": "United Kingdom",
-    "income_grp": "2. High income: nonOECD",
-    "url_alias": "im",
-    "icon:square": "https://static.btcmap.org/images/countries/im.svg",
-    "id": 399,
-    "merchantCount": 23
-  },
-  {
     "iso_a2": "MY",
     "region_un": "Asia",
     "population": 31949777,
@@ -1737,6 +1710,33 @@
     "url_alias": "mz",
     "icon:square": "https://static.btcmap.org/images/countries/mz.svg",
     "id": 495,
+    "merchantCount": 22
+  },
+  {
+    "gdp_md": 7491,
+    "wikidataid": "Q9676",
+    "region_un": "Europe",
+    "economy": "2. Developed region: nonG7",
+    "gdp_year": 2018,
+    "country_type": "Country",
+    "iso_a3": "IMN",
+    "area_km2": 558.63,
+    "subregion": "Northern Europe",
+    "lat": 54.220833,
+    "lon": -4.530069,
+    "population:rank": 8,
+    "population": 84584,
+    "population:year": 2019,
+    "name": "Isle of Man",
+    "region_wb": "Europe & Central Asia",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "IM",
+    "sovereignt": "United Kingdom",
+    "income_grp": "2. High income: nonOECD",
+    "url_alias": "im",
+    "icon:square": "https://static.btcmap.org/images/countries/im.svg",
+    "id": 399,
     "merchantCount": 21
   },
   {
