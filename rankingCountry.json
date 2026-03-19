@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 6907
+    "merchantCount": 6927
   },
   {
     "wikidataid": "Q155",
@@ -105,7 +105,7 @@
     "url_alias": "za",
     "icon:square": "https://static.btcmap.org/images/countries/za.svg",
     "id": 656,
-    "merchantCount": 1248
+    "merchantCount": 1246
   },
   {
     "population:rank": 14,
@@ -694,7 +694,7 @@
     "url_alias": "ke",
     "icon:square": "https://static.btcmap.org/images/countries/ke.svg",
     "id": 415,
-    "merchantCount": 168
+    "merchantCount": 169
   },
   {
     "lon": -70.653998,
@@ -849,7 +849,7 @@
     "url_alias": "bo",
     "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
     "id": 168,
-    "merchantCount": 82
+    "merchantCount": 85
   },
   {
     "type": "country",
@@ -1335,7 +1335,7 @@
     "wikidataid": "Q20",
     "icon:square": "https://static.btcmap.org/images/countries/no.svg",
     "id": 686,
-    "merchantCount": 35
+    "merchantCount": 36
   },
   {
     "population": 270625568,
@@ -1713,33 +1713,6 @@
     "merchantCount": 22
   },
   {
-    "gdp_md": 7491,
-    "wikidataid": "Q9676",
-    "region_un": "Europe",
-    "economy": "2. Developed region: nonG7",
-    "gdp_year": 2018,
-    "country_type": "Country",
-    "iso_a3": "IMN",
-    "area_km2": 558.63,
-    "subregion": "Northern Europe",
-    "lat": 54.220833,
-    "lon": -4.530069,
-    "population:rank": 8,
-    "population": 84584,
-    "population:year": 2019,
-    "name": "Isle of Man",
-    "region_wb": "Europe & Central Asia",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "IM",
-    "sovereignt": "United Kingdom",
-    "income_grp": "2. High income: nonOECD",
-    "url_alias": "im",
-    "icon:square": "https://static.btcmap.org/images/countries/im.svg",
-    "id": 399,
-    "merchantCount": 21
-  },
-  {
     "area_km2": 443969.27,
     "population:rank": 14,
     "economy": "2. Developed region: nonG7",
@@ -1819,6 +1792,33 @@
     "url_alias": "ec",
     "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
     "id": 245,
+    "merchantCount": 18
+  },
+  {
+    "gdp_md": 7491,
+    "wikidataid": "Q9676",
+    "region_un": "Europe",
+    "economy": "2. Developed region: nonG7",
+    "gdp_year": 2018,
+    "country_type": "Country",
+    "iso_a3": "IMN",
+    "area_km2": 558.63,
+    "subregion": "Northern Europe",
+    "lat": 54.220833,
+    "lon": -4.530069,
+    "population:rank": 8,
+    "population": 84584,
+    "population:year": 2019,
+    "name": "Isle of Man",
+    "region_wb": "Europe & Central Asia",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "IM",
+    "sovereignt": "United Kingdom",
+    "income_grp": "2. High income: nonOECD",
+    "url_alias": "im",
+    "icon:square": "https://static.btcmap.org/images/countries/im.svg",
+    "id": 399,
     "merchantCount": 18
   },
   {

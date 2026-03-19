@@ -129,7 +129,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 225
+    "merchantCount": 226
   },
   {
     "area_km2": 505.62,
@@ -250,7 +250,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 195
+    "merchantCount": 196
   },
   {
     "type": "community",
@@ -556,7 +556,7 @@
     "name": "Bitcoin Dada Nairobi",
     "population:date": "2019-01-01",
     "id": 92,
-    "merchantCount": 103
+    "merchantCount": 104
   },
   {
     "area_km2": 1107,
@@ -577,7 +577,7 @@
     "type": "community",
     "url_alias": "the-core",
     "id": 720,
-    "merchantCount": 103
+    "merchantCount": 104
   },
   {
     "contact:website": "https://gobtc.com.br",
@@ -592,6 +592,20 @@
     "tips:lightning_address": "gobtcbr@getalby.com",
     "id": 570,
     "merchantCount": 101
+  },
+  {
+    "continent": "north-america",
+    "url_alias": "santa-ana",
+    "area_km2": 104,
+    "population": 272554,
+    "icon:square": "https://static.btcmap.org/images/communities/santa-ana-2.png",
+    "population:date": "2022-01-01",
+    "name": "Comunidad Bitcoin Santa Ana",
+    "type": "community",
+    "contact:email": "bitcoin@unpulmonmas.com",
+    "contact:twitter": "https://x.com/comunidadbtc_sv",
+    "id": 664,
+    "merchantCount": 95
   },
   {
     "continent": "africa",
@@ -612,20 +626,6 @@
     "contact:phone": "+27822261128",
     "verified:date": "2026-03-12",
     "id": 857,
-    "merchantCount": 96
-  },
-  {
-    "continent": "north-america",
-    "url_alias": "santa-ana",
-    "area_km2": 104,
-    "population": 272554,
-    "icon:square": "https://static.btcmap.org/images/communities/santa-ana-2.png",
-    "population:date": "2022-01-01",
-    "name": "Comunidad Bitcoin Santa Ana",
-    "type": "community",
-    "contact:email": "bitcoin@unpulmonmas.com",
-    "contact:twitter": "https://x.com/comunidadbtc_sv",
-    "id": 664,
     "merchantCount": 95
   },
   {
@@ -769,7 +769,7 @@
     "type": "community",
     "url_alias": "bitcoin-nairobi",
     "id": 767,
-    "merchantCount": 83
+    "merchantCount": 84
   },
   {
     "continent": "north-america",
@@ -1745,6 +1745,24 @@
     "merchantCount": 43
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-research.png",
+    "name": "Bitcoin Research",
+    "population": 755732,
+    "population:date": "2024-12-01",
+    "url_alias": "bitcoin-research",
+    "area_km2": 130392.75,
+    "contact:telegram": "https://t.me/BtcxBolivia",
+    "tips:lightning_address": "bitcoinresearch@blink.sv",
+    "contact:email": "acarrillom@proton.me",
+    "language": "es",
+    "type": "community",
+    "contact:twitter": "https://x.com/BtcxBolivia",
+    "verified:date": "2026-02-22",
+    "id": 886,
+    "merchantCount": 43
+  },
+  {
     "contact:website": "https://donate.montanhabitcoin.org/",
     "url_alias": "montanha-bitcoin",
     "population": 7120,
@@ -1773,25 +1791,7 @@
     "contact:email": "brp2pcripto@proton.me",
     "area_km2": 858,
     "id": 748,
-    "merchantCount": 41
-  },
-  {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-research.png",
-    "name": "Bitcoin Research",
-    "population": 755732,
-    "population:date": "2024-12-01",
-    "url_alias": "bitcoin-research",
-    "area_km2": 130392.75,
-    "contact:telegram": "https://t.me/BtcxBolivia",
-    "tips:lightning_address": "bitcoinresearch@blink.sv",
-    "contact:email": "acarrillom@proton.me",
-    "language": "es",
-    "type": "community",
-    "contact:twitter": "https://x.com/BtcxBolivia",
-    "verified:date": "2026-02-22",
-    "id": 886,
-    "merchantCount": 40
+    "merchantCount": 42
   },
   {
     "url_alias": "cafeteros-bitcoiners",
@@ -3001,24 +3001,6 @@
     "merchantCount": 21
   },
   {
-    "name": "Isle of Man",
-    "box:north": 54.43413,
-    "contact:telegram": "https://t.me/IOMBitcoiners",
-    "box:east": -4.14054,
-    "url_alias": "iom",
-    "population": "84069",
-    "icon:square": "https://static.btcmap.org/images/communities/iom.png",
-    "box:south": 54.01989,
-    "box:west": -4.93704,
-    "population:date": "2021-01-01",
-    "area_km2": 4381.39,
-    "type": "community",
-    "contact:twitter": "https://twitter.com/BTCIOM",
-    "continent": "europe",
-    "id": 402,
-    "merchantCount": 21
-  },
-  {
     "continent": "africa",
     "icon:square": "https://static.btcmap.org/images/areas/882.jpg",
     "name": "Bitcoin Famba",
@@ -3324,6 +3306,24 @@
     "population:date": "2021-12-31",
     "area_km2": 989.9,
     "id": 339,
+    "merchantCount": 18
+  },
+  {
+    "name": "Isle of Man",
+    "box:north": 54.43413,
+    "contact:telegram": "https://t.me/IOMBitcoiners",
+    "box:east": -4.14054,
+    "url_alias": "iom",
+    "population": "84069",
+    "icon:square": "https://static.btcmap.org/images/communities/iom.png",
+    "box:south": 54.01989,
+    "box:west": -4.93704,
+    "population:date": "2021-01-01",
+    "area_km2": 4381.39,
+    "type": "community",
+    "contact:twitter": "https://twitter.com/BTCIOM",
+    "continent": "europe",
+    "id": 402,
     "merchantCount": 18
   },
   {
@@ -4559,6 +4559,23 @@
     "merchantCount": 11
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://secure.meetupstatic.com/photos/event/7/a/3/c/clean_511711292.webp",
+    "name": "Pittsburgh BitDevs",
+    "population": 303255,
+    "population:date": "2023-01-01",
+    "url_alias": "pittsburgh-bitdevs",
+    "area_km2": 148.72,
+    "contact:meetup": "https://www.meetup.com/pitbitdevs/",
+    "contact:twitter": "https://x.com/pitbitdevs",
+    "contact:website": "https://pitbitdevs.org",
+    "contact:email": "info@pitbitdevs.org",
+    "type": "community",
+    "organization": "bit-devs",
+    "id": 817,
+    "merchantCount": 11
+  },
+  {
     "continent": "asia",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-in-pusan.jpg",
     "name": "Bitcoin in Pusan",
@@ -4769,23 +4786,6 @@
     "contact:youtube": "https://www.youtube.com/@Dvadsatjeden",
     "verified:date": "2026-02-21",
     "id": 804,
-    "merchantCount": 10
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://secure.meetupstatic.com/photos/event/7/a/3/c/clean_511711292.webp",
-    "name": "Pittsburgh BitDevs",
-    "population": 303255,
-    "population:date": "2023-01-01",
-    "url_alias": "pittsburgh-bitdevs",
-    "area_km2": 148.72,
-    "contact:meetup": "https://www.meetup.com/pitbitdevs/",
-    "contact:twitter": "https://x.com/pitbitdevs",
-    "contact:website": "https://pitbitdevs.org",
-    "contact:email": "info@pitbitdevs.org",
-    "type": "community",
-    "organization": "bit-devs",
-    "id": 817,
     "merchantCount": 10
   },
   {
