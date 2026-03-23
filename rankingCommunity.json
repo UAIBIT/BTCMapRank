@@ -250,7 +250,7 @@
     "contact:nostr": "npub16tcathdvfgx30ds3fjy8d80kwwdks5pe29ms4yda2ydzqat4uydsyq5jkf",
     "verified:date": "2026-03-09",
     "id": 73,
-    "merchantCount": 198
+    "merchantCount": 199
   },
   {
     "type": "community",
@@ -2446,6 +2446,23 @@
     "merchantCount": 32
   },
   {
+    "population": "32103042",
+    "contact:email": "bitcoincowries@gmail.com",
+    "name": "Bitcoin Cowries",
+    "contact:twitter": "https://twitter.com/BitcoinCowries_",
+    "url_alias": "bitcoin-cowries",
+    "contact:telegram": "https://t.me/+G3HLItCwcexmNDA0",
+    "contact:website": "https://bitcoincowries.com/",
+    "tips:lightning_address": "bitcoincowries@getalby.co",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-cowries.jpeg",
+    "area_km2": 252803.36,
+    "population:date": "2022-01-01",
+    "type": "community",
+    "continent": "africa",
+    "id": 89,
+    "merchantCount": 31
+  },
+  {
     "name": "SLC-BTC",
     "population:date": "2022-01-01",
     "contact:twitter": "https://twitter.com/SLC_BTC_Meetup",
@@ -2510,23 +2527,6 @@
     "url_alias": "bitcoin-forte",
     "id": 710,
     "merchantCount": 30
-  },
-  {
-    "population": "32103042",
-    "contact:email": "bitcoincowries@gmail.com",
-    "name": "Bitcoin Cowries",
-    "contact:twitter": "https://twitter.com/BitcoinCowries_",
-    "url_alias": "bitcoin-cowries",
-    "contact:telegram": "https://t.me/+G3HLItCwcexmNDA0",
-    "contact:website": "https://bitcoincowries.com/",
-    "tips:lightning_address": "bitcoincowries@getalby.co",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-cowries.jpeg",
-    "area_km2": 252803.36,
-    "population:date": "2022-01-01",
-    "type": "community",
-    "continent": "africa",
-    "id": 89,
-    "merchantCount": 29
   },
   {
     "contact:telegram": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
@@ -3062,41 +3062,6 @@
     "merchantCount": 21
   },
   {
-    "contact:twitter": "https://twitter.com/bitcoinclubmt",
-    "name": "Bitcoin Club Malta",
-    "icon:square": "https://static.btcmap.org/images/areas/86.png",
-    "type": "community",
-    "contact:website": "https://bitcoinclubmalta.com/",
-    "continent": "europe",
-    "url_alias": "bitcoin-club-malta",
-    "contact:telegram": "https://t.me/bitcoinclubmalta",
-    "area_km2": 4359.02,
-    "verified:date": "2026-01-09",
-    "id": 86,
-    "merchantCount": 20
-  },
-  {
-    "name": "Cuba Bitcoin",
-    "continent": "north-america",
-    "contact:email": "cubabitcoin@gmail.com",
-    "url_alias": "cuba-bitcoin",
-    "area_km2": 2399.44,
-    "contact:telegram": "https://t.me/Cuba_Bitcoin",
-    "icon:square": "https://static.btcmap.org/images/communities/cuba-bitcoin.jpg",
-    "type": "community",
-    "population": "2141993",
-    "organization": "2140-meetups, veintiuno-lat",
-    "language": "es,en",
-    "contact:website": "https://cubabitcoin.org",
-    "contact:nostr": "npub1huyn6ru55pv6l7p0sxvlu3vfpq7pan958sl4weft0kte6lvdvvksd5s34t",
-    "contact:twitter": "https://x.com/Cuba_BTC",
-    "tips:lightning_address": "bitcoincuba@getalby.com",
-    "contact:youtube": "https://www.youtube.com/@CubaBitcoin21",
-    "contact:github": "https://github.com/Cuba-Bitcoin",
-    "id": 214,
-    "merchantCount": 20
-  },
-  {
     "type": "community",
     "name": "El Barrio Bitcoin",
     "population:date": "2020-01-01",
@@ -3173,6 +3138,27 @@
     "merchantCount": 19
   },
   {
+    "name": "Cuba Bitcoin",
+    "continent": "north-america",
+    "contact:email": "cubabitcoin@gmail.com",
+    "url_alias": "cuba-bitcoin",
+    "area_km2": 2399.44,
+    "contact:telegram": "https://t.me/Cuba_Bitcoin",
+    "icon:square": "https://static.btcmap.org/images/communities/cuba-bitcoin.jpg",
+    "type": "community",
+    "population": "2141993",
+    "organization": "2140-meetups, veintiuno-lat",
+    "language": "es,en",
+    "contact:website": "https://cubabitcoin.org",
+    "contact:nostr": "npub1huyn6ru55pv6l7p0sxvlu3vfpq7pan958sl4weft0kte6lvdvvksd5s34t",
+    "contact:twitter": "https://x.com/Cuba_BTC",
+    "tips:lightning_address": "bitcoincuba@getalby.com",
+    "contact:youtube": "https://www.youtube.com/@CubaBitcoin21",
+    "contact:github": "https://github.com/Cuba-Bitcoin",
+    "id": 214,
+    "merchantCount": 19
+  },
+  {
     "type": "community",
     "contact:telegram": "https://t.me/Einundzwanzig_Thurgau",
     "language": "fr",
@@ -3246,6 +3232,20 @@
     "area_km2": 73800.99,
     "contact:instagram": "https://www.instagram.com/bitcoinciudadela/",
     "id": 85,
+    "merchantCount": 18
+  },
+  {
+    "contact:twitter": "https://twitter.com/bitcoinclubmt",
+    "name": "Bitcoin Club Malta",
+    "icon:square": "https://static.btcmap.org/images/areas/86.png",
+    "type": "community",
+    "contact:website": "https://bitcoinclubmalta.com/",
+    "continent": "europe",
+    "url_alias": "bitcoin-club-malta",
+    "contact:telegram": "https://t.me/bitcoinclubmalta",
+    "area_km2": 4359.02,
+    "verified:date": "2026-01-09",
+    "id": 86,
     "merchantCount": 18
   },
   {
@@ -5168,6 +5168,24 @@
     "merchantCount": 8
   },
   {
+    "type": "community",
+    "url_alias": "bitcoin-dua",
+    "area_km2": 319.16,
+    "contact:twitter": "https://twitter.com/bitcoin_dua",
+    "contact:email": "bitcoindua67@gmail.com",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-dua.jpg",
+    "contact:telegram": "https://t.me/bitcoindua",
+    "contact:website": "https://geyser.fund/project/bitcoineducationcenter",
+    "contact:whatsapp": "https://chat.whatsapp.com/JEVV12USQIg6s9Z2UvFa4S",
+    "contact:phone": "0241154567",
+    "continent": "africa",
+    "name": "Bitcoin Dua Community",
+    "population": 200000,
+    "population:date": "2021-01-01",
+    "id": 96,
+    "merchantCount": 8
+  },
+  {
     "box:south": "55.80222",
     "name": "Bitcoin Edinburgh",
     "icon:square": "https://static.btcmap.org/images/areas/98.png",
@@ -5882,24 +5900,6 @@
     "area_km2": 167.62,
     "verified:date": "2026-01-07",
     "id": 79,
-    "merchantCount": 6
-  },
-  {
-    "type": "community",
-    "url_alias": "bitcoin-dua",
-    "area_km2": 319.16,
-    "contact:twitter": "https://twitter.com/bitcoin_dua",
-    "contact:email": "bitcoindua67@gmail.com",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-dua.jpg",
-    "contact:telegram": "https://t.me/bitcoindua",
-    "contact:website": "https://geyser.fund/project/bitcoineducationcenter",
-    "contact:whatsapp": "https://chat.whatsapp.com/JEVV12USQIg6s9Z2UvFa4S",
-    "contact:phone": "0241154567",
-    "continent": "africa",
-    "name": "Bitcoin Dua Community",
-    "population": 200000,
-    "population:date": "2021-01-01",
-    "id": 96,
     "merchantCount": 6
   },
   {
@@ -7707,6 +7707,20 @@
     "contact:telegram": "https://t.me/+eO9z6jjZ01E0ZjY0",
     "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
     "id": 984,
+    "merchantCount": 3
+  },
+  {
+    "continent": "europe",
+    "name": "Bitcoin Leiden",
+    "population": 123753,
+    "population:date": "2026-03-22",
+    "url_alias": "bitcoin-leiden",
+    "type": "community",
+    "verified:date": "2026-03-22",
+    "icon:square": "https://static.btcmap.org/images/areas/990.png",
+    "area_km2": 25.84,
+    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
+    "id": 990,
     "merchantCount": 3
   },
   {
@@ -11326,19 +11340,5 @@
     "tips:lightning_address": "pbtc@purbeckbitcoin.com",
     "id": 989,
     "merchantCount": 0
-  },
-  {
-    "continent": "europe",
-    "name": "Bitcoin Leiden",
-    "population": 123753,
-    "population:date": "2026-03-22",
-    "url_alias": "bitcoin-leiden",
-    "type": "community",
-    "verified:date": "2026-03-22",
-    "icon:square": "https://static.btcmap.org/images/areas/990.png",
-    "area_km2": 25.84,
-    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
-    "id": 990,
-    "merchantCount": null
   }
 ]
