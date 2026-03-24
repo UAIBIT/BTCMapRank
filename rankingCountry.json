@@ -240,7 +240,7 @@
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
     "id": 186,
-    "merchantCount": 567
+    "merchantCount": 568
   },
   {
     "region_un": "Americas",
@@ -806,26 +806,6 @@
   },
   {
     "region_wb": "Latin America & Caribbean",
-    "population": 157538,
-    "iso_a3": "CUW",
-    "population:year": 2019,
-    "iso_a2": "CW",
-    "lon": -68.920578,
-    "region_un": "Americas",
-    "continent": "North America",
-    "name": "Curaçao",
-    "wikidataid": "Q25279",
-    "area_km2": 430.7,
-    "type": "country",
-    "lat": 12.145039,
-    "url_alias": "cw",
-    "icon:square": "https://static.btcmap.org/images/areas/216.png",
-    "verified:date": "2026-03-12",
-    "id": 216,
-    "merchantCount": 92
-  },
-  {
-    "region_wb": "Latin America & Caribbean",
     "type": "country",
     "wikidataid": "Q750",
     "lat": -16.666015,
@@ -849,7 +829,27 @@
     "url_alias": "bo",
     "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
     "id": 168,
-    "merchantCount": 91
+    "merchantCount": 96
+  },
+  {
+    "region_wb": "Latin America & Caribbean",
+    "population": 157538,
+    "iso_a3": "CUW",
+    "population:year": 2019,
+    "iso_a2": "CW",
+    "lon": -68.920578,
+    "region_un": "Americas",
+    "continent": "North America",
+    "name": "Curaçao",
+    "wikidataid": "Q25279",
+    "area_km2": 430.7,
+    "type": "country",
+    "lat": 12.145039,
+    "url_alias": "cw",
+    "icon:square": "https://static.btcmap.org/images/areas/216.png",
+    "verified:date": "2026-03-12",
+    "id": 216,
+    "merchantCount": 92
   },
   {
     "type": "country",
@@ -1792,7 +1792,7 @@
     "url_alias": "ec",
     "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
     "id": 245,
-    "merchantCount": 18
+    "merchantCount": 19
   },
   {
     "gdp_md": 7491,
