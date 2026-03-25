@@ -129,7 +129,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 231
+    "merchantCount": 232
   },
   {
     "area_km2": 505.62,
@@ -210,7 +210,7 @@
     "language": "en",
     "contact:website": "https://www.bayareabitcoiners.com/",
     "id": 47,
-    "merchantCount": 200
+    "merchantCount": 201
   },
   {
     "continent": "north-america",
@@ -671,21 +671,6 @@
     "merchantCount": 92
   },
   {
-    "population": 696413,
-    "population:date": "2023-01-01",
-    "type": "community",
-    "url_alias": "jednadvacet-brno",
-    "name": "Jednadvacet Brno",
-    "area_km2": 323.73,
-    "contact:website": "https://jednadvacet.org/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-brno.png",
-    "contact:signal": "https://signal.group/#CjQKIL2KyHPPAotCRX1bQS2Kx_NV46s7om25K23Sy5Sf_u2pEhB1vJrPckxkIryjgdeTybmx",
-    "organization": "jednadvacet",
-    "id": 408,
-    "merchantCount": 88
-  },
-  {
     "box:south": "-47.24913107596981",
     "icon:square": "https://static.btcmap.org/images/communities/nzbitcoiners.png",
     "continent": "oceania",
@@ -704,6 +689,21 @@
     "population": "2812569",
     "area_km2": 521054.76,
     "id": 515,
+    "merchantCount": 89
+  },
+  {
+    "population": 696413,
+    "population:date": "2023-01-01",
+    "type": "community",
+    "url_alias": "jednadvacet-brno",
+    "name": "Jednadvacet Brno",
+    "area_km2": 323.73,
+    "contact:website": "https://jednadvacet.org/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-brno.png",
+    "contact:signal": "https://signal.group/#CjQKIL2KyHPPAotCRX1bQS2Kx_NV46s7om25K23Sy5Sf_u2pEhB1vJrPckxkIryjgdeTybmx",
+    "organization": "jednadvacet",
+    "id": 408,
     "merchantCount": 88
   },
   {
@@ -2384,6 +2384,23 @@
     "merchantCount": 33
   },
   {
+    "population": "32103042",
+    "contact:email": "bitcoincowries@gmail.com",
+    "name": "Bitcoin Cowries",
+    "contact:twitter": "https://twitter.com/BitcoinCowries_",
+    "url_alias": "bitcoin-cowries",
+    "contact:telegram": "https://t.me/+G3HLItCwcexmNDA0",
+    "contact:website": "https://bitcoincowries.com/",
+    "tips:lightning_address": "bitcoincowries@getalby.co",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-cowries.jpeg",
+    "area_km2": 252803.36,
+    "population:date": "2022-01-01",
+    "type": "community",
+    "continent": "africa",
+    "id": 89,
+    "merchantCount": 32
+  },
+  {
     "contact:nostr": "npub1theparkprcs70dcs437ke9zzwsr6u60f8flu7rg28m30438aep9sd94dha",
     "contact:website": "https://bitcoinpark.com/",
     "contact:twitter": "https://twitter.com/bitcoinpark_",
@@ -2444,23 +2461,6 @@
     "type": "community",
     "id": 835,
     "merchantCount": 32
-  },
-  {
-    "population": "32103042",
-    "contact:email": "bitcoincowries@gmail.com",
-    "name": "Bitcoin Cowries",
-    "contact:twitter": "https://twitter.com/BitcoinCowries_",
-    "url_alias": "bitcoin-cowries",
-    "contact:telegram": "https://t.me/+G3HLItCwcexmNDA0",
-    "contact:website": "https://bitcoincowries.com/",
-    "tips:lightning_address": "bitcoincowries@getalby.co",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-cowries.jpeg",
-    "area_km2": 252803.36,
-    "population:date": "2022-01-01",
-    "type": "community",
-    "continent": "africa",
-    "id": 89,
-    "merchantCount": 31
   },
   {
     "name": "SLC-BTC",
@@ -4907,6 +4907,24 @@
     "merchantCount": 9
   },
   {
+    "type": "community",
+    "url_alias": "bitcoin-dua",
+    "area_km2": 319.16,
+    "contact:twitter": "https://twitter.com/bitcoin_dua",
+    "contact:email": "bitcoindua67@gmail.com",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-dua.jpg",
+    "contact:telegram": "https://t.me/bitcoindua",
+    "contact:website": "https://geyser.fund/project/bitcoineducationcenter",
+    "contact:whatsapp": "https://chat.whatsapp.com/JEVV12USQIg6s9Z2UvFa4S",
+    "contact:phone": "0241154567",
+    "continent": "africa",
+    "name": "Bitcoin Dua Community",
+    "population": 200000,
+    "population:date": "2021-01-01",
+    "id": 96,
+    "merchantCount": 9
+  },
+  {
     "contact:website": "https://bitcoinkampala.org",
     "continent": "africa",
     "population:date": "2023-01-01",
@@ -5184,24 +5202,6 @@
     "box:west": "8.24026",
     "box:south": "47.42333",
     "id": 42,
-    "merchantCount": 8
-  },
-  {
-    "type": "community",
-    "url_alias": "bitcoin-dua",
-    "area_km2": 319.16,
-    "contact:twitter": "https://twitter.com/bitcoin_dua",
-    "contact:email": "bitcoindua67@gmail.com",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-dua.jpg",
-    "contact:telegram": "https://t.me/bitcoindua",
-    "contact:website": "https://geyser.fund/project/bitcoineducationcenter",
-    "contact:whatsapp": "https://chat.whatsapp.com/JEVV12USQIg6s9Z2UvFa4S",
-    "contact:phone": "0241154567",
-    "continent": "africa",
-    "name": "Bitcoin Dua Community",
-    "population": 200000,
-    "population:date": "2021-01-01",
-    "id": 96,
     "merchantCount": 8
   },
   {
