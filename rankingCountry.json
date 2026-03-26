@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7161
+    "merchantCount": 7192
   },
   {
     "wikidataid": "Q155",
@@ -51,7 +51,7 @@
     "url_alias": "br",
     "icon:square": "https://static.btcmap.org/images/countries/br.svg",
     "id": 173,
-    "merchantCount": 2188
+    "merchantCount": 2189
   },
   {
     "population:year": 2019,
@@ -240,7 +240,7 @@
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
     "id": 186,
-    "merchantCount": 568
+    "merchantCount": 567
   },
   {
     "region_un": "Americas",
@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 479
+    "merchantCount": 478
   },
   {
     "country_type": "Sovereign country",
@@ -537,7 +537,7 @@
     "url_alias": "gt",
     "icon:square": "https://static.btcmap.org/images/countries/gt.svg",
     "id": 384,
-    "merchantCount": 276
+    "merchantCount": 275
   },
   {
     "lat": 48.734044,
@@ -613,7 +613,7 @@
     "url_alias": "at",
     "icon:square": "https://static.btcmap.org/images/countries/at.svg",
     "id": 31,
-    "merchantCount": 206
+    "merchantCount": 207
   },
   {
     "sovereignt": "Australia",
@@ -2011,33 +2011,6 @@
     "merchantCount": 10
   },
   {
-    "population:rank": 12,
-    "iso_a3": "BIH",
-    "economy": "6. Developing region",
-    "sovereignt": "Bosnia and Herzegovina",
-    "subregion": "Southern Europe",
-    "population": 3301000,
-    "gdp_md": 20164,
-    "population:year": 2019,
-    "type": "country",
-    "area_km2": 51800.5,
-    "name": "Bosnia and Herzegovina",
-    "iso_a2": "BA",
-    "region_wb": "Europe & Central Asia",
-    "lon": 18.06841,
-    "income_grp": "3. Upper middle income",
-    "gdp_year": 2019,
-    "continent": "Europe",
-    "country_type": "Sovereign country",
-    "wikidataid": "Q225",
-    "region_un": "Europe",
-    "lat": 44.091051,
-    "url_alias": "ba",
-    "icon:square": "https://static.btcmap.org/images/countries/ba.svg",
-    "id": 40,
-    "merchantCount": 9
-  },
-  {
     "economy": "3. Emerging region: BRIC",
     "continent": "Europe",
     "lat": 58.249357,
@@ -2062,6 +2035,33 @@
     "url_alias": "ru",
     "icon:square": "https://static.btcmap.org/images/countries/ru.svg",
     "id": 558,
+    "merchantCount": 10
+  },
+  {
+    "population:rank": 12,
+    "iso_a3": "BIH",
+    "economy": "6. Developing region",
+    "sovereignt": "Bosnia and Herzegovina",
+    "subregion": "Southern Europe",
+    "population": 3301000,
+    "gdp_md": 20164,
+    "population:year": 2019,
+    "type": "country",
+    "area_km2": 51800.5,
+    "name": "Bosnia and Herzegovina",
+    "iso_a2": "BA",
+    "region_wb": "Europe & Central Asia",
+    "lon": 18.06841,
+    "income_grp": "3. Upper middle income",
+    "gdp_year": 2019,
+    "continent": "Europe",
+    "country_type": "Sovereign country",
+    "wikidataid": "Q225",
+    "region_un": "Europe",
+    "lat": 44.091051,
+    "url_alias": "ba",
+    "icon:square": "https://static.btcmap.org/images/countries/ba.svg",
+    "id": 40,
     "merchantCount": 9
   },
   {
