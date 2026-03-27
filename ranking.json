@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 24991
+    "merchantCount": 25028
   },
   {
     "sovereignt": "United States of America",
@@ -30,7 +30,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7192
+    "merchantCount": 7228
   },
   {
     "wikidataid": "Q155",
@@ -1058,33 +1058,6 @@
     "merchantCount": 171
   },
   {
-    "area_km2": 596166.85,
-    "economy": "5. Emerging region: G20",
-    "population": 52573973,
-    "type": "country",
-    "income_grp": "5. Low income",
-    "iso_a3": "KEN",
-    "name": "Kenya",
-    "population:year": 2019,
-    "iso_a2": "KE",
-    "region_wb": "Sub-Saharan Africa",
-    "subregion": "Eastern Africa",
-    "population:rank": 16,
-    "lat": 0.549043,
-    "gdp_md": 95503,
-    "region_un": "Africa",
-    "gdp_year": 2019,
-    "wikidataid": "Q114",
-    "continent": "Africa",
-    "sovereignt": "Kenya",
-    "country_type": "Sovereign country",
-    "lon": 37.907632,
-    "url_alias": "ke",
-    "icon:square": "https://static.btcmap.org/images/countries/ke.svg",
-    "id": 415,
-    "merchantCount": 169
-  },
-  {
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/colorado-bitcoin.jpg",
     "box:east": "-102.03345919069119",
@@ -1125,6 +1098,33 @@
     "verified:date": "2026-02-10",
     "contact:satlantis": "https://www.satlantis.io/c/74/FREE-Madeira-Bitcoin-Meetups",
     "id": 361,
+    "merchantCount": 168
+  },
+  {
+    "area_km2": 596166.85,
+    "economy": "5. Emerging region: G20",
+    "population": 52573973,
+    "type": "country",
+    "income_grp": "5. Low income",
+    "iso_a3": "KEN",
+    "name": "Kenya",
+    "population:year": 2019,
+    "iso_a2": "KE",
+    "region_wb": "Sub-Saharan Africa",
+    "subregion": "Eastern Africa",
+    "population:rank": 16,
+    "lat": 0.549043,
+    "gdp_md": 95503,
+    "region_un": "Africa",
+    "gdp_year": 2019,
+    "wikidataid": "Q114",
+    "continent": "Africa",
+    "sovereignt": "Kenya",
+    "country_type": "Sovereign country",
+    "lon": 37.907632,
+    "url_alias": "ke",
+    "icon:square": "https://static.btcmap.org/images/countries/ke.svg",
+    "id": 415,
     "merchantCount": 168
   },
   {
@@ -1417,7 +1417,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 111
+    "merchantCount": 112
   },
   {
     "area_km2": 11517.63,
@@ -1475,7 +1475,7 @@
     "type": "community",
     "url_alias": "the-core",
     "id": 720,
-    "merchantCount": 104
+    "merchantCount": 103
   },
   {
     "contact:website": "https://gobtc.com.br",
@@ -1741,7 +1741,7 @@
     "type": "community",
     "url_alias": "bitcoin-nairobi",
     "id": 767,
-    "merchantCount": 84
+    "merchantCount": 83
   },
   {
     "type": "country",
@@ -2063,6 +2063,22 @@
     "merchantCount": 70
   },
   {
+    "contact:meetup": "https://www.meetup.com/sdbitcoiners/",
+    "url_alias": "san-diego-bitcoiners",
+    "area_km2": 11714.93,
+    "population:date": "2022-04-01",
+    "contact:email": "coreyedwards@pm.me",
+    "type": "community",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/san-diego-bitcoiners.png",
+    "population": "3298634",
+    "contact:twitter": "https://twitter.com/sdbitcoiners",
+    "name": "San Diego Bitcoiners",
+    "contact:website": "https://blog.sdbitcoiners.com/",
+    "id": 568,
+    "merchantCount": 70
+  },
+  {
     "lon": 128.129504,
     "region_wb": "East Asia & Pacific",
     "iso_a3": "KOR",
@@ -2087,22 +2103,6 @@
     "url_alias": "kr",
     "icon:square": "https://static.btcmap.org/images/countries/kr.svg",
     "id": 425,
-    "merchantCount": 69
-  },
-  {
-    "contact:meetup": "https://www.meetup.com/sdbitcoiners/",
-    "url_alias": "san-diego-bitcoiners",
-    "area_km2": 11714.93,
-    "population:date": "2022-04-01",
-    "contact:email": "coreyedwards@pm.me",
-    "type": "community",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/san-diego-bitcoiners.png",
-    "population": "3298634",
-    "contact:twitter": "https://twitter.com/sdbitcoiners",
-    "name": "San Diego Bitcoiners",
-    "contact:website": "https://blog.sdbitcoiners.com/",
-    "id": 568,
     "merchantCount": 69
   },
   {
@@ -2655,22 +2655,6 @@
     "merchantCount": 52
   },
   {
-    "continent": "europe",
-    "type": "community",
-    "area_km2": 2124.88,
-    "contact:youtube": "https://www.youtube.com/channel/UCqMtyR0cXniDzO27yKORD-g",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-valley.png",
-    "name": "Bitcoin Valley",
-    "population": 39915,
-    "population:date": "2018-03-31",
-    "url_alias": "bitcoin-valley",
-    "contact:email": "info@inbitcoin.it",
-    "contact:instagram": "https://instagram.com/bitcoin.valley",
-    "contact:website": "https://bitcoinvalley.eu/",
-    "id": 147,
-    "merchantCount": 51
-  },
-  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/san-antonio-bitcoin-club.png",
     "name": "San Antonio Bitcoin Club",
@@ -2684,6 +2668,22 @@
     "contact:meetup": "https://www.meetup.com/pl-PL/sanantoniobitcoinclub/",
     "type": "community",
     "id": 824,
+    "merchantCount": 52
+  },
+  {
+    "continent": "europe",
+    "type": "community",
+    "area_km2": 2124.88,
+    "contact:youtube": "https://www.youtube.com/channel/UCqMtyR0cXniDzO27yKORD-g",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-valley.png",
+    "name": "Bitcoin Valley",
+    "population": 39915,
+    "population:date": "2018-03-31",
+    "url_alias": "bitcoin-valley",
+    "contact:email": "info@inbitcoin.it",
+    "contact:instagram": "https://instagram.com/bitcoin.valley",
+    "contact:website": "https://bitcoinvalley.eu/",
+    "id": 147,
     "merchantCount": 51
   },
   {
@@ -3154,7 +3154,7 @@
     "type": "community",
     "area_km2": 2350.82,
     "id": 918,
-    "merchantCount": 41
+    "merchantCount": 42
   },
   {
     "population": 58005463,
@@ -3745,6 +3745,33 @@
     "merchantCount": 34
   },
   {
+    "iso_a3": "GHA",
+    "gdp_md": 66983,
+    "subregion": "Western Africa",
+    "wikidataid": "Q117",
+    "lat": 7.717639,
+    "lon": -1.036941,
+    "continent": "Africa",
+    "type": "country",
+    "population:rank": 15,
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "area_km2": 240102.41,
+    "region_un": "Africa",
+    "income_grp": "4. Lower middle income",
+    "region_wb": "Sub-Saharan Africa",
+    "name": "Ghana",
+    "iso_a2": "GH",
+    "population": 30417856,
+    "population:year": 2019,
+    "sovereignt": "Ghana",
+    "economy": "6. Developing region",
+    "url_alias": "gh",
+    "icon:square": "https://static.btcmap.org/images/countries/gh.svg",
+    "id": 368,
+    "merchantCount": 34
+  },
+  {
     "population": 270625568,
     "economy": "4. Emerging region: MIKT",
     "iso_a2": "ID",
@@ -3786,6 +3813,21 @@
     "continent": "europe",
     "population": 107389,
     "id": 409,
+    "merchantCount": 34
+  },
+  {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/964.png",
+    "name": "Columbus Bitcoin",
+    "population": 905748,
+    "population:date": "2020-04-01",
+    "url_alias": "columbus-bitcoin",
+    "tips:lightning_address": "columbusbitcoin@cluborange.org",
+    "contact:twitter": "https://x.com/ColumbusBitcoin?t=5-dZ5kh_CLye5Er_Jag7PA&s=09",
+    "description": "Columbus Bitcoin is a monthly social gathering centered around Bitcoin. Our goal is to exchange stories related to Bitcoin, provide technical insights, foster business connections, and build lasting friendships. Regardless of whether you're just dipping your toes into the complex world of Bitcoin, struggling with its jargon, or you're a seasoned veteran who was involved in drafting the initial Bitcoin white paper in 2009, everyone is invited to learn and share their experiences.",
+    "type": "community",
+    "area_km2": 754.76,
+    "id": 964,
     "merchantCount": 34
   },
   {
@@ -3869,21 +3911,6 @@
     "merchantCount": 33
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/964.png",
-    "name": "Columbus Bitcoin",
-    "population": 905748,
-    "population:date": "2020-04-01",
-    "url_alias": "columbus-bitcoin",
-    "tips:lightning_address": "columbusbitcoin@cluborange.org",
-    "contact:twitter": "https://x.com/ColumbusBitcoin?t=5-dZ5kh_CLye5Er_Jag7PA&s=09",
-    "description": "Columbus Bitcoin is a monthly social gathering centered around Bitcoin. Our goal is to exchange stories related to Bitcoin, provide technical insights, foster business connections, and build lasting friendships. Regardless of whether you're just dipping your toes into the complex world of Bitcoin, struggling with its jargon, or you're a seasoned veteran who was involved in drafting the initial Bitcoin white paper in 2009, everyone is invited to learn and share their experiences.",
-    "type": "community",
-    "area_km2": 754.76,
-    "id": 964,
-    "merchantCount": 33
-  },
-  {
     "population": "32103042",
     "contact:email": "bitcoincowries@gmail.com",
     "name": "Bitcoin Cowries",
@@ -3932,33 +3959,6 @@
     "continent": "europe",
     "organization": "einundzwanzig",
     "id": 340,
-    "merchantCount": 32
-  },
-  {
-    "iso_a3": "GHA",
-    "gdp_md": 66983,
-    "subregion": "Western Africa",
-    "wikidataid": "Q117",
-    "lat": 7.717639,
-    "lon": -1.036941,
-    "continent": "Africa",
-    "type": "country",
-    "population:rank": 15,
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "area_km2": 240102.41,
-    "region_un": "Africa",
-    "income_grp": "4. Lower middle income",
-    "region_wb": "Sub-Saharan Africa",
-    "name": "Ghana",
-    "iso_a2": "GH",
-    "population": 30417856,
-    "population:year": 2019,
-    "sovereignt": "Ghana",
-    "economy": "6. Developing region",
-    "url_alias": "gh",
-    "icon:square": "https://static.btcmap.org/images/countries/gh.svg",
-    "id": 368,
     "merchantCount": 32
   },
   {
@@ -4964,6 +4964,22 @@
     "merchantCount": 20
   },
   {
+    "area_km2": 9753.3,
+    "contact:email": "BTCFreedomMoney@gmail.com",
+    "population:date": "2000-01-01",
+    "tips:lightning_address": "LNURL1DP68GURN8GHJ7AMPD3KX2AR0VEEKZAR0WD5XJTNRDAKJ7TNHV4KXCTTTDEHHWM30D3H82UNVWQHK6ETVD3HHWCTSDAKX7EMEXS6QDRDNKU",
+    "contact:meetup": "https://www.meetup.com/western-mass-bitcoin-meetup/",
+    "population": "814967",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/western-mass-bitcoin.jpeg",
+    "continent": "north-america",
+    "name": "Western Mass Bitcoin",
+    "contact:twitter": "https://twitter.com/MassBitcoin",
+    "url_alias": "western-mass-bitcoin",
+    "id": 650,
+    "merchantCount": 20
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-txoko.webp",
     "name": "Bitcoin Txoko",
@@ -5085,22 +5101,6 @@
     "population:date": "2021-12-31",
     "area_km2": 989.9,
     "id": 339,
-    "merchantCount": 19
-  },
-  {
-    "area_km2": 9753.3,
-    "contact:email": "BTCFreedomMoney@gmail.com",
-    "population:date": "2000-01-01",
-    "tips:lightning_address": "LNURL1DP68GURN8GHJ7AMPD3KX2AR0VEEKZAR0WD5XJTNRDAKJ7TNHV4KXCTTTDEHHWM30D3H82UNVWQHK6ETVD3HHWCTSDAKX7EMEXS6QDRDNKU",
-    "contact:meetup": "https://www.meetup.com/western-mass-bitcoin-meetup/",
-    "population": "814967",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/western-mass-bitcoin.jpeg",
-    "continent": "north-america",
-    "name": "Western Mass Bitcoin",
-    "contact:twitter": "https://twitter.com/MassBitcoin",
-    "url_alias": "western-mass-bitcoin",
-    "id": 650,
     "merchantCount": 19
   },
   {
@@ -9035,6 +9035,24 @@
     "merchantCount": 6
   },
   {
+    "continent": "south-america",
+    "name": "Bitcoin Padawans",
+    "population": 300372,
+    "population:date": "2026-03-26",
+    "url_alias": "bitcoin-padawans",
+    "contact:github": "https://bitcoin-padawans.github.io/",
+    "tips:lightning_address": "simplefrown80@walletofsatoshi.com",
+    "contact:instagram": "https://www.instagram.com/bitcoin_padawans",
+    "area_km2": 801.59,
+    "contact:twitter": "https://x.com/rainanmjesus/",
+    "language": "pt",
+    "type": "community",
+    "verified:date": "2026-03-26",
+    "icon:square": "pending-upload",
+    "id": 992,
+    "merchantCount": 6
+  },
+  {
     "name": "Bitcoin Lille",
     "population:date": "2020-01-01",
     "url_alias": "bitcoin-lille",
@@ -10789,6 +10807,29 @@
     "area_km2": 25.84,
     "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
     "id": 990,
+    "merchantCount": 3
+  },
+  {
+    "continent": "africa",
+    "name": "Lwandi Bitcoin",
+    "population": 11000,
+    "population:date": "2026-03-26",
+    "url_alias": "lwandi-bitcoin",
+    "contact:instagram": "https://www.instagram.com/lwandi.bitcoin/",
+    "contact:twitter": "https://x.com/LwandiBitcoin",
+    "tips:lightning_address": "lwandibitcoin@blink.sv",
+    "contact:nostr": "npub17w0cveeyluhr8n652hq5n7702u6w5y9gy4q0vzld9rwswnpr3uusk5ktq5",
+    "contact:telegram": "https://t.me/lwandibitcoin",
+    "contact:linkedin": "https://www.linkedin.com/company/lwandi-bitcoin/",
+    "contact:youtube": "https://www.youtube.com/@LwandiBitcoin",
+    "contact:email": "lwandibitcoin@proton.me",
+    "description": "Lwandi Bitcoin is building a Bitcoin Circular Economy coming from the social project Lwandi Surf in Ponta do Ouro Beach, Mozambique, a Portuguese speaking community.",
+    "language": "pt",
+    "type": "community",
+    "verified:date": "2026-03-26",
+    "icon:square": "https://static.btcmap.org/images/areas/993.png",
+    "area_km2": 429.05,
+    "id": 993,
     "merchantCount": 3
   },
   {
@@ -18231,47 +18272,6 @@
     "tips:lightning_address": "pbtc@purbeckbitcoin.com",
     "id": 989,
     "merchantCount": 0
-  },
-  {
-    "continent": "south-america",
-    "name": "Bitcoin Padawans",
-    "population": 300372,
-    "population:date": "2026-03-26",
-    "url_alias": "bitcoin-padawans",
-    "contact:github": "https://bitcoin-padawans.github.io/",
-    "tips:lightning_address": "simplefrown80@walletofsatoshi.com",
-    "contact:instagram": "https://www.instagram.com/bitcoin_padawans",
-    "area_km2": 801.59,
-    "contact:twitter": "https://x.com/rainanmjesus/",
-    "language": "pt",
-    "type": "community",
-    "verified:date": "2026-03-26",
-    "icon:square": "pending-upload",
-    "id": 992,
-    "merchantCount": null
-  },
-  {
-    "continent": "africa",
-    "name": "Lwandi Bitcoin",
-    "population": 11000,
-    "population:date": "2026-03-26",
-    "url_alias": "lwandi-bitcoin",
-    "contact:instagram": "https://www.instagram.com/lwandi.bitcoin/",
-    "contact:twitter": "https://x.com/LwandiBitcoin",
-    "tips:lightning_address": "lwandibitcoin@blink.sv",
-    "contact:nostr": "npub17w0cveeyluhr8n652hq5n7702u6w5y9gy4q0vzld9rwswnpr3uusk5ktq5",
-    "contact:telegram": "https://t.me/lwandibitcoin",
-    "contact:linkedin": "https://www.linkedin.com/company/lwandi-bitcoin/",
-    "contact:youtube": "https://www.youtube.com/@LwandiBitcoin",
-    "contact:email": "lwandibitcoin@proton.me",
-    "description": "Lwandi Bitcoin is building a Bitcoin Circular Economy coming from the social project Lwandi Surf in Ponta do Ouro Beach, Mozambique, a Portuguese speaking community.",
-    "language": "pt",
-    "type": "community",
-    "verified:date": "2026-03-26",
-    "icon:square": "https://static.btcmap.org/images/areas/993.png",
-    "area_km2": 429.05,
-    "id": 993,
-    "merchantCount": null
   },
   {
     "id": 994,

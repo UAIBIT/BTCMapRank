@@ -519,7 +519,7 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
-    "merchantCount": 111
+    "merchantCount": 112
   },
   {
     "area_km2": 11517.63,
@@ -577,7 +577,7 @@
     "type": "community",
     "url_alias": "the-core",
     "id": 720,
-    "merchantCount": 104
+    "merchantCount": 103
   },
   {
     "contact:website": "https://gobtc.com.br",
@@ -769,7 +769,7 @@
     "type": "community",
     "url_alias": "bitcoin-nairobi",
     "id": 767,
-    "merchantCount": 84
+    "merchantCount": 83
   },
   {
     "continent": "north-america",
@@ -969,7 +969,7 @@
     "name": "San Diego Bitcoiners",
     "contact:website": "https://blog.sdbitcoiners.com/",
     "id": 568,
-    "merchantCount": 69
+    "merchantCount": 70
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-maximex-club.jpeg",
@@ -1386,22 +1386,6 @@
     "merchantCount": 52
   },
   {
-    "continent": "europe",
-    "type": "community",
-    "area_km2": 2124.88,
-    "contact:youtube": "https://www.youtube.com/channel/UCqMtyR0cXniDzO27yKORD-g",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-valley.png",
-    "name": "Bitcoin Valley",
-    "population": 39915,
-    "population:date": "2018-03-31",
-    "url_alias": "bitcoin-valley",
-    "contact:email": "info@inbitcoin.it",
-    "contact:instagram": "https://instagram.com/bitcoin.valley",
-    "contact:website": "https://bitcoinvalley.eu/",
-    "id": 147,
-    "merchantCount": 51
-  },
-  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/san-antonio-bitcoin-club.png",
     "name": "San Antonio Bitcoin Club",
@@ -1415,6 +1399,22 @@
     "contact:meetup": "https://www.meetup.com/pl-PL/sanantoniobitcoinclub/",
     "type": "community",
     "id": 824,
+    "merchantCount": 52
+  },
+  {
+    "continent": "europe",
+    "type": "community",
+    "area_km2": 2124.88,
+    "contact:youtube": "https://www.youtube.com/channel/UCqMtyR0cXniDzO27yKORD-g",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-valley.png",
+    "name": "Bitcoin Valley",
+    "population": 39915,
+    "population:date": "2018-03-31",
+    "url_alias": "bitcoin-valley",
+    "contact:email": "info@inbitcoin.it",
+    "contact:instagram": "https://instagram.com/bitcoin.valley",
+    "contact:website": "https://bitcoinvalley.eu/",
+    "id": 147,
     "merchantCount": 51
   },
   {
@@ -1804,7 +1804,7 @@
     "type": "community",
     "area_km2": 2350.82,
     "id": 918,
-    "merchantCount": 41
+    "merchantCount": 42
   },
   {
     "url_alias": "cafeteros-bitcoiners",
@@ -2304,6 +2304,21 @@
     "merchantCount": 34
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/964.png",
+    "name": "Columbus Bitcoin",
+    "population": 905748,
+    "population:date": "2020-04-01",
+    "url_alias": "columbus-bitcoin",
+    "tips:lightning_address": "columbusbitcoin@cluborange.org",
+    "contact:twitter": "https://x.com/ColumbusBitcoin?t=5-dZ5kh_CLye5Er_Jag7PA&s=09",
+    "description": "Columbus Bitcoin is a monthly social gathering centered around Bitcoin. Our goal is to exchange stories related to Bitcoin, provide technical insights, foster business connections, and build lasting friendships. Regardless of whether you're just dipping your toes into the complex world of Bitcoin, struggling with its jargon, or you're a seasoned veteran who was involved in drafting the initial Bitcoin white paper in 2009, everyone is invited to learn and share their experiences.",
+    "type": "community",
+    "area_km2": 754.76,
+    "id": 964,
+    "merchantCount": 34
+  },
+  {
     "population": "5231147",
     "contact:youtube": "https://www.youtube.com/channel/UC7S0XRApYo06H69zYX7KFsA",
     "population:date": "2021-01-01",
@@ -2381,21 +2396,6 @@
     "area_km2": 14352.84,
     "contact:twitter": "https://x.com/bitcoinkaroo",
     "id": 907,
-    "merchantCount": 33
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/964.png",
-    "name": "Columbus Bitcoin",
-    "population": 905748,
-    "population:date": "2020-04-01",
-    "url_alias": "columbus-bitcoin",
-    "tips:lightning_address": "columbusbitcoin@cluborange.org",
-    "contact:twitter": "https://x.com/ColumbusBitcoin?t=5-dZ5kh_CLye5Er_Jag7PA&s=09",
-    "description": "Columbus Bitcoin is a monthly social gathering centered around Bitcoin. Our goal is to exchange stories related to Bitcoin, provide technical insights, foster business connections, and build lasting friendships. Regardless of whether you're just dipping your toes into the complex world of Bitcoin, struggling with its jargon, or you're a seasoned veteran who was involved in drafting the initial Bitcoin white paper in 2009, everyone is invited to learn and share their experiences.",
-    "type": "community",
-    "area_km2": 754.76,
-    "id": 964,
     "merchantCount": 33
   },
   {
@@ -3076,6 +3076,22 @@
     "merchantCount": 20
   },
   {
+    "area_km2": 9753.3,
+    "contact:email": "BTCFreedomMoney@gmail.com",
+    "population:date": "2000-01-01",
+    "tips:lightning_address": "LNURL1DP68GURN8GHJ7AMPD3KX2AR0VEEKZAR0WD5XJTNRDAKJ7TNHV4KXCTTTDEHHWM30D3H82UNVWQHK6ETVD3HHWCTSDAKX7EMEXS6QDRDNKU",
+    "contact:meetup": "https://www.meetup.com/western-mass-bitcoin-meetup/",
+    "population": "814967",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/western-mass-bitcoin.jpeg",
+    "continent": "north-america",
+    "name": "Western Mass Bitcoin",
+    "contact:twitter": "https://twitter.com/MassBitcoin",
+    "url_alias": "western-mass-bitcoin",
+    "id": 650,
+    "merchantCount": 20
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-txoko.webp",
     "name": "Bitcoin Txoko",
@@ -3170,22 +3186,6 @@
     "population:date": "2021-12-31",
     "area_km2": 989.9,
     "id": 339,
-    "merchantCount": 19
-  },
-  {
-    "area_km2": 9753.3,
-    "contact:email": "BTCFreedomMoney@gmail.com",
-    "population:date": "2000-01-01",
-    "tips:lightning_address": "LNURL1DP68GURN8GHJ7AMPD3KX2AR0VEEKZAR0WD5XJTNRDAKJ7TNHV4KXCTTTDEHHWM30D3H82UNVWQHK6ETVD3HHWCTSDAKX7EMEXS6QDRDNKU",
-    "contact:meetup": "https://www.meetup.com/western-mass-bitcoin-meetup/",
-    "population": "814967",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/western-mass-bitcoin.jpeg",
-    "continent": "north-america",
-    "name": "Western Mass Bitcoin",
-    "contact:twitter": "https://twitter.com/MassBitcoin",
-    "url_alias": "western-mass-bitcoin",
-    "id": 650,
     "merchantCount": 19
   },
   {
@@ -6391,6 +6391,24 @@
     "merchantCount": 6
   },
   {
+    "continent": "south-america",
+    "name": "Bitcoin Padawans",
+    "population": 300372,
+    "population:date": "2026-03-26",
+    "url_alias": "bitcoin-padawans",
+    "contact:github": "https://bitcoin-padawans.github.io/",
+    "tips:lightning_address": "simplefrown80@walletofsatoshi.com",
+    "contact:instagram": "https://www.instagram.com/bitcoin_padawans",
+    "area_km2": 801.59,
+    "contact:twitter": "https://x.com/rainanmjesus/",
+    "language": "pt",
+    "type": "community",
+    "verified:date": "2026-03-26",
+    "icon:square": "pending-upload",
+    "id": 992,
+    "merchantCount": 6
+  },
+  {
     "name": "Bitcoin Lille",
     "population:date": "2020-01-01",
     "url_alias": "bitcoin-lille",
@@ -7740,6 +7758,29 @@
     "area_km2": 25.84,
     "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
     "id": 990,
+    "merchantCount": 3
+  },
+  {
+    "continent": "africa",
+    "name": "Lwandi Bitcoin",
+    "population": 11000,
+    "population:date": "2026-03-26",
+    "url_alias": "lwandi-bitcoin",
+    "contact:instagram": "https://www.instagram.com/lwandi.bitcoin/",
+    "contact:twitter": "https://x.com/LwandiBitcoin",
+    "tips:lightning_address": "lwandibitcoin@blink.sv",
+    "contact:nostr": "npub17w0cveeyluhr8n652hq5n7702u6w5y9gy4q0vzld9rwswnpr3uusk5ktq5",
+    "contact:telegram": "https://t.me/lwandibitcoin",
+    "contact:linkedin": "https://www.linkedin.com/company/lwandi-bitcoin/",
+    "contact:youtube": "https://www.youtube.com/@LwandiBitcoin",
+    "contact:email": "lwandibitcoin@proton.me",
+    "description": "Lwandi Bitcoin is building a Bitcoin Circular Economy coming from the social project Lwandi Surf in Ponta do Ouro Beach, Mozambique, a Portuguese speaking community.",
+    "language": "pt",
+    "type": "community",
+    "verified:date": "2026-03-26",
+    "icon:square": "https://static.btcmap.org/images/areas/993.png",
+    "area_km2": 429.05,
+    "id": 993,
     "merchantCount": 3
   },
   {
@@ -11359,46 +11400,5 @@
     "tips:lightning_address": "pbtc@purbeckbitcoin.com",
     "id": 989,
     "merchantCount": 0
-  },
-  {
-    "continent": "south-america",
-    "name": "Bitcoin Padawans",
-    "population": 300372,
-    "population:date": "2026-03-26",
-    "url_alias": "bitcoin-padawans",
-    "contact:github": "https://bitcoin-padawans.github.io/",
-    "tips:lightning_address": "simplefrown80@walletofsatoshi.com",
-    "contact:instagram": "https://www.instagram.com/bitcoin_padawans",
-    "area_km2": 801.59,
-    "contact:twitter": "https://x.com/rainanmjesus/",
-    "language": "pt",
-    "type": "community",
-    "verified:date": "2026-03-26",
-    "icon:square": "pending-upload",
-    "id": 992,
-    "merchantCount": null
-  },
-  {
-    "continent": "africa",
-    "name": "Lwandi Bitcoin",
-    "population": 11000,
-    "population:date": "2026-03-26",
-    "url_alias": "lwandi-bitcoin",
-    "contact:instagram": "https://www.instagram.com/lwandi.bitcoin/",
-    "contact:twitter": "https://x.com/LwandiBitcoin",
-    "tips:lightning_address": "lwandibitcoin@blink.sv",
-    "contact:nostr": "npub17w0cveeyluhr8n652hq5n7702u6w5y9gy4q0vzld9rwswnpr3uusk5ktq5",
-    "contact:telegram": "https://t.me/lwandibitcoin",
-    "contact:linkedin": "https://www.linkedin.com/company/lwandi-bitcoin/",
-    "contact:youtube": "https://www.youtube.com/@LwandiBitcoin",
-    "contact:email": "lwandibitcoin@proton.me",
-    "description": "Lwandi Bitcoin is building a Bitcoin Circular Economy coming from the social project Lwandi Surf in Ponta do Ouro Beach, Mozambique, a Portuguese speaking community.",
-    "language": "pt",
-    "type": "community",
-    "verified:date": "2026-03-26",
-    "icon:square": "https://static.btcmap.org/images/areas/993.png",
-    "area_km2": 429.05,
-    "id": 993,
-    "merchantCount": null
   }
 ]
