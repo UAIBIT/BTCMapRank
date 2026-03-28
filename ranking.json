@@ -169,7 +169,7 @@
     "url_alias": "cz",
     "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
     "id": 218,
-    "merchantCount": 1095
+    "merchantCount": 1093
   },
   {
     "subregion": "Southern Europe",
@@ -637,7 +637,7 @@
     "population": 2709418,
     "url_alias": "jednadvacet-praha",
     "id": 411,
-    "merchantCount": 332
+    "merchantCount": 331
   },
   {
     "type": "trash",
@@ -652,7 +652,7 @@
     "url_alias": "paralelni-polis",
     "population:date": "2021",
     "id": 521,
-    "merchantCount": 332
+    "merchantCount": 331
   },
   {
     "area_km2": 636466.7,
@@ -817,7 +817,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 235
+    "merchantCount": 237
   },
   {
     "area_km2": 505.62,
@@ -1664,21 +1664,6 @@
     "merchantCount": 89
   },
   {
-    "population": 696413,
-    "population:date": "2023-01-01",
-    "type": "community",
-    "url_alias": "jednadvacet-brno",
-    "name": "Jednadvacet Brno",
-    "area_km2": 323.73,
-    "contact:website": "https://jednadvacet.org/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-brno.png",
-    "contact:signal": "https://signal.group/#CjQKIL2KyHPPAotCRX1bQS2Kx_NV46s7om25K23Sy5Sf_u2pEhB1vJrPckxkIryjgdeTybmx",
-    "organization": "jednadvacet",
-    "id": 408,
-    "merchantCount": 88
-  },
-  {
     "box:north": 12.0054894748356,
     "contact:twitter": "https://twitter.com/BtcRetreat",
     "contact:instagram": "https://instagram.com/pouch_philippines",
@@ -1701,6 +1686,21 @@
     "url_alias": "bitcoin-island-philippines",
     "area_km2": 10.0,
     "id": 106,
+    "merchantCount": 87
+  },
+  {
+    "population": 696413,
+    "population:date": "2023-01-01",
+    "type": "community",
+    "url_alias": "jednadvacet-brno",
+    "name": "Jednadvacet Brno",
+    "area_km2": 323.73,
+    "contact:website": "https://jednadvacet.org/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-brno.png",
+    "contact:signal": "https://signal.group/#CjQKIL2KyHPPAotCRX1bQS2Kx_NV46s7om25K23Sy5Sf_u2pEhB1vJrPckxkIryjgdeTybmx",
+    "organization": "jednadvacet",
+    "id": 408,
     "merchantCount": 87
   },
   {
@@ -1966,33 +1966,6 @@
     "merchantCount": 74
   },
   {
-    "population:rank": 13,
-    "gdp_md": 25095,
-    "income_grp": "4. Lower middle income",
-    "subregion": "Central America",
-    "area_km2": 152353.4,
-    "lat": 14.794801,
-    "lon": -86.887604,
-    "region_wb": "Latin America & Caribbean",
-    "economy": "6. Developing region",
-    "continent": "North America",
-    "type": "country",
-    "country_type": "Sovereign country",
-    "iso_a2": "HN",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "iso_a3": "HND",
-    "region_un": "Americas",
-    "population": 9746117,
-    "sovereignt": "Honduras",
-    "name": "Honduras",
-    "wikidataid": "Q783",
-    "url_alias": "hn",
-    "icon:square": "https://static.btcmap.org/images/countries/hn.svg",
-    "id": 392,
-    "merchantCount": 73
-  },
-  {
     "gdp_year": 2019,
     "income_grp": "3. Upper middle income",
     "population:year": 2019,
@@ -2133,33 +2106,6 @@
     "merchantCount": 68
   },
   {
-    "type": "country",
-    "region_un": "Asia",
-    "country_type": "Sovereign country",
-    "subregion": "Eastern Asia",
-    "region_wb": "East Asia & Pacific",
-    "sovereignt": "Japan",
-    "continent": "Asia",
-    "lon": 138.44217,
-    "iso_a2": "JP",
-    "wikidataid": "Q17",
-    "name": "Japan",
-    "population": 126264931,
-    "population:rank": 17,
-    "iso_a3": "JPN",
-    "gdp_md": 5081769,
-    "economy": "1. Developed region: G7",
-    "population:year": 2019,
-    "lat": 36.142538,
-    "income_grp": "1. High income: OECD",
-    "gdp_year": 2019,
-    "area_km2": 370927.36,
-    "url_alias": "jp",
-    "icon:square": "https://static.btcmap.org/images/countries/jp.svg",
-    "id": 414,
-    "merchantCount": 67
-  },
-  {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-maximex-club.jpeg",
     "continent": "north-america",
     "url_alias": "bitcoin-maximex-club",
@@ -2185,6 +2131,33 @@
     "area_km2": 1922.67,
     "icon:square": "https://static.btcmap.org/images/communities/bitdev-chilangos-by-libreria-de-satoshi.png",
     "id": 159,
+    "merchantCount": 66
+  },
+  {
+    "type": "country",
+    "region_un": "Asia",
+    "country_type": "Sovereign country",
+    "subregion": "Eastern Asia",
+    "region_wb": "East Asia & Pacific",
+    "sovereignt": "Japan",
+    "continent": "Asia",
+    "lon": 138.44217,
+    "iso_a2": "JP",
+    "wikidataid": "Q17",
+    "name": "Japan",
+    "population": 126264931,
+    "population:rank": 17,
+    "iso_a3": "JPN",
+    "gdp_md": 5081769,
+    "economy": "1. Developed region: G7",
+    "population:year": 2019,
+    "lat": 36.142538,
+    "income_grp": "1. High income: OECD",
+    "gdp_year": 2019,
+    "area_km2": 370927.36,
+    "url_alias": "jp",
+    "icon:square": "https://static.btcmap.org/images/countries/jp.svg",
+    "id": 414,
     "merchantCount": 66
   },
   {
@@ -2392,6 +2365,33 @@
     "merchantCount": 62
   },
   {
+    "population:rank": 13,
+    "gdp_md": 25095,
+    "income_grp": "4. Lower middle income",
+    "subregion": "Central America",
+    "area_km2": 152353.4,
+    "lat": 14.794801,
+    "lon": -86.887604,
+    "region_wb": "Latin America & Caribbean",
+    "economy": "6. Developing region",
+    "continent": "North America",
+    "type": "country",
+    "country_type": "Sovereign country",
+    "iso_a2": "HN",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "iso_a3": "HND",
+    "region_un": "Americas",
+    "population": 9746117,
+    "sovereignt": "Honduras",
+    "name": "Honduras",
+    "wikidataid": "Q783",
+    "url_alias": "hn",
+    "icon:square": "https://static.btcmap.org/images/countries/hn.svg",
+    "id": 392,
+    "merchantCount": 61
+  },
+  {
     "continent": "europe",
     "name": "Bitcoin Club",
     "population": 1284870,
@@ -2428,33 +2428,6 @@
     "population": "4342212",
     "id": 555,
     "merchantCount": 60
-  },
-  {
-    "area_km2": 835.14,
-    "contact:whatsapp": "https://chat.whatsapp.com/FQ9Uu5WR6VOGgh5sPaSuFK",
-    "box:west": "-86.6374969482422",
-    "url_alias": "amityage",
-    "box:east": "-86.22825622558594",
-    "name": "AmityAge",
-    "type": "community",
-    "box:north": "16.509832826905846",
-    "icon:square": "https://static.btcmap.org/images/communities/amityage.jpg",
-    "contact:website": "https://www.amityage.com/",
-    "continent": "north-america",
-    "contact:facebook": "https://www.facebook.com/groups/482643843863161",
-    "population:date": "2020-01-01",
-    "population": "110000",
-    "contact:instagram": "https://www.instagram.com/amityage/",
-    "box:south": "16.21599324835452",
-    "contact:email": "hello@amityage.com",
-    "contact:twitter": "https://twitter.com/AmityAge",
-    "contact:nostr": "npub17f0fzzpw06saawtls0r5sjht4hs2v222ssgr2vs8ml9h35ruy8jsdkv8ue",
-    "language": "es, en, sk",
-    "tips:lightning_address": "amityage@blink.sv",
-    "tips:url": "https://geyser.fund/project/amityageacademy",
-    "verified:date": "2026-03-27",
-    "id": 20,
-    "merchantCount": 57
   },
   {
     "economy": "5. Emerging region: G20",
@@ -2849,6 +2822,33 @@
     "area_km2": 228405.03,
     "id": 381,
     "merchantCount": 47
+  },
+  {
+    "area_km2": 835.14,
+    "contact:whatsapp": "https://chat.whatsapp.com/FQ9Uu5WR6VOGgh5sPaSuFK",
+    "box:west": "-86.6374969482422",
+    "url_alias": "amityage",
+    "box:east": "-86.22825622558594",
+    "name": "AmityAge",
+    "type": "community",
+    "box:north": "16.509832826905846",
+    "icon:square": "https://static.btcmap.org/images/communities/amityage.jpg",
+    "contact:website": "https://www.amityage.com/",
+    "continent": "north-america",
+    "contact:facebook": "https://www.facebook.com/groups/482643843863161",
+    "population:date": "2020-01-01",
+    "population": "110000",
+    "contact:instagram": "https://www.instagram.com/amityage/",
+    "box:south": "16.21599324835452",
+    "contact:email": "hello@amityage.com",
+    "contact:twitter": "https://twitter.com/AmityAge",
+    "contact:nostr": "npub17f0fzzpw06saawtls0r5sjht4hs2v222ssgr2vs8ml9h35ruy8jsdkv8ue",
+    "language": "es, en, sk",
+    "tips:lightning_address": "amityage@blink.sv",
+    "tips:url": "https://geyser.fund/project/amityageacademy",
+    "verified:date": "2026-03-27",
+    "id": 20,
+    "merchantCount": 45
   },
   {
     "url_alias": "btc-norte",
@@ -3486,6 +3486,23 @@
     "merchantCount": 37
   },
   {
+    "area_km2": 579.4,
+    "continent": "north-america",
+    "contact:twitter": "https://twitter.com/atlantabitdevs",
+    "name": "Atlanta BitDevs",
+    "population": "6144050",
+    "url_alias": "atlanta-bit-devs",
+    "organization": "bit-devs",
+    "contact:email": "atlantabitdevs@proton.me",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/atlanta-bit-devs.png",
+    "contact:meetup": "https://www.meetup.com/atlantabitdevs/",
+    "contact:website": "https://atlantabitdevs.org",
+    "population:date": "2020-01-01",
+    "id": 32,
+    "merchantCount": 36
+  },
+  {
     "population": "2480394",
     "contact:twitter": "https://twitter.com/BitDevsAms",
     "contact:email": "bitdevsamsterdam@proton.me",
@@ -3653,23 +3670,6 @@
     "contact:instagram": "https://www.instagram.com/satoshiteam_",
     "id": 912,
     "merchantCount": 36
-  },
-  {
-    "area_km2": 579.4,
-    "continent": "north-america",
-    "contact:twitter": "https://twitter.com/atlantabitdevs",
-    "name": "Atlanta BitDevs",
-    "population": "6144050",
-    "url_alias": "atlanta-bit-devs",
-    "organization": "bit-devs",
-    "contact:email": "atlantabitdevs@proton.me",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/atlanta-bit-devs.png",
-    "contact:meetup": "https://www.meetup.com/atlantabitdevs/",
-    "contact:website": "https://atlantabitdevs.org",
-    "population:date": "2020-01-01",
-    "id": 32,
-    "merchantCount": 35
   },
   {
     "contact:discord": "https://discord.com/invite/gFVe2HcUpw",

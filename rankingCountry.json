@@ -132,7 +132,7 @@
     "url_alias": "cz",
     "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
     "id": 218,
-    "merchantCount": 1095
+    "merchantCount": 1093
   },
   {
     "subregion": "Southern Europe",
@@ -933,33 +933,6 @@
     "merchantCount": 76
   },
   {
-    "population:rank": 13,
-    "gdp_md": 25095,
-    "income_grp": "4. Lower middle income",
-    "subregion": "Central America",
-    "area_km2": 152353.4,
-    "lat": 14.794801,
-    "lon": -86.887604,
-    "region_wb": "Latin America & Caribbean",
-    "economy": "6. Developing region",
-    "continent": "North America",
-    "type": "country",
-    "country_type": "Sovereign country",
-    "iso_a2": "HN",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "iso_a3": "HND",
-    "region_un": "Americas",
-    "population": 9746117,
-    "sovereignt": "Honduras",
-    "name": "Honduras",
-    "wikidataid": "Q783",
-    "url_alias": "hn",
-    "icon:square": "https://static.btcmap.org/images/countries/hn.svg",
-    "id": 392,
-    "merchantCount": 73
-  },
-  {
     "gdp_year": 2019,
     "income_grp": "3. Upper middle income",
     "population:year": 2019,
@@ -1065,7 +1038,7 @@
     "url_alias": "jp",
     "icon:square": "https://static.btcmap.org/images/countries/jp.svg",
     "id": 414,
-    "merchantCount": 67
+    "merchantCount": 66
   },
   {
     "lat": 7.182476,
@@ -1120,6 +1093,33 @@
     "icon:square": "https://static.btcmap.org/images/countries/be.svg",
     "id": 50,
     "merchantCount": 63
+  },
+  {
+    "population:rank": 13,
+    "gdp_md": 25095,
+    "income_grp": "4. Lower middle income",
+    "subregion": "Central America",
+    "area_km2": 152353.4,
+    "lat": 14.794801,
+    "lon": -86.887604,
+    "region_wb": "Latin America & Caribbean",
+    "economy": "6. Developing region",
+    "continent": "North America",
+    "type": "country",
+    "country_type": "Sovereign country",
+    "iso_a2": "HN",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "iso_a3": "HND",
+    "region_un": "Americas",
+    "population": 9746117,
+    "sovereignt": "Honduras",
+    "name": "Honduras",
+    "wikidataid": "Q783",
+    "url_alias": "hn",
+    "icon:square": "https://static.btcmap.org/images/countries/hn.svg",
+    "id": 392,
+    "merchantCount": 61
   },
   {
     "economy": "5. Emerging region: G20",
