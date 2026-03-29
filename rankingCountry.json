@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7246
+    "merchantCount": 7280
   },
   {
     "wikidataid": "Q155",
@@ -132,7 +132,7 @@
     "url_alias": "cz",
     "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
     "id": 218,
-    "merchantCount": 1093
+    "merchantCount": 1091
   },
   {
     "subregion": "Southern Europe",
@@ -613,7 +613,7 @@
     "url_alias": "at",
     "icon:square": "https://static.btcmap.org/images/countries/at.svg",
     "id": 31,
-    "merchantCount": 207
+    "merchantCount": 208
   },
   {
     "sovereignt": "Australia",
@@ -694,7 +694,7 @@
     "url_alias": "ke",
     "icon:square": "https://static.btcmap.org/images/countries/ke.svg",
     "id": 415,
-    "merchantCount": 168
+    "merchantCount": 167
   },
   {
     "lon": -70.653998,
@@ -903,7 +903,7 @@
     "url_alias": "ph",
     "icon:square": "https://static.btcmap.org/images/countries/ph.svg",
     "id": 528,
-    "merchantCount": 77
+    "merchantCount": 78
   },
   {
     "subregion": "South America",
@@ -1203,6 +1203,33 @@
     "merchantCount": 43
   },
   {
+    "iso_a3": "GHA",
+    "gdp_md": 66983,
+    "subregion": "Western Africa",
+    "wikidataid": "Q117",
+    "lat": 7.717639,
+    "lon": -1.036941,
+    "continent": "Africa",
+    "type": "country",
+    "population:rank": 15,
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "area_km2": 240102.41,
+    "region_un": "Africa",
+    "income_grp": "4. Lower middle income",
+    "region_wb": "Sub-Saharan Africa",
+    "name": "Ghana",
+    "iso_a2": "GH",
+    "population": 30417856,
+    "population:year": 2019,
+    "sovereignt": "Ghana",
+    "economy": "6. Developing region",
+    "url_alias": "gh",
+    "icon:square": "https://static.btcmap.org/images/countries/gh.svg",
+    "id": 368,
+    "merchantCount": 42
+  },
+  {
     "iso_a3": "GRC",
     "lat": 39.492763,
     "sovereignt": "Greece",
@@ -1336,33 +1363,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/no.svg",
     "id": 686,
     "merchantCount": 36
-  },
-  {
-    "iso_a3": "GHA",
-    "gdp_md": 66983,
-    "subregion": "Western Africa",
-    "wikidataid": "Q117",
-    "lat": 7.717639,
-    "lon": -1.036941,
-    "continent": "Africa",
-    "type": "country",
-    "population:rank": 15,
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "area_km2": 240102.41,
-    "region_un": "Africa",
-    "income_grp": "4. Lower middle income",
-    "region_wb": "Sub-Saharan Africa",
-    "name": "Ghana",
-    "iso_a2": "GH",
-    "population": 30417856,
-    "population:year": 2019,
-    "sovereignt": "Ghana",
-    "economy": "6. Developing region",
-    "url_alias": "gh",
-    "icon:square": "https://static.btcmap.org/images/countries/gh.svg",
-    "id": 368,
-    "merchantCount": 34
   },
   {
     "population": 270625568,
@@ -2783,6 +2783,33 @@
     "merchantCount": 3
   },
   {
+    "lon": -72.224051,
+    "gdp_md": 14332,
+    "income_grp": "5. Low income",
+    "iso_a3": "HTI",
+    "country_type": "Sovereign country",
+    "continent": "North America",
+    "economy": "7. Least developed region",
+    "area_km2": 26865.18,
+    "sovereignt": "Haiti",
+    "gdp_year": 2019,
+    "iso_a2": "HT",
+    "name": "Haiti",
+    "population:rank": 14,
+    "subregion": "Caribbean",
+    "lat": 19.263784,
+    "population": 11263077,
+    "region_wb": "Latin America & Caribbean",
+    "wikidataid": "Q790",
+    "population:year": 2019,
+    "type": "country",
+    "region_un": "Americas",
+    "url_alias": "ht",
+    "icon:square": "https://static.btcmap.org/images/countries/ht.svg",
+    "id": 394,
+    "merchantCount": 3
+  },
+  {
     "type": "country",
     "sovereignt": "Jamaica",
     "wikidataid": "Q766",
@@ -3158,33 +3185,6 @@
     "url_alias": "gu",
     "icon:square": "https://static.btcmap.org/images/countries/gu.svg",
     "id": 385,
-    "merchantCount": 2
-  },
-  {
-    "lon": -72.224051,
-    "gdp_md": 14332,
-    "income_grp": "5. Low income",
-    "iso_a3": "HTI",
-    "country_type": "Sovereign country",
-    "continent": "North America",
-    "economy": "7. Least developed region",
-    "area_km2": 26865.18,
-    "sovereignt": "Haiti",
-    "gdp_year": 2019,
-    "iso_a2": "HT",
-    "name": "Haiti",
-    "population:rank": 14,
-    "subregion": "Caribbean",
-    "lat": 19.263784,
-    "population": 11263077,
-    "region_wb": "Latin America & Caribbean",
-    "wikidataid": "Q790",
-    "population:year": 2019,
-    "type": "country",
-    "region_un": "Americas",
-    "url_alias": "ht",
-    "icon:square": "https://static.btcmap.org/images/countries/ht.svg",
-    "id": 394,
     "merchantCount": 2
   },
   {
