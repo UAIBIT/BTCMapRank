@@ -24,7 +24,34 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7486
+    "merchantCount": 7525
+  },
+  {
+    "gdp_md": 351431,
+    "lat": -29.708776,
+    "area_km2": 1224387.48,
+    "country_type": "Sovereign country",
+    "sovereignt": "South Africa",
+    "continent": "Africa",
+    "region_un": "Africa",
+    "subregion": "Southern Africa",
+    "wikidataid": "Q258",
+    "income_grp": "3. Upper middle income",
+    "iso_a2": "ZA",
+    "iso_a3": "ZAF",
+    "type": "country",
+    "population": 58558270,
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "economy": "5. Emerging region: G20",
+    "name": "South Africa",
+    "region_wb": "Sub-Saharan Africa",
+    "population:rank": 16,
+    "lon": 23.665734,
+    "url_alias": "za",
+    "icon:square": "https://static.btcmap.org/images/countries/za.svg",
+    "id": 656,
+    "merchantCount": 2237
   },
   {
     "wikidataid": "Q155",
@@ -78,34 +105,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1343
-  },
-  {
-    "gdp_md": 351431,
-    "lat": -29.708776,
-    "area_km2": 1224387.48,
-    "country_type": "Sovereign country",
-    "sovereignt": "South Africa",
-    "continent": "Africa",
-    "region_un": "Africa",
-    "subregion": "Southern Africa",
-    "wikidataid": "Q258",
-    "income_grp": "3. Upper middle income",
-    "iso_a2": "ZA",
-    "iso_a3": "ZAF",
-    "type": "country",
-    "population": 58558270,
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "economy": "5. Emerging region: G20",
-    "name": "South Africa",
-    "region_wb": "Sub-Saharan Africa",
-    "population:rank": 16,
-    "lon": 23.665734,
-    "url_alias": "za",
-    "icon:square": "https://static.btcmap.org/images/countries/za.svg",
-    "id": 656,
-    "merchantCount": 1248
+    "merchantCount": 1342
   },
   {
     "population:rank": 14,
@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 484
+    "merchantCount": 483
   },
   {
     "country_type": "Sovereign country",
