@@ -375,7 +375,7 @@
     "url_alias": "nl",
     "icon:square": "https://static.btcmap.org/images/countries/nl.svg",
     "id": 507,
-    "merchantCount": 362
+    "merchantCount": 363
   },
   {
     "region_un": "Europe",
@@ -802,7 +802,7 @@
     "url_alias": "bo",
     "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
     "id": 168,
-    "merchantCount": 104
+    "merchantCount": 108
   },
   {
     "sovereignt": "Colombia",
@@ -1038,7 +1038,7 @@
     "url_alias": "jp",
     "icon:square": "https://static.btcmap.org/images/countries/jp.svg",
     "id": 414,
-    "merchantCount": 66
+    "merchantCount": 67
   },
   {
     "lat": 7.182476,
@@ -1176,6 +1176,33 @@
     "merchantCount": 49
   },
   {
+    "iso_a3": "GHA",
+    "gdp_md": 66983,
+    "subregion": "Western Africa",
+    "wikidataid": "Q117",
+    "lat": 7.717639,
+    "lon": -1.036941,
+    "continent": "Africa",
+    "type": "country",
+    "population:rank": 15,
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "area_km2": 240102.41,
+    "region_un": "Africa",
+    "income_grp": "4. Lower middle income",
+    "region_wb": "Sub-Saharan Africa",
+    "name": "Ghana",
+    "iso_a2": "GH",
+    "population": 30417856,
+    "population:year": 2019,
+    "sovereignt": "Ghana",
+    "economy": "6. Developing region",
+    "url_alias": "gh",
+    "icon:square": "https://static.btcmap.org/images/countries/gh.svg",
+    "id": 368,
+    "merchantCount": 46
+  },
+  {
     "lon": 7.50322,
     "area_km2": 913593.56,
     "type": "country",
@@ -1201,33 +1228,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/ng.svg",
     "id": 505,
     "merchantCount": 43
-  },
-  {
-    "iso_a3": "GHA",
-    "gdp_md": 66983,
-    "subregion": "Western Africa",
-    "wikidataid": "Q117",
-    "lat": 7.717639,
-    "lon": -1.036941,
-    "continent": "Africa",
-    "type": "country",
-    "population:rank": 15,
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "area_km2": 240102.41,
-    "region_un": "Africa",
-    "income_grp": "4. Lower middle income",
-    "region_wb": "Sub-Saharan Africa",
-    "name": "Ghana",
-    "iso_a2": "GH",
-    "population": 30417856,
-    "population:year": 2019,
-    "sovereignt": "Ghana",
-    "economy": "6. Developing region",
-    "url_alias": "gh",
-    "icon:square": "https://static.btcmap.org/images/countries/gh.svg",
-    "id": 368,
-    "merchantCount": 42
   },
   {
     "iso_a3": "GRC",
