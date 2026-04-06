@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7563
+    "merchantCount": 7593
   },
   {
     "gdp_md": 351431,
@@ -213,7 +213,7 @@
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
     "id": 220,
-    "merchantCount": 611
+    "merchantCount": 610
   },
   {
     "sovereignt": "Canada",
@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 483
+    "merchantCount": 484
   },
   {
     "country_type": "Sovereign country",
@@ -375,7 +375,7 @@
     "url_alias": "nl",
     "icon:square": "https://static.btcmap.org/images/countries/nl.svg",
     "id": 507,
-    "merchantCount": 363
+    "merchantCount": 365
   },
   {
     "region_un": "Europe",
@@ -483,7 +483,7 @@
     "wikidataid": "Q142",
     "icon:square": "https://static.btcmap.org/images/countries/fr.svg",
     "id": 685,
-    "merchantCount": 331
+    "merchantCount": 334
   },
   {
     "name": "Poland",
@@ -724,33 +724,6 @@
     "merchantCount": 129
   },
   {
-    "iso_a2": "SR",
-    "continent": "South America",
-    "iso_a3": "SUR",
-    "region_un": "Americas",
-    "lat": 4.143987,
-    "sovereignt": "Suriname",
-    "population:year": 2019,
-    "country_type": "Sovereign country",
-    "region_wb": "Latin America & Caribbean",
-    "income_grp": "3. Upper middle income",
-    "population": 581363,
-    "area_km2": 163759.18,
-    "subregion": "South America",
-    "population:rank": 11,
-    "name": "Suriname",
-    "gdp_md": 3697,
-    "type": "country",
-    "lon": -55.91094,
-    "wikidataid": "Q730",
-    "gdp_year": 2019,
-    "economy": "6. Developing region",
-    "url_alias": "sr",
-    "icon:square": "https://static.btcmap.org/images/countries/sr.svg",
-    "id": 593,
-    "merchantCount": 124
-  },
-  {
     "continent": "Africa",
     "sovereignt": "Zambia",
     "region_un": "Africa",
@@ -775,6 +748,33 @@
     "url_alias": "zm",
     "icon:square": "https://static.btcmap.org/images/countries/zm.svg",
     "id": 657,
+    "merchantCount": 127
+  },
+  {
+    "iso_a2": "SR",
+    "continent": "South America",
+    "iso_a3": "SUR",
+    "region_un": "Americas",
+    "lat": 4.143987,
+    "sovereignt": "Suriname",
+    "population:year": 2019,
+    "country_type": "Sovereign country",
+    "region_wb": "Latin America & Caribbean",
+    "income_grp": "3. Upper middle income",
+    "population": 581363,
+    "area_km2": 163759.18,
+    "subregion": "South America",
+    "population:rank": 11,
+    "name": "Suriname",
+    "gdp_md": 3697,
+    "type": "country",
+    "lon": -55.91094,
+    "wikidataid": "Q730",
+    "gdp_year": 2019,
+    "economy": "6. Developing region",
+    "url_alias": "sr",
+    "icon:square": "https://static.btcmap.org/images/countries/sr.svg",
+    "id": 593,
     "merchantCount": 124
   },
   {
@@ -1092,7 +1092,7 @@
     "url_alias": "be",
     "icon:square": "https://static.btcmap.org/images/countries/be.svg",
     "id": 50,
-    "merchantCount": 63
+    "merchantCount": 64
   },
   {
     "population:rank": 13,
