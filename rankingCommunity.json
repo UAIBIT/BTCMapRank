@@ -158,7 +158,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 257
+    "merchantCount": 258
   },
   {
     "area_km2": 505.62,
@@ -210,25 +210,6 @@
     "merchantCount": 212
   },
   {
-    "name": "Vancouver Bitcoiners",
-    "box:south": "48.81861991362668",
-    "population": "2642825",
-    "url_alias": "vancouver-bitcoiners",
-    "box:north": "49.60003042758964",
-    "box:west": "-124.41604614257814",
-    "contact:twitter": "https://twitter.com/VanBitcoiners",
-    "population:date": "2021-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/vancouver-bitcoiners.jpg",
-    "box:east": "-121.77932739257814",
-    "continent": "north-america",
-    "type": "community",
-    "area_km2": 187.14,
-    "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
-    "contact:website": "https://linktr.ee/VancouverBitcoiners",
-    "id": 639,
-    "merchantCount": 202
-  },
-  {
     "url_alias": "bitcoin-austria",
     "continent": "europe",
     "contact:website": "https://bitcoin-austria.at/",
@@ -250,7 +231,26 @@
     "contact:nostr": "npub16tcathdvfgx30ds3fjy8d80kwwdks5pe29ms4yda2ydzqat4uydsyq5jkf",
     "verified:date": "2026-03-09",
     "id": 73,
-    "merchantCount": 201
+    "merchantCount": 202
+  },
+  {
+    "name": "Vancouver Bitcoiners",
+    "box:south": "48.81861991362668",
+    "population": "2642825",
+    "url_alias": "vancouver-bitcoiners",
+    "box:north": "49.60003042758964",
+    "box:west": "-124.41604614257814",
+    "contact:twitter": "https://twitter.com/VanBitcoiners",
+    "population:date": "2021-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/vancouver-bitcoiners.jpg",
+    "box:east": "-121.77932739257814",
+    "continent": "north-america",
+    "type": "community",
+    "area_km2": 187.14,
+    "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
+    "contact:website": "https://linktr.ee/VancouverBitcoiners",
+    "id": 639,
+    "merchantCount": 202
   },
   {
     "continent": "north-america",
@@ -283,7 +283,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 178
+    "merchantCount": 180
   },
   {
     "type": "community",
@@ -1261,6 +1261,30 @@
     "merchantCount": 56
   },
   {
+    "contact:website": "https://detbtc.com/",
+    "contact:telegram": "https://t.me/detbtc",
+    "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
+    "area_km2": 3044.54,
+    "type": "community",
+    "box:south": "41.37474755643597",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin.jpg",
+    "contact:instagram": "https://www.instagram.com/detbtc/",
+    "contact:email": "duck@kronkltd.net",
+    "population": "7000000",
+    "population:date": "2020-01-01",
+    "tips:lightning_address": "detbtc@coinos.io",
+    "contact:twitter": "https://twitter.com/detbtc",
+    "name": "Detroit Bitcoin",
+    "box:west": "-85.61645507812501",
+    "box:north": "43.1450861841603",
+    "contact:meetup": "https://www.meetup.com/detbtc/",
+    "url_alias": "detroit-bitcoin",
+    "box:east": "-80.34301757812501",
+    "id": 224,
+    "merchantCount": 55
+  },
+  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/areas/890.png",
     "name": "Indy Bitcoin",
@@ -1288,30 +1312,6 @@
     "contact:email": "berlin2140@ph.dedyn.io",
     "organization": "2140-meetups",
     "id": 54,
-    "merchantCount": 54
-  },
-  {
-    "contact:website": "https://detbtc.com/",
-    "contact:telegram": "https://t.me/detbtc",
-    "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
-    "area_km2": 3044.54,
-    "type": "community",
-    "box:south": "41.37474755643597",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin.jpg",
-    "contact:instagram": "https://www.instagram.com/detbtc/",
-    "contact:email": "duck@kronkltd.net",
-    "population": "7000000",
-    "population:date": "2020-01-01",
-    "tips:lightning_address": "detbtc@coinos.io",
-    "contact:twitter": "https://twitter.com/detbtc",
-    "name": "Detroit Bitcoin",
-    "box:west": "-85.61645507812501",
-    "box:north": "43.1450861841603",
-    "contact:meetup": "https://www.meetup.com/detbtc/",
-    "url_alias": "detroit-bitcoin",
-    "box:east": "-80.34301757812501",
-    "id": 224,
     "merchantCount": 54
   },
   {
@@ -3573,6 +3573,21 @@
     "merchantCount": 16
   },
   {
+    "name": "Detroit Bitcoin and Beer",
+    "url_alias": "detroit-bitcoin-and-beer",
+    "population": 4365205,
+    "contact:meetup": "https://www.meetup.com/bitcoin-and-beer-detroit/",
+    "population:date": "2020-01-01",
+    "tips:lightning_address": "statusvase33@walletofsatoshi.com",
+    "contact:email": "nrolfes@gmail.com",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin-and-beer.png",
+    "area_km2": 496.7,
+    "continent": "north-america",
+    "id": 225,
+    "merchantCount": 16
+  },
+  {
     "type": "community",
     "population": 362540,
     "icon:square": "https://static.btcmap.org/images/communities/oeste-bitcoin-maxi-meetup.svg",
@@ -3713,21 +3728,6 @@
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-toronto.jpeg",
     "population:date": "2021-01-01",
     "id": 144,
-    "merchantCount": 15
-  },
-  {
-    "name": "Detroit Bitcoin and Beer",
-    "url_alias": "detroit-bitcoin-and-beer",
-    "population": 4365205,
-    "contact:meetup": "https://www.meetup.com/bitcoin-and-beer-detroit/",
-    "population:date": "2020-01-01",
-    "tips:lightning_address": "statusvase33@walletofsatoshi.com",
-    "contact:email": "nrolfes@gmail.com",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin-and-beer.png",
-    "area_km2": 496.7,
-    "continent": "north-america",
-    "id": 225,
     "merchantCount": 15
   },
   {
@@ -4299,6 +4299,20 @@
     "merchantCount": 13
   },
   {
+    "name": "Boulder Bitcoin",
+    "contact:twitter": "https://twitter.com/BoulderBitcoin",
+    "icon:square": "https://static.btcmap.org/images/communities/boulder-bitcoin.jpeg",
+    "type": "community",
+    "contact:meetup": "https://www.meetup.com/boulder-bitcoiners/",
+    "url_alias": "boulder-bitcoin",
+    "area_km2": 193.08,
+    "population:date": "2020-01-01",
+    "population": "330758",
+    "continent": "north-america",
+    "id": 170,
+    "merchantCount": 12
+  },
+  {
     "contact:telegram": "https://t.me/DwadziesciaJeden",
     "contact:twitter": "https://twitter.com/21BitcoinPolska",
     "population:date": "2022-01-01",
@@ -4491,20 +4505,6 @@
     "organization": "einundzwanzig",
     "id": 932,
     "merchantCount": 12
-  },
-  {
-    "name": "Boulder Bitcoin",
-    "contact:twitter": "https://twitter.com/BoulderBitcoin",
-    "icon:square": "https://static.btcmap.org/images/communities/boulder-bitcoin.jpeg",
-    "type": "community",
-    "contact:meetup": "https://www.meetup.com/boulder-bitcoiners/",
-    "url_alias": "boulder-bitcoin",
-    "area_km2": 193.08,
-    "population:date": "2020-01-01",
-    "population": "330758",
-    "continent": "north-america",
-    "id": 170,
-    "merchantCount": 11
   },
   {
     "name:ru": "Дубайская Цитадель",
