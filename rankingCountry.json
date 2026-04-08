@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7626
+    "merchantCount": 7686
   },
   {
     "gdp_md": 351431,
@@ -213,7 +213,7 @@
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
     "id": 220,
-    "merchantCount": 610
+    "merchantCount": 609
   },
   {
     "sovereignt": "Canada",
@@ -375,7 +375,7 @@
     "url_alias": "nl",
     "icon:square": "https://static.btcmap.org/images/countries/nl.svg",
     "id": 507,
-    "merchantCount": 365
+    "merchantCount": 364
   },
   {
     "region_un": "Europe",
@@ -429,7 +429,7 @@
     "url_alias": "pt",
     "icon:square": "https://static.btcmap.org/images/countries/pt.svg",
     "id": 541,
-    "merchantCount": 350
+    "merchantCount": 348
   },
   {
     "gdp_md": 17477,
@@ -957,7 +957,7 @@
     "url_alias": "ro",
     "icon:square": "https://static.btcmap.org/images/countries/ro.svg",
     "id": 552,
-    "merchantCount": 72
+    "merchantCount": 71
   },
   {
     "lon": 128.129504,
@@ -1227,7 +1227,7 @@
     "url_alias": "ng",
     "icon:square": "https://static.btcmap.org/images/countries/ng.svg",
     "id": 505,
-    "merchantCount": 43
+    "merchantCount": 44
   },
   {
     "iso_a3": "GRC",
@@ -1581,6 +1581,33 @@
     "merchantCount": 24
   },
   {
+    "wikidataid": "Q1029",
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "income_grp": "5. Low income",
+    "area_km2": 792438.1,
+    "population:rank": 15,
+    "lon": 37.83789,
+    "name": "Mozambique",
+    "region_wb": "Sub-Saharan Africa",
+    "continent": "Africa",
+    "type": "country",
+    "population": 30366036,
+    "economy": "7. Least developed region",
+    "subregion": "Eastern Africa",
+    "sovereignt": "Mozambique",
+    "iso_a2": "MZ",
+    "region_un": "Africa",
+    "lat": -13.94323,
+    "population:year": 2019,
+    "gdp_md": 15291,
+    "iso_a3": "MOZ",
+    "url_alias": "mz",
+    "icon:square": "https://static.btcmap.org/images/countries/mz.svg",
+    "id": 495,
+    "merchantCount": 24
+  },
+  {
     "continent": "Asia",
     "name": "Armenia",
     "iso_a2": "AM",
@@ -1601,33 +1628,6 @@
     "icon:square": "https://static.btcmap.org/images/areas/18.png",
     "verified:date": "2026-03-11",
     "id": 18,
-    "merchantCount": 23
-  },
-  {
-    "region_un": "Europe",
-    "gdp_md": 60752,
-    "economy": "2. Developed region: nonG7",
-    "income_grp": "2. High income: nonOECD",
-    "subregion": "Southern Europe",
-    "country_type": "Sovereign country",
-    "lon": 16.37241,
-    "continent": "Europe",
-    "population": 4067500,
-    "sovereignt": "Croatia",
-    "iso_a3": "HRV",
-    "region_wb": "Europe & Central Asia",
-    "population:rank": 12,
-    "type": "country",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "wikidataid": "Q224",
-    "iso_a2": "HR",
-    "area_km2": 54543.44,
-    "lat": 45.805799,
-    "name": "Croatia",
-    "url_alias": "hr",
-    "icon:square": "https://static.btcmap.org/images/countries/hr.svg",
-    "id": 393,
     "merchantCount": 23
   },
   {
@@ -1659,33 +1659,6 @@
     "merchantCount": 23
   },
   {
-    "wikidataid": "Q1029",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "income_grp": "5. Low income",
-    "area_km2": 792438.1,
-    "population:rank": 15,
-    "lon": 37.83789,
-    "name": "Mozambique",
-    "region_wb": "Sub-Saharan Africa",
-    "continent": "Africa",
-    "type": "country",
-    "population": 30366036,
-    "economy": "7. Least developed region",
-    "subregion": "Eastern Africa",
-    "sovereignt": "Mozambique",
-    "iso_a2": "MZ",
-    "region_un": "Africa",
-    "lat": -13.94323,
-    "population:year": 2019,
-    "gdp_md": 15291,
-    "iso_a3": "MOZ",
-    "url_alias": "mz",
-    "icon:square": "https://static.btcmap.org/images/countries/mz.svg",
-    "id": 495,
-    "merchantCount": 23
-  },
-  {
     "continent": "Africa",
     "gdp_md": 35165,
     "type": "country",
@@ -1711,6 +1684,33 @@
     "icon:square": "https://static.btcmap.org/images/countries/ug.svg",
     "id": 630,
     "merchantCount": 23
+  },
+  {
+    "region_un": "Europe",
+    "gdp_md": 60752,
+    "economy": "2. Developed region: nonG7",
+    "income_grp": "2. High income: nonOECD",
+    "subregion": "Southern Europe",
+    "country_type": "Sovereign country",
+    "lon": 16.37241,
+    "continent": "Europe",
+    "population": 4067500,
+    "sovereignt": "Croatia",
+    "iso_a3": "HRV",
+    "region_wb": "Europe & Central Asia",
+    "population:rank": 12,
+    "type": "country",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "wikidataid": "Q224",
+    "iso_a2": "HR",
+    "area_km2": 54543.44,
+    "lat": 45.805799,
+    "name": "Croatia",
+    "url_alias": "hr",
+    "icon:square": "https://static.btcmap.org/images/countries/hr.svg",
+    "id": 393,
+    "merchantCount": 22
   },
   {
     "area_km2": 443969.27,
@@ -3350,6 +3350,33 @@
     "merchantCount": 2
   },
   {
+    "subregion": "Caribbean",
+    "region_wb": "Latin America & Caribbean",
+    "gdp_md": 1661,
+    "wikidataid": "Q781",
+    "income_grp": "3. Upper middle income",
+    "country_type": "Sovereign country",
+    "type": "country",
+    "population:rank": 8,
+    "continent": "North America",
+    "area_km2": 433.81,
+    "name": "Antigua and Barbuda",
+    "economy": "6. Developing region",
+    "sovereignt": "Antigua and Barbuda",
+    "iso_a2": "AG",
+    "population": 97118,
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "lon": -61.790612,
+    "iso_a3": "ATG",
+    "lat": 17.352249,
+    "region_un": "Americas",
+    "url_alias": "ag",
+    "icon:square": "https://static.btcmap.org/images/areas/11.png",
+    "id": 11,
+    "merchantCount": 1
+  },
+  {
     "iso_a2": "AO",
     "region_wb": "Sub-Saharan Africa",
     "sovereignt": "Angola",
@@ -3881,33 +3908,6 @@
     "url_alias": "af",
     "icon:square": "https://static.btcmap.org/images/areas/9.png",
     "id": 9,
-    "merchantCount": 0
-  },
-  {
-    "subregion": "Caribbean",
-    "region_wb": "Latin America & Caribbean",
-    "gdp_md": 1661,
-    "wikidataid": "Q781",
-    "income_grp": "3. Upper middle income",
-    "country_type": "Sovereign country",
-    "type": "country",
-    "population:rank": 8,
-    "continent": "North America",
-    "area_km2": 433.81,
-    "name": "Antigua and Barbuda",
-    "economy": "6. Developing region",
-    "sovereignt": "Antigua and Barbuda",
-    "iso_a2": "AG",
-    "population": 97118,
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "lon": -61.790612,
-    "iso_a3": "ATG",
-    "lat": 17.352249,
-    "region_un": "Americas",
-    "url_alias": "ag",
-    "icon:square": "https://static.btcmap.org/images/areas/11.png",
-    "id": 11,
     "merchantCount": 0
   },
   {
