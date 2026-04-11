@@ -283,7 +283,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 182
+    "merchantCount": 184
   },
   {
     "type": "community",
@@ -343,7 +343,7 @@
     "tips:lightning_address": "bitcoinberlin@blink.sv",
     "verified:date": "2026-04-08",
     "id": 77,
-    "merchantCount": 151
+    "merchantCount": 152
   },
   {
     "area_km2": 869.19,
@@ -1208,6 +1208,25 @@
     "merchantCount": 60
   },
   {
+    "name": "Bitcoin Charlotte",
+    "contact:website": "https://bitcoincharlotte.org",
+    "population": "874579",
+    "contact:meetup": "https://www.meetup.com/bitcoincharlotte/",
+    "contact:telegram": "https://t.me/+X6EzT7m7KdHU34nB",
+    "population:date": "2020-01-01",
+    "url_alias": "bitcoin-charlotte",
+    "contact:twitter": "https://twitter.com/Bitcoin_CLT",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-charlotte.jpeg",
+    "continent": "north-america",
+    "type": "community",
+    "contact:instagram": "https://www.instagram.com/bitcoincharlotte/",
+    "contact:email": "jacob@bitcoincharlotte.org",
+    "area_km2": 1181.04,
+    "contact:nostr": "npub1p7g986pc56qmvryplgzka0fsrpuwlk6mxk3h686w4e46n74e56qqhz88vk",
+    "id": 84,
+    "merchantCount": 58
+  },
+  {
     "area_km2": 67,
     "contact:email": "francois@bitcoinzar.co.za",
     "contact:facebook": "https://www.facebook.com/groups/bitcoinsedgefield",
@@ -1284,25 +1303,6 @@
     "contact:telegram": "https://t.me/satoshispritzmilano",
     "id": 575,
     "merchantCount": 56
-  },
-  {
-    "name": "Bitcoin Charlotte",
-    "contact:website": "https://bitcoincharlotte.org",
-    "population": "874579",
-    "contact:meetup": "https://www.meetup.com/bitcoincharlotte/",
-    "contact:telegram": "https://t.me/+X6EzT7m7KdHU34nB",
-    "population:date": "2020-01-01",
-    "url_alias": "bitcoin-charlotte",
-    "contact:twitter": "https://twitter.com/Bitcoin_CLT",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-charlotte.jpeg",
-    "continent": "north-america",
-    "type": "community",
-    "contact:instagram": "https://www.instagram.com/bitcoincharlotte/",
-    "contact:email": "jacob@bitcoincharlotte.org",
-    "area_km2": 1181.04,
-    "contact:nostr": "npub1p7g986pc56qmvryplgzka0fsrpuwlk6mxk3h686w4e46n74e56qqhz88vk",
-    "id": 84,
-    "merchantCount": 55
   },
   {
     "continent": "north-america",
@@ -6025,22 +6025,6 @@
     "merchantCount": 6
   },
   {
-    "contact:website": "https://bffbtc.org/on-the-ground/bff-zambia/",
-    "population:date": "2023-01-01",
-    "area_km2": 22539.44,
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-zambia.png",
-    "url_alias": "bitcoin-zambia",
-    "type": "community",
-    "contact:twitter": "https://twitter.com/BitcoinZambia",
-    "contact:whatsapp": "https://chat.whatsapp.com/DA90xbOsvDkA7pZSpkQdBb",
-    "name": "Bitcoin For Fairness Zambia",
-    "contact:email": "ndesanjo@gmail.com",
-    "population": 111859928,
-    "id": 152,
-    "merchantCount": 6
-  },
-  {
     "contact:email": "tsarahjetter@gmail.com",
     "contact:meetup": "https://www.meetup.com/bozeman-bitcoin-meetup/events/",
     "type": "community",
@@ -6427,28 +6411,6 @@
     "merchantCount": 6
   },
   {
-    "name": "Bitcoin Lille",
-    "population:date": "2020-01-01",
-    "url_alias": "bitcoin-lille",
-    "area_km2": 1954.84,
-    "continent": "europe",
-    "population": 2608346,
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lille.png",
-    "type": "community",
-    "contact:telegram": "https://t.me/bitcoinlille",
-    "language": "fr",
-    "organization": "Plan B Network",
-    "created_at": "2022-09-07T19:00:00Z",
-    "tips:lightning_address": "bitcoinlille@walletofsatoshi.com",
-    "contact:discord": "https://discord.com/invite/pHNq8QX9q9",
-    "contact:meetup": "https://www.meetup.com/fr-FR/bitcoinmeetuplille",
-    "contact:twitter": "https://x.com/bitcoinlille",
-    "contact:website": "https://bitcoinlille.fr/",
-    "contact:email": "bitcoinlille@gmail.com",
-    "id": 116,
-    "merchantCount": 5
-  },
-  {
     "url_alias": "bitcoin-murcia-2140",
     "name": "Bitcoin Murcia 2140",
     "area_km2": 1274.61,
@@ -6475,6 +6437,22 @@
     "area_km2": 2593.18,
     "type": "community",
     "id": 138,
+    "merchantCount": 5
+  },
+  {
+    "contact:website": "https://bffbtc.org/on-the-ground/bff-zambia/",
+    "population:date": "2023-01-01",
+    "area_km2": 22539.44,
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-zambia.png",
+    "url_alias": "bitcoin-zambia",
+    "type": "community",
+    "contact:twitter": "https://twitter.com/BitcoinZambia",
+    "contact:whatsapp": "https://chat.whatsapp.com/DA90xbOsvDkA7pZSpkQdBb",
+    "name": "Bitcoin For Fairness Zambia",
+    "contact:email": "ndesanjo@gmail.com",
+    "population": 111859928,
+    "id": 152,
     "merchantCount": 5
   },
   {
@@ -6914,6 +6892,28 @@
     "merchantCount": 4
   },
   {
+    "name": "Bitcoin Lille",
+    "population:date": "2020-01-01",
+    "url_alias": "bitcoin-lille",
+    "area_km2": 1954.84,
+    "continent": "europe",
+    "population": 2608346,
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-lille.png",
+    "type": "community",
+    "contact:telegram": "https://t.me/bitcoinlille",
+    "language": "fr",
+    "organization": "Plan B Network",
+    "created_at": "2022-09-07T19:00:00Z",
+    "tips:lightning_address": "bitcoinlille@walletofsatoshi.com",
+    "contact:discord": "https://discord.com/invite/pHNq8QX9q9",
+    "contact:meetup": "https://www.meetup.com/fr-FR/bitcoinmeetuplille",
+    "contact:twitter": "https://x.com/bitcoinlille",
+    "contact:website": "https://bitcoinlille.fr/",
+    "contact:email": "bitcoinlille@gmail.com",
+    "id": 116,
+    "merchantCount": 4
+  },
+  {
     "icon:square": "https://static.btcmap.org/images/areas/158.png",
     "box:east": "0.8061217842623591",
     "url_alias": "bitcoinessex",
@@ -7300,6 +7300,21 @@
     "area_km2": 1951.47,
     "contact:telegram": "https://t.me/bitcoinAurillac",
     "id": 34,
+    "merchantCount": 3
+  },
+  {
+    "population:date": "2021-01-01",
+    "contact:website": "https://bitcoinbirr.org/",
+    "population": 200000,
+    "name": "Bitcoin Birr",
+    "contact:twitter": "https://twitter.com/BitcoinBirr",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-birr.jpg",
+    "url_alias": "bitcoin-birr",
+    "contact:telegram": "https://t.me/bitcoinbirr",
+    "area_km2": 540.46,
+    "continent": "africa",
+    "type": "community",
+    "id": 78,
     "merchantCount": 3
   },
   {
@@ -7938,21 +7953,6 @@
     "url_alias": "bitcoin-aruba",
     "contact:website": "https://btc.aw/",
     "id": 70,
-    "merchantCount": 2
-  },
-  {
-    "population:date": "2021-01-01",
-    "contact:website": "https://bitcoinbirr.org/",
-    "population": 200000,
-    "name": "Bitcoin Birr",
-    "contact:twitter": "https://twitter.com/BitcoinBirr",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-birr.jpg",
-    "url_alias": "bitcoin-birr",
-    "contact:telegram": "https://t.me/bitcoinbirr",
-    "area_km2": 540.46,
-    "continent": "africa",
-    "type": "community",
-    "id": 78,
     "merchantCount": 2
   },
   {
