@@ -2562,6 +2562,20 @@
     "merchantCount": 30
   },
   {
+    "continent": "north-america",
+    "population": "2104238",
+    "name": "Portland Bitcoin Group",
+    "type": "community",
+    "contact:email": "EricYHF@pm.me",
+    "area_km2": 380.29,
+    "population:date": "2020-01-01",
+    "url_alias": "portland_bitcoin_group",
+    "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
+    "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
+    "id": 661,
+    "merchantCount": 30
+  },
+  {
     "area_km2": 306,
     "contact:email": "mel@bitcoinforte.com",
     "contact:instagram": "https://www.instagram.com/bitcoinforte",
@@ -2617,20 +2631,6 @@
     "url_alias": "bitcoin-munich",
     "type": "community",
     "id": 124,
-    "merchantCount": 29
-  },
-  {
-    "continent": "north-america",
-    "population": "2104238",
-    "name": "Portland Bitcoin Group",
-    "type": "community",
-    "contact:email": "EricYHF@pm.me",
-    "area_km2": 380.29,
-    "population:date": "2020-01-01",
-    "url_alias": "portland_bitcoin_group",
-    "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
-    "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
-    "id": 661,
     "merchantCount": 29
   },
   {
@@ -3903,25 +3903,6 @@
     "merchantCount": 14
   },
   {
-    "contact:twitter": "https://twitter.com/BitcoinLyon",
-    "continent": "europe",
-    "name": "Lyon",
-    "language": "fr",
-    "contact:telegram": "https://t.me/cryptolyonforum",
-    "area_km2": 3233.21,
-    "contact:discord": "https://discord.gg/HRyH9va",
-    "contact:email": "contact@bitcoin-lyon.fr",
-    "organization": "decouvre-bitcoin",
-    "icon:square": "https://static.btcmap.org/images/communities/lyon.png",
-    "url_alias": "lyon",
-    "population:date": "2020-01-01",
-    "contact:meetup": "https://www.meetup.com/fr-FR/crypto-lyon/",
-    "type": "community",
-    "population": 1416545,
-    "id": 454,
-    "merchantCount": 14
-  },
-  {
     "population:date": "2022",
     "url_alias": "valencia-bitcoin-plebs",
     "area_km2": 386.91,
@@ -4215,6 +4196,25 @@
     "contact:website": "https://sites.google.com/view/lincolnlandbitcoin",
     "contact:instagram": "https://www.instagram.com/lincolnlandbitcoin",
     "id": 442,
+    "merchantCount": 13
+  },
+  {
+    "contact:twitter": "https://twitter.com/BitcoinLyon",
+    "continent": "europe",
+    "name": "Lyon",
+    "language": "fr",
+    "contact:telegram": "https://t.me/cryptolyonforum",
+    "area_km2": 3233.21,
+    "contact:discord": "https://discord.gg/HRyH9va",
+    "contact:email": "contact@bitcoin-lyon.fr",
+    "organization": "decouvre-bitcoin",
+    "icon:square": "https://static.btcmap.org/images/communities/lyon.png",
+    "url_alias": "lyon",
+    "population:date": "2020-01-01",
+    "contact:meetup": "https://www.meetup.com/fr-FR/crypto-lyon/",
+    "type": "community",
+    "population": 1416545,
+    "id": 454,
     "merchantCount": 13
   },
   {
@@ -6785,22 +6785,6 @@
     "merchantCount": 5
   },
   {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-campus-zambia.jpg",
-    "name": "Bitcoin Campus Zambia",
-    "population": 20000,
-    "population:date": "2023-12-31",
-    "url_alias": "bitcoin-campus-zambia",
-    "contact:twitter": "https://x.com/btc_campus_zm",
-    "contact:email": "bitcoincampuszm@gmail.com",
-    "tips:lightning_address": "paulsimatende@blink.sv",
-    "contact:whatsapp": "https://chat.whatsapp.com/IEPDuiRzTRGJWnEfjJNiOO",
-    "type": "community",
-    "area_km2": 17.13,
-    "id": 870,
-    "merchantCount": 5
-  },
-  {
     "continent": "oceania",
     "icon:square": "https://static.btcmap.org/images/areas/934.png",
     "name": "Bitcoin Only Gold Coast",
@@ -7257,6 +7241,22 @@
     "type": "community",
     "contact:simplex": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2Fs8mOfkuMKjPNiJSPX1EBsLIdB0J9RFPv%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEA-rUzLoavGMeYO39ANja4nB65MBdSOivryfsQzkYzalE%3D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B\"type\"%3A\"group\"%2C\"groupLinkId\"%3A\"F_bhhzNqG55mN98zabATPw%3D%3D\"%7D",
     "id": 856,
+    "merchantCount": 4
+  },
+  {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-campus-zambia.jpg",
+    "name": "Bitcoin Campus Zambia",
+    "population": 20000,
+    "population:date": "2023-12-31",
+    "url_alias": "bitcoin-campus-zambia",
+    "contact:twitter": "https://x.com/btc_campus_zm",
+    "contact:email": "bitcoincampuszm@gmail.com",
+    "tips:lightning_address": "paulsimatende@blink.sv",
+    "contact:whatsapp": "https://chat.whatsapp.com/IEPDuiRzTRGJWnEfjJNiOO",
+    "type": "community",
+    "area_km2": 17.13,
+    "id": 870,
     "merchantCount": 4
   },
   {

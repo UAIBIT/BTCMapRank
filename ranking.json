@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 27121
+    "merchantCount": 27137
   },
   {
     "sovereignt": "United States of America",
@@ -30,7 +30,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7774
+    "merchantCount": 7790
   },
   {
     "type": "trash",
@@ -126,7 +126,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1342
+    "merchantCount": 1343
   },
   {
     "contact:website": "https://satoshispritz.it/",
@@ -676,7 +676,7 @@
     "wikidataid": "Q142",
     "icon:square": "https://static.btcmap.org/images/countries/fr.svg",
     "id": 685,
-    "merchantCount": 334
+    "merchantCount": 332
   },
   {
     "population:date": "2022-01-01",
@@ -1283,7 +1283,7 @@
     "url_alias": "zm",
     "icon:square": "https://static.btcmap.org/images/countries/zm.svg",
     "id": 657,
-    "merchantCount": 127
+    "merchantCount": 126
   },
   {
     "name": "Mass Adoption",
@@ -4101,6 +4101,20 @@
     "merchantCount": 30
   },
   {
+    "continent": "north-america",
+    "population": "2104238",
+    "name": "Portland Bitcoin Group",
+    "type": "community",
+    "contact:email": "EricYHF@pm.me",
+    "area_km2": 380.29,
+    "population:date": "2020-01-01",
+    "url_alias": "portland_bitcoin_group",
+    "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
+    "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
+    "id": 661,
+    "merchantCount": 30
+  },
+  {
     "area_km2": 306,
     "contact:email": "mel@bitcoinforte.com",
     "contact:instagram": "https://www.instagram.com/bitcoinforte",
@@ -4183,20 +4197,6 @@
     "url_alias": "ir",
     "icon:square": "https://static.btcmap.org/images/areas/404.png",
     "id": 404,
-    "merchantCount": 29
-  },
-  {
-    "continent": "north-america",
-    "population": "2104238",
-    "name": "Portland Bitcoin Group",
-    "type": "community",
-    "contact:email": "EricYHF@pm.me",
-    "area_km2": 380.29,
-    "population:date": "2020-01-01",
-    "url_alias": "portland_bitcoin_group",
-    "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
-    "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
-    "id": 661,
     "merchantCount": 29
   },
   {
@@ -5899,25 +5899,6 @@
     "merchantCount": 14
   },
   {
-    "contact:twitter": "https://twitter.com/BitcoinLyon",
-    "continent": "europe",
-    "name": "Lyon",
-    "language": "fr",
-    "contact:telegram": "https://t.me/cryptolyonforum",
-    "area_km2": 3233.21,
-    "contact:discord": "https://discord.gg/HRyH9va",
-    "contact:email": "contact@bitcoin-lyon.fr",
-    "organization": "decouvre-bitcoin",
-    "icon:square": "https://static.btcmap.org/images/communities/lyon.png",
-    "url_alias": "lyon",
-    "population:date": "2020-01-01",
-    "contact:meetup": "https://www.meetup.com/fr-FR/crypto-lyon/",
-    "type": "community",
-    "population": 1416545,
-    "id": 454,
-    "merchantCount": 14
-  },
-  {
     "population:date": "2022",
     "url_alias": "valencia-bitcoin-plebs",
     "area_km2": 386.91,
@@ -6265,6 +6246,25 @@
     "contact:website": "https://sites.google.com/view/lincolnlandbitcoin",
     "contact:instagram": "https://www.instagram.com/lincolnlandbitcoin",
     "id": 442,
+    "merchantCount": 13
+  },
+  {
+    "contact:twitter": "https://twitter.com/BitcoinLyon",
+    "continent": "europe",
+    "name": "Lyon",
+    "language": "fr",
+    "contact:telegram": "https://t.me/cryptolyonforum",
+    "area_km2": 3233.21,
+    "contact:discord": "https://discord.gg/HRyH9va",
+    "contact:email": "contact@bitcoin-lyon.fr",
+    "organization": "decouvre-bitcoin",
+    "icon:square": "https://static.btcmap.org/images/communities/lyon.png",
+    "url_alias": "lyon",
+    "population:date": "2020-01-01",
+    "contact:meetup": "https://www.meetup.com/fr-FR/crypto-lyon/",
+    "type": "community",
+    "population": 1416545,
+    "id": 454,
     "merchantCount": 13
   },
   {
@@ -9510,22 +9510,6 @@
     "merchantCount": 5
   },
   {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-campus-zambia.jpg",
-    "name": "Bitcoin Campus Zambia",
-    "population": 20000,
-    "population:date": "2023-12-31",
-    "url_alias": "bitcoin-campus-zambia",
-    "contact:twitter": "https://x.com/btc_campus_zm",
-    "contact:email": "bitcoincampuszm@gmail.com",
-    "tips:lightning_address": "paulsimatende@blink.sv",
-    "contact:whatsapp": "https://chat.whatsapp.com/IEPDuiRzTRGJWnEfjJNiOO",
-    "type": "community",
-    "area_km2": 17.13,
-    "id": 870,
-    "merchantCount": 5
-  },
-  {
     "continent": "oceania",
     "icon:square": "https://static.btcmap.org/images/areas/934.png",
     "name": "Bitcoin Only Gold Coast",
@@ -10120,6 +10104,22 @@
     "merchantCount": 4
   },
   {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-campus-zambia.jpg",
+    "name": "Bitcoin Campus Zambia",
+    "population": 20000,
+    "population:date": "2023-12-31",
+    "url_alias": "bitcoin-campus-zambia",
+    "contact:twitter": "https://x.com/btc_campus_zm",
+    "contact:email": "bitcoincampuszm@gmail.com",
+    "tips:lightning_address": "paulsimatende@blink.sv",
+    "contact:whatsapp": "https://chat.whatsapp.com/IEPDuiRzTRGJWnEfjJNiOO",
+    "type": "community",
+    "area_km2": 17.13,
+    "id": 870,
+    "merchantCount": 4
+  },
+  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/areas/876.png",
     "name": "Hoosier Bitcoin",
@@ -10356,6 +10356,33 @@
     "organization": "einundzwanzig",
     "population": 278950,
     "id": 349,
+    "merchantCount": 3
+  },
+  {
+    "name": "Ethiopia",
+    "sovereignt": "Ethiopia",
+    "iso_a3": "ETH",
+    "population": 112078730,
+    "economy": "7. Least developed region",
+    "gdp_md": 95912,
+    "wikidataid": "Q115",
+    "country_type": "Sovereign country",
+    "iso_a2": "ET",
+    "region_un": "Africa",
+    "population:year": 2019,
+    "lat": 8.032795,
+    "type": "country",
+    "subregion": "Eastern Africa",
+    "population:rank": 17,
+    "gdp_year": 2019,
+    "income_grp": "5. Low income",
+    "region_wb": "Sub-Saharan Africa",
+    "continent": "Africa",
+    "lon": 39.0886,
+    "area_km2": 1134319.37,
+    "url_alias": "et",
+    "icon:square": "https://static.btcmap.org/images/countries/et.svg",
+    "id": 354,
     "merchantCount": 3
   },
   {
@@ -11484,33 +11511,6 @@
     "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-vulkaneifel.webp",
     "population:date": "2021-12-31",
     "id": 345,
-    "merchantCount": 2
-  },
-  {
-    "name": "Ethiopia",
-    "sovereignt": "Ethiopia",
-    "iso_a3": "ETH",
-    "population": 112078730,
-    "economy": "7. Least developed region",
-    "gdp_md": 95912,
-    "wikidataid": "Q115",
-    "country_type": "Sovereign country",
-    "iso_a2": "ET",
-    "region_un": "Africa",
-    "population:year": 2019,
-    "lat": 8.032795,
-    "type": "country",
-    "subregion": "Eastern Africa",
-    "population:rank": 17,
-    "gdp_year": 2019,
-    "income_grp": "5. Low income",
-    "region_wb": "Sub-Saharan Africa",
-    "continent": "Africa",
-    "lon": 39.0886,
-    "area_km2": 1134319.37,
-    "url_alias": "et",
-    "icon:square": "https://static.btcmap.org/images/countries/et.svg",
-    "id": 354,
     "merchantCount": 2
   },
   {

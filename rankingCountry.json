@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7774
+    "merchantCount": 7790
   },
   {
     "gdp_md": 351431,
@@ -105,7 +105,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1342
+    "merchantCount": 1343
   },
   {
     "population:rank": 14,
@@ -483,7 +483,7 @@
     "wikidataid": "Q142",
     "icon:square": "https://static.btcmap.org/images/countries/fr.svg",
     "id": 685,
-    "merchantCount": 334
+    "merchantCount": 332
   },
   {
     "name": "Poland",
@@ -748,7 +748,7 @@
     "url_alias": "zm",
     "icon:square": "https://static.btcmap.org/images/countries/zm.svg",
     "id": 657,
-    "merchantCount": 127
+    "merchantCount": 126
   },
   {
     "iso_a2": "SR",
@@ -2783,6 +2783,33 @@
     "merchantCount": 3
   },
   {
+    "name": "Ethiopia",
+    "sovereignt": "Ethiopia",
+    "iso_a3": "ETH",
+    "population": 112078730,
+    "economy": "7. Least developed region",
+    "gdp_md": 95912,
+    "wikidataid": "Q115",
+    "country_type": "Sovereign country",
+    "iso_a2": "ET",
+    "region_un": "Africa",
+    "population:year": 2019,
+    "lat": 8.032795,
+    "type": "country",
+    "subregion": "Eastern Africa",
+    "population:rank": 17,
+    "gdp_year": 2019,
+    "income_grp": "5. Low income",
+    "region_wb": "Sub-Saharan Africa",
+    "continent": "Africa",
+    "lon": 39.0886,
+    "area_km2": 1134319.37,
+    "url_alias": "et",
+    "icon:square": "https://static.btcmap.org/images/countries/et.svg",
+    "id": 354,
+    "merchantCount": 3
+  },
+  {
     "lon": -72.224051,
     "gdp_md": 14332,
     "income_grp": "5. Low income",
@@ -3131,33 +3158,6 @@
     "url_alias": "eg",
     "icon:square": "https://static.btcmap.org/images/countries/eg.svg",
     "id": 249,
-    "merchantCount": 2
-  },
-  {
-    "name": "Ethiopia",
-    "sovereignt": "Ethiopia",
-    "iso_a3": "ETH",
-    "population": 112078730,
-    "economy": "7. Least developed region",
-    "gdp_md": 95912,
-    "wikidataid": "Q115",
-    "country_type": "Sovereign country",
-    "iso_a2": "ET",
-    "region_un": "Africa",
-    "population:year": 2019,
-    "lat": 8.032795,
-    "type": "country",
-    "subregion": "Eastern Africa",
-    "population:rank": 17,
-    "gdp_year": 2019,
-    "income_grp": "5. Low income",
-    "region_wb": "Sub-Saharan Africa",
-    "continent": "Africa",
-    "lon": 39.0886,
-    "area_km2": 1134319.37,
-    "url_alias": "et",
-    "icon:square": "https://static.btcmap.org/images/countries/et.svg",
-    "id": 354,
     "merchantCount": 2
   },
   {
