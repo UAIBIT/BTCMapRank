@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7790
+    "merchantCount": 7839
   },
   {
     "gdp_md": 351431,
@@ -51,7 +51,7 @@
     "url_alias": "za",
     "icon:square": "https://static.btcmap.org/images/countries/za.svg",
     "id": 656,
-    "merchantCount": 2729
+    "merchantCount": 2731
   },
   {
     "wikidataid": "Q155",
@@ -105,7 +105,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1343
+    "merchantCount": 1341
   },
   {
     "population:rank": 14,
@@ -159,7 +159,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1068
+    "merchantCount": 1067
   },
   {
     "iso_a2": "CH",
@@ -240,7 +240,7 @@
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
     "id": 186,
-    "merchantCount": 567
+    "merchantCount": 568
   },
   {
     "region_un": "Americas",
@@ -267,7 +267,7 @@
     "url_alias": "mx",
     "icon:square": "https://static.btcmap.org/images/countries/mx.svg",
     "id": 493,
-    "merchantCount": 544
+    "merchantCount": 545
   },
   {
     "gdp_md": 543548,
@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 484
+    "merchantCount": 481
   },
   {
     "country_type": "Sovereign country",
@@ -402,7 +402,7 @@
     "url_alias": "gb",
     "icon:square": "https://static.btcmap.org/images/countries/gb.svg",
     "id": 364,
-    "merchantCount": 353
+    "merchantCount": 354
   },
   {
     "gdp_md": 17477,
@@ -586,7 +586,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/26.png",
     "verified:date": "2026-03-11",
     "id": 26,
-    "merchantCount": 251
+    "merchantCount": 252
   },
   {
     "gdp_year": 2019,
@@ -802,7 +802,7 @@
     "url_alias": "bo",
     "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
     "id": 168,
-    "merchantCount": 111
+    "merchantCount": 114
   },
   {
     "sovereignt": "Colombia",
@@ -930,7 +930,7 @@
     "url_alias": "pe",
     "icon:square": "https://static.btcmap.org/images/countries/pe.svg",
     "id": 524,
-    "merchantCount": 76
+    "merchantCount": 77
   },
   {
     "gdp_year": 2019,
@@ -2621,6 +2621,33 @@
     "merchantCount": 4
   },
   {
+    "name": "Ethiopia",
+    "sovereignt": "Ethiopia",
+    "iso_a3": "ETH",
+    "population": 112078730,
+    "economy": "7. Least developed region",
+    "gdp_md": 95912,
+    "wikidataid": "Q115",
+    "country_type": "Sovereign country",
+    "iso_a2": "ET",
+    "region_un": "Africa",
+    "population:year": 2019,
+    "lat": 8.032795,
+    "type": "country",
+    "subregion": "Eastern Africa",
+    "population:rank": 17,
+    "gdp_year": 2019,
+    "income_grp": "5. Low income",
+    "region_wb": "Sub-Saharan Africa",
+    "continent": "Africa",
+    "lon": 39.0886,
+    "area_km2": 1134319.37,
+    "url_alias": "et",
+    "icon:square": "https://static.btcmap.org/images/countries/et.svg",
+    "id": 354,
+    "merchantCount": 4
+  },
+  {
     "subregion": "Northern Africa",
     "lat": 31.650723,
     "iso_a2": "MA",
@@ -2780,33 +2807,6 @@
     "url_alias": "cv",
     "icon:square": "https://static.btcmap.org/images/countries/cv.svg",
     "id": 215,
-    "merchantCount": 3
-  },
-  {
-    "name": "Ethiopia",
-    "sovereignt": "Ethiopia",
-    "iso_a3": "ETH",
-    "population": 112078730,
-    "economy": "7. Least developed region",
-    "gdp_md": 95912,
-    "wikidataid": "Q115",
-    "country_type": "Sovereign country",
-    "iso_a2": "ET",
-    "region_un": "Africa",
-    "population:year": 2019,
-    "lat": 8.032795,
-    "type": "country",
-    "subregion": "Eastern Africa",
-    "population:rank": 17,
-    "gdp_year": 2019,
-    "income_grp": "5. Low income",
-    "region_wb": "Sub-Saharan Africa",
-    "continent": "Africa",
-    "lon": 39.0886,
-    "area_km2": 1134319.37,
-    "url_alias": "et",
-    "icon:square": "https://static.btcmap.org/images/countries/et.svg",
-    "id": 354,
     "merchantCount": 3
   },
   {
