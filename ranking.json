@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 27189
+    "merchantCount": 27210
   },
   {
     "sovereignt": "United States of America",
@@ -30,7 +30,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7839
+    "merchantCount": 7860
   },
   {
     "type": "trash",
@@ -45,7 +45,7 @@
     "population:date": "2021-01-01",
     "url_alias": "african-bitcoiners",
     "id": 10,
-    "merchantCount": 3419
+    "merchantCount": 3418
   },
   {
     "gdp_md": 351431,
@@ -72,7 +72,7 @@
     "url_alias": "za",
     "icon:square": "https://static.btcmap.org/images/countries/za.svg",
     "id": 656,
-    "merchantCount": 2731
+    "merchantCount": 2730
   },
   {
     "wikidataid": "Q155",
@@ -364,7 +364,7 @@
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
     "id": 186,
-    "merchantCount": 568
+    "merchantCount": 569
   },
   {
     "region_un": "Americas",
@@ -515,7 +515,7 @@
     "type": "community",
     "url_alias": "bitcoin-cape-town",
     "id": 752,
-    "merchantCount": 375
+    "merchantCount": 374
   },
   {
     "iso_a2": "NL",
@@ -824,7 +824,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 264
+    "merchantCount": 265
   },
   {
     "sovereignt": "Argentina",
@@ -1046,7 +1046,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 184
+    "merchantCount": 185
   },
   {
     "type": "community",
@@ -2486,6 +2486,30 @@
     "merchantCount": 58
   },
   {
+    "contact:website": "https://detbtc.com/",
+    "contact:telegram": "https://t.me/detbtc",
+    "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
+    "area_km2": 3044.54,
+    "type": "community",
+    "box:south": "41.37474755643597",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin.jpg",
+    "contact:instagram": "https://www.instagram.com/detbtc/",
+    "contact:email": "duck@kronkltd.net",
+    "population": "7000000",
+    "population:date": "2020-01-01",
+    "tips:lightning_address": "detbtc@coinos.io",
+    "contact:twitter": "https://twitter.com/detbtc",
+    "name": "Detroit Bitcoin",
+    "box:west": "-85.61645507812501",
+    "box:north": "43.1450861841603",
+    "contact:meetup": "https://www.meetup.com/detbtc/",
+    "url_alias": "detroit-bitcoin",
+    "box:east": "-80.34301757812501",
+    "id": 224,
+    "merchantCount": 57
+  },
+  {
     "economy": "5. Emerging region: G20",
     "gdp_md": 38145,
     "country_type": "Sovereign country",
@@ -2511,30 +2535,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/py.svg",
     "id": 543,
     "merchantCount": 57
-  },
-  {
-    "contact:website": "https://detbtc.com/",
-    "contact:telegram": "https://t.me/detbtc",
-    "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
-    "area_km2": 3044.54,
-    "type": "community",
-    "box:south": "41.37474755643597",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin.jpg",
-    "contact:instagram": "https://www.instagram.com/detbtc/",
-    "contact:email": "duck@kronkltd.net",
-    "population": "7000000",
-    "population:date": "2020-01-01",
-    "tips:lightning_address": "detbtc@coinos.io",
-    "contact:twitter": "https://twitter.com/detbtc",
-    "name": "Detroit Bitcoin",
-    "box:west": "-85.61645507812501",
-    "box:north": "43.1450861841603",
-    "contact:meetup": "https://www.meetup.com/detbtc/",
-    "url_alias": "detroit-bitcoin",
-    "box:east": "-80.34301757812501",
-    "id": 224,
-    "merchantCount": 56
   },
   {
     "population:date": "2021-12-31",
@@ -3474,6 +3474,21 @@
     "merchantCount": 38
   },
   {
+    "type": "community",
+    "contact:email": "bitcoinkarlasactown@gmail.com",
+    "name": "SacTown Bitcoin",
+    "area_km2": 2569.35,
+    "population:date": "2020-01-01",
+    "population": "1585055",
+    "contact:twitter": "https://twitter.com/SactownBitcoin",
+    "continent": "north-america",
+    "contact:meetup": "https://www.meetup.com/bitcoin-only-sactown",
+    "url_alias": "sactown-bitcoin",
+    "icon:square": "https://static.btcmap.org/images/communities/sactown-bitcoin.jpeg",
+    "id": 561,
+    "merchantCount": 38
+  },
+  {
     "name": "YYC Bitcoin",
     "population": "1481806",
     "type": "community",
@@ -3592,21 +3607,6 @@
     "name": "Paris Centre",
     "contact:twitter": "https://x.com/parisbtcmeetup",
     "id": 523,
-    "merchantCount": 37
-  },
-  {
-    "type": "community",
-    "contact:email": "bitcoinkarlasactown@gmail.com",
-    "name": "SacTown Bitcoin",
-    "area_km2": 2569.35,
-    "population:date": "2020-01-01",
-    "population": "1585055",
-    "contact:twitter": "https://twitter.com/SactownBitcoin",
-    "continent": "north-america",
-    "contact:meetup": "https://www.meetup.com/bitcoin-only-sactown",
-    "url_alias": "sactown-bitcoin",
-    "icon:square": "https://static.btcmap.org/images/communities/sactown-bitcoin.jpeg",
-    "id": 561,
     "merchantCount": 37
   },
   {
@@ -4526,6 +4526,21 @@
     "box:east": -40.50565,
     "continent": "south-america",
     "id": 538,
+    "merchantCount": 25
+  },
+  {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/971.png",
+    "name": "North Jersey Bitcoin",
+    "population": 938506,
+    "population:date": "2026-04-12",
+    "url_alias": "north-jersey-bitcoin",
+    "contact:website": "https://njbitcoin.xyz",
+    "contact:email": "northjerseybitcoin@pm.me",
+    "type": "community",
+    "area_km2": 651.96,
+    "verified:date": "2026-04-12",
+    "id": 971,
     "merchantCount": 25
   },
   {
@@ -5829,6 +5844,22 @@
     "merchantCount": 15
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/944.png",
+    "name": "Nola Bitcoin",
+    "population": 383997,
+    "population:date": "2021-09-21",
+    "url_alias": "nola-bitcoin",
+    "contact:twitter": "https://x.com/NOLA_Bitcoin",
+    "contact:meetup": "https://www.meetup.com/nolabitcoin",
+    "contact:email": "nolabitcoin@gmail.com",
+    "type": "community",
+    "area_km2": 930.41,
+    "contact:nostr": "npub1ptsk65af6s52w2cdr2c40228ktdeet6tmtpe8spdl2t2y7l4030qdrwurx",
+    "id": 944,
+    "merchantCount": 15
+  },
+  {
     "area_km2": 472.66,
     "contact:telegram": "https://t.me/Einundzwanzig_Seeland",
     "type": "community",
@@ -6082,22 +6113,6 @@
     "type": "community",
     "area_km2": 35.16,
     "id": 935,
-    "merchantCount": 14
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/944.png",
-    "name": "Nola Bitcoin",
-    "population": 383997,
-    "population:date": "2021-09-21",
-    "url_alias": "nola-bitcoin",
-    "contact:twitter": "https://x.com/NOLA_Bitcoin",
-    "contact:meetup": "https://www.meetup.com/nolabitcoin",
-    "contact:email": "nolabitcoin@gmail.com",
-    "type": "community",
-    "area_km2": 930.41,
-    "contact:nostr": "npub1ptsk65af6s52w2cdr2c40228ktdeet6tmtpe8spdl2t2y7l4030qdrwurx",
-    "id": 944,
     "merchantCount": 14
   },
   {
@@ -10084,24 +10099,6 @@
     "merchantCount": 4
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/laurier-bitcoin-club.png",
-    "name": "Laurier Bitcoin Club",
-    "population": 129054,
-    "population:date": "2022-01-01",
-    "url_alias": "laurier-bitcoin-club",
-    "contact:twitter": "https://x.com/laurier_bitcoin",
-    "contact:instagram": "https://www.instagram.com/laurier_bitcoin/",
-    "tips:lightning_address": "payment@laurierbitcoin.ca",
-    "contact:nostr": "npub17trytmg0atvmll4ywkffvrfnpcqrdx9t35lajpgf0r296gs0mcmsmgnsta",
-    "area_km2": 65.55,
-    "contact:email": "contact@laurierbitcoin.ca",
-    "description": "Laurier Bitcoin Club is part of the BSN (Bitcoin Students Network). A global organization of college and university students with a shared message of promoting Bitcoin.",
-    "type": "community",
-    "id": 821,
-    "merchantCount": 4
-  },
-  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/areas/847.png",
     "name": "Bitcoin Groningen",
@@ -10774,6 +10771,24 @@
     "type": "community",
     "url_alias": "bitcoin-jura",
     "id": 789,
+    "merchantCount": 3
+  },
+  {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/laurier-bitcoin-club.png",
+    "name": "Laurier Bitcoin Club",
+    "population": 129054,
+    "population:date": "2022-01-01",
+    "url_alias": "laurier-bitcoin-club",
+    "contact:twitter": "https://x.com/laurier_bitcoin",
+    "contact:instagram": "https://www.instagram.com/laurier_bitcoin/",
+    "tips:lightning_address": "payment@laurierbitcoin.ca",
+    "contact:nostr": "npub17trytmg0atvmll4ywkffvrfnpcqrdx9t35lajpgf0r296gs0mcmsmgnsta",
+    "area_km2": 65.55,
+    "contact:email": "contact@laurierbitcoin.ca",
+    "description": "Laurier Bitcoin Club is part of the BSN (Bitcoin Students Network). A global organization of college and university students with a shared message of promoting Bitcoin.",
+    "type": "community",
+    "id": 821,
     "merchantCount": 3
   },
   {
@@ -18219,21 +18234,6 @@
     "area_km2": 407.87,
     "verified:date": "2026-02-18",
     "id": 970,
-    "merchantCount": 0
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/971.png",
-    "name": "North Jersey Bitcoin",
-    "population": 938506,
-    "population:date": "2026-04-12",
-    "url_alias": "north-jersey-bitcoin",
-    "contact:website": "https://njbitcoin.xyz",
-    "contact:email": "northjerseybitcoin@pm.me",
-    "type": "community",
-    "area_km2": 651.96,
-    "verified:date": "2026-04-12",
-    "id": 971,
     "merchantCount": 0
   },
   {
