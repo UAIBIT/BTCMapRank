@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7896
+    "merchantCount": 7921
   },
   {
     "gdp_md": 351431,
@@ -51,7 +51,7 @@
     "url_alias": "za",
     "icon:square": "https://static.btcmap.org/images/countries/za.svg",
     "id": 656,
-    "merchantCount": 2730
+    "merchantCount": 2731
   },
   {
     "wikidataid": "Q155",
@@ -78,7 +78,7 @@
     "url_alias": "br",
     "icon:square": "https://static.btcmap.org/images/countries/br.svg",
     "id": 173,
-    "merchantCount": 2195
+    "merchantCount": 2196
   },
   {
     "population:year": 2019,
@@ -159,7 +159,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1067
+    "merchantCount": 1066
   },
   {
     "iso_a2": "CH",
@@ -186,7 +186,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 808
+    "merchantCount": 809
   },
   {
     "name": "Germany",
@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 481
+    "merchantCount": 466
   },
   {
     "country_type": "Sovereign country",
@@ -348,7 +348,7 @@
     "url_alias": "es",
     "icon:square": "https://static.btcmap.org/images/countries/es.svg",
     "id": 352,
-    "merchantCount": 384
+    "merchantCount": 383
   },
   {
     "iso_a2": "NL",
@@ -537,7 +537,7 @@
     "url_alias": "gt",
     "icon:square": "https://static.btcmap.org/images/countries/gt.svg",
     "id": 384,
-    "merchantCount": 275
+    "merchantCount": 274
   },
   {
     "lat": 48.734044,
@@ -586,7 +586,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/26.png",
     "verified:date": "2026-03-11",
     "id": 26,
-    "merchantCount": 252
+    "merchantCount": 254
   },
   {
     "gdp_year": 2019,
@@ -667,7 +667,7 @@
     "url_alias": "ke",
     "icon:square": "https://static.btcmap.org/images/countries/ke.svg",
     "id": 415,
-    "merchantCount": 175
+    "merchantCount": 176
   },
   {
     "income_grp": "3. Upper middle income",
@@ -802,7 +802,7 @@
     "url_alias": "bo",
     "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
     "id": 168,
-    "merchantCount": 114
+    "merchantCount": 116
   },
   {
     "sovereignt": "Colombia",
@@ -1631,6 +1631,33 @@
     "merchantCount": 23
   },
   {
+    "subregion": "South America",
+    "lon": -78.188375,
+    "wikidataid": "Q736",
+    "region_un": "Americas",
+    "region_wb": "Latin America & Caribbean",
+    "iso_a2": "EC",
+    "income_grp": "3. Upper middle income",
+    "type": "country",
+    "population": 17373662,
+    "name": "Ecuador",
+    "lat": -1.259076,
+    "population:rank": 14,
+    "gdp_md": 107435,
+    "iso_a3": "ECU",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "sovereignt": "Ecuador",
+    "country_type": "Sovereign country",
+    "area_km2": 256239.78,
+    "continent": "South America",
+    "economy": "6. Developing region",
+    "url_alias": "ec",
+    "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
+    "id": 245,
+    "merchantCount": 23
+  },
+  {
     "iso_a2": "MY",
     "region_un": "Asia",
     "population": 31949777,
@@ -1711,33 +1738,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/hr.svg",
     "id": 393,
     "merchantCount": 22
-  },
-  {
-    "subregion": "South America",
-    "lon": -78.188375,
-    "wikidataid": "Q736",
-    "region_un": "Americas",
-    "region_wb": "Latin America & Caribbean",
-    "iso_a2": "EC",
-    "income_grp": "3. Upper middle income",
-    "type": "country",
-    "population": 17373662,
-    "name": "Ecuador",
-    "lat": -1.259076,
-    "population:rank": 14,
-    "gdp_md": 107435,
-    "iso_a3": "ECU",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "sovereignt": "Ecuador",
-    "country_type": "Sovereign country",
-    "area_km2": 256239.78,
-    "continent": "South America",
-    "economy": "6. Developing region",
-    "url_alias": "ec",
-    "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
-    "id": 245,
-    "merchantCount": 20
   },
   {
     "area_km2": 443969.27,
