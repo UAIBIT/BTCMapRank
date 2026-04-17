@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 7941
+    "merchantCount": 7960
   },
   {
     "gdp_md": 351431,
@@ -213,7 +213,7 @@
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
     "id": 220,
-    "merchantCount": 608
+    "merchantCount": 607
   },
   {
     "sovereignt": "Canada",
@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 466
+    "merchantCount": 467
   },
   {
     "country_type": "Sovereign country",
@@ -348,7 +348,7 @@
     "url_alias": "es",
     "icon:square": "https://static.btcmap.org/images/countries/es.svg",
     "id": 352,
-    "merchantCount": 383
+    "merchantCount": 384
   },
   {
     "iso_a2": "NL",
@@ -483,7 +483,7 @@
     "wikidataid": "Q142",
     "icon:square": "https://static.btcmap.org/images/countries/fr.svg",
     "id": 685,
-    "merchantCount": 332
+    "merchantCount": 333
   },
   {
     "name": "Poland",
@@ -586,7 +586,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/26.png",
     "verified:date": "2026-03-11",
     "id": 26,
-    "merchantCount": 254
+    "merchantCount": 253
   },
   {
     "gdp_year": 2019,
@@ -1740,33 +1740,6 @@
     "merchantCount": 22
   },
   {
-    "area_km2": 443969.27,
-    "population:rank": 14,
-    "economy": "2. Developed region: nonG7",
-    "subregion": "Northern Europe",
-    "gdp_year": 2019,
-    "wikidataid": "Q34",
-    "region_un": "Europe",
-    "iso_a3": "SWE",
-    "lat": 65.85918,
-    "iso_a2": "SE",
-    "population": 10285453,
-    "income_grp": "1. High income: OECD",
-    "continent": "Europe",
-    "name": "Sweden",
-    "population:year": 2019,
-    "sovereignt": "Sweden",
-    "region_wb": "Europe & Central Asia",
-    "lon": 19.01705,
-    "country_type": "Sovereign country",
-    "type": "country",
-    "gdp_md": 530883,
-    "url_alias": "se",
-    "icon:square": "https://static.btcmap.org/images/countries/se.svg",
-    "id": 582,
-    "merchantCount": 20
-  },
-  {
     "continent": "Asia",
     "gdp_md": 261921,
     "type": "country",
@@ -1792,6 +1765,33 @@
     "icon:square": "https://static.btcmap.org/images/areas/647.png",
     "verified:date": "2026-03-04",
     "id": 647,
+    "merchantCount": 22
+  },
+  {
+    "area_km2": 443969.27,
+    "population:rank": 14,
+    "economy": "2. Developed region: nonG7",
+    "subregion": "Northern Europe",
+    "gdp_year": 2019,
+    "wikidataid": "Q34",
+    "region_un": "Europe",
+    "iso_a3": "SWE",
+    "lat": 65.85918,
+    "iso_a2": "SE",
+    "population": 10285453,
+    "income_grp": "1. High income: OECD",
+    "continent": "Europe",
+    "name": "Sweden",
+    "population:year": 2019,
+    "sovereignt": "Sweden",
+    "region_wb": "Europe & Central Asia",
+    "lon": 19.01705,
+    "country_type": "Sovereign country",
+    "type": "country",
+    "gdp_md": 530883,
+    "url_alias": "se",
+    "icon:square": "https://static.btcmap.org/images/countries/se.svg",
+    "id": 582,
     "merchantCount": 20
   },
   {
