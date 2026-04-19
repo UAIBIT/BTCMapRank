@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8012
+    "merchantCount": 8037
   },
   {
     "gdp_md": 351431,
@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 467
+    "merchantCount": 468
   },
   {
     "country_type": "Sovereign country",
@@ -375,7 +375,7 @@
     "url_alias": "nl",
     "icon:square": "https://static.btcmap.org/images/countries/nl.svg",
     "id": 507,
-    "merchantCount": 365
+    "merchantCount": 366
   },
   {
     "region_un": "Europe",
@@ -483,7 +483,7 @@
     "wikidataid": "Q142",
     "icon:square": "https://static.btcmap.org/images/countries/fr.svg",
     "id": 685,
-    "merchantCount": 333
+    "merchantCount": 332
   },
   {
     "name": "Poland",
@@ -564,7 +564,7 @@
     "url_alias": "sk",
     "icon:square": "https://static.btcmap.org/images/countries/sk.svg",
     "id": 587,
-    "merchantCount": 270
+    "merchantCount": 271
   },
   {
     "sovereignt": "Argentina",
@@ -751,6 +751,33 @@
     "merchantCount": 126
   },
   {
+    "region_wb": "Latin America & Caribbean",
+    "type": "country",
+    "wikidataid": "Q750",
+    "lat": -16.666015,
+    "lon": -64.593433,
+    "population:year": 2019,
+    "iso_a3": "BOL",
+    "name": "Bolivia",
+    "continent": "South America",
+    "gdp_year": 2019,
+    "sovereignt": "Bolivia",
+    "region_un": "Americas",
+    "population:rank": 14,
+    "area_km2": 1092709.98,
+    "income_grp": "4. Lower middle income",
+    "country_type": "Sovereign country",
+    "iso_a2": "BO",
+    "subregion": "South America",
+    "population": 11513100,
+    "gdp_md": 40895,
+    "economy": "5. Emerging region: G20",
+    "url_alias": "bo",
+    "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
+    "id": 168,
+    "merchantCount": 124
+  },
+  {
     "iso_a2": "SR",
     "continent": "South America",
     "iso_a3": "SUR",
@@ -776,33 +803,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/sr.svg",
     "id": 593,
     "merchantCount": 124
-  },
-  {
-    "region_wb": "Latin America & Caribbean",
-    "type": "country",
-    "wikidataid": "Q750",
-    "lat": -16.666015,
-    "lon": -64.593433,
-    "population:year": 2019,
-    "iso_a3": "BOL",
-    "name": "Bolivia",
-    "continent": "South America",
-    "gdp_year": 2019,
-    "sovereignt": "Bolivia",
-    "region_un": "Americas",
-    "population:rank": 14,
-    "area_km2": 1092709.98,
-    "income_grp": "4. Lower middle income",
-    "country_type": "Sovereign country",
-    "iso_a2": "BO",
-    "subregion": "South America",
-    "population": 11513100,
-    "gdp_md": 40895,
-    "economy": "5. Emerging region: G20",
-    "url_alias": "bo",
-    "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
-    "id": 168,
-    "merchantCount": 122
   },
   {
     "sovereignt": "Colombia",
