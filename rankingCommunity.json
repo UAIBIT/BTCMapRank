@@ -5858,10 +5858,9 @@
     "merchantCount": 7
   },
   {
-    "area_km2": 11075.66,
+    "area_km2": 11075.65,
     "contact:telegram": "https://t.me/BitcoinGwada",
     "contact:twitter": "https://x.com/BitcoinGwada",
-    "contact:website": "https://bento.me/bitcoingwada",
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-guadeloupe.png",
     "name": "Bitcoin Gwada",
@@ -5869,6 +5868,9 @@
     "population:date": "2015-01-01",
     "type": "community",
     "url_alias": "bitcoin-guadeloupe",
+    "verified:date": "2026-04-21",
+    "organization": "Decouvre-Bitcoin",
+    "contact:website": "https://kazabitcoin.netlify.app/",
     "id": 779,
     "merchantCount": 7
   },
@@ -6418,12 +6420,12 @@
     "url_alias": "bitcoin-calais",
     "area_km2": 313.04,
     "contact:discord": "https://discord.com/invite/pHNq8QX9q9",
-    "contact:email": "bitcoinlille@gmail.com",
     "contact:telegram": "https://t.me/bitcoincalais",
     "contact:twitter": "https://x.com/bitcoincalais",
     "language": "fr",
-    "organization": "Plan B Network",
+    "organization": "Decouvre-Bitcoin",
     "type": "community",
+    "verified:date": "2026-04-21",
     "id": 960,
     "merchantCount": 6
   },
@@ -7012,6 +7014,7 @@
     "contact:twitter": "https://x.com/bitcoinlille",
     "contact:website": "https://bitcoinlille.fr/",
     "contact:email": "bitcoinlille@gmail.com",
+    "verified:date": "2026-04-21",
     "id": 116,
     "merchantCount": 4
   },
@@ -7523,6 +7526,7 @@
     "contact:telegram": "https://t.me/GrenobleBitcoinMeetup",
     "organization": "decouvre-bitcoin",
     "type": "community",
+    "verified:date": "2026-04-21",
     "id": 382,
     "merchantCount": 3
   },
@@ -7623,6 +7627,7 @@
     "tips:lightning_address": "yesbitcoinhaiti@strike.me",
     "type": "community",
     "url_alias": "haiti",
+    "verified:date": "2026-04-21",
     "id": 704,
     "merchantCount": 3
   },
@@ -8859,6 +8864,7 @@
     "icon:square": "https://static.btcmap.org/images/communities/clermont-ferrand.png",
     "type": "community",
     "area_km2": 883.89,
+    "verified:date": "2026-04-21",
     "id": 201,
     "merchantCount": 1
   },
@@ -8875,6 +8881,7 @@
     "type": "community",
     "url_alias": "colmar",
     "area_km2": 3530.35,
+    "verified:date": "2026-04-21",
     "id": 207,
     "merchantCount": 1
   },
@@ -8891,6 +8898,7 @@
     "url_alias": "dijon",
     "contact:telegram": "https://t.me/DijonBitcoinMeetup",
     "name": "Dijon",
+    "verified:date": "2026-04-21",
     "id": 228,
     "merchantCount": 1
   },
@@ -9637,7 +9645,7 @@
     "contact:telegram": "https://t.me/ChalonSurSaoneBMGroupe",
     "contact:twitter": "https://twitter.com/CHSBTCMeetup",
     "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/cannes.png",
+    "icon:square": "https://static.btcmap.org/images/areas/714.png",
     "language": "fr",
     "name": "Chalon-sur-Saône",
     "organization": "decouvre-bitcoin",
@@ -9931,6 +9939,7 @@
     "contact:website": "https://normandiebitcoin.com/",
     "contact:discord": "https://discord.com/invite/42XT34pWb4",
     "type": "community",
+    "verified:date": "2026-04-21",
     "id": 885,
     "merchantCount": 1
   },
@@ -10537,6 +10546,7 @@
     "population": 40000,
     "population:date": "2020-01-01",
     "area_km2": 134.82,
+    "verified:date": "2026-04-21",
     "id": 363,
     "merchantCount": 0
   },
@@ -10902,7 +10912,7 @@
     "icon:square": "https://static.btcmap.org/images/communities/lens.png",
     "language": "fr",
     "name": "Lens",
-    "organization": "Plan B Network",
+    "organization": "Decouvre-Bitcoin",
     "population": 242000,
     "population:date": "2021-01-01",
     "type": "community",
@@ -10912,6 +10922,7 @@
     "contact:email": "bitcoinlille@gmail.com",
     "contact:website": "https://bitcoinlille.fr",
     "tips:lightning_address": "bitcoinlille@walletofsatoshi.com",
+    "verified:date": "2026-04-21",
     "id": 683,
     "merchantCount": 0
   },
@@ -11039,6 +11050,7 @@
     "type": "community",
     "url_alias": "houilles",
     "contact:twitter": "https://x.com/Bitcoiners78800",
+    "verified:date": "2026-04-21",
     "id": 719,
     "merchantCount": 0
   },
@@ -11176,6 +11188,8 @@
     "population:date": "2021-01-01",
     "type": "community",
     "url_alias": "la-rochelle",
+    "verified:date": "2026-04-21",
+    "organization": "Decouvre-Bitcoin",
     "id": 780,
     "merchantCount": 0
   },
@@ -11455,5 +11469,22 @@
     "icon:square": "https://static.btcmap.org/images/areas/994.png",
     "id": 994,
     "merchantCount": 0
+  },
+  {
+    "continent": "europe",
+    "name": "Dreux",
+    "population": 30879,
+    "population:date": "2021-01-01",
+    "url_alias": "dreux",
+    "contact:telegram": "https://t.me/+FGmTPX1qP-s0ZGE0",
+    "contact:twitter": "https://twitter.com/bitcoinalouest",
+    "language": "fr",
+    "organization": "Decouvre-Bitcoin",
+    "type": "community",
+    "verified:date": "2026-04-21",
+    "icon:square": "https://static.btcmap.org/images/areas/997.png",
+    "area_km2": 1513.72,
+    "id": 997,
+    "merchantCount": null
   }
 ]
