@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8095
+    "merchantCount": 8109
   },
   {
     "gdp_md": 351431,
@@ -132,7 +132,7 @@
     "url_alias": "cz",
     "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
     "id": 218,
-    "merchantCount": 1087
+    "merchantCount": 1068
   },
   {
     "subregion": "Southern Europe",
@@ -159,7 +159,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1065
+    "merchantCount": 1066
   },
   {
     "iso_a2": "CH",
@@ -213,7 +213,7 @@
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
     "id": 220,
-    "merchantCount": 612
+    "merchantCount": 611
   },
   {
     "sovereignt": "Canada",
@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 467
+    "merchantCount": 468
   },
   {
     "country_type": "Sovereign country",
@@ -829,7 +829,7 @@
     "url_alias": "co",
     "icon:square": "https://static.btcmap.org/images/countries/co.svg",
     "id": 205,
-    "merchantCount": 99
+    "merchantCount": 104
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -1335,7 +1335,7 @@
     "url_alias": "hu",
     "icon:square": "https://static.btcmap.org/images/countries/hu.svg",
     "id": 395,
-    "merchantCount": 37
+    "merchantCount": 36
   },
   {
     "area_km2": 385110.87,
@@ -1554,33 +1554,6 @@
     "merchantCount": 26
   },
   {
-    "gdp_md": 282318,
-    "country_type": "Sovereign country",
-    "area_km2": 739098.84,
-    "iso_a2": "CL",
-    "sovereignt": "Chile",
-    "lat": -38.151771,
-    "region_un": "Americas",
-    "iso_a3": "CHL",
-    "population:year": 2019,
-    "economy": "5. Emerging region: G20",
-    "population:rank": 14,
-    "population": 18952038,
-    "continent": "South America",
-    "region_wb": "Latin America & Caribbean",
-    "gdp_year": 2019,
-    "type": "country",
-    "income_grp": "3. Upper middle income",
-    "subregion": "South America",
-    "lon": -72.318871,
-    "wikidataid": "Q298",
-    "name": "Chile",
-    "url_alias": "cl",
-    "icon:square": "https://static.btcmap.org/images/countries/cl.svg",
-    "id": 200,
-    "merchantCount": 24
-  },
-  {
     "subregion": "South America",
     "lon": -78.188375,
     "wikidataid": "Q736",
@@ -1605,6 +1578,33 @@
     "url_alias": "ec",
     "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
     "id": 245,
+    "merchantCount": 25
+  },
+  {
+    "gdp_md": 282318,
+    "country_type": "Sovereign country",
+    "area_km2": 739098.84,
+    "iso_a2": "CL",
+    "sovereignt": "Chile",
+    "lat": -38.151771,
+    "region_un": "Americas",
+    "iso_a3": "CHL",
+    "population:year": 2019,
+    "economy": "5. Emerging region: G20",
+    "population:rank": 14,
+    "population": 18952038,
+    "continent": "South America",
+    "region_wb": "Latin America & Caribbean",
+    "gdp_year": 2019,
+    "type": "country",
+    "income_grp": "3. Upper middle income",
+    "subregion": "South America",
+    "lon": -72.318871,
+    "wikidataid": "Q298",
+    "name": "Chile",
+    "url_alias": "cl",
+    "icon:square": "https://static.btcmap.org/images/countries/cl.svg",
+    "id": 200,
     "merchantCount": 24
   },
   {
