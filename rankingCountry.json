@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 469
+    "merchantCount": 473
   },
   {
     "country_type": "Sovereign country",
@@ -402,34 +402,7 @@
     "url_alias": "gb",
     "icon:square": "https://static.btcmap.org/images/areas/364.png",
     "id": 364,
-    "merchantCount": 359
-  },
-  {
-    "gdp_md": 17477,
-    "economy": "6. Developing region",
-    "population:year": 2019,
-    "income_grp": "4. Lower middle income",
-    "gdp_year": 2019,
-    "type": "country",
-    "subregion": "Western Asia",
-    "lon": 43.735724,
-    "lat": 41.870087,
-    "area_km2": 69460.61,
-    "country_type": "Sovereign country",
-    "continent": "Asia",
-    "region_un": "Asia",
-    "population": 3720382,
-    "iso_a3": "GEO",
-    "sovereignt": "Georgia",
-    "population:rank": 12,
-    "name": "Georgia",
-    "region_wb": "Europe & Central Asia",
-    "iso_a2": "GE",
-    "wikidataid": "Q230",
-    "url_alias": "ge",
-    "icon:square": "https://static.btcmap.org/images/countries/ge.svg",
-    "id": 366,
-    "merchantCount": 342
+    "merchantCount": 364
   },
   {
     "wikidataid": "Q45",
@@ -456,6 +429,33 @@
     "url_alias": "pt",
     "icon:square": "https://static.btcmap.org/images/countries/pt.svg",
     "id": 541,
+    "merchantCount": 343
+  },
+  {
+    "gdp_md": 17477,
+    "economy": "6. Developing region",
+    "population:year": 2019,
+    "income_grp": "4. Lower middle income",
+    "gdp_year": 2019,
+    "type": "country",
+    "subregion": "Western Asia",
+    "lon": 43.735724,
+    "lat": 41.870087,
+    "area_km2": 69460.61,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "region_un": "Asia",
+    "population": 3720382,
+    "iso_a3": "GEO",
+    "sovereignt": "Georgia",
+    "population:rank": 12,
+    "name": "Georgia",
+    "region_wb": "Europe & Central Asia",
+    "iso_a2": "GE",
+    "wikidataid": "Q230",
+    "url_alias": "ge",
+    "icon:square": "https://static.btcmap.org/images/countries/ge.svg",
+    "id": 366,
     "merchantCount": 342
   },
   {
@@ -849,7 +849,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/216.png",
     "verified:date": "2026-03-12",
     "id": 216,
-    "merchantCount": 92
+    "merchantCount": 93
   },
   {
     "type": "country",

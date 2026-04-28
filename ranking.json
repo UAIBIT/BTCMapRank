@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 27640
+    "merchantCount": 27646
   },
   {
     "sovereignt": "United States of America",
@@ -418,7 +418,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 469
+    "merchantCount": 473
   },
   {
     "continent": "south-america",
@@ -569,7 +569,7 @@
     "url_alias": "gb",
     "icon:square": "https://static.btcmap.org/images/areas/364.png",
     "id": 364,
-    "merchantCount": 359
+    "merchantCount": 364
   },
   {
     "name": "Einundzwanzig Portugal",
@@ -583,6 +583,45 @@
     "area_km2": 155452.15,
     "organization": "einundzwanzig",
     "id": 316,
+    "merchantCount": 344
+  },
+  {
+    "wikidataid": "Q45",
+    "sovereignt": "Portugal",
+    "population": 10269417,
+    "population:year": 2019,
+    "lon": -8.271754,
+    "continent": "Europe",
+    "iso_a3": "PRT",
+    "gdp_md": 238785,
+    "lat": 39.606675,
+    "name": "Portugal",
+    "economy": "2. Developed region: nonG7",
+    "region_un": "Europe",
+    "income_grp": "1. High income: OECD",
+    "type": "country",
+    "iso_a2": "PT",
+    "gdp_year": 2019,
+    "country_type": "Sovereign country",
+    "subregion": "Southern Europe",
+    "area_km2": 149349.44,
+    "population:rank": 14,
+    "region_wb": "Europe & Central Asia",
+    "url_alias": "pt",
+    "icon:square": "https://static.btcmap.org/images/countries/pt.svg",
+    "id": 541,
+    "merchantCount": 343
+  },
+  {
+    "url_alias": "vinte-e-um",
+    "name": "Vinte e Um",
+    "contact:telegram": "https://t.me/vinteumpt",
+    "contact:email": "mail@vinteum.pt",
+    "continent": "europe",
+    "type": "trash",
+    "icon:square": "https://static.btcmap.org/images/communities/vinte-e-um.jpg",
+    "area_km2": 149349.44,
+    "id": 646,
     "merchantCount": 343
   },
   {
@@ -610,45 +649,6 @@
     "url_alias": "ge",
     "icon:square": "https://static.btcmap.org/images/countries/ge.svg",
     "id": 366,
-    "merchantCount": 342
-  },
-  {
-    "wikidataid": "Q45",
-    "sovereignt": "Portugal",
-    "population": 10269417,
-    "population:year": 2019,
-    "lon": -8.271754,
-    "continent": "Europe",
-    "iso_a3": "PRT",
-    "gdp_md": 238785,
-    "lat": 39.606675,
-    "name": "Portugal",
-    "economy": "2. Developed region: nonG7",
-    "region_un": "Europe",
-    "income_grp": "1. High income: OECD",
-    "type": "country",
-    "iso_a2": "PT",
-    "gdp_year": 2019,
-    "country_type": "Sovereign country",
-    "subregion": "Southern Europe",
-    "area_km2": 149349.44,
-    "population:rank": 14,
-    "region_wb": "Europe & Central Asia",
-    "url_alias": "pt",
-    "icon:square": "https://static.btcmap.org/images/countries/pt.svg",
-    "id": 541,
-    "merchantCount": 342
-  },
-  {
-    "url_alias": "vinte-e-um",
-    "name": "Vinte e Um",
-    "contact:telegram": "https://t.me/vinteumpt",
-    "contact:email": "mail@vinteum.pt",
-    "continent": "europe",
-    "type": "trash",
-    "icon:square": "https://static.btcmap.org/images/communities/vinte-e-um.jpg",
-    "area_km2": 149349.44,
-    "id": 646,
     "merchantCount": 342
   },
   {
@@ -1141,7 +1141,7 @@
     "verified:date": "2026-02-10",
     "contact:satlantis": "https://www.satlantis.io/c/74/FREE-Madeira-Bitcoin-Meetups",
     "id": 361,
-    "merchantCount": 166
+    "merchantCount": 167
   },
   {
     "language": "es, en",
@@ -1621,7 +1621,7 @@
     "contact:instagram": "https://www.instagram.com/btccuracao_com/",
     "contact:phone": "+5999677283",
     "id": 180,
-    "merchantCount": 92
+    "merchantCount": 93
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -1641,7 +1641,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/216.png",
     "verified:date": "2026-03-12",
     "id": 216,
-    "merchantCount": 92
+    "merchantCount": 93
   },
   {
     "contact:meetup": "https://www.meetup.com/sdbitcoiners/",
@@ -5213,20 +5213,6 @@
     "merchantCount": 19
   },
   {
-    "contact:telegram": "https://t.me/bitcoinpowerhouse21",
-    "continent": "asia",
-    "icon:square": "https://static.btcmap.org/images/areas/671.png",
-    "name": "Phuket Bitcoin Meetup",
-    "type": "community",
-    "url_alias": "bitcoin-powerhouse",
-    "description": "Come join us at Beerfest Restaurant and Brewery for a laid-back meetup where we’ll dive into conversations about Bitcoin and related topics. It’s a perfect chance to exchange ideas, discuss, and trade in a chill atmosphere. The event kicks off at 19:00.",
-    "contact:meetup": "https://www.meetup.com/phuket-bitcoin-meetup/",
-    "verified:date": "2026-03-04",
-    "icon:wide": "https://static.btcmap.org/images/areas/671-wide.png",
-    "id": 671,
-    "merchantCount": 19
-  },
-  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-balneario-camboriu.jpg",
     "name": "Bitcoin Balneário Camboriú",
@@ -5350,6 +5336,20 @@
     "icon:square": "https://static.btcmap.org/images/communities/neuchatel.png",
     "population": 44531,
     "id": 501,
+    "merchantCount": 18
+  },
+  {
+    "contact:telegram": "https://t.me/bitcoinpowerhouse21",
+    "continent": "asia",
+    "icon:square": "https://static.btcmap.org/images/areas/671.png",
+    "name": "Phuket Bitcoin Meetup",
+    "type": "community",
+    "url_alias": "bitcoin-powerhouse",
+    "description": "Come join us at Beerfest Restaurant and Brewery for a laid-back meetup where we’ll dive into conversations about Bitcoin and related topics. It’s a perfect chance to exchange ideas, discuss, and trade in a chill atmosphere. The event kicks off at 19:00.",
+    "contact:meetup": "https://www.meetup.com/phuket-bitcoin-meetup/",
+    "verified:date": "2026-03-04",
+    "icon:wide": "https://static.btcmap.org/images/areas/671-wide.png",
+    "id": 671,
     "merchantCount": 18
   },
   {
