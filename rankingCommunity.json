@@ -283,7 +283,7 @@
     "type": "community",
     "area_km2": 100.59,
     "id": 910,
-    "merchantCount": 185
+    "merchantCount": 184
   },
   {
     "type": "community",
@@ -539,20 +539,6 @@
     "merchantCount": 111
   },
   {
-    "contact:website": "https://gobtc.com.br",
-    "icon:square": "https://static.btcmap.org/images/communities/porto-alegre-bitcoin.png",
-    "url_alias": "sao-paulo-gobtc",
-    "contact:twitter": "https://twitter.com/Gobtc_br",
-    "area_km2": 1500.26,
-    "type": "community",
-    "continent": "south-america",
-    "name": "São Paulo - Go BTC",
-    "organization": "go-btc",
-    "tips:lightning_address": "gobtcbr@getalby.com",
-    "id": 570,
-    "merchantCount": 105
-  },
-  {
     "contact:twitter": "https://twitter.com/btc_dada",
     "population": "10400676",
     "contact:facebook": "https://www.facebook.com/bitcoindada/",
@@ -571,7 +557,7 @@
     "name": "Bitcoin Dada Nairobi",
     "population:date": "2019-01-01",
     "id": 92,
-    "merchantCount": 103
+    "merchantCount": 107
   },
   {
     "area_km2": 1107,
@@ -592,7 +578,21 @@
     "type": "community",
     "url_alias": "the-core",
     "id": 720,
-    "merchantCount": 103
+    "merchantCount": 107
+  },
+  {
+    "contact:website": "https://gobtc.com.br",
+    "icon:square": "https://static.btcmap.org/images/communities/porto-alegre-bitcoin.png",
+    "url_alias": "sao-paulo-gobtc",
+    "contact:twitter": "https://twitter.com/Gobtc_br",
+    "area_km2": 1500.26,
+    "type": "community",
+    "continent": "south-america",
+    "name": "São Paulo - Go BTC",
+    "organization": "go-btc",
+    "tips:lightning_address": "gobtcbr@getalby.com",
+    "id": 570,
+    "merchantCount": 105
   },
   {
     "continent": "africa",
@@ -734,21 +734,6 @@
     "merchantCount": 87
   },
   {
-    "population": 696413,
-    "population:date": "2023-01-01",
-    "type": "community",
-    "url_alias": "jednadvacet-brno",
-    "name": "Jednadvacet Brno",
-    "area_km2": 323.73,
-    "contact:website": "https://jednadvacet.org/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-brno.png",
-    "contact:signal": "https://signal.group/#CjQKIL2KyHPPAotCRX1bQS2Kx_NV46s7om25K23Sy5Sf_u2pEhB1vJrPckxkIryjgdeTybmx",
-    "organization": "jednadvacet",
-    "id": 408,
-    "merchantCount": 86
-  },
-  {
     "area_km2": 699.45,
     "contact:email": "martin@btcnairobi.com",
     "contact:github": "https://github.com/btcnairobi",
@@ -767,7 +752,22 @@
     "type": "community",
     "url_alias": "bitcoin-nairobi",
     "id": 767,
-    "merchantCount": 83
+    "merchantCount": 87
+  },
+  {
+    "population": 696413,
+    "population:date": "2023-01-01",
+    "type": "community",
+    "url_alias": "jednadvacet-brno",
+    "name": "Jednadvacet Brno",
+    "area_km2": 323.73,
+    "contact:website": "https://jednadvacet.org/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/jednadvacet-brno.png",
+    "contact:signal": "https://signal.group/#CjQKIL2KyHPPAotCRX1bQS2Kx_NV46s7om25K23Sy5Sf_u2pEhB1vJrPckxkIryjgdeTybmx",
+    "organization": "jednadvacet",
+    "id": 408,
+    "merchantCount": 86
   },
   {
     "url_alias": "bitcoin-beach",
@@ -3106,6 +3106,22 @@
     "merchantCount": 22
   },
   {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/communities/afribit-kibera.png",
+    "name": "Afribit Kibera",
+    "population": 750000,
+    "population:date": "2025-01-01",
+    "url_alias": "afribit-kibera",
+    "contact:telegram": "https://t.me/+CsSf0dG9NKIxMzlk",
+    "contact:email": "connect@afribit.africa",
+    "contact:twitter": "https://x.com/AfribitKibera",
+    "contact:nostr": "npub1djkgnrt4y05htqk7cxztnvqwcuyd3tea0jrxr8z9e6jx0zashskqkq9fhz",
+    "type": "community",
+    "area_km2": 12.55,
+    "id": 828,
+    "merchantCount": 22
+  },
+  {
     "area_km2": 216.68,
     "contact:twitter": "https://twitter.com/bitcampina",
     "continent": "south-america",
@@ -3230,22 +3246,6 @@
     "type": "community",
     "url_alias": "jednadvacet-olomouc",
     "id": 773,
-    "merchantCount": 20
-  },
-  {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/communities/afribit-kibera.png",
-    "name": "Afribit Kibera",
-    "population": 750000,
-    "population:date": "2025-01-01",
-    "url_alias": "afribit-kibera",
-    "contact:telegram": "https://t.me/+CsSf0dG9NKIxMzlk",
-    "contact:email": "connect@afribit.africa",
-    "contact:twitter": "https://x.com/AfribitKibera",
-    "contact:nostr": "npub1djkgnrt4y05htqk7cxztnvqwcuyd3tea0jrxr8z9e6jx0zashskqkq9fhz",
-    "type": "community",
-    "area_km2": 12.55,
-    "id": 828,
     "merchantCount": 20
   },
   {
@@ -4742,6 +4742,23 @@
     "merchantCount": 11
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/972.png",
+    "name": "Bitcoin Beach Bournemouth",
+    "population": 196455,
+    "population:date": "2021-01-01",
+    "url_alias": "bitcoin-beach-bournemouth",
+    "contact:twitter": "https://x.com/BtcBeachBmouth",
+    "contact:telegram": "https://t.me/btcbeachbmouth",
+    "contact:email": "mark.suscens@gmail.com",
+    "description": "Meetup every third THURSDAY of the month. Open to all (just turn up). 💊 Clinic from 18:30 (for 1-2-1 help) 💬 Social from 19:30 - 22:30 Chaplins Bar / Modern Times (in The Cogg Room), 529 Christchurch Road, Boscombe, BH1 4AG",
+    "type": "community",
+    "area_km2": 51.75,
+    "verified:date": "2026-01-07",
+    "id": 972,
+    "merchantCount": 11
+  },
+  {
     "name": "Abidjan Bitcoin Meetup",
     "contact:email": "AbidjanBTCMeet@proton.me",
     "type": "community",
@@ -5560,23 +5577,6 @@
     "type": "community",
     "area_km2": 283.01,
     "id": 963,
-    "merchantCount": 8
-  },
-  {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/areas/972.png",
-    "name": "Bitcoin Beach Bournemouth",
-    "population": 196455,
-    "population:date": "2021-01-01",
-    "url_alias": "bitcoin-beach-bournemouth",
-    "contact:twitter": "https://x.com/BtcBeachBmouth",
-    "contact:telegram": "https://t.me/btcbeachbmouth",
-    "contact:email": "mark.suscens@gmail.com",
-    "description": "Meetup every third THURSDAY of the month. Open to all (just turn up). 💊 Clinic from 18:30 (for 1-2-1 help) 💬 Social from 19:30 - 22:30 Chaplins Bar / Modern Times (in The Cogg Room), 529 Christchurch Road, Boscombe, BH1 4AG",
-    "type": "community",
-    "area_km2": 51.75,
-    "verified:date": "2026-01-07",
-    "id": 972,
     "merchantCount": 8
   },
   {
@@ -6718,23 +6718,6 @@
     "merchantCount": 5
   },
   {
-    "area_km2": 133,
-    "contact:email": "hello@lightningcheckout.eu",
-    "contact:twitter": "https://twitter.com/bitcoineindhove",
-    "contact:website": "https://bitcoineindhoven.nl/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/areas/687.png",
-    "name": "Bitcoin Eindhoven",
-    "organization": "eenentwintig",
-    "population": 780611,
-    "population:date": "2014-05-01",
-    "type": "community",
-    "url_alias": "bitcoin-eindhoven",
-    "verified:date": "2026-01-29",
-    "id": 687,
-    "merchantCount": 5
-  },
-  {
     "area_km2": 1665,
     "contact:email": "info@bitcointwente.net",
     "contact:meetup": "https://www.meetup.com/nl-nl/bitcoinmeetup/",
@@ -7169,6 +7152,23 @@
     "type": "community",
     "url_alias": "tehran",
     "id": 674,
+    "merchantCount": 4
+  },
+  {
+    "area_km2": 133,
+    "contact:email": "hello@lightningcheckout.eu",
+    "contact:twitter": "https://twitter.com/bitcoineindhove",
+    "contact:website": "https://bitcoineindhoven.nl/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/687.png",
+    "name": "Bitcoin Eindhoven",
+    "organization": "eenentwintig",
+    "population": 780611,
+    "population:date": "2014-05-01",
+    "type": "community",
+    "url_alias": "bitcoin-eindhoven",
+    "verified:date": "2026-01-29",
+    "id": 687,
     "merchantCount": 4
   },
   {
