@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8273
+    "merchantCount": 8308
   },
   {
     "gdp_md": 351431,
@@ -105,7 +105,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1330
+    "merchantCount": 1328
   },
   {
     "population:rank": 14,
@@ -186,7 +186,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 809
+    "merchantCount": 808
   },
   {
     "name": "Germany",
@@ -240,7 +240,7 @@
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
     "id": 186,
-    "merchantCount": 571
+    "merchantCount": 572
   },
   {
     "region_un": "Americas",
@@ -348,7 +348,7 @@
     "url_alias": "es",
     "icon:square": "https://static.btcmap.org/images/countries/es.svg",
     "id": 352,
-    "merchantCount": 384
+    "merchantCount": 385
   },
   {
     "region_un": "Europe",
@@ -640,7 +640,7 @@
     "url_alias": "au",
     "icon:square": "https://static.btcmap.org/images/countries/au.svg",
     "id": 33,
-    "merchantCount": 200
+    "merchantCount": 201
   },
   {
     "area_km2": 596166.85,
@@ -1446,6 +1446,33 @@
     "merchantCount": 29
   },
   {
+    "subregion": "South America",
+    "lon": -78.188375,
+    "wikidataid": "Q736",
+    "region_un": "Americas",
+    "region_wb": "Latin America & Caribbean",
+    "iso_a2": "EC",
+    "income_grp": "3. Upper middle income",
+    "type": "country",
+    "population": 17373662,
+    "name": "Ecuador",
+    "lat": -1.259076,
+    "population:rank": 14,
+    "gdp_md": 107435,
+    "iso_a3": "ECU",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "sovereignt": "Ecuador",
+    "country_type": "Sovereign country",
+    "area_km2": 256239.78,
+    "continent": "South America",
+    "economy": "6. Developing region",
+    "url_alias": "ec",
+    "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
+    "id": 245,
+    "merchantCount": 28
+  },
+  {
     "lat": 19.431821,
     "gdp_md": 18173,
     "country_type": "Sovereign country",
@@ -1552,33 +1579,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/ie.svg",
     "id": 397,
     "merchantCount": 26
-  },
-  {
-    "subregion": "South America",
-    "lon": -78.188375,
-    "wikidataid": "Q736",
-    "region_un": "Americas",
-    "region_wb": "Latin America & Caribbean",
-    "iso_a2": "EC",
-    "income_grp": "3. Upper middle income",
-    "type": "country",
-    "population": 17373662,
-    "name": "Ecuador",
-    "lat": -1.259076,
-    "population:rank": 14,
-    "gdp_md": 107435,
-    "iso_a3": "ECU",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "sovereignt": "Ecuador",
-    "country_type": "Sovereign country",
-    "area_km2": 256239.78,
-    "continent": "South America",
-    "economy": "6. Developing region",
-    "url_alias": "ec",
-    "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
-    "id": 245,
-    "merchantCount": 25
   },
   {
     "gdp_md": 282318,
@@ -3615,6 +3615,33 @@
     "merchantCount": 1
   },
   {
+    "region_un": "Europe",
+    "type": "country",
+    "population:rank": 9,
+    "region_wb": "Europe & Central Asia",
+    "lat": 49.220808,
+    "sovereignt": "United Kingdom",
+    "lon": -2.090146,
+    "area_km2": 126.6,
+    "gdp_year": 2015,
+    "wikidataid": "Q785",
+    "population:year": 2019,
+    "country_type": "Country",
+    "iso_a3": "JEY",
+    "name": "Jersey",
+    "continent": "Europe",
+    "income_grp": "2. High income: nonOECD",
+    "iso_a2": "JE",
+    "subregion": "Northern Europe",
+    "gdp_md": 5080,
+    "population": 107800,
+    "economy": "2. Developed region: nonG7",
+    "url_alias": "je",
+    "icon:square": "https://static.btcmap.org/images/countries/je.svg",
+    "id": 407,
+    "merchantCount": 1
+  },
+  {
     "gdp_md": 2376,
     "sovereignt": "Lesotho",
     "population:rank": 12,
@@ -4745,33 +4772,6 @@
     "url_alias": "iq",
     "icon:square": "https://static.btcmap.org/images/countries/iq.svg",
     "id": 403,
-    "merchantCount": 0
-  },
-  {
-    "region_un": "Europe",
-    "type": "country",
-    "population:rank": 9,
-    "region_wb": "Europe & Central Asia",
-    "lat": 49.220808,
-    "sovereignt": "United Kingdom",
-    "lon": -2.090146,
-    "area_km2": 126.6,
-    "gdp_year": 2015,
-    "wikidataid": "Q785",
-    "population:year": 2019,
-    "country_type": "Country",
-    "iso_a3": "JEY",
-    "name": "Jersey",
-    "continent": "Europe",
-    "income_grp": "2. High income: nonOECD",
-    "iso_a2": "JE",
-    "subregion": "Northern Europe",
-    "gdp_md": 5080,
-    "population": 107800,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "je",
-    "icon:square": "https://static.btcmap.org/images/countries/je.svg",
-    "id": 407,
     "merchantCount": 0
   },
   {
