@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8360
+    "merchantCount": 8402
   },
   {
     "gdp_md": 351431,
@@ -78,7 +78,7 @@
     "url_alias": "br",
     "icon:square": "https://static.btcmap.org/images/countries/br.svg",
     "id": 173,
-    "merchantCount": 2199
+    "merchantCount": 2200
   },
   {
     "population:year": 2019,
@@ -105,7 +105,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1330
+    "merchantCount": 1329
   },
   {
     "population:rank": 14,
@@ -213,7 +213,7 @@
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
     "id": 220,
-    "merchantCount": 611
+    "merchantCount": 612
   },
   {
     "sovereignt": "Canada",
@@ -405,33 +405,6 @@
     "merchantCount": 365
   },
   {
-    "wikidataid": "Q45",
-    "sovereignt": "Portugal",
-    "population": 10269417,
-    "population:year": 2019,
-    "lon": -8.271754,
-    "continent": "Europe",
-    "iso_a3": "PRT",
-    "gdp_md": 238785,
-    "lat": 39.606675,
-    "name": "Portugal",
-    "economy": "2. Developed region: nonG7",
-    "region_un": "Europe",
-    "income_grp": "1. High income: OECD",
-    "type": "country",
-    "iso_a2": "PT",
-    "gdp_year": 2019,
-    "country_type": "Sovereign country",
-    "subregion": "Southern Europe",
-    "area_km2": 149349.44,
-    "population:rank": 14,
-    "region_wb": "Europe & Central Asia",
-    "url_alias": "pt",
-    "icon:square": "https://static.btcmap.org/images/countries/pt.svg",
-    "id": 541,
-    "merchantCount": 343
-  },
-  {
     "gdp_md": 17477,
     "economy": "6. Developing region",
     "population:year": 2019,
@@ -459,6 +432,33 @@
     "merchantCount": 342
   },
   {
+    "wikidataid": "Q45",
+    "sovereignt": "Portugal",
+    "population": 10269417,
+    "population:year": 2019,
+    "lon": -8.271754,
+    "continent": "Europe",
+    "iso_a3": "PRT",
+    "gdp_md": 238785,
+    "lat": 39.606675,
+    "name": "Portugal",
+    "economy": "2. Developed region: nonG7",
+    "region_un": "Europe",
+    "income_grp": "1. High income: OECD",
+    "type": "country",
+    "iso_a2": "PT",
+    "gdp_year": 2019,
+    "country_type": "Sovereign country",
+    "subregion": "Southern Europe",
+    "area_km2": 149349.44,
+    "population:rank": 14,
+    "region_wb": "Europe & Central Asia",
+    "url_alias": "pt",
+    "icon:square": "https://static.btcmap.org/images/countries/pt.svg",
+    "id": 541,
+    "merchantCount": 342
+  },
+  {
     "area_km2": 636466.7,
     "continent": "Europe",
     "country_type": "Country",
@@ -483,7 +483,7 @@
     "wikidataid": "Q142",
     "icon:square": "https://static.btcmap.org/images/countries/fr.svg",
     "id": 685,
-    "merchantCount": 334
+    "merchantCount": 333
   },
   {
     "name": "Poland",
@@ -697,6 +697,33 @@
     "merchantCount": 171
   },
   {
+    "region_wb": "Latin America & Caribbean",
+    "type": "country",
+    "wikidataid": "Q750",
+    "lat": -16.666015,
+    "lon": -64.593433,
+    "population:year": 2019,
+    "iso_a3": "BOL",
+    "name": "Bolivia",
+    "continent": "South America",
+    "gdp_year": 2019,
+    "sovereignt": "Bolivia",
+    "region_un": "Americas",
+    "population:rank": 14,
+    "area_km2": 1092709.98,
+    "income_grp": "4. Lower middle income",
+    "country_type": "Sovereign country",
+    "iso_a2": "BO",
+    "subregion": "South America",
+    "population": 11513100,
+    "gdp_md": 40895,
+    "economy": "5. Emerging region: G20",
+    "url_alias": "bo",
+    "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
+    "id": 168,
+    "merchantCount": 130
+  },
+  {
     "lon": -70.653998,
     "gdp_md": 88941,
     "gdp_year": 2019,
@@ -778,33 +805,6 @@
     "merchantCount": 124
   },
   {
-    "region_wb": "Latin America & Caribbean",
-    "type": "country",
-    "wikidataid": "Q750",
-    "lat": -16.666015,
-    "lon": -64.593433,
-    "population:year": 2019,
-    "iso_a3": "BOL",
-    "name": "Bolivia",
-    "continent": "South America",
-    "gdp_year": 2019,
-    "sovereignt": "Bolivia",
-    "region_un": "Americas",
-    "population:rank": 14,
-    "area_km2": 1092709.98,
-    "income_grp": "4. Lower middle income",
-    "country_type": "Sovereign country",
-    "iso_a2": "BO",
-    "subregion": "South America",
-    "population": 11513100,
-    "gdp_md": 40895,
-    "economy": "5. Emerging region: G20",
-    "url_alias": "bo",
-    "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
-    "id": 168,
-    "merchantCount": 123
-  },
-  {
     "sovereignt": "Colombia",
     "iso_a3": "COL",
     "name": "Colombia",
@@ -852,33 +852,6 @@
     "merchantCount": 93
   },
   {
-    "type": "country",
-    "region_wb": "East Asia & Pacific",
-    "lon": 172.787,
-    "population:rank": 12,
-    "region_un": "Oceania",
-    "continent": "Oceania",
-    "area_km2": 267452.09,
-    "gdp_md": 206928,
-    "gdp_year": 2019,
-    "iso_a3": "NZL",
-    "iso_a2": "NZ",
-    "economy": "2. Developed region: nonG7",
-    "income_grp": "1. High income: OECD",
-    "name": "New Zealand",
-    "population:year": 2019,
-    "lat": -39.759,
-    "sovereignt": "New Zealand",
-    "population": 4917000,
-    "country_type": "Country",
-    "subregion": "Australia and New Zealand",
-    "wikidataid": "Q664",
-    "url_alias": "nz",
-    "icon:square": "https://static.btcmap.org/images/countries/nz.svg",
-    "id": 514,
-    "merchantCount": 78
-  },
-  {
     "subregion": "South America",
     "area_km2": 1299185.71,
     "gdp_year": 2019,
@@ -903,6 +876,33 @@
     "url_alias": "pe",
     "icon:square": "https://static.btcmap.org/images/countries/pe.svg",
     "id": 524,
+    "merchantCount": 79
+  },
+  {
+    "type": "country",
+    "region_wb": "East Asia & Pacific",
+    "lon": 172.787,
+    "population:rank": 12,
+    "region_un": "Oceania",
+    "continent": "Oceania",
+    "area_km2": 267452.09,
+    "gdp_md": 206928,
+    "gdp_year": 2019,
+    "iso_a3": "NZL",
+    "iso_a2": "NZ",
+    "economy": "2. Developed region: nonG7",
+    "income_grp": "1. High income: OECD",
+    "name": "New Zealand",
+    "population:year": 2019,
+    "lat": -39.759,
+    "sovereignt": "New Zealand",
+    "population": 4917000,
+    "country_type": "Country",
+    "subregion": "Australia and New Zealand",
+    "wikidataid": "Q664",
+    "url_alias": "nz",
+    "icon:square": "https://static.btcmap.org/images/countries/nz.svg",
+    "id": 514,
     "merchantCount": 78
   },
   {
@@ -984,7 +984,7 @@
     "url_alias": "jp",
     "icon:square": "https://static.btcmap.org/images/countries/jp.svg",
     "id": 414,
-    "merchantCount": 69
+    "merchantCount": 70
   },
   {
     "lon": 128.129504,
@@ -1173,7 +1173,7 @@
     "url_alias": "cu",
     "icon:square": "https://static.btcmap.org/images/countries/cu.svg",
     "id": 213,
-    "merchantCount": 49
+    "merchantCount": 48
   },
   {
     "lon": 7.50322,
@@ -1608,6 +1608,34 @@
     "merchantCount": 24
   },
   {
+    "iso_a2": "MY",
+    "region_un": "Asia",
+    "population": 31949777,
+    "area_km2": 328377.38,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "sovereignt": "Malaysia",
+    "lat": 2.528667,
+    "population:year": 2019,
+    "gdp_md": 364681,
+    "gdp_year": 2019,
+    "economy": "6. Developing region",
+    "income_grp": "3. Upper middle income",
+    "lon": 113.83708,
+    "type": "country",
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "MYS",
+    "subregion": "South-Eastern Asia",
+    "wikidataid": "Q833",
+    "population:rank": 15,
+    "name": "Malaysia",
+    "url_alias": "my",
+    "icon:square": "https://static.btcmap.org/images/areas/494.png",
+    "verified:date": "2026-03-04",
+    "id": 494,
+    "merchantCount": 24
+  },
+  {
     "wikidataid": "Q1029",
     "country_type": "Sovereign country",
     "gdp_year": 2019,
@@ -1655,34 +1683,6 @@
     "icon:square": "https://static.btcmap.org/images/areas/18.png",
     "verified:date": "2026-03-11",
     "id": 18,
-    "merchantCount": 23
-  },
-  {
-    "iso_a2": "MY",
-    "region_un": "Asia",
-    "population": 31949777,
-    "area_km2": 328377.38,
-    "country_type": "Sovereign country",
-    "continent": "Asia",
-    "sovereignt": "Malaysia",
-    "lat": 2.528667,
-    "population:year": 2019,
-    "gdp_md": 364681,
-    "gdp_year": 2019,
-    "economy": "6. Developing region",
-    "income_grp": "3. Upper middle income",
-    "lon": 113.83708,
-    "type": "country",
-    "region_wb": "East Asia & Pacific",
-    "iso_a3": "MYS",
-    "subregion": "South-Eastern Asia",
-    "wikidataid": "Q833",
-    "population:rank": 15,
-    "name": "Malaysia",
-    "url_alias": "my",
-    "icon:square": "https://static.btcmap.org/images/areas/494.png",
-    "verified:date": "2026-03-04",
-    "id": 494,
     "merchantCount": 23
   },
   {
