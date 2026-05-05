@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8402
+    "merchantCount": 8437
   },
   {
     "gdp_md": 351431,
@@ -105,7 +105,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1329
+    "merchantCount": 1327
   },
   {
     "population:rank": 14,
@@ -240,7 +240,7 @@
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
     "id": 186,
-    "merchantCount": 572
+    "merchantCount": 573
   },
   {
     "region_un": "Americas",
@@ -879,33 +879,6 @@
     "merchantCount": 79
   },
   {
-    "type": "country",
-    "region_wb": "East Asia & Pacific",
-    "lon": 172.787,
-    "population:rank": 12,
-    "region_un": "Oceania",
-    "continent": "Oceania",
-    "area_km2": 267452.09,
-    "gdp_md": 206928,
-    "gdp_year": 2019,
-    "iso_a3": "NZL",
-    "iso_a2": "NZ",
-    "economy": "2. Developed region: nonG7",
-    "income_grp": "1. High income: OECD",
-    "name": "New Zealand",
-    "population:year": 2019,
-    "lat": -39.759,
-    "sovereignt": "New Zealand",
-    "population": 4917000,
-    "country_type": "Country",
-    "subregion": "Australia and New Zealand",
-    "wikidataid": "Q664",
-    "url_alias": "nz",
-    "icon:square": "https://static.btcmap.org/images/countries/nz.svg",
-    "id": 514,
-    "merchantCount": 78
-  },
-  {
     "continent": "Asia",
     "lon": 122.465,
     "area_km2": 290954.62,
@@ -931,6 +904,33 @@
     "icon:square": "https://static.btcmap.org/images/countries/ph.svg",
     "id": 528,
     "merchantCount": 78
+  },
+  {
+    "type": "country",
+    "region_wb": "East Asia & Pacific",
+    "lon": 172.787,
+    "population:rank": 12,
+    "region_un": "Oceania",
+    "continent": "Oceania",
+    "area_km2": 267452.09,
+    "gdp_md": 206928,
+    "gdp_year": 2019,
+    "iso_a3": "NZL",
+    "iso_a2": "NZ",
+    "economy": "2. Developed region: nonG7",
+    "income_grp": "1. High income: OECD",
+    "name": "New Zealand",
+    "population:year": 2019,
+    "lat": -39.759,
+    "sovereignt": "New Zealand",
+    "population": 4917000,
+    "country_type": "Country",
+    "subregion": "Australia and New Zealand",
+    "wikidataid": "Q664",
+    "url_alias": "nz",
+    "icon:square": "https://static.btcmap.org/images/countries/nz.svg",
+    "id": 514,
+    "merchantCount": 75
   },
   {
     "gdp_year": 2019,
@@ -1392,6 +1392,33 @@
     "merchantCount": 34
   },
   {
+    "subregion": "South America",
+    "lon": -78.188375,
+    "wikidataid": "Q736",
+    "region_un": "Americas",
+    "region_wb": "Latin America & Caribbean",
+    "iso_a2": "EC",
+    "income_grp": "3. Upper middle income",
+    "type": "country",
+    "population": 17373662,
+    "name": "Ecuador",
+    "lat": -1.259076,
+    "population:rank": 14,
+    "gdp_md": 107435,
+    "iso_a3": "ECU",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "sovereignt": "Ecuador",
+    "country_type": "Sovereign country",
+    "area_km2": 256239.78,
+    "continent": "South America",
+    "economy": "6. Developing region",
+    "url_alias": "ec",
+    "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
+    "id": 245,
+    "merchantCount": 33
+  },
+  {
     "sovereignt": "Panama",
     "continent": "North America",
     "population": 4246439,
@@ -1444,33 +1471,6 @@
     "icon:square": "https://static.btcmap.org/images/areas/404.png",
     "id": 404,
     "merchantCount": 29
-  },
-  {
-    "subregion": "South America",
-    "lon": -78.188375,
-    "wikidataid": "Q736",
-    "region_un": "Americas",
-    "region_wb": "Latin America & Caribbean",
-    "iso_a2": "EC",
-    "income_grp": "3. Upper middle income",
-    "type": "country",
-    "population": 17373662,
-    "name": "Ecuador",
-    "lat": -1.259076,
-    "population:rank": 14,
-    "gdp_md": 107435,
-    "iso_a3": "ECU",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "sovereignt": "Ecuador",
-    "country_type": "Sovereign country",
-    "area_km2": 256239.78,
-    "continent": "South America",
-    "economy": "6. Developing region",
-    "url_alias": "ec",
-    "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
-    "id": 245,
-    "merchantCount": 28
   },
   {
     "lat": 19.431821,
