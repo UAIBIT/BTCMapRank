@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8437
+    "merchantCount": 8489
   },
   {
     "gdp_md": 351431,
@@ -105,7 +105,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1327
+    "merchantCount": 1324
   },
   {
     "population:rank": 14,
@@ -186,7 +186,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 808
+    "merchantCount": 809
   },
   {
     "name": "Germany",
@@ -267,7 +267,7 @@
     "url_alias": "mx",
     "icon:square": "https://static.btcmap.org/images/countries/mx.svg",
     "id": 493,
-    "merchantCount": 545
+    "merchantCount": 546
   },
   {
     "gdp_md": 543548,
@@ -694,7 +694,7 @@
     "url_alias": "bg",
     "icon:square": "https://static.btcmap.org/images/countries/bg.svg",
     "id": 57,
-    "merchantCount": 171
+    "merchantCount": 170
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -2513,33 +2513,6 @@
     "merchantCount": 6
   },
   {
-    "gdp_year": 2019,
-    "income_grp": "1. High income: OECD",
-    "subregion": "Northern Europe",
-    "economy": "2. Developed region: nonG7",
-    "region_un": "Europe",
-    "population": 361313,
-    "lon": -18.673711,
-    "type": "country",
-    "country_type": "Sovereign country",
-    "iso_a2": "IS",
-    "region_wb": "Europe & Central Asia",
-    "population:rank": 10,
-    "population:year": 2019,
-    "gdp_md": 24188,
-    "iso_a3": "ISL",
-    "continent": "Europe",
-    "area_km2": 101387.37,
-    "name": "Iceland",
-    "wikidataid": "Q189",
-    "sovereignt": "Iceland",
-    "lat": 64.779286,
-    "url_alias": "is",
-    "icon:square": "https://static.btcmap.org/images/countries/is.svg",
-    "id": 405,
-    "merchantCount": 5
-  },
-  {
     "name": "Luxembourg",
     "sovereignt": "Luxembourg",
     "population:rank": 11,
@@ -2645,6 +2618,33 @@
     "url_alias": "et",
     "icon:square": "https://static.btcmap.org/images/countries/et.svg",
     "id": 354,
+    "merchantCount": 4
+  },
+  {
+    "gdp_year": 2019,
+    "income_grp": "1. High income: OECD",
+    "subregion": "Northern Europe",
+    "economy": "2. Developed region: nonG7",
+    "region_un": "Europe",
+    "population": 361313,
+    "lon": -18.673711,
+    "type": "country",
+    "country_type": "Sovereign country",
+    "iso_a2": "IS",
+    "region_wb": "Europe & Central Asia",
+    "population:rank": 10,
+    "population:year": 2019,
+    "gdp_md": 24188,
+    "iso_a3": "ISL",
+    "continent": "Europe",
+    "area_km2": 101387.37,
+    "name": "Iceland",
+    "wikidataid": "Q189",
+    "sovereignt": "Iceland",
+    "lat": 64.779286,
+    "url_alias": "is",
+    "icon:square": "https://static.btcmap.org/images/countries/is.svg",
+    "id": 405,
     "merchantCount": 4
   },
   {
