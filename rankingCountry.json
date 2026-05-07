@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8489
+    "merchantCount": 8512
   },
   {
     "gdp_md": 351431,
@@ -108,33 +108,6 @@
     "merchantCount": 1324
   },
   {
-    "population:rank": 14,
-    "wikidataid": "Q213",
-    "country_type": "Sovereign country",
-    "name": "Czechia",
-    "continent": "Europe",
-    "region_wb": "Europe & Central Asia",
-    "region_un": "Europe",
-    "lon": 15.377555,
-    "iso_a3": "CZE",
-    "iso_a2": "CZ",
-    "gdp_year": 2019,
-    "lat": 49.882364,
-    "economy": "2. Developed region: nonG7",
-    "type": "country",
-    "population": 10669709,
-    "income_grp": "1. High income: OECD",
-    "subregion": "Eastern Europe",
-    "area_km2": 78657.89,
-    "population:year": 2019,
-    "gdp_md": 250680,
-    "sovereignt": "Czechia",
-    "url_alias": "cz",
-    "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
-    "id": 218,
-    "merchantCount": 1068
-  },
-  {
     "subregion": "Southern Europe",
     "wikidataid": "Q38",
     "area_km2": 300959.88,
@@ -160,6 +133,33 @@
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
     "merchantCount": 1068
+  },
+  {
+    "population:rank": 14,
+    "wikidataid": "Q213",
+    "country_type": "Sovereign country",
+    "name": "Czechia",
+    "continent": "Europe",
+    "region_wb": "Europe & Central Asia",
+    "region_un": "Europe",
+    "lon": 15.377555,
+    "iso_a3": "CZE",
+    "iso_a2": "CZ",
+    "gdp_year": 2019,
+    "lat": 49.882364,
+    "economy": "2. Developed region: nonG7",
+    "type": "country",
+    "population": 10669709,
+    "income_grp": "1. High income: OECD",
+    "subregion": "Eastern Europe",
+    "area_km2": 78657.89,
+    "population:year": 2019,
+    "gdp_md": 250680,
+    "sovereignt": "Czechia",
+    "url_alias": "cz",
+    "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
+    "id": 218,
+    "merchantCount": 1067
   },
   {
     "iso_a2": "CH",
@@ -213,7 +213,7 @@
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
     "id": 220,
-    "merchantCount": 612
+    "merchantCount": 611
   },
   {
     "sovereignt": "Canada",
@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 474
+    "merchantCount": 476
   },
   {
     "country_type": "Sovereign country",
@@ -402,7 +402,7 @@
     "url_alias": "nl",
     "icon:square": "https://static.btcmap.org/images/countries/nl.svg",
     "id": 507,
-    "merchantCount": 365
+    "merchantCount": 364
   },
   {
     "gdp_md": 17477,
@@ -829,7 +829,7 @@
     "url_alias": "co",
     "icon:square": "https://static.btcmap.org/images/countries/co.svg",
     "id": 205,
-    "merchantCount": 104
+    "merchantCount": 111
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -1149,33 +1149,6 @@
     "merchantCount": 57
   },
   {
-    "type": "country",
-    "gdp_md": 100023,
-    "name": "Cuba",
-    "economy": "5. Emerging region: G20",
-    "gdp_year": 2018,
-    "lat": 21.334024,
-    "iso_a2": "CU",
-    "lon": -77.975855,
-    "region_un": "Americas",
-    "region_wb": "Latin America & Caribbean",
-    "income_grp": "3. Upper middle income",
-    "wikidataid": "Q241",
-    "population:year": 2019,
-    "continent": "North America",
-    "population:rank": 14,
-    "population": 11333483,
-    "subregion": "Caribbean",
-    "area_km2": 109540.42,
-    "iso_a3": "CUB",
-    "country_type": "Sovereignty",
-    "sovereignt": "Cuba",
-    "url_alias": "cu",
-    "icon:square": "https://static.btcmap.org/images/countries/cu.svg",
-    "id": 213,
-    "merchantCount": 48
-  },
-  {
     "lon": 7.50322,
     "area_km2": 913593.56,
     "type": "country",
@@ -1201,6 +1174,33 @@
     "icon:square": "https://static.btcmap.org/images/countries/ng.svg",
     "id": 505,
     "merchantCount": 48
+  },
+  {
+    "type": "country",
+    "gdp_md": 100023,
+    "name": "Cuba",
+    "economy": "5. Emerging region: G20",
+    "gdp_year": 2018,
+    "lat": 21.334024,
+    "iso_a2": "CU",
+    "lon": -77.975855,
+    "region_un": "Americas",
+    "region_wb": "Latin America & Caribbean",
+    "income_grp": "3. Upper middle income",
+    "wikidataid": "Q241",
+    "population:year": 2019,
+    "continent": "North America",
+    "population:rank": 14,
+    "population": 11333483,
+    "subregion": "Caribbean",
+    "area_km2": 109540.42,
+    "iso_a3": "CUB",
+    "country_type": "Sovereignty",
+    "sovereignt": "Cuba",
+    "url_alias": "cu",
+    "icon:square": "https://static.btcmap.org/images/countries/cu.svg",
+    "id": 213,
+    "merchantCount": 47
   },
   {
     "iso_a3": "GHA",
