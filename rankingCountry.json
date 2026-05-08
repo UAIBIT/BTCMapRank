@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8512
+    "merchantCount": 8572
   },
   {
     "gdp_md": 351431,
@@ -51,7 +51,7 @@
     "url_alias": "za",
     "icon:square": "https://static.btcmap.org/images/countries/za.svg",
     "id": 656,
-    "merchantCount": 2733
+    "merchantCount": 2732
   },
   {
     "wikidataid": "Q155",
@@ -105,7 +105,34 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1324
+    "merchantCount": 1322
+  },
+  {
+    "population:rank": 14,
+    "wikidataid": "Q213",
+    "country_type": "Sovereign country",
+    "name": "Czechia",
+    "continent": "Europe",
+    "region_wb": "Europe & Central Asia",
+    "region_un": "Europe",
+    "lon": 15.377555,
+    "iso_a3": "CZE",
+    "iso_a2": "CZ",
+    "gdp_year": 2019,
+    "lat": 49.882364,
+    "economy": "2. Developed region: nonG7",
+    "type": "country",
+    "population": 10669709,
+    "income_grp": "1. High income: OECD",
+    "subregion": "Eastern Europe",
+    "area_km2": 78657.89,
+    "population:year": 2019,
+    "gdp_md": 250680,
+    "sovereignt": "Czechia",
+    "url_alias": "cz",
+    "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
+    "id": 218,
+    "merchantCount": 1068
   },
   {
     "subregion": "Southern Europe",
@@ -133,33 +160,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
     "merchantCount": 1068
-  },
-  {
-    "population:rank": 14,
-    "wikidataid": "Q213",
-    "country_type": "Sovereign country",
-    "name": "Czechia",
-    "continent": "Europe",
-    "region_wb": "Europe & Central Asia",
-    "region_un": "Europe",
-    "lon": 15.377555,
-    "iso_a3": "CZE",
-    "iso_a2": "CZ",
-    "gdp_year": 2019,
-    "lat": 49.882364,
-    "economy": "2. Developed region: nonG7",
-    "type": "country",
-    "population": 10669709,
-    "income_grp": "1. High income: OECD",
-    "subregion": "Eastern Europe",
-    "area_km2": 78657.89,
-    "population:year": 2019,
-    "gdp_md": 250680,
-    "sovereignt": "Czechia",
-    "url_alias": "cz",
-    "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
-    "id": 218,
-    "merchantCount": 1067
   },
   {
     "iso_a2": "CH",
@@ -213,7 +213,7 @@
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
     "id": 220,
-    "merchantCount": 611
+    "merchantCount": 609
   },
   {
     "sovereignt": "Canada",
@@ -456,7 +456,7 @@
     "url_alias": "pt",
     "icon:square": "https://static.btcmap.org/images/countries/pt.svg",
     "id": 541,
-    "merchantCount": 342
+    "merchantCount": 341
   },
   {
     "area_km2": 636466.7,
@@ -829,7 +829,7 @@
     "url_alias": "co",
     "icon:square": "https://static.btcmap.org/images/countries/co.svg",
     "id": 205,
-    "merchantCount": 111
+    "merchantCount": 114
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -1173,7 +1173,7 @@
     "url_alias": "ng",
     "icon:square": "https://static.btcmap.org/images/countries/ng.svg",
     "id": 505,
-    "merchantCount": 48
+    "merchantCount": 49
   },
   {
     "type": "country",
