@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8657
+    "merchantCount": 8676
   },
   {
     "gdp_md": 351431,
@@ -105,7 +105,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1322
+    "merchantCount": 1321
   },
   {
     "population:rank": 14,
@@ -159,7 +159,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1068
+    "merchantCount": 1067
   },
   {
     "iso_a2": "CH",
@@ -186,7 +186,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 809
+    "merchantCount": 810
   },
   {
     "name": "Germany",
@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 476
+    "merchantCount": 477
   },
   {
     "country_type": "Sovereign country",
@@ -829,7 +829,7 @@
     "url_alias": "co",
     "icon:square": "https://static.btcmap.org/images/countries/co.svg",
     "id": 205,
-    "merchantCount": 114
+    "merchantCount": 115
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -1365,6 +1365,33 @@
     "merchantCount": 36
   },
   {
+    "subregion": "South America",
+    "lon": -78.188375,
+    "wikidataid": "Q736",
+    "region_un": "Americas",
+    "region_wb": "Latin America & Caribbean",
+    "iso_a2": "EC",
+    "income_grp": "3. Upper middle income",
+    "type": "country",
+    "population": 17373662,
+    "name": "Ecuador",
+    "lat": -1.259076,
+    "population:rank": 14,
+    "gdp_md": 107435,
+    "iso_a3": "ECU",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "sovereignt": "Ecuador",
+    "country_type": "Sovereign country",
+    "area_km2": 256239.78,
+    "continent": "South America",
+    "economy": "6. Developing region",
+    "url_alias": "ec",
+    "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
+    "id": 245,
+    "merchantCount": 34
+  },
+  {
     "population": 270625568,
     "economy": "4. Emerging region: MIKT",
     "iso_a2": "ID",
@@ -1390,33 +1417,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/id.svg",
     "id": 396,
     "merchantCount": 34
-  },
-  {
-    "subregion": "South America",
-    "lon": -78.188375,
-    "wikidataid": "Q736",
-    "region_un": "Americas",
-    "region_wb": "Latin America & Caribbean",
-    "iso_a2": "EC",
-    "income_grp": "3. Upper middle income",
-    "type": "country",
-    "population": 17373662,
-    "name": "Ecuador",
-    "lat": -1.259076,
-    "population:rank": 14,
-    "gdp_md": 107435,
-    "iso_a3": "ECU",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "sovereignt": "Ecuador",
-    "country_type": "Sovereign country",
-    "area_km2": 256239.78,
-    "continent": "South America",
-    "economy": "6. Developing region",
-    "url_alias": "ec",
-    "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
-    "id": 245,
-    "merchantCount": 33
   },
   {
     "sovereignt": "Panama",
