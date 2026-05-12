@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8676
+    "merchantCount": 8710
   },
   {
     "gdp_md": 351431,
@@ -78,7 +78,7 @@
     "url_alias": "br",
     "icon:square": "https://static.btcmap.org/images/countries/br.svg",
     "id": 173,
-    "merchantCount": 2198
+    "merchantCount": 2199
   },
   {
     "population:year": 2019,
@@ -375,7 +375,7 @@
     "url_alias": "gb",
     "icon:square": "https://static.btcmap.org/images/areas/364.png",
     "id": 364,
-    "merchantCount": 367
+    "merchantCount": 366
   },
   {
     "iso_a2": "NL",
@@ -721,7 +721,7 @@
     "url_alias": "bo",
     "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
     "id": 168,
-    "merchantCount": 130
+    "merchantCount": 132
   },
   {
     "lon": -70.653998,
@@ -1713,33 +1713,6 @@
     "merchantCount": 23
   },
   {
-    "region_un": "Europe",
-    "gdp_md": 60752,
-    "economy": "2. Developed region: nonG7",
-    "income_grp": "2. High income: nonOECD",
-    "subregion": "Southern Europe",
-    "country_type": "Sovereign country",
-    "lon": 16.37241,
-    "continent": "Europe",
-    "population": 4067500,
-    "sovereignt": "Croatia",
-    "iso_a3": "HRV",
-    "region_wb": "Europe & Central Asia",
-    "population:rank": 12,
-    "type": "country",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "wikidataid": "Q224",
-    "iso_a2": "HR",
-    "area_km2": 54543.44,
-    "lat": 45.805799,
-    "name": "Croatia",
-    "url_alias": "hr",
-    "icon:square": "https://static.btcmap.org/images/countries/hr.svg",
-    "id": 393,
-    "merchantCount": 22
-  },
-  {
     "continent": "Asia",
     "gdp_md": 261921,
     "type": "country",
@@ -1765,6 +1738,33 @@
     "icon:square": "https://static.btcmap.org/images/areas/647.png",
     "verified:date": "2026-03-04",
     "id": 647,
+    "merchantCount": 23
+  },
+  {
+    "region_un": "Europe",
+    "gdp_md": 60752,
+    "economy": "2. Developed region: nonG7",
+    "income_grp": "2. High income: nonOECD",
+    "subregion": "Southern Europe",
+    "country_type": "Sovereign country",
+    "lon": 16.37241,
+    "continent": "Europe",
+    "population": 4067500,
+    "sovereignt": "Croatia",
+    "iso_a3": "HRV",
+    "region_wb": "Europe & Central Asia",
+    "population:rank": 12,
+    "type": "country",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "wikidataid": "Q224",
+    "iso_a2": "HR",
+    "area_km2": 54543.44,
+    "lat": 45.805799,
+    "name": "Croatia",
+    "url_alias": "hr",
+    "icon:square": "https://static.btcmap.org/images/countries/hr.svg",
+    "id": 393,
     "merchantCount": 22
   },
   {
