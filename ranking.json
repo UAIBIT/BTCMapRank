@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 28113
+    "merchantCount": 28128
   },
   {
     "sovereignt": "United States of America",
@@ -30,7 +30,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8710
+    "merchantCount": 8723
   },
   {
     "type": "trash",
@@ -126,7 +126,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1321
+    "merchantCount": 1323
   },
   {
     "contact:website": "https://satoshispritz.it/",
@@ -676,7 +676,7 @@
     "wikidataid": "Q142",
     "icon:square": "https://static.btcmap.org/images/countries/fr.svg",
     "id": 685,
-    "merchantCount": 333
+    "merchantCount": 332
   },
   {
     "population:date": "2022-01-01",
@@ -1060,22 +1060,6 @@
     "merchantCount": 180
   },
   {
-    "type": "community",
-    "name": "Bitcoin Bulgaria",
-    "box:north": "42.711326676075586",
-    "box:east": "23.36671829223633",
-    "box:south": "42.65504567087549",
-    "box:west": "23.264408111572266",
-    "contact:discord": "http://bit.ly/Discord-BCC",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-bulgaria.svg",
-    "continent": "europe",
-    "population": "6815962",
-    "url_alias": "bitcoin-bulgaria",
-    "contact:facebook": "https://www.facebook.com/btcbg/",
-    "id": 82,
-    "merchantCount": 176
-  },
-  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-coast.png",
     "name": "Bitcoin Coast",
@@ -1089,6 +1073,22 @@
     "type": "community",
     "area_km2": 100.59,
     "id": 910,
+    "merchantCount": 178
+  },
+  {
+    "type": "community",
+    "name": "Bitcoin Bulgaria",
+    "box:north": "42.711326676075586",
+    "box:east": "23.36671829223633",
+    "box:south": "42.65504567087549",
+    "box:west": "23.264408111572266",
+    "contact:discord": "http://bit.ly/Discord-BCC",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-bulgaria.svg",
+    "continent": "europe",
+    "population": "6815962",
+    "url_alias": "bitcoin-bulgaria",
+    "contact:facebook": "https://www.facebook.com/btcbg/",
+    "id": 82,
     "merchantCount": 176
   },
   {
@@ -1785,7 +1785,7 @@
     "url_alias": "pe",
     "icon:square": "https://static.btcmap.org/images/countries/pe.svg",
     "id": 524,
-    "merchantCount": 79
+    "merchantCount": 80
   },
   {
     "continent": "north-america",
@@ -2352,6 +2352,24 @@
     "merchantCount": 65
   },
   {
+    "continent": "south-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-research.png",
+    "name": "Bitcoin Research",
+    "population": 755732,
+    "population:date": "2024-12-01",
+    "url_alias": "bitcoin-research",
+    "area_km2": 130392.75,
+    "contact:telegram": "https://t.me/BtcxBolivia",
+    "tips:lightning_address": "bitcoinresearch@blink.sv",
+    "contact:email": "acarrillom@proton.me",
+    "language": "es",
+    "type": "community",
+    "contact:twitter": "https://x.com/BtcxBolivia",
+    "verified:date": "2026-02-22",
+    "id": 886,
+    "merchantCount": 65
+  },
+  {
     "type": "community",
     "population": 165770,
     "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
@@ -2413,24 +2431,6 @@
     "contact:twitter": "https://x.com/LaCasaDeSatoshi",
     "type": "community",
     "id": 844,
-    "merchantCount": 64
-  },
-  {
-    "continent": "south-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-research.png",
-    "name": "Bitcoin Research",
-    "population": 755732,
-    "population:date": "2024-12-01",
-    "url_alias": "bitcoin-research",
-    "area_km2": 130392.75,
-    "contact:telegram": "https://t.me/BtcxBolivia",
-    "tips:lightning_address": "bitcoinresearch@blink.sv",
-    "contact:email": "acarrillom@proton.me",
-    "language": "es",
-    "type": "community",
-    "contact:twitter": "https://x.com/BtcxBolivia",
-    "verified:date": "2026-02-22",
-    "id": 886,
     "merchantCount": 64
   },
   {
@@ -3588,7 +3588,7 @@
     "verified:date": "2026-04-21",
     "contact:website": "https://bip-21.fr/meet-ups/",
     "id": 756,
-    "merchantCount": 38
+    "merchantCount": 37
   },
   {
     "continent": "africa",
@@ -6685,6 +6685,23 @@
     "merchantCount": 12
   },
   {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/972.png",
+    "name": "Bitcoin Beach Bournemouth",
+    "population": 196455,
+    "population:date": "2021-01-01",
+    "url_alias": "bitcoin-beach-bournemouth",
+    "contact:twitter": "https://x.com/BtcBeachBmouth",
+    "contact:telegram": "https://t.me/btcbeachbmouth",
+    "contact:email": "mark.suscens@gmail.com",
+    "description": "Meetup every third THURSDAY of the month. Open to all (just turn up). 💊 Clinic from 18:30 (for 1-2-1 help) 💬 Social from 19:30 - 22:30 Chaplins Bar / Modern Times (in The Cogg Room), 529 Christchurch Road, Boscombe, BH1 4AG",
+    "type": "community",
+    "area_km2": 51.75,
+    "verified:date": "2026-01-07",
+    "id": 972,
+    "merchantCount": 12
+  },
+  {
     "type": "community",
     "box:north": "22.639362681056678",
     "box:east": "114.55718994140626",
@@ -6861,23 +6878,6 @@
     "area_km2": 217.27,
     "organization": "einundzwanzig",
     "id": 932,
-    "merchantCount": 11
-  },
-  {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/areas/972.png",
-    "name": "Bitcoin Beach Bournemouth",
-    "population": 196455,
-    "population:date": "2021-01-01",
-    "url_alias": "bitcoin-beach-bournemouth",
-    "contact:twitter": "https://x.com/BtcBeachBmouth",
-    "contact:telegram": "https://t.me/btcbeachbmouth",
-    "contact:email": "mark.suscens@gmail.com",
-    "description": "Meetup every third THURSDAY of the month. Open to all (just turn up). 💊 Clinic from 18:30 (for 1-2-1 help) 💬 Social from 19:30 - 22:30 Chaplins Bar / Modern Times (in The Cogg Room), 529 Christchurch Road, Boscombe, BH1 4AG",
-    "type": "community",
-    "area_km2": 51.75,
-    "verified:date": "2026-01-07",
-    "id": 972,
     "merchantCount": 11
   },
   {
