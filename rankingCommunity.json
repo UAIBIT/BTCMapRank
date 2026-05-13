@@ -224,7 +224,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 205
+    "merchantCount": 206
   },
   {
     "name": "Vancouver Bitcoiners",
@@ -1718,24 +1718,6 @@
     "merchantCount": 45
   },
   {
-    "type": "community",
-    "continent": "europe",
-    "name": "Grand Paris",
-    "icon:square": "https://static.btcmap.org/images/communities/grand-paris.jpg",
-    "population": 7086619,
-    "population:date": "2020-01-01",
-    "url_alias": "grand-paris",
-    "organization": "decouvre-bitcoin",
-    "contact:telegram": "https://t.me/+iSHiaA62T0w2MzQ0",
-    "area_km2": 12012,
-    "language": "fr",
-    "contact:twitter": "https://x.com/parisbtcmeetup",
-    "verified:date": "2026-04-21",
-    "contact:website": "https://bip-21.fr/meet-ups/",
-    "id": 379,
-    "merchantCount": 45
-  },
-  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-oriente.png",
     "name": "Bitcoin Oriente",
@@ -1817,6 +1799,24 @@
     "contact:meetup": "https://www.meetup.com/denver-bitdevs/",
     "icon:square": "https://static.btcmap.org/images/communities/denver-bit-devs.jpeg",
     "id": 223,
+    "merchantCount": 44
+  },
+  {
+    "type": "community",
+    "continent": "europe",
+    "name": "Grand Paris",
+    "icon:square": "https://static.btcmap.org/images/communities/grand-paris.jpg",
+    "population": 7086619,
+    "population:date": "2020-01-01",
+    "url_alias": "grand-paris",
+    "organization": "decouvre-bitcoin",
+    "contact:telegram": "https://t.me/+iSHiaA62T0w2MzQ0",
+    "area_km2": 12012,
+    "language": "fr",
+    "contact:twitter": "https://x.com/parisbtcmeetup",
+    "verified:date": "2026-04-21",
+    "contact:website": "https://bip-21.fr/meet-ups/",
+    "id": 379,
     "merchantCount": 44
   },
   {
@@ -2486,6 +2486,22 @@
     "merchantCount": 33
   },
   {
+    "contact:instagram": "https://www.instagram.com/orangepillperu/",
+    "continent": "south-america",
+    "name": "Lima - Orange Pill Perú",
+    "type": "community",
+    "area_km2": 3726.15,
+    "contact:email": "orangepillperu@proton.me",
+    "population": 11283787,
+    "contact:telegram": "https://t.me/+KNI65gteoic1MjJh",
+    "icon:square": "https://static.btcmap.org/images/communities/lima.jpeg",
+    "url_alias": "lima",
+    "population:date": "2023-01-01",
+    "contact:twitter": "https://twitter.com/orangepillperu",
+    "id": 440,
+    "merchantCount": 33
+  },
+  {
     "organization": "satoshi-spritz",
     "population:date": "2019-01-01",
     "type": "community",
@@ -2536,22 +2552,6 @@
     "continent": "europe",
     "organization": "einundzwanzig",
     "id": 340,
-    "merchantCount": 32
-  },
-  {
-    "contact:instagram": "https://www.instagram.com/orangepillperu/",
-    "continent": "south-america",
-    "name": "Lima - Orange Pill Perú",
-    "type": "community",
-    "area_km2": 3726.15,
-    "contact:email": "orangepillperu@proton.me",
-    "population": 11283787,
-    "contact:telegram": "https://t.me/+KNI65gteoic1MjJh",
-    "icon:square": "https://static.btcmap.org/images/communities/lima.jpeg",
-    "url_alias": "lima",
-    "population:date": "2023-01-01",
-    "contact:twitter": "https://twitter.com/orangepillperu",
-    "id": 440,
     "merchantCount": 32
   },
   {
