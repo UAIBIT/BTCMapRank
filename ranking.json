@@ -228,7 +228,7 @@
     "continent": "europe",
     "organization": "einundzwanzig",
     "id": 331,
-    "merchantCount": 831
+    "merchantCount": 833
   },
   {
     "population": "8636896",
@@ -246,7 +246,7 @@
     "url_alias": "bitcoin-association-switzerland",
     "contact:telegram": "https://t.me/rogerdarin",
     "id": 71,
-    "merchantCount": 828
+    "merchantCount": 830
   },
   {
     "contact:website": "https://dezentralschweiz.ch/",
@@ -262,7 +262,7 @@
     "continent": "europe",
     "contact:telegram": "http://t.me/+ETWFIUzxnlNkZDg0",
     "id": 226,
-    "merchantCount": 828
+    "merchantCount": 830
   },
   {
     "iso_a2": "CH",
@@ -289,7 +289,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 811
+    "merchantCount": 813
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-deutschland.jpg",
@@ -310,7 +310,7 @@
     "population": "83695430",
     "continent": "europe",
     "id": 262,
-    "merchantCount": 615
+    "merchantCount": 616
   },
   {
     "name": "Germany",
@@ -337,7 +337,7 @@
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
     "id": 220,
-    "merchantCount": 608
+    "merchantCount": 609
   },
   {
     "sovereignt": "Canada",
@@ -898,27 +898,6 @@
     "merchantCount": 222
   },
   {
-    "contact:email": "tokyocitadel.npm6r@aleeas.com",
-    "name": "Bitcoin Australia",
-    "tips:lightning_address": "mightytuna25@walletofsatoshi.com",
-    "name:ru": "Биткойн Австралия",
-    "population:date": "2023-01-01",
-    "contact:twitter": "https://twitter.com/BitcoinAusComm",
-    "box:north": "-8.94879",
-    "url_alias": "bitcoin-australia",
-    "contact:facebook": "https://www.facebook.com/groups/497340209055345",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-australia.jpg",
-    "box:west": "109.13814",
-    "area_km2": 8584689.87,
-    "continent": "oceania",
-    "population": "26043400",
-    "type": "trash",
-    "box:east": "162.33395",
-    "box:south": "-46.10841",
-    "id": 72,
-    "merchantCount": 209
-  },
-  {
     "gdp_year": 2019,
     "region_un": "Europe",
     "subregion": "Western Europe",
@@ -944,6 +923,27 @@
     "icon:square": "https://static.btcmap.org/images/countries/at.svg",
     "id": 31,
     "merchantCount": 208
+  },
+  {
+    "contact:email": "tokyocitadel.npm6r@aleeas.com",
+    "name": "Bitcoin Australia",
+    "tips:lightning_address": "mightytuna25@walletofsatoshi.com",
+    "name:ru": "Биткойн Австралия",
+    "population:date": "2023-01-01",
+    "contact:twitter": "https://twitter.com/BitcoinAusComm",
+    "box:north": "-8.94879",
+    "url_alias": "bitcoin-australia",
+    "contact:facebook": "https://www.facebook.com/groups/497340209055345",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-australia.jpg",
+    "box:west": "109.13814",
+    "area_km2": 8584689.87,
+    "continent": "oceania",
+    "population": "26043400",
+    "type": "trash",
+    "box:east": "162.33395",
+    "box:south": "-46.10841",
+    "id": 72,
+    "merchantCount": 207
   },
   {
     "type": "community",
@@ -1030,7 +1030,7 @@
     "url_alias": "au",
     "icon:square": "https://static.btcmap.org/images/countries/au.svg",
     "id": 33,
-    "merchantCount": 200
+    "merchantCount": 198
   },
   {
     "area_km2": 596166.85,
@@ -2094,6 +2094,30 @@
     "merchantCount": 70
   },
   {
+    "contact:website": "https://detbtc.com/",
+    "contact:telegram": "https://t.me/detbtc",
+    "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
+    "area_km2": 3044.54,
+    "type": "community",
+    "box:south": "41.37474755643597",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin.jpg",
+    "contact:instagram": "https://www.instagram.com/detbtc/",
+    "contact:email": "duck@kronkltd.net",
+    "population": "7000000",
+    "population:date": "2020-01-01",
+    "tips:lightning_address": "detbtc@coinos.io",
+    "contact:twitter": "https://twitter.com/detbtc",
+    "name": "Detroit Bitcoin",
+    "box:west": "-85.61645507812501",
+    "box:north": "43.1450861841603",
+    "contact:meetup": "https://www.meetup.com/detbtc/",
+    "url_alias": "detroit-bitcoin",
+    "box:east": "-80.34301757812501",
+    "id": 224,
+    "merchantCount": 70
+  },
+  {
     "type": "country",
     "region_un": "Asia",
     "country_type": "Sovereign country",
@@ -2173,30 +2197,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/si.svg",
     "id": 586,
     "merchantCount": 68
-  },
-  {
-    "contact:website": "https://detbtc.com/",
-    "contact:telegram": "https://t.me/detbtc",
-    "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
-    "area_km2": 3044.54,
-    "type": "community",
-    "box:south": "41.37474755643597",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/detroit-bitcoin.jpg",
-    "contact:instagram": "https://www.instagram.com/detbtc/",
-    "contact:email": "duck@kronkltd.net",
-    "population": "7000000",
-    "population:date": "2020-01-01",
-    "tips:lightning_address": "detbtc@coinos.io",
-    "contact:twitter": "https://twitter.com/detbtc",
-    "name": "Detroit Bitcoin",
-    "box:west": "-85.61645507812501",
-    "box:north": "43.1450861841603",
-    "contact:meetup": "https://www.meetup.com/detbtc/",
-    "url_alias": "detroit-bitcoin",
-    "box:east": "-80.34301757812501",
-    "id": 224,
-    "merchantCount": 67
   },
   {
     "name": "Bitcoin Charlotte",
@@ -2692,6 +2692,20 @@
     "merchantCount": 55
   },
   {
+    "contact:telegram": "https://t.me/Berlin2140",
+    "icon:square": "https://static.btcmap.org/images/communities/berlin-2140.jpg",
+    "name": "Berlin 2140",
+    "population": "3769962",
+    "continent": "europe",
+    "type": "community",
+    "url_alias": "berlin-2140",
+    "area_km2": 1233.4,
+    "contact:email": "berlin2140@ph.dedyn.io",
+    "organization": "2140-meetups",
+    "id": 54,
+    "merchantCount": 53
+  },
+  {
     "box:west": "-86.8798828125",
     "tips:url": "https://ln.bitcoinbeach.com/criptobastardo",
     "area_km2": 1120.68,
@@ -2729,20 +2743,6 @@
     "area_km2": 4133.66,
     "id": 903,
     "merchantCount": 53
-  },
-  {
-    "contact:telegram": "https://t.me/Berlin2140",
-    "icon:square": "https://static.btcmap.org/images/communities/berlin-2140.jpg",
-    "name": "Berlin 2140",
-    "population": "3769962",
-    "continent": "europe",
-    "type": "community",
-    "url_alias": "berlin-2140",
-    "area_km2": 1233.4,
-    "contact:email": "berlin2140@ph.dedyn.io",
-    "organization": "2140-meetups",
-    "id": 54,
-    "merchantCount": 52
   },
   {
     "url_alias": "cafeteros-bitcoiners",
@@ -2961,6 +2961,21 @@
     "merchantCount": 47
   },
   {
+    "organization": "einundzwanzig",
+    "area_km2": 890.91,
+    "type": "community",
+    "population": 3677472,
+    "contact:telegram": "https://t.me/Einundzwanzig_Berlin",
+    "continent": "europe",
+    "url_alias": "einundzwanzig-berlin",
+    "name": "Einundzwanzig Berlin",
+    "population:date": "2021-12-31",
+    "language": "de",
+    "icon:square": "https://static.btcmap.org/images/areas/257.png",
+    "id": 257,
+    "merchantCount": 47
+  },
+  {
     "population": "32103042",
     "contact:email": "bitcoincowries@gmail.com",
     "name": "Bitcoin Cowries",
@@ -2975,21 +2990,6 @@
     "type": "community",
     "continent": "africa",
     "id": 89,
-    "merchantCount": 46
-  },
-  {
-    "organization": "einundzwanzig",
-    "area_km2": 890.91,
-    "type": "community",
-    "population": 3677472,
-    "contact:telegram": "https://t.me/Einundzwanzig_Berlin",
-    "continent": "europe",
-    "url_alias": "einundzwanzig-berlin",
-    "name": "Einundzwanzig Berlin",
-    "population:date": "2021-12-31",
-    "language": "de",
-    "icon:square": "https://static.btcmap.org/images/areas/257.png",
-    "id": 257,
     "merchantCount": 46
   },
   {
