@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 28160
+    "merchantCount": 28184
   },
   {
     "sovereignt": "United States of America",
@@ -30,7 +30,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8756
+    "merchantCount": 8780
   },
   {
     "type": "trash",
@@ -126,7 +126,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1323
+    "merchantCount": 1322
   },
   {
     "contact:website": "https://satoshispritz.it/",
@@ -770,7 +770,7 @@
     "area_km2": 343.14,
     "organization": "plan-b-network",
     "id": 451,
-    "merchantCount": 284
+    "merchantCount": 286
   },
   {
     "population": 16604026,
@@ -1073,7 +1073,7 @@
     "type": "community",
     "area_km2": 100.59,
     "id": 910,
-    "merchantCount": 178
+    "merchantCount": 177
   },
   {
     "type": "community",
@@ -2513,6 +2513,24 @@
     "merchantCount": 61
   },
   {
+    "population:date": "2021-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/triangle-bit-devs.png",
+    "contact:email": "trianglebitdevs@protonmail.com",
+    "type": "community",
+    "url_alias": "triangle-bit-devs",
+    "area_km2": 2558.64,
+    "continent": "north-america",
+    "contact:meetup": "https://www.meetup.com/triangle-bitdevs/",
+    "contact:twitter": "https://twitter.com/TriangleBitDevs",
+    "contact:website": "http://trianglebitdevs.org",
+    "population": "1150204",
+    "name": "Triangle BitDevs",
+    "organization": "bit-devs",
+    "tips:lightning_address": "trianglebitdevs@getalby.com",
+    "id": 623,
+    "merchantCount": 60
+  },
+  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/san-antonio-bitcoin-club.png",
     "name": "San Antonio Bitcoin Club",
@@ -2543,24 +2561,6 @@
     "continent": "europe",
     "population": "4342212",
     "id": 555,
-    "merchantCount": 59
-  },
-  {
-    "population:date": "2021-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/triangle-bit-devs.png",
-    "contact:email": "trianglebitdevs@protonmail.com",
-    "type": "community",
-    "url_alias": "triangle-bit-devs",
-    "area_km2": 2558.64,
-    "continent": "north-america",
-    "contact:meetup": "https://www.meetup.com/triangle-bitdevs/",
-    "contact:twitter": "https://twitter.com/TriangleBitDevs",
-    "contact:website": "http://trianglebitdevs.org",
-    "population": "1150204",
-    "name": "Triangle BitDevs",
-    "organization": "bit-devs",
-    "tips:lightning_address": "trianglebitdevs@getalby.com",
-    "id": 623,
     "merchantCount": 59
   },
   {
@@ -7921,20 +7921,6 @@
   },
   {
     "continent": "oceania",
-    "icon:square": "https://static.btcmap.org/images/areas/948.png",
-    "name": "Bitcoin Adelaide",
-    "population": 1203873,
-    "population:date": "2010-03-30",
-    "url_alias": "bitcoin-adelaide",
-    "contact:website": "https://bitcoinadelaide.net/",
-    "contact:meetup": "https://www.meetup.com/Adelaide-BTC/",
-    "type": "community",
-    "area_km2": 1669.08,
-    "id": 948,
-    "merchantCount": 8
-  },
-  {
-    "continent": "oceania",
     "icon:square": "https://raw.githubusercontent.com/BitcoinByronBay/Files/refs/heads/main/BitcoinByronBay.png",
     "name": "Bitcoin Byron Bay",
     "population": 10538,
@@ -9103,6 +9089,20 @@
     "merchantCount": 6
   },
   {
+    "continent": "oceania",
+    "icon:square": "https://static.btcmap.org/images/areas/948.png",
+    "name": "Bitcoin Adelaide",
+    "population": 1203873,
+    "population:date": "2010-03-30",
+    "url_alias": "bitcoin-adelaide",
+    "contact:website": "https://bitcoinadelaide.net/",
+    "contact:meetup": "https://www.meetup.com/Adelaide-BTC/",
+    "type": "community",
+    "area_km2": 1669.08,
+    "id": 948,
+    "merchantCount": 6
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-calais.png",
     "name": "Bitcoin Calais",
@@ -9463,6 +9463,23 @@
     "area_km2": 1894.79,
     "verified:date": "2026-04-21",
     "id": 673,
+    "merchantCount": 5
+  },
+  {
+    "area_km2": 133,
+    "contact:email": "hello@lightningcheckout.eu",
+    "contact:twitter": "https://twitter.com/bitcoineindhove",
+    "contact:website": "https://bitcoineindhoven.nl/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/areas/687.png",
+    "name": "Bitcoin Eindhoven",
+    "organization": "eenentwintig",
+    "population": 780611,
+    "population:date": "2014-05-01",
+    "type": "community",
+    "url_alias": "bitcoin-eindhoven",
+    "verified:date": "2026-01-29",
+    "id": 687,
     "merchantCount": 5
   },
   {
@@ -10049,23 +10066,6 @@
     "type": "community",
     "url_alias": "tehran",
     "id": 674,
-    "merchantCount": 4
-  },
-  {
-    "area_km2": 133,
-    "contact:email": "hello@lightningcheckout.eu",
-    "contact:twitter": "https://twitter.com/bitcoineindhove",
-    "contact:website": "https://bitcoineindhoven.nl/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/areas/687.png",
-    "name": "Bitcoin Eindhoven",
-    "organization": "eenentwintig",
-    "population": 780611,
-    "population:date": "2014-05-01",
-    "type": "community",
-    "url_alias": "bitcoin-eindhoven",
-    "verified:date": "2026-01-29",
-    "id": 687,
     "merchantCount": 4
   },
   {
