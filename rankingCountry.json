@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 8889
+    "merchantCount": 8920
   },
   {
     "gdp_md": 351431,
@@ -78,7 +78,7 @@
     "url_alias": "br",
     "icon:square": "https://static.btcmap.org/images/countries/br.svg",
     "id": 173,
-    "merchantCount": 2200
+    "merchantCount": 2201
   },
   {
     "population:year": 2019,
@@ -132,7 +132,7 @@
     "url_alias": "cz",
     "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
     "id": 218,
-    "merchantCount": 1068
+    "merchantCount": 1067
   },
   {
     "subregion": "Southern Europe",
@@ -213,7 +213,7 @@
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
     "id": 220,
-    "merchantCount": 609
+    "merchantCount": 608
   },
   {
     "sovereignt": "Canada",
@@ -240,7 +240,7 @@
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
     "id": 186,
-    "merchantCount": 573
+    "merchantCount": 574
   },
   {
     "region_un": "Americas",
@@ -294,7 +294,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 477
+    "merchantCount": 480
   },
   {
     "country_type": "Sovereign country",
@@ -321,7 +321,7 @@
     "url_alias": "cr",
     "icon:square": "https://static.btcmap.org/images/countries/cr.svg",
     "id": 211,
-    "merchantCount": 400
+    "merchantCount": 399
   },
   {
     "population": 47076781,
@@ -510,7 +510,7 @@
     "url_alias": "pl",
     "icon:square": "https://static.btcmap.org/images/areas/530.png",
     "id": 530,
-    "merchantCount": 310
+    "merchantCount": 309
   },
   {
     "population": 16604026,
@@ -667,7 +667,7 @@
     "url_alias": "ke",
     "icon:square": "https://static.btcmap.org/images/countries/ke.svg",
     "id": 415,
-    "merchantCount": 180
+    "merchantCount": 184
   },
   {
     "income_grp": "3. Upper middle income",
@@ -2459,33 +2459,6 @@
     "merchantCount": 6
   },
   {
-    "type": "country",
-    "iso_a3": "CYM",
-    "population:year": 2019,
-    "wikidataid": "Q5785",
-    "gdp_year": 2018,
-    "economy": "5. Emerging region: G20",
-    "area_km2": 301.99,
-    "name": "Cayman Islands",
-    "lon": -81.24055,
-    "iso_a2": "KY",
-    "lat": 19.319862,
-    "population:rank": 8,
-    "continent": "North America",
-    "gdp_md": 5517,
-    "population": 64948,
-    "region_wb": "Latin America & Caribbean",
-    "sovereignt": "United Kingdom",
-    "region_un": "Americas",
-    "income_grp": "2. High income: nonOECD",
-    "country_type": "Dependency",
-    "subregion": "Caribbean",
-    "url_alias": "ky",
-    "icon:square": "https://static.btcmap.org/images/countries/ky.svg",
-    "id": 427,
-    "merchantCount": 6
-  },
-  {
     "name": "Latvia",
     "continent": "Europe",
     "iso_a2": "LV",
@@ -2511,6 +2484,33 @@
     "icon:square": "https://static.btcmap.org/images/countries/lv.svg",
     "id": 452,
     "merchantCount": 6
+  },
+  {
+    "type": "country",
+    "iso_a3": "CYM",
+    "population:year": 2019,
+    "wikidataid": "Q5785",
+    "gdp_year": 2018,
+    "economy": "5. Emerging region: G20",
+    "area_km2": 301.99,
+    "name": "Cayman Islands",
+    "lon": -81.24055,
+    "iso_a2": "KY",
+    "lat": 19.319862,
+    "population:rank": 8,
+    "continent": "North America",
+    "gdp_md": 5517,
+    "population": 64948,
+    "region_wb": "Latin America & Caribbean",
+    "sovereignt": "United Kingdom",
+    "region_un": "Americas",
+    "income_grp": "2. High income: nonOECD",
+    "country_type": "Dependency",
+    "subregion": "Caribbean",
+    "url_alias": "ky",
+    "icon:square": "https://static.btcmap.org/images/countries/ky.svg",
+    "id": 427,
+    "merchantCount": 5
   },
   {
     "name": "Luxembourg",
@@ -2754,33 +2754,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/tt.svg",
     "id": 625,
     "merchantCount": 4
-  },
-  {
-    "name": "China",
-    "region_wb": "East Asia & Pacific",
-    "region_un": "Asia",
-    "population": 1397715000,
-    "population:year": 2019,
-    "iso_a3": "CHN",
-    "gdp_md": 14342903,
-    "population:rank": 18,
-    "lon": 106.337289,
-    "lat": 32.498178,
-    "iso_a2": "CN",
-    "country_type": "Country",
-    "continent": "Asia",
-    "gdp_year": 2019,
-    "sovereignt": "China",
-    "income_grp": "3. Upper middle income",
-    "subregion": "Eastern Asia",
-    "wikidataid": "Q148",
-    "area_km2": 9392196.51,
-    "economy": "3. Emerging region: BRIC",
-    "type": "country",
-    "url_alias": "cn",
-    "icon:square": "https://static.btcmap.org/images/countries/cn.svg",
-    "id": 203,
-    "merchantCount": 3
   },
   {
     "population:rank": 11,
@@ -3077,6 +3050,33 @@
     "url_alias": "cd",
     "icon:square": "https://static.btcmap.org/images/countries/cd.svg",
     "id": 191,
+    "merchantCount": 2
+  },
+  {
+    "name": "China",
+    "region_wb": "East Asia & Pacific",
+    "region_un": "Asia",
+    "population": 1397715000,
+    "population:year": 2019,
+    "iso_a3": "CHN",
+    "gdp_md": 14342903,
+    "population:rank": 18,
+    "lon": 106.337289,
+    "lat": 32.498178,
+    "iso_a2": "CN",
+    "country_type": "Country",
+    "continent": "Asia",
+    "gdp_year": 2019,
+    "sovereignt": "China",
+    "income_grp": "3. Upper middle income",
+    "subregion": "Eastern Asia",
+    "wikidataid": "Q148",
+    "area_km2": 9392196.51,
+    "economy": "3. Emerging region: BRIC",
+    "type": "country",
+    "url_alias": "cn",
+    "icon:square": "https://static.btcmap.org/images/countries/cn.svg",
+    "id": 203,
     "merchantCount": 2
   },
   {
