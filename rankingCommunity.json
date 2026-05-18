@@ -138,7 +138,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 309
+    "merchantCount": 310
   },
   {
     "box:east": 9.03617,
@@ -224,7 +224,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 207
+    "merchantCount": 208
   },
   {
     "name": "Vancouver Bitcoiners",
@@ -299,7 +299,7 @@
     "url_alias": "bitcoin-bulgaria",
     "contact:facebook": "https://www.facebook.com/btcbg/",
     "id": 82,
-    "merchantCount": 176
+    "merchantCount": 175
   },
   {
     "box:south": 32.62782,
@@ -993,28 +993,6 @@
     "merchantCount": 72
   },
   {
-    "box:west": 22.1,
-    "continent": "africa",
-    "population": "6000",
-    "type": "community",
-    "contact:email": "hermann.unravelsurftravel@gmail.com",
-    "box:north": -34.15,
-    "contact:twitter": "https://twitter.com/BitcoinEkasi",
-    "name": "Bitcoin Ekasi",
-    "population:date": "2023-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-ekasi.jpg",
-    "box:east": 22.15,
-    "box:south": -34.2,
-    "contact:website": "https://bitcoinekasi.com/",
-    "url_alias": "bitcoin-ekasi",
-    "area_km2": 195.4,
-    "contact:nostr": "npub1zkr064avsxmxzaasppamps86ge0npwvft9yu3ymgxmk9umx3xyeq9sk6ec",
-    "organization": "",
-    "verified:date": "2026-03-11",
-    "id": 99,
-    "merchantCount": 70
-  },
-  {
     "contact:website": "https://detbtc.com/",
     "contact:telegram": "https://t.me/detbtc",
     "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
@@ -1036,6 +1014,28 @@
     "url_alias": "detroit-bitcoin",
     "box:east": "-80.34301757812501",
     "id": 224,
+    "merchantCount": 71
+  },
+  {
+    "box:west": 22.1,
+    "continent": "africa",
+    "population": "6000",
+    "type": "community",
+    "contact:email": "hermann.unravelsurftravel@gmail.com",
+    "box:north": -34.15,
+    "contact:twitter": "https://twitter.com/BitcoinEkasi",
+    "name": "Bitcoin Ekasi",
+    "population:date": "2023-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-ekasi.jpg",
+    "box:east": 22.15,
+    "box:south": -34.2,
+    "contact:website": "https://bitcoinekasi.com/",
+    "url_alias": "bitcoin-ekasi",
+    "area_km2": 195.4,
+    "contact:nostr": "npub1zkr064avsxmxzaasppamps86ge0npwvft9yu3ymgxmk9umx3xyeq9sk6ec",
+    "organization": "",
+    "verified:date": "2026-03-11",
+    "id": 99,
     "merchantCount": 70
   },
   {
@@ -1975,6 +1975,21 @@
   },
   {
     "type": "community",
+    "url_alias": "chalchuapa-bitcoin",
+    "language": "es",
+    "contact:telegram": "https://t.me/chalchuapabitcoin",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/chalchuapa-bitcoin.jpg",
+    "organization": "plan-b-network",
+    "population:date": "2020-01-01",
+    "area_km2": 186.81,
+    "name": "Chalchuapa Bitcoin",
+    "population": 74038,
+    "id": 195,
+    "merchantCount": 41
+  },
+  {
+    "type": "community",
     "url_alias": "algarve",
     "icon:square": "https://static.btcmap.org/images/communities/algarve.jpg",
     "name": "Bitcoin Algarve",
@@ -1988,22 +2003,7 @@
     "box:east": -7.399,
     "contact:signal": "https://signal.group/#CjQKIGVVt4H1X6Civ-rAfLWStKB9PCujSSbAeXlgqdAWtgujEhBZ-3z1cPIhzX8IF-FIr_t5",
     "id": 16,
-    "merchantCount": 41
-  },
-  {
-    "type": "community",
-    "url_alias": "chalchuapa-bitcoin",
-    "language": "es",
-    "contact:telegram": "https://t.me/chalchuapabitcoin",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/chalchuapa-bitcoin.jpg",
-    "organization": "plan-b-network",
-    "population:date": "2020-01-01",
-    "area_km2": 186.81,
-    "name": "Chalchuapa Bitcoin",
-    "population": 74038,
-    "id": 195,
-    "merchantCount": 41
+    "merchantCount": 40
   },
   {
     "continent": "north-america",
@@ -6933,21 +6933,6 @@
     "merchantCount": 5
   },
   {
-    "continent": "europe",
-    "icon:square": "https://i.nostr.build/nW7Vq.png",
-    "name": "Bitcoin Chiavenna",
-    "population": 7000,
-    "population:date": "2023-01-01",
-    "url_alias": "bitcoin-chiavenna",
-    "area_km2": 10.96,
-    "contact:twitter": "https://twitter.com/BTC_Chiavenna",
-    "contact:email": "bitcoinchiavenna@pm.me",
-    "tips:url": "https://bitcoinchiavenna@geyser.fund",
-    "type": "community",
-    "id": 833,
-    "merchantCount": 5
-  },
-  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/areas/876.png",
     "name": "Hoosier Bitcoin",
@@ -7283,6 +7268,21 @@
     "contact:email": "info@bitcoin.si",
     "type": "community",
     "id": 815,
+    "merchantCount": 4
+  },
+  {
+    "continent": "europe",
+    "icon:square": "https://i.nostr.build/nW7Vq.png",
+    "name": "Bitcoin Chiavenna",
+    "population": 7000,
+    "population:date": "2023-01-01",
+    "url_alias": "bitcoin-chiavenna",
+    "area_km2": 10.96,
+    "contact:twitter": "https://twitter.com/BTC_Chiavenna",
+    "contact:email": "bitcoinchiavenna@pm.me",
+    "tips:url": "https://bitcoinchiavenna@geyser.fund",
+    "type": "community",
+    "id": 833,
     "merchantCount": 4
   },
   {
