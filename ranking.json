@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 27709
+    "merchantCount": 27731
   },
   {
     "sovereignt": "United States of America",
@@ -30,7 +30,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9002
+    "merchantCount": 9019
   },
   {
     "type": "trash",
@@ -126,7 +126,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1321
+    "merchantCount": 1320
   },
   {
     "contact:website": "https://satoshispritz.it/",
@@ -142,7 +142,7 @@
     "continent": "europe",
     "type": "trash",
     "id": 572,
-    "merchantCount": 1103
+    "merchantCount": 1102
   },
   {
     "subregion": "Southern Europe",
@@ -169,7 +169,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1065
+    "merchantCount": 1064
   },
   {
     "continent": "africa",
@@ -364,7 +364,7 @@
     "url_alias": "mx",
     "icon:square": "https://static.btcmap.org/images/countries/mx.svg",
     "id": 493,
-    "merchantCount": 546
+    "merchantCount": 549
   },
   {
     "gdp_md": 543548,
@@ -405,7 +405,7 @@
     "organization": "2140-meetups",
     "population": "567698",
     "id": 474,
-    "merchantCount": 434
+    "merchantCount": 433
   },
   {
     "country_type": "Sovereign country",
@@ -1365,7 +1365,7 @@
     "population": 2709418,
     "url_alias": "jednadvacet-praha",
     "id": 411,
-    "merchantCount": 120
+    "merchantCount": 122
   },
   {
     "type": "trash",
@@ -1380,7 +1380,7 @@
     "url_alias": "paralelni-polis",
     "population:date": "2021",
     "id": 521,
-    "merchantCount": 120
+    "merchantCount": 122
   },
   {
     "area_km2": 699.45,
@@ -2494,6 +2494,24 @@
     "merchantCount": 62
   },
   {
+    "population:date": "2021-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/triangle-bit-devs.png",
+    "contact:email": "trianglebitdevs@protonmail.com",
+    "type": "community",
+    "url_alias": "triangle-bit-devs",
+    "area_km2": 2558.64,
+    "continent": "north-america",
+    "contact:meetup": "https://www.meetup.com/triangle-bitdevs/",
+    "contact:twitter": "https://twitter.com/TriangleBitDevs",
+    "contact:website": "http://trianglebitdevs.org",
+    "population": "1150204",
+    "name": "Triangle BitDevs",
+    "organization": "bit-devs",
+    "tips:lightning_address": "trianglebitdevs@getalby.com",
+    "id": 623,
+    "merchantCount": 61
+  },
+  {
     "continent": "europe",
     "name": "Bitcoin Club",
     "population": 1284870,
@@ -2513,24 +2531,6 @@
     "contact:phone": "+359878413688",
     "id": 986,
     "merchantCount": 61
-  },
-  {
-    "population:date": "2021-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/triangle-bit-devs.png",
-    "contact:email": "trianglebitdevs@protonmail.com",
-    "type": "community",
-    "url_alias": "triangle-bit-devs",
-    "area_km2": 2558.64,
-    "continent": "north-america",
-    "contact:meetup": "https://www.meetup.com/triangle-bitdevs/",
-    "contact:twitter": "https://twitter.com/TriangleBitDevs",
-    "contact:website": "http://trianglebitdevs.org",
-    "population": "1150204",
-    "name": "Triangle BitDevs",
-    "organization": "bit-devs",
-    "tips:lightning_address": "trianglebitdevs@getalby.com",
-    "id": 623,
-    "merchantCount": 60
   },
   {
     "continent": "north-america",
@@ -2745,6 +2745,22 @@
     "merchantCount": 52
   },
   {
+    "continent": "europe",
+    "type": "community",
+    "area_km2": 2124.88,
+    "contact:youtube": "https://www.youtube.com/channel/UCqMtyR0cXniDzO27yKORD-g",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-valley.png",
+    "name": "Bitcoin Valley",
+    "population": 39915,
+    "population:date": "2018-03-31",
+    "url_alias": "bitcoin-valley",
+    "contact:email": "info@inbitcoin.it",
+    "contact:instagram": "https://instagram.com/bitcoin.valley",
+    "contact:website": "https://bitcoinvalley.eu/",
+    "id": 147,
+    "merchantCount": 51
+  },
+  {
     "area_km2": 6676,
     "contact:email": "info@bitcoinpeople.it",
     "contact:facebook": "https://www.facebook.com/bitcoinpeople.it/",
@@ -2762,22 +2778,6 @@
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-people-brescia.png",
     "langauge": "it",
     "id": 738,
-    "merchantCount": 52
-  },
-  {
-    "continent": "europe",
-    "type": "community",
-    "area_km2": 2124.88,
-    "contact:youtube": "https://www.youtube.com/channel/UCqMtyR0cXniDzO27yKORD-g",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-valley.png",
-    "name": "Bitcoin Valley",
-    "population": 39915,
-    "population:date": "2018-03-31",
-    "url_alias": "bitcoin-valley",
-    "contact:email": "info@inbitcoin.it",
-    "contact:instagram": "https://instagram.com/bitcoin.valley",
-    "contact:website": "https://bitcoinvalley.eu/",
-    "id": 147,
     "merchantCount": 51
   },
   {
@@ -3572,6 +3572,49 @@
     "merchantCount": 38
   },
   {
+    "name": "SLC-BTC",
+    "population:date": "2022-01-01",
+    "contact:twitter": "https://twitter.com/SLC_BTC_Meetup",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/slc-btc.jpeg",
+    "contact:meetup": "https://www.meetup.com/meetup-group-zuyvgaos/",
+    "tips:url": "https://ibexpay.ibexmercado.com/bpt/1ce994e6-e591-4e85-a363-659a39d59f3a",
+    "population": "1185238",
+    "contact:website": "https://www.slc-btc.org/",
+    "url_alias": "slc-btc",
+    "area_km2": 2089.92,
+    "continent": "north-america",
+    "id": 589,
+    "merchantCount": 37
+  },
+  {
+    "area_km2": 385110.87,
+    "continent": "Europe",
+    "country_type": "Sovereign country",
+    "economy": "2. Developed region: nonG7",
+    "gdp_md": 403336,
+    "gdp_year": 2019,
+    "income_grp": "1. High income: OECD",
+    "iso_a2": "NO",
+    "iso_a3": "NOR",
+    "lat": 61.357092,
+    "lon": 9.679975,
+    "name": "Norway",
+    "population": 5347896,
+    "population:rank": 13,
+    "population:year": 2019,
+    "region_un": "Europe",
+    "region_wb": "Europe & Central Asia",
+    "sovereignt": "Norway",
+    "subregion": "Northern Europe",
+    "type": "country",
+    "url_alias": "no",
+    "wikidataid": "Q20",
+    "icon:square": "https://static.btcmap.org/images/countries/no.svg",
+    "id": 686,
+    "merchantCount": 37
+  },
+  {
     "area_km2": 208.92,
     "contact:email": "bitcoinduc@gmail.com",
     "contact:telegram": "https://t.me/BTCDUCMEETUP",
@@ -3678,49 +3721,6 @@
     "url_alias": "hu",
     "icon:square": "https://static.btcmap.org/images/countries/hu.svg",
     "id": 395,
-    "merchantCount": 36
-  },
-  {
-    "name": "SLC-BTC",
-    "population:date": "2022-01-01",
-    "contact:twitter": "https://twitter.com/SLC_BTC_Meetup",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/slc-btc.jpeg",
-    "contact:meetup": "https://www.meetup.com/meetup-group-zuyvgaos/",
-    "tips:url": "https://ibexpay.ibexmercado.com/bpt/1ce994e6-e591-4e85-a363-659a39d59f3a",
-    "population": "1185238",
-    "contact:website": "https://www.slc-btc.org/",
-    "url_alias": "slc-btc",
-    "area_km2": 2089.92,
-    "continent": "north-america",
-    "id": 589,
-    "merchantCount": 36
-  },
-  {
-    "area_km2": 385110.87,
-    "continent": "Europe",
-    "country_type": "Sovereign country",
-    "economy": "2. Developed region: nonG7",
-    "gdp_md": 403336,
-    "gdp_year": 2019,
-    "income_grp": "1. High income: OECD",
-    "iso_a2": "NO",
-    "iso_a3": "NOR",
-    "lat": 61.357092,
-    "lon": 9.679975,
-    "name": "Norway",
-    "population": 5347896,
-    "population:rank": 13,
-    "population:year": 2019,
-    "region_un": "Europe",
-    "region_wb": "Europe & Central Asia",
-    "sovereignt": "Norway",
-    "subregion": "Northern Europe",
-    "type": "country",
-    "url_alias": "no",
-    "wikidataid": "Q20",
-    "icon:square": "https://static.btcmap.org/images/countries/no.svg",
-    "id": 686,
     "merchantCount": 36
   },
   {
@@ -6288,6 +6288,22 @@
     "merchantCount": 13
   },
   {
+    "contact:email": "info@bitcoin101.io",
+    "continent": "north-america",
+    "population": "10077331",
+    "url_alias": "mid-michigan-bitcoin",
+    "population:date": "2020-01-01",
+    "contact:eventbrite": "https://www.eventbrite.com/e/mid-michigan-bitcoin-december-meetup-tickets-477328340917",
+    "contact:website": "https://bitcoin101.io/events/",
+    "type": "community",
+    "name": "Mid Michigan Bitcoin",
+    "icon:square": "https://static.btcmap.org/images/communities/mid-michigan-bitcoin.jpeg",
+    "contact:twitter": "https://twitter.com/517Bitcoin",
+    "area_km2": 7197.72,
+    "id": 475,
+    "merchantCount": 13
+  },
+  {
     "iso_a3": "MLT",
     "country_type": "Sovereign country",
     "lon": 14.433005,
@@ -6506,22 +6522,6 @@
     "contact:telegram": "https://t.me/Meetup21SA",
     "icon:square": "https://static.btcmap.org/images/areas/328.png",
     "id": 328,
-    "merchantCount": 12
-  },
-  {
-    "contact:email": "info@bitcoin101.io",
-    "continent": "north-america",
-    "population": "10077331",
-    "url_alias": "mid-michigan-bitcoin",
-    "population:date": "2020-01-01",
-    "contact:eventbrite": "https://www.eventbrite.com/e/mid-michigan-bitcoin-december-meetup-tickets-477328340917",
-    "contact:website": "https://bitcoin101.io/events/",
-    "type": "community",
-    "name": "Mid Michigan Bitcoin",
-    "icon:square": "https://static.btcmap.org/images/communities/mid-michigan-bitcoin.jpeg",
-    "contact:twitter": "https://twitter.com/517Bitcoin",
-    "area_km2": 7197.72,
-    "id": 475,
     "merchantCount": 12
   },
   {
