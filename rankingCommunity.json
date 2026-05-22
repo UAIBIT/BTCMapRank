@@ -121,7 +121,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 316
+    "merchantCount": 317
   },
   {
     "box:east": 9.03617,
@@ -207,7 +207,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 213
+    "merchantCount": 215
   },
   {
     "name": "Vancouver Bitcoiners",
@@ -1040,7 +1040,7 @@
     "area_km2": 1181.04,
     "contact:nostr": "npub1p7g986pc56qmvryplgzka0fsrpuwlk6mxk3h686w4e46n74e56qqhz88vk",
     "id": 84,
-    "merchantCount": 67
+    "merchantCount": 68
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-maximex-club.jpeg",
@@ -1161,23 +1161,6 @@
     "merchantCount": 64
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitdevs-cdmx.png",
-    "name": "Bitdevs CDMX",
-    "population": 9209944,
-    "population:date": "2024-01-01",
-    "url_alias": "bitdevs-cdmx",
-    "organization": "bit-devs",
-    "contact:website": "https://www.cdmxbitdevs.org/",
-    "description": "La Casa de Satoshi CDMX is a non-profit organization leading Bitcoin adoption in Mexico City.",
-    "contact:meetup": "https://lu.ma/lacasadesatoshi",
-    "area_km2": 985.26,
-    "contact:twitter": "https://x.com/LaCasaDeSatoshi",
-    "type": "community",
-    "id": 844,
-    "merchantCount": 64
-  },
-  {
     "contact:twitter": "https://twitter.com/BelgianBitcoin",
     "box:north": "51.26685586346179",
     "population:date": "2022-01-01",
@@ -1199,7 +1182,24 @@
     "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
     "verified:date": "2026-04-21",
     "id": 51,
-    "merchantCount": 63
+    "merchantCount": 64
+  },
+  {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitdevs-cdmx.png",
+    "name": "Bitdevs CDMX",
+    "population": 9209944,
+    "population:date": "2024-01-01",
+    "url_alias": "bitdevs-cdmx",
+    "organization": "bit-devs",
+    "contact:website": "https://www.cdmxbitdevs.org/",
+    "description": "La Casa de Satoshi CDMX is a non-profit organization leading Bitcoin adoption in Mexico City.",
+    "contact:meetup": "https://lu.ma/lacasadesatoshi",
+    "area_km2": 985.26,
+    "contact:twitter": "https://x.com/LaCasaDeSatoshi",
+    "type": "community",
+    "id": 844,
+    "merchantCount": 64
   },
   {
     "area_km2": 313.96,
@@ -3121,6 +3121,22 @@
     "merchantCount": 21
   },
   {
+    "name": "Bitcoin Beach Yucatan",
+    "contact:nostr": "npub1w2my0n7rklzdgw7anjdnssq8mjzkpr54apqeg3pk9qjauu9dt26smyydvm",
+    "continent": "north-america",
+    "population:date": "2022-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-beach-yucatan.jpeg",
+    "url_alias": "bitcoin-beach-yucatan",
+    "contact:email": "bitcoinbeachyucatan@gmail.com",
+    "contact:twitter": "https://twitter.com/bitcoinyucatan",
+    "area_km2": 431.13,
+    "population": 1201000,
+    "contact:website": "http://www.bitcoinyucatan.com/",
+    "type": "community",
+    "id": 76,
+    "merchantCount": 21
+  },
+  {
     "area_km2": 418.15,
     "population": "258685",
     "url_alias": "bitcoin-in-venice",
@@ -3309,22 +3325,6 @@
     "organization": "uaibit",
     "id": 911,
     "merchantCount": 19
-  },
-  {
-    "name": "Bitcoin Beach Yucatan",
-    "contact:nostr": "npub1w2my0n7rklzdgw7anjdnssq8mjzkpr54apqeg3pk9qjauu9dt26smyydvm",
-    "continent": "north-america",
-    "population:date": "2022-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-beach-yucatan.jpeg",
-    "url_alias": "bitcoin-beach-yucatan",
-    "contact:email": "bitcoinbeachyucatan@gmail.com",
-    "contact:twitter": "https://twitter.com/bitcoinyucatan",
-    "area_km2": 431.13,
-    "population": 1201000,
-    "contact:website": "http://www.bitcoinyucatan.com/",
-    "type": "community",
-    "id": 76,
-    "merchantCount": 18
   },
   {
     "population": 5543828,
@@ -5331,6 +5331,21 @@
     "merchantCount": 8
   },
   {
+    "name": "Einundzwanzig Frankfurt am Main",
+    "population:date": "2021-12-31",
+    "contact:telegram": "https://t.me/einundzwanzigffm",
+    "language": "de",
+    "organization": "einundzwanzig",
+    "url_alias": "einundzwanzig-frankfurt-am-main",
+    "type": "community",
+    "area_km2": 248.96,
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-frankfurt-am-main.webp",
+    "population": 759224,
+    "continent": "europe",
+    "id": 270,
+    "merchantCount": 8
+  },
+  {
     "continent": "europe",
     "name": "Einundzwanzig Unterfranken",
     "population:date": "2021-12-31",
@@ -5716,21 +5731,6 @@
     "contact:twitter": "https://twitter.com/AteliersBitcoin",
     "verified:date": "2026-04-21",
     "id": 190,
-    "merchantCount": 7
-  },
-  {
-    "name": "Einundzwanzig Frankfurt am Main",
-    "population:date": "2021-12-31",
-    "contact:telegram": "https://t.me/einundzwanzigffm",
-    "language": "de",
-    "organization": "einundzwanzig",
-    "url_alias": "einundzwanzig-frankfurt-am-main",
-    "type": "community",
-    "area_km2": 248.96,
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-frankfurt-am-main.webp",
-    "population": 759224,
-    "continent": "europe",
-    "id": 270,
     "merchantCount": 7
   },
   {
