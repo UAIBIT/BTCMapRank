@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9019
+    "merchantCount": 9036
   },
   {
     "gdp_md": 351431,
@@ -132,7 +132,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1064
+    "merchantCount": 1063
   },
   {
     "iso_a2": "CH",
@@ -159,7 +159,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 816
+    "merchantCount": 813
   },
   {
     "name": "Germany",
@@ -351,6 +351,33 @@
     "merchantCount": 369
   },
   {
+    "population:rank": 14,
+    "wikidataid": "Q213",
+    "country_type": "Sovereign country",
+    "name": "Czechia",
+    "continent": "Europe",
+    "region_wb": "Europe & Central Asia",
+    "region_un": "Europe",
+    "lon": 15.377555,
+    "iso_a3": "CZE",
+    "iso_a2": "CZ",
+    "gdp_year": 2019,
+    "lat": 49.882364,
+    "economy": "2. Developed region: nonG7",
+    "type": "country",
+    "population": 10669709,
+    "income_grp": "1. High income: OECD",
+    "subregion": "Eastern Europe",
+    "area_km2": 78657.89,
+    "population:year": 2019,
+    "gdp_md": 250680,
+    "sovereignt": "Czechia",
+    "url_alias": "cz",
+    "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
+    "id": 218,
+    "merchantCount": 363
+  },
+  {
     "iso_a2": "NL",
     "continent": "Europe",
     "gdp_year": 2019,
@@ -376,33 +403,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/nl.svg",
     "id": 507,
     "merchantCount": 363
-  },
-  {
-    "population:rank": 14,
-    "wikidataid": "Q213",
-    "country_type": "Sovereign country",
-    "name": "Czechia",
-    "continent": "Europe",
-    "region_wb": "Europe & Central Asia",
-    "region_un": "Europe",
-    "lon": 15.377555,
-    "iso_a3": "CZE",
-    "iso_a2": "CZ",
-    "gdp_year": 2019,
-    "lat": 49.882364,
-    "economy": "2. Developed region: nonG7",
-    "type": "country",
-    "population": 10669709,
-    "income_grp": "1. High income: OECD",
-    "subregion": "Eastern Europe",
-    "area_km2": 78657.89,
-    "population:year": 2019,
-    "gdp_md": 250680,
-    "sovereignt": "Czechia",
-    "url_alias": "cz",
-    "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
-    "id": 218,
-    "merchantCount": 362
   },
   {
     "gdp_md": 17477,
@@ -483,7 +483,7 @@
     "wikidataid": "Q142",
     "icon:square": "https://static.btcmap.org/images/countries/fr.svg",
     "id": 685,
-    "merchantCount": 333
+    "merchantCount": 334
   },
   {
     "name": "Poland",
@@ -667,7 +667,7 @@
     "url_alias": "ke",
     "icon:square": "https://static.btcmap.org/images/countries/ke.svg",
     "id": 415,
-    "merchantCount": 186
+    "merchantCount": 189
   },
   {
     "income_grp": "3. Upper middle income",
@@ -721,7 +721,7 @@
     "url_alias": "bo",
     "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
     "id": 168,
-    "merchantCount": 133
+    "merchantCount": 134
   },
   {
     "lon": -70.653998,
@@ -778,6 +778,33 @@
     "merchantCount": 126
   },
   {
+    "sovereignt": "Colombia",
+    "iso_a3": "COL",
+    "name": "Colombia",
+    "economy": "6. Developing region",
+    "type": "country",
+    "population:year": 2019,
+    "iso_a2": "CO",
+    "population": 50339443,
+    "region_wb": "Latin America & Caribbean",
+    "lon": -73.174347,
+    "region_un": "Americas",
+    "population:rank": 16,
+    "gdp_md": 323615,
+    "gdp_year": 2019,
+    "continent": "South America",
+    "income_grp": "3. Upper middle income",
+    "area_km2": 1141982.41,
+    "wikidataid": "Q739",
+    "lat": 3.373111,
+    "country_type": "Sovereign country",
+    "subregion": "South America",
+    "url_alias": "co",
+    "icon:square": "https://static.btcmap.org/images/countries/co.svg",
+    "id": 205,
+    "merchantCount": 124
+  },
+  {
     "iso_a2": "SR",
     "continent": "South America",
     "iso_a3": "SUR",
@@ -803,33 +830,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/sr.svg",
     "id": 593,
     "merchantCount": 124
-  },
-  {
-    "sovereignt": "Colombia",
-    "iso_a3": "COL",
-    "name": "Colombia",
-    "economy": "6. Developing region",
-    "type": "country",
-    "population:year": 2019,
-    "iso_a2": "CO",
-    "population": 50339443,
-    "region_wb": "Latin America & Caribbean",
-    "lon": -73.174347,
-    "region_un": "Americas",
-    "population:rank": 16,
-    "gdp_md": 323615,
-    "gdp_year": 2019,
-    "continent": "South America",
-    "income_grp": "3. Upper middle income",
-    "area_km2": 1141982.41,
-    "wikidataid": "Q739",
-    "lat": 3.373111,
-    "country_type": "Sovereign country",
-    "subregion": "South America",
-    "url_alias": "co",
-    "icon:square": "https://static.btcmap.org/images/countries/co.svg",
-    "id": 205,
-    "merchantCount": 115
   },
   {
     "region_wb": "Latin America & Caribbean",
