@@ -18403,15 +18403,39 @@
     "merchantCount": 1
   },
   {
+    "continent": "north-america",
+    "name": "Columbia SC Bitcoin",
+    "population": 139698,
+    "population:date": "2026-05-27",
+    "url_alias": "columbiasc-bitcoin",
+    "contact:website": "https://www.columbiabitcoin.com/",
+    "contact:nostr": "npub168h60e5jj0t89kx08fd7x2nee4s2kr0zqqecdrfsdmka9htqn22qepwz7s",
+    "contact:email": "btcwrestle2001@protonmail.com",
+    "tips:lightning_address": "Blissfulinspiration519440@getalby.com",
+    "area_km2": 667.99,
+    "language": "en",
+    "description": "A casual monthly meetup for Bitcoiners and anyone interested in learning about Bitcoin as a hedge against monetary debasement and tool for individual freedom.",
+    "type": "community",
+    "verified:date": "2026-05-27",
+    "icon:square": "https://static.btcmap.org/images/areas/999.png",
     "id": 999,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
+    "continent": "south-america",
+    "name": "BotuSats",
+    "population": 145155,
+    "population:date": "2026-05-27",
+    "url_alias": "botusats",
+    "contact:instagram": "https://www.instagram.com/botusats/",
+    "tips:lightning_address": "botusats@coinos.io",
+    "contact:email": "botusats@gmail.com",
+    "area_km2": 2101.57,
+    "language": "pt",
+    "type": "community",
+    "verified:date": "2026-05-27",
+    "icon:square": "https://static.btcmap.org/images/areas/1000.png",
     "id": 1000,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   }
 ]
