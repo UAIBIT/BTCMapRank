@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 27868
+    "merchantCount": 27897
   },
   {
     "sovereignt": "United States of America",
@@ -30,7 +30,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9143
+    "merchantCount": 9165
   },
   {
     "type": "trash",
@@ -142,7 +142,7 @@
     "continent": "europe",
     "type": "trash",
     "id": 572,
-    "merchantCount": 1101
+    "merchantCount": 1102
   },
   {
     "subregion": "Southern Europe",
@@ -169,7 +169,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1063
+    "merchantCount": 1064
   },
   {
     "continent": "africa",
@@ -283,7 +283,7 @@
     "population": "83695430",
     "continent": "europe",
     "id": 262,
-    "merchantCount": 616
+    "merchantCount": 617
   },
   {
     "name": "Germany",
@@ -310,7 +310,7 @@
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
     "id": 220,
-    "merchantCount": 609
+    "merchantCount": 610
   },
   {
     "sovereignt": "Canada",
@@ -364,7 +364,7 @@
     "url_alias": "mx",
     "icon:square": "https://static.btcmap.org/images/countries/mx.svg",
     "id": 493,
-    "merchantCount": 549
+    "merchantCount": 550
   },
   {
     "gdp_md": 543548,
@@ -610,7 +610,7 @@
     "area_km2": 155452.15,
     "organization": "einundzwanzig",
     "id": 316,
-    "merchantCount": 340
+    "merchantCount": 341
   },
   {
     "wikidataid": "Q45",
@@ -637,7 +637,7 @@
     "url_alias": "pt",
     "icon:square": "https://static.btcmap.org/images/countries/pt.svg",
     "id": 541,
-    "merchantCount": 339
+    "merchantCount": 340
   },
   {
     "url_alias": "vinte-e-um",
@@ -649,7 +649,7 @@
     "icon:square": "https://static.btcmap.org/images/communities/vinte-e-um.jpg",
     "area_km2": 149349.44,
     "id": 646,
-    "merchantCount": 339
+    "merchantCount": 340
   },
   {
     "area_km2": 636466.7,
@@ -676,7 +676,7 @@
     "wikidataid": "Q142",
     "icon:square": "https://static.btcmap.org/images/countries/fr.svg",
     "id": 685,
-    "merchantCount": 334
+    "merchantCount": 336
   },
   {
     "contact:twitter": "https://twitter.com/bitplebsla",
@@ -691,7 +691,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 327
+    "merchantCount": 328
   },
   {
     "name": "Poland",
@@ -880,7 +880,7 @@
     "name": "Colorado Bitcoin",
     "box:south": "36.998301253689604",
     "id": 209,
-    "merchantCount": 219
+    "merchantCount": 220
   },
   {
     "contact:email": "tokyocitadel.npm6r@aleeas.com",
@@ -1873,6 +1873,25 @@
     "merchantCount": 78
   },
   {
+    "name": "Bitcoin Charlotte",
+    "contact:website": "https://bitcoincharlotte.org",
+    "population": "874579",
+    "contact:meetup": "https://www.meetup.com/bitcoincharlotte/",
+    "contact:telegram": "https://t.me/+X6EzT7m7KdHU34nB",
+    "population:date": "2020-01-01",
+    "url_alias": "bitcoin-charlotte",
+    "contact:twitter": "https://twitter.com/Bitcoin_CLT",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-charlotte.jpeg",
+    "continent": "north-america",
+    "type": "community",
+    "contact:instagram": "https://www.instagram.com/bitcoincharlotte/",
+    "contact:email": "jacob@bitcoincharlotte.org",
+    "area_km2": 1181.04,
+    "contact:nostr": "npub1p7g986pc56qmvryplgzka0fsrpuwlk6mxk3h686w4e46n74e56qqhz88vk",
+    "id": 84,
+    "merchantCount": 77
+  },
+  {
     "area_km2": 182349.87,
     "contact:telegram": "https://t.me/+2yNtegasqLJmMjc1",
     "contact:twitter": "https://x.com/i/communities/1862541840572194921",
@@ -1937,25 +1956,6 @@
     "contact:nostr": "npub1rujdpkd8mwezrvpqd2rx2zphfaztqrtsfg6w3vdnljdghs2q8qrqtt9u68",
     "id": 845,
     "merchantCount": 76
-  },
-  {
-    "name": "Bitcoin Charlotte",
-    "contact:website": "https://bitcoincharlotte.org",
-    "population": "874579",
-    "contact:meetup": "https://www.meetup.com/bitcoincharlotte/",
-    "contact:telegram": "https://t.me/+X6EzT7m7KdHU34nB",
-    "population:date": "2020-01-01",
-    "url_alias": "bitcoin-charlotte",
-    "contact:twitter": "https://twitter.com/Bitcoin_CLT",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-charlotte.jpeg",
-    "continent": "north-america",
-    "type": "community",
-    "contact:instagram": "https://www.instagram.com/bitcoincharlotte/",
-    "contact:email": "jacob@bitcoincharlotte.org",
-    "area_km2": 1181.04,
-    "contact:nostr": "npub1p7g986pc56qmvryplgzka0fsrpuwlk6mxk3h686w4e46n74e56qqhz88vk",
-    "id": 84,
-    "merchantCount": 75
   },
   {
     "box:north": "51.45837579976947",
@@ -2247,6 +2247,33 @@
     "merchantCount": 67
   },
   {
+    "lat": 7.182476,
+    "iso_a2": "VE",
+    "area_km2": 916364.49,
+    "population": 28515829,
+    "income_grp": "3. Upper middle income",
+    "sovereignt": "Venezuela",
+    "wikidataid": "Q717",
+    "continent": "South America",
+    "name": "Venezuela",
+    "region_wb": "Latin America & Caribbean",
+    "lon": -64.599381,
+    "gdp_year": 2014,
+    "economy": "5. Emerging region: G20",
+    "subregion": "South America",
+    "type": "country",
+    "region_un": "Americas",
+    "iso_a3": "VEN",
+    "gdp_md": 482359,
+    "country_type": "Sovereign country",
+    "population:rank": 15,
+    "population:year": 2019,
+    "url_alias": "ve",
+    "icon:square": "https://static.btcmap.org/images/countries/ve.svg",
+    "id": 641,
+    "merchantCount": 67
+  },
+  {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-maximex-club.jpeg",
     "continent": "north-america",
     "url_alias": "bitcoin-maximex-club",
@@ -2275,33 +2302,6 @@
     "merchantCount": 66
   },
   {
-    "lat": 7.182476,
-    "iso_a2": "VE",
-    "area_km2": 916364.49,
-    "population": 28515829,
-    "income_grp": "3. Upper middle income",
-    "sovereignt": "Venezuela",
-    "wikidataid": "Q717",
-    "continent": "South America",
-    "name": "Venezuela",
-    "region_wb": "Latin America & Caribbean",
-    "lon": -64.599381,
-    "gdp_year": 2014,
-    "economy": "5. Emerging region: G20",
-    "subregion": "South America",
-    "type": "country",
-    "region_un": "Americas",
-    "iso_a3": "VEN",
-    "gdp_md": 482359,
-    "country_type": "Sovereign country",
-    "population:rank": 15,
-    "population:year": 2019,
-    "url_alias": "ve",
-    "icon:square": "https://static.btcmap.org/images/countries/ve.svg",
-    "id": 641,
-    "merchantCount": 66
-  },
-  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-research.png",
     "name": "Bitcoin Research",
@@ -2318,6 +2318,57 @@
     "verified:date": "2026-02-22",
     "id": 886,
     "merchantCount": 66
+  },
+  {
+    "lat": 50.785392,
+    "region_wb": "Europe & Central Asia",
+    "name": "Belgium",
+    "gdp_md": 533097,
+    "income_grp": "1. High income: OECD",
+    "country_type": "Sovereign country",
+    "area_km2": 30699.29,
+    "population:rank": 14,
+    "gdp_year": 2019,
+    "type": "country",
+    "iso_a3": "BEL",
+    "lon": 4.800448,
+    "region_un": "Europe",
+    "population:year": 2019,
+    "sovereignt": "Belgium",
+    "wikidataid": "Q31",
+    "subregion": "Western Europe",
+    "iso_a2": "BE",
+    "economy": "2. Developed region: nonG7",
+    "continent": "Europe",
+    "population": 11484055,
+    "url_alias": "be",
+    "icon:square": "https://static.btcmap.org/images/countries/be.svg",
+    "id": 50,
+    "merchantCount": 65
+  },
+  {
+    "contact:twitter": "https://twitter.com/BelgianBitcoin",
+    "box:north": "51.26685586346179",
+    "population:date": "2022-01-01",
+    "contact:linkedin": "https://www.linkedin.com/company/belgian-bitcoin-embassy/",
+    "continent": "europe",
+    "contact:discord": "https://discord.gg/m4U7w5kJhC",
+    "contact:youtube": "https://www.youtube.com/channel/UClSutp6-J9QkiQCtcvA5Rng",
+    "box:south": "51.17094848701857",
+    "contact:telegram": "https://t.me/BelgianBitcoinEmbassy",
+    "box:west": "4.300117492675782",
+    "name": "Belgian Bitcoin Embassy",
+    "url_alias": "belgian-bitcoin-embassy",
+    "area_km2": 32088.78,
+    "box:east": "4.504737854003907",
+    "icon:square": "https://static.btcmap.org/images/areas/51.png",
+    "contact:website": "https://www.belgianbitcoinembassy.org/",
+    "population": "11584008",
+    "type": "community",
+    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
+    "verified:date": "2026-04-21",
+    "id": 51,
+    "merchantCount": 65
   },
   {
     "contact:twitter": "https://twitter.com/21BitcoinPolska",
@@ -2389,57 +2440,6 @@
     "contact:nostr": "npub1g03fmsydtv6kpfpqh7x2xqychq2rw4fuejxuvenulquqlk5ypfeqy3q5vj",
     "verified:date": "2026-01-28",
     "id": 28,
-    "merchantCount": 64
-  },
-  {
-    "lat": 50.785392,
-    "region_wb": "Europe & Central Asia",
-    "name": "Belgium",
-    "gdp_md": 533097,
-    "income_grp": "1. High income: OECD",
-    "country_type": "Sovereign country",
-    "area_km2": 30699.29,
-    "population:rank": 14,
-    "gdp_year": 2019,
-    "type": "country",
-    "iso_a3": "BEL",
-    "lon": 4.800448,
-    "region_un": "Europe",
-    "population:year": 2019,
-    "sovereignt": "Belgium",
-    "wikidataid": "Q31",
-    "subregion": "Western Europe",
-    "iso_a2": "BE",
-    "economy": "2. Developed region: nonG7",
-    "continent": "Europe",
-    "population": 11484055,
-    "url_alias": "be",
-    "icon:square": "https://static.btcmap.org/images/countries/be.svg",
-    "id": 50,
-    "merchantCount": 64
-  },
-  {
-    "contact:twitter": "https://twitter.com/BelgianBitcoin",
-    "box:north": "51.26685586346179",
-    "population:date": "2022-01-01",
-    "contact:linkedin": "https://www.linkedin.com/company/belgian-bitcoin-embassy/",
-    "continent": "europe",
-    "contact:discord": "https://discord.gg/m4U7w5kJhC",
-    "contact:youtube": "https://www.youtube.com/channel/UClSutp6-J9QkiQCtcvA5Rng",
-    "box:south": "51.17094848701857",
-    "contact:telegram": "https://t.me/BelgianBitcoinEmbassy",
-    "box:west": "4.300117492675782",
-    "name": "Belgian Bitcoin Embassy",
-    "url_alias": "belgian-bitcoin-embassy",
-    "area_km2": 32088.78,
-    "box:east": "4.504737854003907",
-    "icon:square": "https://static.btcmap.org/images/areas/51.png",
-    "contact:website": "https://www.belgianbitcoinembassy.org/",
-    "population": "11584008",
-    "type": "community",
-    "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
-    "verified:date": "2026-04-21",
-    "id": 51,
     "merchantCount": 64
   },
   {
@@ -3477,33 +3477,6 @@
     "merchantCount": 38
   },
   {
-    "name": "India",
-    "region_wb": "South Asia",
-    "gdp_md": 2868929,
-    "country_type": "Sovereign country",
-    "continent": "Asia",
-    "population:rank": 18,
-    "sovereignt": "India",
-    "area_km2": 3162895.72,
-    "economy": "3. Emerging region: BRIC",
-    "region_un": "Asia",
-    "population": 1366417754,
-    "population:year": 2019,
-    "type": "country",
-    "wikidataid": "Q668",
-    "lon": 79.358105,
-    "iso_a3": "IND",
-    "lat": 22.686852,
-    "gdp_year": 2019,
-    "subregion": "Southern Asia",
-    "income_grp": "4. Lower middle income",
-    "iso_a2": "IN",
-    "url_alias": "in",
-    "icon:square": "https://static.btcmap.org/images/countries/in.svg",
-    "id": 400,
-    "merchantCount": 38
-  },
-  {
     "population:date": "2022",
     "type": "community",
     "url_alias": "meetbmad",
@@ -3571,6 +3544,33 @@
     "organization": "bitcoin-paraguay",
     "id": 730,
     "merchantCount": 38
+  },
+  {
+    "name": "India",
+    "region_wb": "South Asia",
+    "gdp_md": 2868929,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "population:rank": 18,
+    "sovereignt": "India",
+    "area_km2": 3162895.72,
+    "economy": "3. Emerging region: BRIC",
+    "region_un": "Asia",
+    "population": 1366417754,
+    "population:year": 2019,
+    "type": "country",
+    "wikidataid": "Q668",
+    "lon": 79.358105,
+    "iso_a3": "IND",
+    "lat": 22.686852,
+    "gdp_year": 2019,
+    "subregion": "Southern Asia",
+    "income_grp": "4. Lower middle income",
+    "iso_a2": "IN",
+    "url_alias": "in",
+    "icon:square": "https://static.btcmap.org/images/countries/in.svg",
+    "id": 400,
+    "merchantCount": 37
   },
   {
     "name": "SLC-BTC",
@@ -3698,6 +3698,26 @@
     "merchantCount": 36
   },
   {
+    "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
+    "contact:email": "contact@breizhbitcoin.bzh",
+    "contact:twitter": "https://twitter.com/BreizhBitcoin",
+    "contact:website": "https://breizhbitcoin.com/",
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/breizh-bitcoin.png",
+    "name": "Breizh Bitcoin",
+    "population": "4829968",
+    "population:date": "2021-02-01",
+    "type": "community",
+    "url_alias": "breizh-bitcoin",
+    "area_km2": 34441.48,
+    "language": "fr",
+    "organization": "breizh-bitcoin",
+    "contact:telegram": "https://t.me/+bAXCL16kZFMzM2U0",
+    "verified:date": "2026-04-21",
+    "id": 174,
+    "merchantCount": 36
+  },
+  {
     "subregion": "South America",
     "lon": -78.188375,
     "wikidataid": "Q736",
@@ -3816,26 +3836,6 @@
     "contact:github": "https://www.github.com/bitdevsamsterdam/bitdevsamsterdam.github.io",
     "organization": "bit-devs",
     "id": 62,
-    "merchantCount": 35
-  },
-  {
-    "contact:discord": "https://discord.com/invite/gFVe2HcUpw",
-    "contact:email": "contact@breizhbitcoin.bzh",
-    "contact:twitter": "https://twitter.com/BreizhBitcoin",
-    "contact:website": "https://breizhbitcoin.com/",
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/breizh-bitcoin.png",
-    "name": "Breizh Bitcoin",
-    "population": "4829968",
-    "population:date": "2021-02-01",
-    "type": "community",
-    "url_alias": "breizh-bitcoin",
-    "area_km2": 34441.48,
-    "language": "fr",
-    "organization": "breizh-bitcoin",
-    "contact:telegram": "https://t.me/+bAXCL16kZFMzM2U0",
-    "verified:date": "2026-04-21",
-    "id": 174,
     "merchantCount": 35
   },
   {
@@ -5651,6 +5651,21 @@
     "merchantCount": 16
   },
   {
+    "icon:square": "https://static.btcmap.org/images/communities/grand-rapids-bitcoin.jpeg",
+    "contact:twitter": "https://twitter.com/grbtc",
+    "population:date": "2023-01-01",
+    "url_alias": "grand-rapids-bitcoin",
+    "name": "Grand Rapids Bitcoin",
+    "area_km2": 256.53,
+    "contact:meetup": "https://www.meetup.com/grand-rapids-bitcoin/",
+    "population": 1077370,
+    "continent": "north-america",
+    "type": "community",
+    "contact:telegram": "https://t.me/GRBitcoiners",
+    "id": 380,
+    "merchantCount": 16
+  },
+  {
     "region_un": "Asia",
     "subregion": "Western Asia",
     "country_type": "Disputed",
@@ -5866,21 +5881,6 @@
     "merchantCount": 15
   },
   {
-    "icon:square": "https://static.btcmap.org/images/communities/grand-rapids-bitcoin.jpeg",
-    "contact:twitter": "https://twitter.com/grbtc",
-    "population:date": "2023-01-01",
-    "url_alias": "grand-rapids-bitcoin",
-    "name": "Grand Rapids Bitcoin",
-    "area_km2": 256.53,
-    "contact:meetup": "https://www.meetup.com/grand-rapids-bitcoin/",
-    "population": 1077370,
-    "continent": "north-america",
-    "type": "community",
-    "contact:telegram": "https://t.me/GRBitcoiners",
-    "id": 380,
-    "merchantCount": 15
-  },
-  {
     "tips:lightning_address": "brutalbowl88@walletofsatoshi.com",
     "area_km2": 3865.59,
     "type": "community",
@@ -5983,6 +5983,21 @@
     "centroid": "53.483959,-2.244644",
     "verified:date": "2026-01-06",
     "id": 120,
+    "merchantCount": 14
+  },
+  {
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-queretaro.png",
+    "population:date": "2010",
+    "area_km2": 275.9,
+    "continent": "south-america",
+    "contact:email": "gustavo@floresechaiz.com",
+    "organization": "2140-meetups",
+    "contact:telegram": "https://t.me/bitcoinqro",
+    "population": "804663",
+    "url_alias": "bitcoin-queretaro",
+    "name": "Bitcoin Querétaro",
+    "type": "community",
+    "id": 135,
     "merchantCount": 14
   },
   {
@@ -6244,21 +6259,6 @@
     "area_km2": 853.36,
     "population:date": "2019-01-01",
     "id": 104,
-    "merchantCount": 13
-  },
-  {
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-queretaro.png",
-    "population:date": "2010",
-    "area_km2": 275.9,
-    "continent": "south-america",
-    "contact:email": "gustavo@floresechaiz.com",
-    "organization": "2140-meetups",
-    "contact:telegram": "https://t.me/bitcoinqro",
-    "population": "804663",
-    "url_alias": "bitcoin-queretaro",
-    "name": "Bitcoin Querétaro",
-    "type": "community",
-    "id": 135,
     "merchantCount": 13
   },
   {
