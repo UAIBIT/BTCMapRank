@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9165
+    "merchantCount": 9170
   },
   {
     "gdp_md": 351431,
@@ -105,7 +105,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1320
+    "merchantCount": 1319
   },
   {
     "subregion": "Southern Europe",
@@ -159,7 +159,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 813
+    "merchantCount": 811
   },
   {
     "name": "Germany",
@@ -213,7 +213,7 @@
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
     "id": 186,
-    "merchantCount": 574
+    "merchantCount": 575
   },
   {
     "region_un": "Americas",
@@ -2366,33 +2366,6 @@
     "merchantCount": 7
   },
   {
-    "income_grp": "2. High income: nonOECD",
-    "sovereignt": "United States of America",
-    "economy": "6. Developing region",
-    "country_type": "Dependency",
-    "population:rank": 12,
-    "wikidataid": "Q1183",
-    "lon": -66.481065,
-    "iso_a3": "PRI",
-    "name": "Puerto Rico",
-    "subregion": "Caribbean",
-    "iso_a2": "PR",
-    "region_un": "Americas",
-    "region_wb": "Latin America & Caribbean",
-    "area_km2": 8963.48,
-    "population": 3193694,
-    "lat": 18.234668,
-    "population:year": 2019,
-    "type": "country",
-    "gdp_md": 104988,
-    "gdp_year": 2019,
-    "continent": "North America",
-    "url_alias": "pr",
-    "icon:square": "https://static.btcmap.org/images/countries/pr.svg",
-    "id": 537,
-    "merchantCount": 7
-  },
-  {
     "lon": 2.352018,
     "area_km2": 116842.66,
     "name": "Benin",
@@ -2483,6 +2456,33 @@
     "url_alias": "lv",
     "icon:square": "https://static.btcmap.org/images/countries/lv.svg",
     "id": 452,
+    "merchantCount": 6
+  },
+  {
+    "income_grp": "2. High income: nonOECD",
+    "sovereignt": "United States of America",
+    "economy": "6. Developing region",
+    "country_type": "Dependency",
+    "population:rank": 12,
+    "wikidataid": "Q1183",
+    "lon": -66.481065,
+    "iso_a3": "PRI",
+    "name": "Puerto Rico",
+    "subregion": "Caribbean",
+    "iso_a2": "PR",
+    "region_un": "Americas",
+    "region_wb": "Latin America & Caribbean",
+    "area_km2": 8963.48,
+    "population": 3193694,
+    "lat": 18.234668,
+    "population:year": 2019,
+    "type": "country",
+    "gdp_md": 104988,
+    "gdp_year": 2019,
+    "continent": "North America",
+    "url_alias": "pr",
+    "icon:square": "https://static.btcmap.org/images/countries/pr.svg",
+    "id": 537,
     "merchantCount": 6
   },
   {

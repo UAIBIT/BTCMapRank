@@ -29,7 +29,7 @@
     "continent": "europe",
     "organization": "einundzwanzig",
     "id": 331,
-    "merchantCount": 833
+    "merchantCount": 831
   },
   {
     "population": "8636896",
@@ -47,7 +47,7 @@
     "url_alias": "bitcoin-association-switzerland",
     "contact:telegram": "https://t.me/rogerdarin",
     "id": 71,
-    "merchantCount": 830
+    "merchantCount": 828
   },
   {
     "contact:website": "https://dezentralschweiz.ch/",
@@ -63,7 +63,7 @@
     "continent": "europe",
     "contact:telegram": "http://t.me/+ETWFIUzxnlNkZDg0",
     "id": 226,
-    "merchantCount": 830
+    "merchantCount": 828
   },
   {
     "continent": "south-america",
@@ -141,7 +141,7 @@
     "area_km2": 343.14,
     "organization": "plan-b-network",
     "id": 451,
-    "merchantCount": 286
+    "merchantCount": 284
   },
   {
     "contact:twitter": "https://twitter.com/bayareabtc",
@@ -266,7 +266,7 @@
     "type": "community",
     "area_km2": 100.59,
     "id": 910,
-    "merchantCount": 177
+    "merchantCount": 176
   },
   {
     "type": "community",
@@ -1056,7 +1056,7 @@
     "contact:meetup": "https://www.meetup.com/pl-PL/sanantoniobitcoinclub/",
     "type": "community",
     "id": 824,
-    "merchantCount": 68
+    "merchantCount": 69
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-maximex-club.jpeg",
@@ -4801,23 +4801,6 @@
     "merchantCount": 10
   },
   {
-    "name": "Bitcoin Puerto Rico",
-    "tips:lightning_address": "btcpuertorico@getalby.com",
-    "population": "3285874",
-    "contact:facebook": "https://www.facebook.com/btcpuertoricooficial",
-    "url_alias": "bitcoin-puerto-rico",
-    "area_km2": 21517.67,
-    "contact:twitter": "https://twitter.com/btcpuertorico",
-    "population:date": "2020-01-01",
-    "continent": "north-america",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-puerto-rico.png",
-    "contact:email": "btcpuertorico@pm.me",
-    "contact:youtube": "https://www.youtube.com/@bitcoinpuertorico",
-    "id": 134,
-    "merchantCount": 10
-  },
-  {
     "type": "community",
     "url_alias": "einundzwanzig-liechtenstein",
     "population:date": "2021-12-31",
@@ -5052,6 +5035,23 @@
     "area_km2": 196.68,
     "contact:whatsapp": "https://chat.whatsapp.com/LN78WDyUbMlFdXITtdEhTi",
     "id": 113,
+    "merchantCount": 9
+  },
+  {
+    "name": "Bitcoin Puerto Rico",
+    "tips:lightning_address": "btcpuertorico@getalby.com",
+    "population": "3285874",
+    "contact:facebook": "https://www.facebook.com/btcpuertoricooficial",
+    "url_alias": "bitcoin-puerto-rico",
+    "area_km2": 21517.67,
+    "contact:twitter": "https://twitter.com/btcpuertorico",
+    "population:date": "2020-01-01",
+    "continent": "north-america",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-puerto-rico.png",
+    "contact:email": "btcpuertorico@pm.me",
+    "contact:youtube": "https://www.youtube.com/@bitcoinpuertorico",
+    "id": 134,
     "merchantCount": 9
   },
   {
@@ -6977,6 +6977,26 @@
     "merchantCount": 5
   },
   {
+    "continent": "africa",
+    "icon:square": "https://static.btcmap.org/images/areas/970.png",
+    "name": "Bitcoin Ikorodu",
+    "population": 781500,
+    "population:date": "2022-01-01",
+    "url_alias": "bitcoin-ikorodu",
+    "contact:twitter": "https://x.com/BitcoinIkorodu",
+    "contact:whatsapp": "https://chat.whatsapp.com/D6AJ5C3dikkGDdaBjITDfc",
+    "contact:email": "bitcoinikorodu@gmail.com",
+    "tips:lightning_address": "bitcoinikorodu@blink.sv",
+    "description": "English speaking",
+    "type": "community",
+    "area_km2": 16846.0,
+    "verified:date": "2026-05-02",
+    "contact:website": "https://btcpay.btc.aw/apps/BupsjbYJJqsBvRgRLzXC5oXUwze/crowdfund",
+    "contact:phone": "+2347079903008",
+    "id": 970,
+    "merchantCount": 5
+  },
+  {
     "continent": "europe",
     "name": "Einundzwanzig Außerfern",
     "population": 32600,
@@ -7408,6 +7428,20 @@
     "contact:email": "bitcoinlille@gmail.com",
     "verified:date": "2026-04-21",
     "id": 116,
+    "merchantCount": 3
+  },
+  {
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-ville-de-quebec.jpeg",
+    "population:date": "2022-09-01",
+    "population": "8751352",
+    "name": "Bitcoin Ville de Québec",
+    "url_alias": "bitcoin-ville-de-québec",
+    "contact:twitter": "https://twitter.com/btcvilleqc",
+    "area_km2": 704.74,
+    "continent": "north-america",
+    "contact:meetup": "https://www.meetup.com/quebec-bitcoin-meetup-group/",
+    "type": "community",
+    "id": 148,
     "merchantCount": 3
   },
   {
@@ -8146,20 +8180,6 @@
     "organization": "2140-meetups",
     "type": "community",
     "id": 130,
-    "merchantCount": 2
-  },
-  {
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-ville-de-quebec.jpeg",
-    "population:date": "2022-09-01",
-    "population": "8751352",
-    "name": "Bitcoin Ville de Québec",
-    "url_alias": "bitcoin-ville-de-québec",
-    "contact:twitter": "https://twitter.com/btcvilleqc",
-    "area_km2": 704.74,
-    "continent": "north-america",
-    "contact:meetup": "https://www.meetup.com/quebec-bitcoin-meetup-group/",
-    "type": "community",
-    "id": 148,
     "merchantCount": 2
   },
   {
@@ -11448,26 +11468,6 @@
     "type": "community",
     "area_km2": 79.88,
     "id": 962,
-    "merchantCount": 0
-  },
-  {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/areas/970.png",
-    "name": "Bitcoin Ikorodu",
-    "population": 781500,
-    "population:date": "2022-01-01",
-    "url_alias": "bitcoin-ikorodu",
-    "contact:twitter": "https://x.com/BitcoinIkorodu",
-    "contact:whatsapp": "https://chat.whatsapp.com/D6AJ5C3dikkGDdaBjITDfc",
-    "contact:email": "bitcoinikorodu@gmail.com",
-    "tips:lightning_address": "bitcoinikorodu@blink.sv",
-    "description": "English speaking",
-    "type": "community",
-    "area_km2": 16846.0,
-    "verified:date": "2026-05-02",
-    "contact:website": "https://btcpay.btc.aw/apps/BupsjbYJJqsBvRgRLzXC5oXUwze/crowdfund",
-    "contact:phone": "+2347079903008",
-    "id": 970,
     "merchantCount": 0
   },
   {
