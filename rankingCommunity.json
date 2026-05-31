@@ -346,25 +346,6 @@
     "merchantCount": 150
   },
   {
-    "contact:twitter": "https://twitter.com/BitcoinJungleCR",
-    "box:west": "-83.91014099121095",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-jungle.png",
-    "name": "Bitcoin Jungle",
-    "population:date": "2023-01-01",
-    "contact:website": "https://www.bitcoinjungle.app/",
-    "box:north": "9.28070464393657",
-    "contact:email": "mrtraver@gmail.com",
-    "url_alias": "bitcoin-jungle",
-    "type": "community",
-    "box:south": "9.129554654380204",
-    "population": "10000",
-    "area_km2": 404.97,
-    "box:east": "-83.70552062988283",
-    "id": 112,
-    "merchantCount": 145
-  },
-  {
     "name": "Mass Adoption",
     "population": "6984723",
     "icon:square": "https://static.btcmap.org/images/communities/mass-adoption.png",
@@ -381,6 +362,25 @@
     "contact:website": "https://www.massadoption.net/",
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
+    "merchantCount": 146
+  },
+  {
+    "contact:twitter": "https://twitter.com/BitcoinJungleCR",
+    "box:west": "-83.91014099121095",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-jungle.png",
+    "name": "Bitcoin Jungle",
+    "population:date": "2023-01-01",
+    "contact:website": "https://www.bitcoinjungle.app/",
+    "box:north": "9.28070464393657",
+    "contact:email": "mrtraver@gmail.com",
+    "url_alias": "bitcoin-jungle",
+    "type": "community",
+    "box:south": "9.129554654380204",
+    "population": "10000",
+    "area_km2": 404.97,
+    "box:east": "-83.70552062988283",
+    "id": 112,
     "merchantCount": 145
   },
   {
@@ -1056,7 +1056,7 @@
     "contact:meetup": "https://www.meetup.com/pl-PL/sanantoniobitcoinclub/",
     "type": "community",
     "id": 824,
-    "merchantCount": 69
+    "merchantCount": 70
   },
   {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-maximex-club.jpeg",
@@ -2644,6 +2644,22 @@
     "merchantCount": 30
   },
   {
+    "area_km2": 9753.3,
+    "contact:email": "BTCFreedomMoney@gmail.com",
+    "population:date": "2000-01-01",
+    "tips:lightning_address": "LNURL1DP68GURN8GHJ7AMPD3KX2AR0VEEKZAR0WD5XJTNRDAKJ7TNHV4KXCTTTDEHHWM30D3H82UNVWQHK6ETVD3HHWCTSDAKX7EMEXS6QDRDNKU",
+    "contact:meetup": "https://www.meetup.com/western-mass-bitcoin-meetup/",
+    "population": "814967",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/western-mass-bitcoin.jpeg",
+    "continent": "north-america",
+    "name": "Western Mass Bitcoin",
+    "contact:twitter": "https://twitter.com/MassBitcoin",
+    "url_alias": "western-mass-bitcoin",
+    "id": 650,
+    "merchantCount": 29
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/communities/fornelli.jpg",
     "name": "Fornelli",
@@ -2671,22 +2687,6 @@
     "verified:date": "2026-04-12",
     "id": 971,
     "merchantCount": 29
-  },
-  {
-    "area_km2": 9753.3,
-    "contact:email": "BTCFreedomMoney@gmail.com",
-    "population:date": "2000-01-01",
-    "tips:lightning_address": "LNURL1DP68GURN8GHJ7AMPD3KX2AR0VEEKZAR0WD5XJTNRDAKJ7TNHV4KXCTTTDEHHWM30D3H82UNVWQHK6ETVD3HHWCTSDAKX7EMEXS6QDRDNKU",
-    "contact:meetup": "https://www.meetup.com/western-mass-bitcoin-meetup/",
-    "population": "814967",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/western-mass-bitcoin.jpeg",
-    "continent": "north-america",
-    "name": "Western Mass Bitcoin",
-    "contact:twitter": "https://twitter.com/MassBitcoin",
-    "url_alias": "western-mass-bitcoin",
-    "id": 650,
-    "merchantCount": 28
   },
   {
     "continent": "south-america",
@@ -3463,6 +3463,22 @@
     "merchantCount": 18
   },
   {
+    "area_km2": 669.6,
+    "contact:nostr": "npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779",
+    "contact:twitter": "https://www.twitter.com/bitcoinchatt",
+    "contact:website": "https://www.bitcoinchatt.org/",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-chatt.png",
+    "name": "Bitcoin Chattanooga",
+    "population": 180000,
+    "population:date": "2024-01-01",
+    "tips:lightning_address": "bitcoinchatt@geyser.fund",
+    "type": "community",
+    "url_alias": "bitcoin-chatt",
+    "id": 796,
+    "merchantCount": 18
+  },
+  {
     "continent": "north-america",
     "icon:square": "https://i.imgur.com/zUSUHIt.jpeg",
     "name": "Bitcoin La Laguna",
@@ -3575,22 +3591,6 @@
     "url_alias": "normandie",
     "verified:date": "2026-04-21",
     "id": 718,
-    "merchantCount": 17
-  },
-  {
-    "area_km2": 669.6,
-    "contact:nostr": "npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779",
-    "contact:twitter": "https://www.twitter.com/bitcoinchatt",
-    "contact:website": "https://www.bitcoinchatt.org/",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-chatt.png",
-    "name": "Bitcoin Chattanooga",
-    "population": 180000,
-    "population:date": "2024-01-01",
-    "tips:lightning_address": "bitcoinchatt@geyser.fund",
-    "type": "community",
-    "url_alias": "bitcoin-chatt",
-    "id": 796,
     "merchantCount": 17
   },
   {
@@ -4104,6 +4104,24 @@
     "merchantCount": 14
   },
   {
+    "population": "70493",
+    "url_alias": "st-charles",
+    "icon:square": "https://static.btcmap.org/images/communities/st-charles.jpeg",
+    "continent": "north-america",
+    "box:north": "38.894506631693275",
+    "contact:meetup": "https://www.meetup.com/saint-charles-bitcoin-meetup-group/",
+    "contact:telegram": "https://t.me/ gMfT0Fi6VAw1YmIx",
+    "box:west": "-90.69900512695312",
+    "area_km2": 2036.8,
+    "type": "community",
+    "population:date": "2020-01-01",
+    "box:east": "-90.25131225585939",
+    "box:south": "38.678273561664",
+    "name": "St. Charles",
+    "id": 596,
+    "merchantCount": 14
+  },
+  {
     "population:date": "2022",
     "url_alias": "valencia-bitcoin-plebs",
     "area_km2": 386.91,
@@ -4270,24 +4288,6 @@
     "contact:twitter": "https://twitter.com/517Bitcoin",
     "area_km2": 7197.72,
     "id": 475,
-    "merchantCount": 13
-  },
-  {
-    "population": "70493",
-    "url_alias": "st-charles",
-    "icon:square": "https://static.btcmap.org/images/communities/st-charles.jpeg",
-    "continent": "north-america",
-    "box:north": "38.894506631693275",
-    "contact:meetup": "https://www.meetup.com/saint-charles-bitcoin-meetup-group/",
-    "contact:telegram": "https://t.me/ gMfT0Fi6VAw1YmIx",
-    "box:west": "-90.69900512695312",
-    "area_km2": 2036.8,
-    "type": "community",
-    "population:date": "2020-01-01",
-    "box:east": "-90.25131225585939",
-    "box:south": "38.678273561664",
-    "name": "St. Charles",
-    "id": 596,
     "merchantCount": 13
   },
   {
