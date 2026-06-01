@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9192
+    "merchantCount": 9202
   },
   {
     "gdp_md": 351431,
@@ -159,7 +159,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 811
+    "merchantCount": 809
   },
   {
     "name": "Germany",
@@ -267,7 +267,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 475
+    "merchantCount": 476
   },
   {
     "country_type": "Sovereign country",
@@ -402,7 +402,7 @@
     "url_alias": "nl",
     "icon:square": "https://static.btcmap.org/images/countries/nl.svg",
     "id": 507,
-    "merchantCount": 363
+    "merchantCount": 364
   },
   {
     "gdp_md": 17477,
@@ -586,7 +586,7 @@
     "icon:square": "https://static.btcmap.org/images/areas/26.png",
     "verified:date": "2026-03-11",
     "id": 26,
-    "merchantCount": 254
+    "merchantCount": 253
   },
   {
     "gdp_year": 2019,
@@ -613,7 +613,7 @@
     "url_alias": "at",
     "icon:square": "https://static.btcmap.org/images/countries/at.svg",
     "id": 31,
-    "merchantCount": 208
+    "merchantCount": 209
   },
   {
     "sovereignt": "Australia",
@@ -1014,33 +1014,6 @@
     "merchantCount": 69
   },
   {
-    "population:rank": 12,
-    "iso_a2": "SI",
-    "region_wb": "Europe & Central Asia",
-    "income_grp": "1. High income: OECD",
-    "population:year": 2019,
-    "country_type": "Sovereign country",
-    "lon": 14.915312,
-    "subregion": "Southern Europe",
-    "economy": "2. Developed region: nonG7",
-    "sovereignt": "Slovenia",
-    "continent": "Europe",
-    "lat": 46.06076,
-    "iso_a3": "SVN",
-    "area_km2": 20239.53,
-    "gdp_md": 54174,
-    "wikidataid": "Q215",
-    "name": "Slovenia",
-    "type": "country",
-    "population": 2087946,
-    "region_un": "Europe",
-    "gdp_year": 2019,
-    "url_alias": "si",
-    "icon:square": "https://static.btcmap.org/images/countries/si.svg",
-    "id": 586,
-    "merchantCount": 68
-  },
-  {
     "population:rank": 13,
     "gdp_md": 25095,
     "income_grp": "4. Lower middle income",
@@ -1065,6 +1038,33 @@
     "url_alias": "hn",
     "icon:square": "https://static.btcmap.org/images/countries/hn.svg",
     "id": 392,
+    "merchantCount": 67
+  },
+  {
+    "population:rank": 12,
+    "iso_a2": "SI",
+    "region_wb": "Europe & Central Asia",
+    "income_grp": "1. High income: OECD",
+    "population:year": 2019,
+    "country_type": "Sovereign country",
+    "lon": 14.915312,
+    "subregion": "Southern Europe",
+    "economy": "2. Developed region: nonG7",
+    "sovereignt": "Slovenia",
+    "continent": "Europe",
+    "lat": 46.06076,
+    "iso_a3": "SVN",
+    "area_km2": 20239.53,
+    "gdp_md": 54174,
+    "wikidataid": "Q215",
+    "name": "Slovenia",
+    "type": "country",
+    "population": 2087946,
+    "region_un": "Europe",
+    "gdp_year": 2019,
+    "url_alias": "si",
+    "icon:square": "https://static.btcmap.org/images/countries/si.svg",
+    "id": 586,
     "merchantCount": 67
   },
   {
@@ -1284,6 +1284,33 @@
     "merchantCount": 40
   },
   {
+    "subregion": "South America",
+    "lon": -78.188375,
+    "wikidataid": "Q736",
+    "region_un": "Americas",
+    "region_wb": "Latin America & Caribbean",
+    "iso_a2": "EC",
+    "income_grp": "3. Upper middle income",
+    "type": "country",
+    "population": 17373662,
+    "name": "Ecuador",
+    "lat": -1.259076,
+    "population:rank": 14,
+    "gdp_md": 107435,
+    "iso_a3": "ECU",
+    "population:year": 2019,
+    "gdp_year": 2019,
+    "sovereignt": "Ecuador",
+    "country_type": "Sovereign country",
+    "area_km2": 256239.78,
+    "continent": "South America",
+    "economy": "6. Developing region",
+    "url_alias": "ec",
+    "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
+    "id": 245,
+    "merchantCount": 37
+  },
+  {
     "name": "India",
     "region_wb": "South Asia",
     "gdp_md": 2868929,
@@ -1336,33 +1363,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/no.svg",
     "id": 686,
     "merchantCount": 37
-  },
-  {
-    "subregion": "South America",
-    "lon": -78.188375,
-    "wikidataid": "Q736",
-    "region_un": "Americas",
-    "region_wb": "Latin America & Caribbean",
-    "iso_a2": "EC",
-    "income_grp": "3. Upper middle income",
-    "type": "country",
-    "population": 17373662,
-    "name": "Ecuador",
-    "lat": -1.259076,
-    "population:rank": 14,
-    "gdp_md": 107435,
-    "iso_a3": "ECU",
-    "population:year": 2019,
-    "gdp_year": 2019,
-    "sovereignt": "Ecuador",
-    "country_type": "Sovereign country",
-    "area_km2": 256239.78,
-    "continent": "South America",
-    "economy": "6. Developing region",
-    "url_alias": "ec",
-    "icon:square": "https://static.btcmap.org/images/countries/ec.svg",
-    "id": 245,
-    "merchantCount": 36
   },
   {
     "income_grp": "1. High income: OECD",
