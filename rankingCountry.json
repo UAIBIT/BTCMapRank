@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9324
+    "merchantCount": 9341
   },
   {
     "gdp_md": 351431,
@@ -78,7 +78,7 @@
     "url_alias": "br",
     "icon:square": "https://static.btcmap.org/images/countries/br.svg",
     "id": 173,
-    "merchantCount": 2201
+    "merchantCount": 2200
   },
   {
     "population:year": 2019,
@@ -105,7 +105,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1320
+    "merchantCount": 1319
   },
   {
     "subregion": "Southern Europe",
@@ -159,7 +159,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 805
+    "merchantCount": 803
   },
   {
     "name": "Germany",
@@ -375,7 +375,7 @@
     "url_alias": "cz",
     "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
     "id": 218,
-    "merchantCount": 364
+    "merchantCount": 365
   },
   {
     "iso_a2": "NL",
@@ -1041,33 +1041,6 @@
     "merchantCount": 67
   },
   {
-    "population:rank": 12,
-    "iso_a2": "SI",
-    "region_wb": "Europe & Central Asia",
-    "income_grp": "1. High income: OECD",
-    "population:year": 2019,
-    "country_type": "Sovereign country",
-    "lon": 14.915312,
-    "subregion": "Southern Europe",
-    "economy": "2. Developed region: nonG7",
-    "sovereignt": "Slovenia",
-    "continent": "Europe",
-    "lat": 46.06076,
-    "iso_a3": "SVN",
-    "area_km2": 20239.53,
-    "gdp_md": 54174,
-    "wikidataid": "Q215",
-    "name": "Slovenia",
-    "type": "country",
-    "population": 2087946,
-    "region_un": "Europe",
-    "gdp_year": 2019,
-    "url_alias": "si",
-    "icon:square": "https://static.btcmap.org/images/countries/si.svg",
-    "id": 586,
-    "merchantCount": 67
-  },
-  {
     "lat": 7.182476,
     "iso_a2": "VE",
     "area_km2": 916364.49,
@@ -1093,6 +1066,33 @@
     "icon:square": "https://static.btcmap.org/images/countries/ve.svg",
     "id": 641,
     "merchantCount": 67
+  },
+  {
+    "population:rank": 12,
+    "iso_a2": "SI",
+    "region_wb": "Europe & Central Asia",
+    "income_grp": "1. High income: OECD",
+    "population:year": 2019,
+    "country_type": "Sovereign country",
+    "lon": 14.915312,
+    "subregion": "Southern Europe",
+    "economy": "2. Developed region: nonG7",
+    "sovereignt": "Slovenia",
+    "continent": "Europe",
+    "lat": 46.06076,
+    "iso_a3": "SVN",
+    "area_km2": 20239.53,
+    "gdp_md": 54174,
+    "wikidataid": "Q215",
+    "name": "Slovenia",
+    "type": "country",
+    "population": 2087946,
+    "region_un": "Europe",
+    "gdp_year": 2019,
+    "url_alias": "si",
+    "icon:square": "https://static.btcmap.org/images/countries/si.svg",
+    "id": 586,
+    "merchantCount": 66
   },
   {
     "lat": 50.785392,
@@ -2621,6 +2621,33 @@
     "merchantCount": 4
   },
   {
+    "lon": -72.224051,
+    "gdp_md": 14332,
+    "income_grp": "5. Low income",
+    "iso_a3": "HTI",
+    "country_type": "Sovereign country",
+    "continent": "North America",
+    "economy": "7. Least developed region",
+    "area_km2": 26865.18,
+    "sovereignt": "Haiti",
+    "gdp_year": 2019,
+    "iso_a2": "HT",
+    "name": "Haiti",
+    "population:rank": 14,
+    "subregion": "Caribbean",
+    "lat": 19.263784,
+    "population": 11263077,
+    "region_wb": "Latin America & Caribbean",
+    "wikidataid": "Q790",
+    "population:year": 2019,
+    "type": "country",
+    "region_un": "Americas",
+    "url_alias": "ht",
+    "icon:square": "https://static.btcmap.org/images/countries/ht.svg",
+    "id": 394,
+    "merchantCount": 4
+  },
+  {
     "gdp_year": 2019,
     "income_grp": "1. High income: OECD",
     "subregion": "Northern Europe",
@@ -2780,33 +2807,6 @@
     "url_alias": "cv",
     "icon:square": "https://static.btcmap.org/images/countries/cv.svg",
     "id": 215,
-    "merchantCount": 3
-  },
-  {
-    "lon": -72.224051,
-    "gdp_md": 14332,
-    "income_grp": "5. Low income",
-    "iso_a3": "HTI",
-    "country_type": "Sovereign country",
-    "continent": "North America",
-    "economy": "7. Least developed region",
-    "area_km2": 26865.18,
-    "sovereignt": "Haiti",
-    "gdp_year": 2019,
-    "iso_a2": "HT",
-    "name": "Haiti",
-    "population:rank": 14,
-    "subregion": "Caribbean",
-    "lat": 19.263784,
-    "population": 11263077,
-    "region_wb": "Latin America & Caribbean",
-    "wikidataid": "Q790",
-    "population:year": 2019,
-    "type": "country",
-    "region_un": "Americas",
-    "url_alias": "ht",
-    "icon:square": "https://static.btcmap.org/images/countries/ht.svg",
-    "id": 394,
     "merchantCount": 3
   },
   {
