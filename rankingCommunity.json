@@ -29,7 +29,7 @@
     "continent": "europe",
     "organization": "einundzwanzig",
     "id": 331,
-    "merchantCount": 823
+    "merchantCount": 821
   },
   {
     "population": "8636896",
@@ -47,7 +47,7 @@
     "url_alias": "bitcoin-association-switzerland",
     "contact:telegram": "https://t.me/rogerdarin",
     "id": 71,
-    "merchantCount": 820
+    "merchantCount": 818
   },
   {
     "contact:website": "https://dezentralschweiz.ch/",
@@ -63,7 +63,7 @@
     "continent": "europe",
     "contact:telegram": "http://t.me/+ETWFIUzxnlNkZDg0",
     "id": 226,
-    "merchantCount": 820
+    "merchantCount": 818
   },
   {
     "continent": "south-america",
@@ -121,7 +121,7 @@
     "type": "community",
     "icon:square": "https://static.btcmap.org/images/communities/bitplebs-los-angeles.png",
     "id": 161,
-    "merchantCount": 328
+    "merchantCount": 330
   },
   {
     "box:east": 9.03617,
@@ -141,7 +141,7 @@
     "area_km2": 343.14,
     "organization": "plan-b-network",
     "id": 451,
-    "merchantCount": 285
+    "merchantCount": 283
   },
   {
     "contact:twitter": "https://twitter.com/bayareabtc",
@@ -210,6 +210,25 @@
     "merchantCount": 222
   },
   {
+    "name": "Vancouver Bitcoiners",
+    "box:south": "48.81861991362668",
+    "population": "2642825",
+    "url_alias": "vancouver-bitcoiners",
+    "box:north": "49.60003042758964",
+    "box:west": "-124.41604614257814",
+    "contact:twitter": "https://twitter.com/VanBitcoiners",
+    "population:date": "2021-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/vancouver-bitcoiners.jpg",
+    "box:east": "-121.77932739257814",
+    "continent": "north-america",
+    "type": "community",
+    "area_km2": 187.14,
+    "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
+    "contact:website": "https://linktr.ee/VancouverBitcoiners",
+    "id": 639,
+    "merchantCount": 203
+  },
+  {
     "url_alias": "bitcoin-austria",
     "continent": "europe",
     "contact:website": "https://bitcoin-austria.at/",
@@ -234,25 +253,6 @@
     "merchantCount": 202
   },
   {
-    "name": "Vancouver Bitcoiners",
-    "box:south": "48.81861991362668",
-    "population": "2642825",
-    "url_alias": "vancouver-bitcoiners",
-    "box:north": "49.60003042758964",
-    "box:west": "-124.41604614257814",
-    "contact:twitter": "https://twitter.com/VanBitcoiners",
-    "population:date": "2021-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/vancouver-bitcoiners.jpg",
-    "box:east": "-121.77932739257814",
-    "continent": "north-america",
-    "type": "community",
-    "area_km2": 187.14,
-    "contact:nostr": "npub1xfryjdm8c47v354zmhapf5t3av0y9qzxjg8sgmeqkswpm5ca7faqtn8mvx",
-    "contact:website": "https://linktr.ee/VancouverBitcoiners",
-    "id": 639,
-    "merchantCount": 202
-  },
-  {
     "type": "community",
     "name": "Bitcoin Bulgaria",
     "box:north": "42.711326676075586",
@@ -266,7 +266,7 @@
     "url_alias": "bitcoin-bulgaria",
     "contact:facebook": "https://www.facebook.com/btcbg/",
     "id": 82,
-    "merchantCount": 175
+    "merchantCount": 176
   },
   {
     "continent": "north-america",
@@ -311,25 +311,6 @@
     "merchantCount": 166
   },
   {
-    "language": "es, en",
-    "name": "Bitcoin Berlín SV",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-berlin.jpeg",
-    "population:date": "2007-01-01",
-    "population": "17787",
-    "area_km2": 7.75,
-    "continent": "north-america",
-    "url_alias": "bitcoin-berlin",
-    "contact:twitter": "https://twitter.com/bitcoinberlinsv",
-    "contact:facebook": "https://www.facebook.com/BerlinesesEnAccion",
-    "contact:youtube": "https://youtube.com/@bitcoinberlinsv",
-    "contact:telegram": "https://t.me/EconomiaBitcoin2024",
-    "tips:lightning_address": "bitcoinberlin@blink.sv",
-    "verified:date": "2026-04-08",
-    "id": 77,
-    "merchantCount": 150
-  },
-  {
     "area_km2": 869.19,
     "continent": "south-america",
     "name": "Bitcoin Amantikir",
@@ -363,6 +344,25 @@
     "contact:github": "https://github.com/Chepenik/MassAdoption.ai",
     "id": 463,
     "merchantCount": 148
+  },
+  {
+    "language": "es, en",
+    "name": "Bitcoin Berlín SV",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-berlin.jpeg",
+    "population:date": "2007-01-01",
+    "population": "17787",
+    "area_km2": 7.75,
+    "continent": "north-america",
+    "url_alias": "bitcoin-berlin",
+    "contact:twitter": "https://twitter.com/bitcoinberlinsv",
+    "contact:facebook": "https://www.facebook.com/BerlinesesEnAccion",
+    "contact:youtube": "https://youtube.com/@bitcoinberlinsv",
+    "contact:telegram": "https://t.me/EconomiaBitcoin2024",
+    "tips:lightning_address": "bitcoinberlin@blink.sv",
+    "verified:date": "2026-04-08",
+    "id": 77,
+    "merchantCount": 147
   },
   {
     "contact:twitter": "https://twitter.com/BitcoinJungleCR",
@@ -599,6 +599,22 @@
     "merchantCount": 105
   },
   {
+    "contact:meetup": "https://www.meetup.com/sdbitcoiners/",
+    "url_alias": "san-diego-bitcoiners",
+    "area_km2": 11714.93,
+    "population:date": "2022-04-01",
+    "contact:email": "coreyedwards@pm.me",
+    "type": "community",
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/san-diego-bitcoiners.png",
+    "population": "3298634",
+    "contact:twitter": "https://twitter.com/sdbitcoiners",
+    "name": "San Diego Bitcoiners",
+    "contact:website": "https://blog.sdbitcoiners.com/",
+    "id": 568,
+    "merchantCount": 98
+  },
+  {
     "continent": "africa",
     "icon:square": "https://static.btcmap.org/images/areas/857.png",
     "name": "Bitcoin Plett",
@@ -618,22 +634,6 @@
     "verified:date": "2026-03-12",
     "id": 857,
     "merchantCount": 98
-  },
-  {
-    "contact:meetup": "https://www.meetup.com/sdbitcoiners/",
-    "url_alias": "san-diego-bitcoiners",
-    "area_km2": 11714.93,
-    "population:date": "2022-04-01",
-    "contact:email": "coreyedwards@pm.me",
-    "type": "community",
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/san-diego-bitcoiners.png",
-    "population": "3298634",
-    "contact:twitter": "https://twitter.com/sdbitcoiners",
-    "name": "San Diego Bitcoiners",
-    "contact:website": "https://blog.sdbitcoiners.com/",
-    "id": 568,
-    "merchantCount": 97
   },
   {
     "continent": "north-america",
@@ -850,7 +850,7 @@
     "area_km2": 1181.04,
     "contact:nostr": "npub1p7g986pc56qmvryplgzka0fsrpuwlk6mxk3h686w4e46n74e56qqhz88vk",
     "id": 84,
-    "merchantCount": 77
+    "merchantCount": 78
   },
   {
     "population": "2891082",
@@ -1612,22 +1612,6 @@
     "merchantCount": 49
   },
   {
-    "name": "Greek Bitcoin Network",
-    "icon:square": "https://static.btcmap.org/images/communities/greek-bitcoin-network.jpeg",
-    "population:date": "2021-01-01",
-    "contact:meetup": "https://www.meetup.com/blockchaingreece-0",
-    "tips:lightning_address": "glowleaf@getalby.com",
-    "population": "10432481",
-    "contact:twitter": "https://twitter.com/greekbitcoinnet",
-    "type": "community",
-    "url_alias": "greek-bitcoin-network",
-    "continent": "europe",
-    "contact:website": "https://greekblockchainnetwork.com/bitcoin/",
-    "area_km2": 228405.03,
-    "id": 381,
-    "merchantCount": 48
-  },
-  {
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-witsand.jpg",
     "name": "Bitcoin Witsand",
     "continent": "africa",
@@ -1673,6 +1657,22 @@
     "merchantCount": 47
   },
   {
+    "name": "Greek Bitcoin Network",
+    "icon:square": "https://static.btcmap.org/images/communities/greek-bitcoin-network.jpeg",
+    "population:date": "2021-01-01",
+    "contact:meetup": "https://www.meetup.com/blockchaingreece-0",
+    "tips:lightning_address": "glowleaf@getalby.com",
+    "population": "10432481",
+    "contact:twitter": "https://twitter.com/greekbitcoinnet",
+    "type": "community",
+    "url_alias": "greek-bitcoin-network",
+    "continent": "europe",
+    "contact:website": "https://greekblockchainnetwork.com/bitcoin/",
+    "area_km2": 228405.03,
+    "id": 381,
+    "merchantCount": 47
+  },
+  {
     "continent": "europe",
     "icon:square": "https://static.btcmap.org/images/areas/926.png",
     "name": "Twenty One Kickoff",
@@ -1687,6 +1687,37 @@
     "verified:date": "2026-01-18",
     "id": 926,
     "merchantCount": 47
+  },
+  {
+    "continent": "north-america",
+    "population:date": "2020-01-01",
+    "contact:meetup": "https://meetu.ps/c/4Xp7m/sCFz6/a",
+    "url_alias": "bit-miami",
+    "area_km2": 143.8,
+    "name": "Bit Miami",
+    "contact:email": "BitMiami305@gmail.com",
+    "contact:website": "https://www.bitmiami.io/",
+    "contact:twitter": "https://twitter.com/Bitmiami305",
+    "type": "community",
+    "population": "442241",
+    "icon:square": "https://static.btcmap.org/images/communities/bit-miami.jpeg",
+    "id": 63,
+    "merchantCount": 46
+  },
+  {
+    "area_km2": 143.8,
+    "name": "Bitcoin Brunch Miami",
+    "icon:square": "https://static.btcmap.org/images/areas/80.jpg",
+    "contact:email": "bitcoinbrunchnetwork@gmail.com",
+    "contact:telegram": "https://t.me/bitcoinbrunchnetwork",
+    "contact:twitter": "https://twitter.com/brunchofbitcoin",
+    "population": "442241",
+    "continent": "north-america",
+    "population:date": "2020-01-01",
+    "url_alias": "bitcoin-brunch-miami",
+    "type": "community",
+    "id": 80,
+    "merchantCount": 46
   },
   {
     "population": "32103042",
@@ -1704,54 +1735,6 @@
     "continent": "africa",
     "id": 89,
     "merchantCount": 46
-  },
-  {
-    "area_km2": 579.4,
-    "continent": "north-america",
-    "contact:twitter": "https://twitter.com/atlantabitdevs",
-    "name": "Atlanta BitDevs",
-    "population": "6144050",
-    "url_alias": "atlanta-bit-devs",
-    "organization": "bit-devs",
-    "contact:email": "atlantabitdevs@proton.me",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/atlanta-bit-devs.png",
-    "contact:meetup": "https://www.meetup.com/atlantabitdevs/",
-    "contact:website": "https://atlantabitdevs.org",
-    "population:date": "2020-01-01",
-    "id": 32,
-    "merchantCount": 45
-  },
-  {
-    "continent": "north-america",
-    "population:date": "2020-01-01",
-    "contact:meetup": "https://meetu.ps/c/4Xp7m/sCFz6/a",
-    "url_alias": "bit-miami",
-    "area_km2": 143.8,
-    "name": "Bit Miami",
-    "contact:email": "BitMiami305@gmail.com",
-    "contact:website": "https://www.bitmiami.io/",
-    "contact:twitter": "https://twitter.com/Bitmiami305",
-    "type": "community",
-    "population": "442241",
-    "icon:square": "https://static.btcmap.org/images/communities/bit-miami.jpeg",
-    "id": 63,
-    "merchantCount": 45
-  },
-  {
-    "area_km2": 143.8,
-    "name": "Bitcoin Brunch Miami",
-    "icon:square": "https://static.btcmap.org/images/areas/80.jpg",
-    "contact:email": "bitcoinbrunchnetwork@gmail.com",
-    "contact:telegram": "https://t.me/bitcoinbrunchnetwork",
-    "contact:twitter": "https://twitter.com/brunchofbitcoin",
-    "population": "442241",
-    "continent": "north-america",
-    "population:date": "2020-01-01",
-    "url_alias": "bitcoin-brunch-miami",
-    "type": "community",
-    "id": 80,
-    "merchantCount": 45
   },
   {
     "box:north": "45.89574303912447",
@@ -1772,7 +1755,7 @@
     "contact:email": "kevin@satoshiportal.com",
     "area_km2": 624.29,
     "id": 122,
-    "merchantCount": 45
+    "merchantCount": 46
   },
   {
     "area_km2": 144,
@@ -1788,6 +1771,23 @@
     "type": "community",
     "url_alias": "bitcoin-grove",
     "id": 725,
+    "merchantCount": 46
+  },
+  {
+    "area_km2": 579.4,
+    "continent": "north-america",
+    "contact:twitter": "https://twitter.com/atlantabitdevs",
+    "name": "Atlanta BitDevs",
+    "population": "6144050",
+    "url_alias": "atlanta-bit-devs",
+    "organization": "bit-devs",
+    "contact:email": "atlantabitdevs@proton.me",
+    "type": "community",
+    "icon:square": "https://static.btcmap.org/images/communities/atlanta-bit-devs.png",
+    "contact:meetup": "https://www.meetup.com/atlantabitdevs/",
+    "contact:website": "https://atlantabitdevs.org",
+    "population:date": "2020-01-01",
+    "id": 32,
     "merchantCount": 45
   },
   {
@@ -2009,21 +2009,6 @@
     "merchantCount": 40
   },
   {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/964.png",
-    "name": "Columbus Bitcoin",
-    "population": 905748,
-    "population:date": "2020-04-01",
-    "url_alias": "columbus-bitcoin",
-    "tips:lightning_address": "columbusbitcoin@cluborange.org",
-    "contact:twitter": "https://x.com/ColumbusBitcoin?t=5-dZ5kh_CLye5Er_Jag7PA&s=09",
-    "description": "Columbus Bitcoin is a monthly social gathering centered around Bitcoin. Our goal is to exchange stories related to Bitcoin, provide technical insights, foster business connections, and build lasting friendships. Regardless of whether you're just dipping your toes into the complex world of Bitcoin, struggling with its jargon, or you're a seasoned veteran who was involved in drafting the initial Bitcoin white paper in 2009, everyone is invited to learn and share their experiences.",
-    "type": "community",
-    "area_km2": 754.76,
-    "id": 964,
-    "merchantCount": 40
-  },
-  {
     "name": "YYC Bitcoin",
     "population": "1481806",
     "type": "community",
@@ -2043,21 +2028,7 @@
     "box:east": "-113.61236572265626",
     "contact:twitter": "https://twitter.com/yycbitcoin",
     "id": 655,
-    "merchantCount": 39
-  },
-  {
-    "continent": "north-america",
-    "population": "2104238",
-    "name": "Portland Bitcoin Group",
-    "type": "community",
-    "contact:email": "EricYHF@pm.me",
-    "area_km2": 380.29,
-    "population:date": "2020-01-01",
-    "url_alias": "portland_bitcoin_group",
-    "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
-    "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
-    "id": 661,
-    "merchantCount": 39
+    "merchantCount": 40
   },
   {
     "area_km2": 5748,
@@ -2078,6 +2049,35 @@
     "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
     "verified:date": "2026-01-22",
     "id": 709,
+    "merchantCount": 40
+  },
+  {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/964.png",
+    "name": "Columbus Bitcoin",
+    "population": 905748,
+    "population:date": "2020-04-01",
+    "url_alias": "columbus-bitcoin",
+    "tips:lightning_address": "columbusbitcoin@cluborange.org",
+    "contact:twitter": "https://x.com/ColumbusBitcoin?t=5-dZ5kh_CLye5Er_Jag7PA&s=09",
+    "description": "Columbus Bitcoin is a monthly social gathering centered around Bitcoin. Our goal is to exchange stories related to Bitcoin, provide technical insights, foster business connections, and build lasting friendships. Regardless of whether you're just dipping your toes into the complex world of Bitcoin, struggling with its jargon, or you're a seasoned veteran who was involved in drafting the initial Bitcoin white paper in 2009, everyone is invited to learn and share their experiences.",
+    "type": "community",
+    "area_km2": 754.76,
+    "id": 964,
+    "merchantCount": 40
+  },
+  {
+    "continent": "north-america",
+    "population": "2104238",
+    "name": "Portland Bitcoin Group",
+    "type": "community",
+    "contact:email": "EricYHF@pm.me",
+    "area_km2": 380.29,
+    "population:date": "2020-01-01",
+    "url_alias": "portland_bitcoin_group",
+    "icon:square": "https://static.btcmap.org/images/communities/portland_bitcoin_group.webp",
+    "contact:meetup": "https://www.meetup.com/Portland-Bitcoin-Group/",
+    "id": 661,
     "merchantCount": 39
   },
   {
@@ -2347,6 +2347,22 @@
     "merchantCount": 35
   },
   {
+    "continent": "europe",
+    "organization": "einundzwanzig",
+    "name": "Einundzwanzig Franken",
+    "language": "de",
+    "url_alias": "einundzwanzig-franken",
+    "population:date": "2021-12-31",
+    "contact:twitter": "https://twitter.com/einundzwanzigFR",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-franken.webp",
+    "area_km2": 42763.68,
+    "contact:telegram": "https://t.me/Einundzwanzig_FRANKEN",
+    "population": 4131723,
+    "type": "community",
+    "id": 269,
+    "merchantCount": 35
+  },
+  {
     "area_km2": 16411.25,
     "contact:telegram": "https://t.me/Einundzwanzig_Styria",
     "url_alias": "einundzwanzig-styria",
@@ -2440,22 +2456,6 @@
     "contact:email": "contact@sababacm.com",
     "contact:twitter": "https://twitter.com/stefantking",
     "id": 196,
-    "merchantCount": 34
-  },
-  {
-    "continent": "europe",
-    "organization": "einundzwanzig",
-    "name": "Einundzwanzig Franken",
-    "language": "de",
-    "url_alias": "einundzwanzig-franken",
-    "population:date": "2021-12-31",
-    "contact:twitter": "https://twitter.com/einundzwanzigFR",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-franken.webp",
-    "area_km2": 42763.68,
-    "contact:telegram": "https://t.me/Einundzwanzig_FRANKEN",
-    "population": 4131723,
-    "type": "community",
-    "id": 269,
     "merchantCount": 34
   },
   {
@@ -3464,6 +3464,21 @@
   },
   {
     "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-manitoba.png",
+    "name": "Bitcoin Manitoba",
+    "population": 1499981,
+    "population:date": "2024-01-01",
+    "url_alias": "bitcoin-manitoba",
+    "contact:email": "bitcoinmanitoba@gmail.com",
+    "contact:twitter": "https://www.twitter.com/BTCManitoba",
+    "contact:meetup": "https://www.meetup.com/bitcoin-manitoba-meetup-group/",
+    "area_km2": 650760.82,
+    "type": "community",
+    "id": 839,
+    "merchantCount": 18
+  },
+  {
+    "continent": "north-america",
     "icon:square": "https://i.imgur.com/zUSUHIt.jpeg",
     "name": "Bitcoin La Laguna",
     "population": 5240,
@@ -4343,21 +4358,6 @@
     "url_alias": "dvadsatjeden-nitra",
     "verified:date": "2026-02-21",
     "id": 759,
-    "merchantCount": 13
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-manitoba.png",
-    "name": "Bitcoin Manitoba",
-    "population": 1499981,
-    "population:date": "2024-01-01",
-    "url_alias": "bitcoin-manitoba",
-    "contact:email": "bitcoinmanitoba@gmail.com",
-    "contact:twitter": "https://www.twitter.com/BTCManitoba",
-    "contact:meetup": "https://www.meetup.com/bitcoin-manitoba-meetup-group/",
-    "area_km2": 650760.82,
-    "type": "community",
-    "id": 839,
     "merchantCount": 13
   },
   {
