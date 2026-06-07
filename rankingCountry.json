@@ -132,7 +132,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1054
+    "merchantCount": 1055
   },
   {
     "iso_a2": "CH",
@@ -159,7 +159,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 801
+    "merchantCount": 800
   },
   {
     "name": "Germany",
@@ -240,7 +240,7 @@
     "url_alias": "mx",
     "icon:square": "https://static.btcmap.org/images/countries/mx.svg",
     "id": 493,
-    "merchantCount": 550
+    "merchantCount": 552
   },
   {
     "gdp_md": 543548,
@@ -294,7 +294,7 @@
     "url_alias": "cr",
     "icon:square": "https://static.btcmap.org/images/countries/cr.svg",
     "id": 211,
-    "merchantCount": 398
+    "merchantCount": 399
   },
   {
     "population": 47076781,
@@ -351,33 +351,6 @@
     "merchantCount": 370
   },
   {
-    "population:rank": 14,
-    "wikidataid": "Q213",
-    "country_type": "Sovereign country",
-    "name": "Czechia",
-    "continent": "Europe",
-    "region_wb": "Europe & Central Asia",
-    "region_un": "Europe",
-    "lon": 15.377555,
-    "iso_a3": "CZE",
-    "iso_a2": "CZ",
-    "gdp_year": 2019,
-    "lat": 49.882364,
-    "economy": "2. Developed region: nonG7",
-    "type": "country",
-    "population": 10669709,
-    "income_grp": "1. High income: OECD",
-    "subregion": "Eastern Europe",
-    "area_km2": 78657.89,
-    "population:year": 2019,
-    "gdp_md": 250680,
-    "sovereignt": "Czechia",
-    "url_alias": "cz",
-    "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
-    "id": 218,
-    "merchantCount": 365
-  },
-  {
     "iso_a2": "NL",
     "continent": "Europe",
     "gdp_year": 2019,
@@ -402,6 +375,33 @@
     "url_alias": "nl",
     "icon:square": "https://static.btcmap.org/images/countries/nl.svg",
     "id": 507,
+    "merchantCount": 366
+  },
+  {
+    "population:rank": 14,
+    "wikidataid": "Q213",
+    "country_type": "Sovereign country",
+    "name": "Czechia",
+    "continent": "Europe",
+    "region_wb": "Europe & Central Asia",
+    "region_un": "Europe",
+    "lon": 15.377555,
+    "iso_a3": "CZE",
+    "iso_a2": "CZ",
+    "gdp_year": 2019,
+    "lat": 49.882364,
+    "economy": "2. Developed region: nonG7",
+    "type": "country",
+    "population": 10669709,
+    "income_grp": "1. High income: OECD",
+    "subregion": "Eastern Europe",
+    "area_km2": 78657.89,
+    "population:year": 2019,
+    "gdp_md": 250680,
+    "sovereignt": "Czechia",
+    "url_alias": "cz",
+    "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
+    "id": 218,
     "merchantCount": 365
   },
   {
