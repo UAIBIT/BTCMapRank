@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9373
+    "merchantCount": 9372
   },
   {
     "gdp_md": 351431,
@@ -159,7 +159,34 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 800
+    "merchantCount": 794
+  },
+  {
+    "sovereignt": "Canada",
+    "economy": "1. Developed region: G7",
+    "name": "Canada",
+    "wikidataid": "Q16",
+    "population:year": 2019,
+    "country_type": "Sovereign country",
+    "lat": 60.324287,
+    "iso_a2": "CA",
+    "gdp_year": 2019,
+    "continent": "North America",
+    "lon": -101.9107,
+    "iso_a3": "CAN",
+    "subregion": "Northern America",
+    "population": 37589262,
+    "region_un": "Americas",
+    "population:rank": 15,
+    "type": "country",
+    "gdp_md": 1736425,
+    "income_grp": "1. High income: OECD",
+    "region_wb": "North America",
+    "area_km2": 9894187.94,
+    "url_alias": "ca",
+    "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
+    "id": 186,
+    "merchantCount": 631
   },
   {
     "name": "Germany",
@@ -189,33 +216,6 @@
     "merchantCount": 611
   },
   {
-    "sovereignt": "Canada",
-    "economy": "1. Developed region: G7",
-    "name": "Canada",
-    "wikidataid": "Q16",
-    "population:year": 2019,
-    "country_type": "Sovereign country",
-    "lat": 60.324287,
-    "iso_a2": "CA",
-    "gdp_year": 2019,
-    "continent": "North America",
-    "lon": -101.9107,
-    "iso_a3": "CAN",
-    "subregion": "Northern America",
-    "population": 37589262,
-    "region_un": "Americas",
-    "population:rank": 15,
-    "type": "country",
-    "gdp_md": 1736425,
-    "income_grp": "1. High income: OECD",
-    "region_wb": "North America",
-    "area_km2": 9894187.94,
-    "url_alias": "ca",
-    "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
-    "id": 186,
-    "merchantCount": 608
-  },
-  {
     "region_un": "Americas",
     "country_type": "Sovereign country",
     "iso_a2": "MX",
@@ -240,7 +240,7 @@
     "url_alias": "mx",
     "icon:square": "https://static.btcmap.org/images/countries/mx.svg",
     "id": 493,
-    "merchantCount": 552
+    "merchantCount": 553
   },
   {
     "gdp_md": 543548,
@@ -267,7 +267,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 476
+    "merchantCount": 477
   },
   {
     "country_type": "Sovereign country",
@@ -613,7 +613,7 @@
     "url_alias": "at",
     "icon:square": "https://static.btcmap.org/images/countries/at.svg",
     "id": 31,
-    "merchantCount": 209
+    "merchantCount": 208
   },
   {
     "sovereignt": "Australia",
@@ -1311,6 +1311,33 @@
     "merchantCount": 37
   },
   {
+    "income_grp": "1. High income: OECD",
+    "population": 9769949,
+    "region_wb": "Europe & Central Asia",
+    "country_type": "Sovereign country",
+    "iso_a3": "HUN",
+    "continent": "Europe",
+    "type": "country",
+    "iso_a2": "HU",
+    "wikidataid": "Q28",
+    "lat": 47.086841,
+    "lon": 19.447867,
+    "sovereignt": "Hungary",
+    "area_km2": 93167.09,
+    "subregion": "Eastern Europe",
+    "gdp_year": 2019,
+    "population:rank": 13,
+    "population:year": 2019,
+    "name": "Hungary",
+    "region_un": "Europe",
+    "gdp_md": 163469,
+    "economy": "2. Developed region: nonG7",
+    "url_alias": "hu",
+    "icon:square": "https://static.btcmap.org/images/countries/hu.svg",
+    "id": 395,
+    "merchantCount": 37
+  },
+  {
     "name": "India",
     "region_wb": "South Asia",
     "gdp_md": 2868929,
@@ -1363,33 +1390,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/no.svg",
     "id": 686,
     "merchantCount": 37
-  },
-  {
-    "income_grp": "1. High income: OECD",
-    "population": 9769949,
-    "region_wb": "Europe & Central Asia",
-    "country_type": "Sovereign country",
-    "iso_a3": "HUN",
-    "continent": "Europe",
-    "type": "country",
-    "iso_a2": "HU",
-    "wikidataid": "Q28",
-    "lat": 47.086841,
-    "lon": 19.447867,
-    "sovereignt": "Hungary",
-    "area_km2": 93167.09,
-    "subregion": "Eastern Europe",
-    "gdp_year": 2019,
-    "population:rank": 13,
-    "population:year": 2019,
-    "name": "Hungary",
-    "region_un": "Europe",
-    "gdp_md": 163469,
-    "economy": "2. Developed region: nonG7",
-    "url_alias": "hu",
-    "icon:square": "https://static.btcmap.org/images/countries/hu.svg",
-    "id": 395,
-    "merchantCount": 36
   },
   {
     "population": 270625568,
