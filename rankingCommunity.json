@@ -440,7 +440,7 @@
     "language": "br",
     "organization": "go-btc",
     "id": 536,
-    "merchantCount": 125
+    "merchantCount": 124
   },
   {
     "population:date": "2022-01-01",
@@ -1220,6 +1220,20 @@
     "merchantCount": 64
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/areas/918.png",
+    "name": "Dallas Bitcoin",
+    "population": 1304379,
+    "population:date": "2020-04-24",
+    "url_alias": "dallas-bitcoin",
+    "contact:meetup": "https://www.meetup.com/dallas-bitcoin-meetup-group",
+    "type": "community",
+    "area_km2": 2350.82,
+    "verified:date": "2026-05-23",
+    "id": 918,
+    "merchantCount": 64
+  },
+  {
     "continent": "south-america",
     "icon:square": "https://static.btcmap.org/images/areas/915.png",
     "name": "Satoshi Team - Antioquia",
@@ -1235,20 +1249,6 @@
     "organization": "satoshi-team",
     "verified:date": "2026-01-09",
     "id": 915,
-    "merchantCount": 63
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/areas/918.png",
-    "name": "Dallas Bitcoin",
-    "population": 1304379,
-    "population:date": "2020-04-24",
-    "url_alias": "dallas-bitcoin",
-    "contact:meetup": "https://www.meetup.com/dallas-bitcoin-meetup-group",
-    "type": "community",
-    "area_km2": 2350.82,
-    "verified:date": "2026-05-23",
-    "id": 918,
     "merchantCount": 63
   },
   {
@@ -1791,6 +1791,28 @@
     "merchantCount": 46
   },
   {
+    "name": "YYC Bitcoin",
+    "population": "1481806",
+    "type": "community",
+    "box:north": "51.29971080556154",
+    "icon:square": "https://static.btcmap.org/images/communities/yyc.jpg",
+    "contact:website": "https://yycbitcoin.com/",
+    "contact:meetup": "https://www.meetup.com/yycbitcoin",
+    "box:south": "50.78857450392836",
+    "contact:facebook": "https://www.facebook.com/btcpuertoricooficial",
+    "url_alias": "yyc",
+    "box:west": "-114.49401855468751",
+    "population:date": "2021-01-01",
+    "continent": "north-america",
+    "area_km2": 847.32,
+    "tips:lightning_address": "yycbitcoin@zbd.gg",
+    "contact:email": "info@yycbitcoin.com",
+    "box:east": "-113.61236572265626",
+    "contact:twitter": "https://twitter.com/yycbitcoin",
+    "id": 655,
+    "merchantCount": 45
+  },
+  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-oriente.png",
     "name": "Bitcoin Oriente",
@@ -1992,28 +2014,6 @@
     "merchantCount": 41
   },
   {
-    "name": "YYC Bitcoin",
-    "population": "1481806",
-    "type": "community",
-    "box:north": "51.29971080556154",
-    "icon:square": "https://static.btcmap.org/images/communities/yyc.jpg",
-    "contact:website": "https://yycbitcoin.com/",
-    "contact:meetup": "https://www.meetup.com/yycbitcoin",
-    "box:south": "50.78857450392836",
-    "contact:facebook": "https://www.facebook.com/btcpuertoricooficial",
-    "url_alias": "yyc",
-    "box:west": "-114.49401855468751",
-    "population:date": "2021-01-01",
-    "continent": "north-america",
-    "area_km2": 847.32,
-    "tips:lightning_address": "yycbitcoin@zbd.gg",
-    "contact:email": "info@yycbitcoin.com",
-    "box:east": "-113.61236572265626",
-    "contact:twitter": "https://twitter.com/yycbitcoin",
-    "id": 655,
-    "merchantCount": 41
-  },
-  {
     "area_km2": 5748,
     "contact:email": "info@bitcoinfriesland.com",
     "contact:nostr": "npub15qgfat6kkmzecup683u64lalqdceaejq97d8z8njhwk0c68umx6qcs5dcm",
@@ -2160,6 +2160,25 @@
     "merchantCount": 37
   },
   {
+    "area_km2": 57,
+    "contact:twitter": "https://x.com/BTCisla",
+    "contact:website": "https://geyser.fund/project/btcisla",
+    "continent": "north-america",
+    "name": "BTC Isla",
+    "population": 12642,
+    "population:date": "2010-01-01",
+    "tips:lightning_address": "grittybelgian62@walletofsatoshi.com",
+    "type": "community",
+    "url_alias": "btc-isla",
+    "icon:square": "https://static.btcmap.org/images/communities/btc-isla.jpg",
+    "contact:youtube": "https://www.youtube.com/@btcisla",
+    "contact:email": "satoshislegacy@gmai.com",
+    "contact:nostr": "npub1f75q50fcdudzzjczjg0u0we2krq4e48f4zc07nuvgaeljrnpkvgsr7gh94",
+    "organization": "veintiuno-lat",
+    "id": 737,
+    "merchantCount": 37
+  },
+  {
     "area_km2": 208.92,
     "contact:email": "bitcoinduc@gmail.com",
     "contact:telegram": "https://t.me/BTCDUCMEETUP",
@@ -2259,25 +2278,6 @@
     "contact:telegram": "https://t.me/+bAXCL16kZFMzM2U0",
     "verified:date": "2026-04-21",
     "id": 174,
-    "merchantCount": 36
-  },
-  {
-    "area_km2": 57,
-    "contact:twitter": "https://x.com/BTCisla",
-    "contact:website": "https://geyser.fund/project/btcisla",
-    "continent": "north-america",
-    "name": "BTC Isla",
-    "population": 12642,
-    "population:date": "2010-01-01",
-    "tips:lightning_address": "grittybelgian62@walletofsatoshi.com",
-    "type": "community",
-    "url_alias": "btc-isla",
-    "icon:square": "https://static.btcmap.org/images/communities/btc-isla.jpg",
-    "contact:youtube": "https://www.youtube.com/@btcisla",
-    "contact:email": "satoshislegacy@gmai.com",
-    "contact:nostr": "npub1f75q50fcdudzzjczjg0u0we2krq4e48f4zc07nuvgaeljrnpkvgsr7gh94",
-    "organization": "veintiuno-lat",
-    "id": 737,
     "merchantCount": 36
   },
   {
@@ -3180,6 +3180,21 @@
     "merchantCount": 21
   },
   {
+    "continent": "north-america",
+    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-manitoba.png",
+    "name": "Bitcoin Manitoba",
+    "population": 1499981,
+    "population:date": "2024-01-01",
+    "url_alias": "bitcoin-manitoba",
+    "contact:email": "bitcoinmanitoba@gmail.com",
+    "contact:twitter": "https://www.twitter.com/BTCManitoba",
+    "contact:meetup": "https://www.meetup.com/bitcoin-manitoba-meetup-group/",
+    "area_km2": 650760.82,
+    "type": "community",
+    "id": 839,
+    "merchantCount": 21
+  },
+  {
     "contact:twitter": "https://twitter.com/bitcoinsurrey",
     "url_alias": "bitcoin-surrey",
     "type": "community",
@@ -3240,21 +3255,6 @@
     "contact:nostr": "npub1tx0k0a7lw62vvqax6p3ku90tccgdka7ul4radews2wrdsg0m865szf9fw6",
     "area_km2": 21000,
     "id": 747,
-    "merchantCount": 20
-  },
-  {
-    "continent": "north-america",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-manitoba.png",
-    "name": "Bitcoin Manitoba",
-    "population": 1499981,
-    "population:date": "2024-01-01",
-    "url_alias": "bitcoin-manitoba",
-    "contact:email": "bitcoinmanitoba@gmail.com",
-    "contact:twitter": "https://www.twitter.com/BTCManitoba",
-    "contact:meetup": "https://www.meetup.com/bitcoin-manitoba-meetup-group/",
-    "area_km2": 650760.82,
-    "type": "community",
-    "id": 839,
     "merchantCount": 20
   },
   {
@@ -3902,25 +3902,6 @@
     "merchantCount": 15
   },
   {
-    "tips:lightning_address": "brutalbowl88@walletofsatoshi.com",
-    "area_km2": 3865.59,
-    "type": "community",
-    "name": "Suffolk Bitcoin",
-    "box:north": "52.78615348878663",
-    "box:west": "-0.12634277343750003",
-    "box:east": "1.636962890625",
-    "url_alias": "suffolk-bitcoin",
-    "population:date": "2021-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/suffolk-bitcoin.jpg",
-    "continent": "europe",
-    "box:south": "51.791629704426924",
-    "population": "758556",
-    "contact:twitter": "https://twitter.com/suffolkbitcoin",
-    "contact:email": "suffolkbitcoin@gmail.com",
-    "id": 598,
-    "merchantCount": 15
-  },
-  {
     "continent": "south-america",
     "area_km2": 2338.29,
     "contact:website": "https://trigoconecta.com.br/",
@@ -4306,6 +4287,25 @@
     "contact:twitter": "https://twitter.com/517Bitcoin",
     "area_km2": 7197.72,
     "id": 475,
+    "merchantCount": 13
+  },
+  {
+    "tips:lightning_address": "brutalbowl88@walletofsatoshi.com",
+    "area_km2": 3865.59,
+    "type": "community",
+    "name": "Suffolk Bitcoin",
+    "box:north": "52.78615348878663",
+    "box:west": "-0.12634277343750003",
+    "box:east": "1.636962890625",
+    "url_alias": "suffolk-bitcoin",
+    "population:date": "2021-01-01",
+    "icon:square": "https://static.btcmap.org/images/communities/suffolk-bitcoin.jpg",
+    "continent": "europe",
+    "box:south": "51.791629704426924",
+    "population": "758556",
+    "contact:twitter": "https://twitter.com/suffolkbitcoin",
+    "contact:email": "suffolkbitcoin@gmail.com",
+    "id": 598,
     "merchantCount": 13
   },
   {
@@ -5522,20 +5522,6 @@
     "merchantCount": 8
   },
   {
-    "continent": "europe",
-    "icon:square": "https://static.btcmap.org/images/communities/bury-st-edmunds-bitcoin.jpg",
-    "name": "Bury St Edmunds Bitcoin",
-    "population": 48000,
-    "population:date": "2011-01-01",
-    "url_alias": "bury-st-edmunds-bitcoin",
-    "contact:twitter": "https://x.com/burystedsbtc",
-    "contact:email": "BSEBTC@proton.me",
-    "type": "community",
-    "area_km2": 18.5,
-    "id": 800,
-    "merchantCount": 8
-  },
-  {
     "continent": "north-america",
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-blah-blah.png",
     "name": "Bitcoin Blah Blah",
@@ -6340,6 +6326,20 @@
     "type": "community",
     "contact:nostr": "npub1kxl6tpv4lnugzutgnnsqvkn5mqvytlkjhk43xqvucqqldsfjge3qa6f68a",
     "id": 797,
+    "merchantCount": 6
+  },
+  {
+    "continent": "europe",
+    "icon:square": "https://static.btcmap.org/images/communities/bury-st-edmunds-bitcoin.jpg",
+    "name": "Bury St Edmunds Bitcoin",
+    "population": 48000,
+    "population:date": "2011-01-01",
+    "url_alias": "bury-st-edmunds-bitcoin",
+    "contact:twitter": "https://x.com/burystedsbtc",
+    "contact:email": "BSEBTC@proton.me",
+    "type": "community",
+    "area_km2": 18.5,
+    "id": 800,
     "merchantCount": 6
   },
   {
