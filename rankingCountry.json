@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9391
+    "merchantCount": 9397
   },
   {
     "gdp_md": 351431,
@@ -159,7 +159,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 797
+    "merchantCount": 795
   },
   {
     "sovereignt": "Canada",
@@ -186,7 +186,7 @@
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
     "id": 186,
-    "merchantCount": 671
+    "merchantCount": 675
   },
   {
     "name": "Germany",
@@ -697,6 +697,33 @@
     "merchantCount": 170
   },
   {
+    "sovereignt": "Colombia",
+    "iso_a3": "COL",
+    "name": "Colombia",
+    "economy": "6. Developing region",
+    "type": "country",
+    "population:year": 2019,
+    "iso_a2": "CO",
+    "population": 50339443,
+    "region_wb": "Latin America & Caribbean",
+    "lon": -73.174347,
+    "region_un": "Americas",
+    "population:rank": 16,
+    "gdp_md": 323615,
+    "gdp_year": 2019,
+    "continent": "South America",
+    "income_grp": "3. Upper middle income",
+    "area_km2": 1141982.41,
+    "wikidataid": "Q739",
+    "lat": 3.373111,
+    "country_type": "Sovereign country",
+    "subregion": "South America",
+    "url_alias": "co",
+    "icon:square": "https://static.btcmap.org/images/countries/co.svg",
+    "id": 205,
+    "merchantCount": 137
+  },
+  {
     "region_wb": "Latin America & Caribbean",
     "type": "country",
     "wikidataid": "Q750",
@@ -722,33 +749,6 @@
     "icon:square": "https://static.btcmap.org/images/countries/bo.svg",
     "id": 168,
     "merchantCount": 136
-  },
-  {
-    "sovereignt": "Colombia",
-    "iso_a3": "COL",
-    "name": "Colombia",
-    "economy": "6. Developing region",
-    "type": "country",
-    "population:year": 2019,
-    "iso_a2": "CO",
-    "population": 50339443,
-    "region_wb": "Latin America & Caribbean",
-    "lon": -73.174347,
-    "region_un": "Americas",
-    "population:rank": 16,
-    "gdp_md": 323615,
-    "gdp_year": 2019,
-    "continent": "South America",
-    "income_grp": "3. Upper middle income",
-    "area_km2": 1141982.41,
-    "wikidataid": "Q739",
-    "lat": 3.373111,
-    "country_type": "Sovereign country",
-    "subregion": "South America",
-    "url_alias": "co",
-    "icon:square": "https://static.btcmap.org/images/countries/co.svg",
-    "id": 205,
-    "merchantCount": 131
   },
   {
     "lon": -70.653998,
