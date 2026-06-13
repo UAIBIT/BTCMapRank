@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9397
+    "merchantCount": 9424
   },
   {
     "gdp_md": 351431,
@@ -132,7 +132,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1054
+    "merchantCount": 1051
   },
   {
     "iso_a2": "CH",
@@ -159,7 +159,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 795
+    "merchantCount": 793
   },
   {
     "sovereignt": "Canada",
@@ -186,7 +186,7 @@
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
     "id": 186,
-    "merchantCount": 675
+    "merchantCount": 701
   },
   {
     "name": "Germany",
@@ -294,7 +294,7 @@
     "url_alias": "cr",
     "icon:square": "https://static.btcmap.org/images/countries/cr.svg",
     "id": 211,
-    "merchantCount": 399
+    "merchantCount": 398
   },
   {
     "population": 47076781,
@@ -721,7 +721,7 @@
     "url_alias": "co",
     "icon:square": "https://static.btcmap.org/images/countries/co.svg",
     "id": 205,
-    "merchantCount": 137
+    "merchantCount": 140
   },
   {
     "region_wb": "Latin America & Caribbean",
@@ -876,7 +876,7 @@
     "url_alias": "pe",
     "icon:square": "https://static.btcmap.org/images/countries/pe.svg",
     "id": 524,
-    "merchantCount": 80
+    "merchantCount": 81
   },
   {
     "continent": "Asia",
@@ -2405,33 +2405,6 @@
     "merchantCount": 6
   },
   {
-    "subregion": "Eastern Asia",
-    "income_grp": "2. High income: nonOECD",
-    "lon": 114.097769,
-    "lat": 22.448829,
-    "name": "Hong Kong S.A.R.",
-    "gdp_year": 2019,
-    "type": "country",
-    "population": 7507400,
-    "country_type": "Country",
-    "sovereignt": "China",
-    "continent": "Asia",
-    "economy": "6. Developing region",
-    "region_un": "Asia",
-    "region_wb": "East Asia & Pacific",
-    "iso_a3": "HKG",
-    "wikidataid": "Q8646",
-    "area_km2": 1031.22,
-    "population:rank": 13,
-    "population:year": 2019,
-    "gdp_md": 365711,
-    "iso_a2": "HK",
-    "url_alias": "hk",
-    "icon:square": "https://static.btcmap.org/images/countries/hk.svg",
-    "id": 390,
-    "merchantCount": 6
-  },
-  {
     "name": "Latvia",
     "continent": "Europe",
     "iso_a2": "LV",
@@ -2484,6 +2457,33 @@
     "icon:square": "https://static.btcmap.org/images/countries/pr.svg",
     "id": 537,
     "merchantCount": 6
+  },
+  {
+    "subregion": "Eastern Asia",
+    "income_grp": "2. High income: nonOECD",
+    "lon": 114.097769,
+    "lat": 22.448829,
+    "name": "Hong Kong S.A.R.",
+    "gdp_year": 2019,
+    "type": "country",
+    "population": 7507400,
+    "country_type": "Country",
+    "sovereignt": "China",
+    "continent": "Asia",
+    "economy": "6. Developing region",
+    "region_un": "Asia",
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "HKG",
+    "wikidataid": "Q8646",
+    "area_km2": 1031.22,
+    "population:rank": 13,
+    "population:year": 2019,
+    "gdp_md": 365711,
+    "iso_a2": "HK",
+    "url_alias": "hk",
+    "icon:square": "https://static.btcmap.org/images/countries/hk.svg",
+    "id": 390,
+    "merchantCount": 5
   },
   {
     "type": "country",
