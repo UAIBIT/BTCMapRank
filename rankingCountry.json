@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9424
+    "merchantCount": 9425
   },
   {
     "gdp_md": 351431,
@@ -132,7 +132,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1051
+    "merchantCount": 1054
   },
   {
     "iso_a2": "CH",
@@ -159,7 +159,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 793
+    "merchantCount": 792
   },
   {
     "sovereignt": "Canada",
@@ -267,7 +267,7 @@
     "url_alias": "th",
     "icon:square": "https://static.btcmap.org/images/areas/610.svg",
     "id": 610,
-    "merchantCount": 478
+    "merchantCount": 479
   },
   {
     "country_type": "Sovereign country",
@@ -667,7 +667,7 @@
     "url_alias": "ke",
     "icon:square": "https://static.btcmap.org/images/countries/ke.svg",
     "id": 415,
-    "merchantCount": 190
+    "merchantCount": 193
   },
   {
     "income_grp": "3. Upper middle income",
@@ -1581,6 +1581,33 @@
     "merchantCount": 26
   },
   {
+    "wikidataid": "Q1029",
+    "country_type": "Sovereign country",
+    "gdp_year": 2019,
+    "income_grp": "5. Low income",
+    "area_km2": 792438.1,
+    "population:rank": 15,
+    "lon": 37.83789,
+    "name": "Mozambique",
+    "region_wb": "Sub-Saharan Africa",
+    "continent": "Africa",
+    "type": "country",
+    "population": 30366036,
+    "economy": "7. Least developed region",
+    "subregion": "Eastern Africa",
+    "sovereignt": "Mozambique",
+    "iso_a2": "MZ",
+    "region_un": "Africa",
+    "lat": -13.94323,
+    "population:year": 2019,
+    "gdp_md": 15291,
+    "iso_a3": "MOZ",
+    "url_alias": "mz",
+    "icon:square": "https://static.btcmap.org/images/countries/mz.svg",
+    "id": 495,
+    "merchantCount": 26
+  },
+  {
     "gdp_md": 282318,
     "country_type": "Sovereign country",
     "area_km2": 739098.84,
@@ -1633,33 +1660,6 @@
     "icon:square": "https://static.btcmap.org/images/areas/494.png",
     "verified:date": "2026-03-04",
     "id": 494,
-    "merchantCount": 24
-  },
-  {
-    "wikidataid": "Q1029",
-    "country_type": "Sovereign country",
-    "gdp_year": 2019,
-    "income_grp": "5. Low income",
-    "area_km2": 792438.1,
-    "population:rank": 15,
-    "lon": 37.83789,
-    "name": "Mozambique",
-    "region_wb": "Sub-Saharan Africa",
-    "continent": "Africa",
-    "type": "country",
-    "population": 30366036,
-    "economy": "7. Least developed region",
-    "subregion": "Eastern Africa",
-    "sovereignt": "Mozambique",
-    "iso_a2": "MZ",
-    "region_un": "Africa",
-    "lat": -13.94323,
-    "population:year": 2019,
-    "gdp_md": 15291,
-    "iso_a3": "MOZ",
-    "url_alias": "mz",
-    "icon:square": "https://static.btcmap.org/images/countries/mz.svg",
-    "id": 495,
     "merchantCount": 24
   },
   {

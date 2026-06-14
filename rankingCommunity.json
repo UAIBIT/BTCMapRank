@@ -29,7 +29,7 @@
     "continent": "europe",
     "organization": "einundzwanzig",
     "id": 331,
-    "merchantCount": 813
+    "merchantCount": 812
   },
   {
     "population": "8636896",
@@ -47,7 +47,7 @@
     "url_alias": "bitcoin-association-switzerland",
     "contact:telegram": "https://t.me/rogerdarin",
     "id": 71,
-    "merchantCount": 810
+    "merchantCount": 809
   },
   {
     "contact:website": "https://dezentralschweiz.ch/",
@@ -63,7 +63,7 @@
     "continent": "europe",
     "contact:telegram": "http://t.me/+ETWFIUzxnlNkZDg0",
     "id": 226,
-    "merchantCount": 810
+    "merchantCount": 809
   },
   {
     "continent": "south-america",
@@ -141,7 +141,7 @@
     "area_km2": 343.14,
     "organization": "plan-b-network",
     "id": 451,
-    "merchantCount": 278
+    "merchantCount": 277
   },
   {
     "contact:twitter": "https://twitter.com/bayareabtc",
@@ -956,6 +956,29 @@
     "merchantCount": 75
   },
   {
+    "box:south": 13.47788,
+    "continent": "asia",
+    "url_alias": "bangkok",
+    "area_km2": 1568.7,
+    "population:date": "2010-01-01",
+    "box:west": 100.14213,
+    "population": "14626225",
+    "icon:square": "https://static.btcmap.org/images/areas/44.png",
+    "box:east": 100.93104,
+    "box:north": 14.04945,
+    "name": "BOB Space",
+    "type": "community",
+    "meetup_lon": 100.557641359514,
+    "meetup_lat": 13.7471357534166,
+    "contact:twitter": "https://twitter.com/BOBSpace_BKK",
+    "contact:meetup": "http://www.meetup.com/bob-space-community-events",
+    "contact:website": "https://www.bobspaces.net/",
+    "contact:email": "bobspacesbkk@protonmail.com",
+    "verified:date": "2026-03-04",
+    "id": 44,
+    "merchantCount": 72
+  },
+  {
     "contact:website": "https://detbtc.com/",
     "contact:telegram": "https://t.me/detbtc",
     "contact:nostr": "npub1detred96wsj2feh0glc8333xjtxex07y6vhc9ylyqneq4uvjjh8snttn56",
@@ -978,29 +1001,6 @@
     "box:east": "-80.34301757812501",
     "id": 224,
     "merchantCount": 72
-  },
-  {
-    "box:south": 13.47788,
-    "continent": "asia",
-    "url_alias": "bangkok",
-    "area_km2": 1568.7,
-    "population:date": "2010-01-01",
-    "box:west": 100.14213,
-    "population": "14626225",
-    "icon:square": "https://static.btcmap.org/images/areas/44.png",
-    "box:east": 100.93104,
-    "box:north": 14.04945,
-    "name": "BOB Space",
-    "type": "community",
-    "meetup_lon": 100.557641359514,
-    "meetup_lat": 13.7471357534166,
-    "contact:twitter": "https://twitter.com/BOBSpace_BKK",
-    "contact:meetup": "http://www.meetup.com/bob-space-community-events",
-    "contact:website": "https://www.bobspaces.net/",
-    "contact:email": "bobspacesbkk@protonmail.com",
-    "verified:date": "2026-03-04",
-    "id": 44,
-    "merchantCount": 71
   },
   {
     "continent": "europe",
@@ -2730,6 +2730,21 @@
     "merchantCount": 29
   },
   {
+    "continent": "africa",
+    "name": "EcoBitz",
+    "population": 1306411,
+    "population:date": "2020-02-11",
+    "url_alias": "ecobitz",
+    "contact:twitter": "https://x.com/ecobitz_21m",
+    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
+    "type": "community",
+    "verified:date": "2026-01-13",
+    "icon:square": "https://static.btcmap.org/images/areas/974.png",
+    "area_km2": 6075.63,
+    "id": 974,
+    "merchantCount": 28
+  },
+  {
     "name": "Satoshi Spritz Torino",
     "contact:telegram": "https://t.me/satoshispritztorino",
     "population": 847287,
@@ -2920,18 +2935,26 @@
   },
   {
     "continent": "africa",
-    "name": "EcoBitz",
-    "population": 1306411,
-    "population:date": "2020-02-11",
-    "url_alias": "ecobitz",
-    "contact:twitter": "https://x.com/ecobitz_21m",
-    "description": "EcoBitz is a Bitcoin only project in our community dedicated to building a sustainable Bitcoin circular economy in Machakos county. We use our local native language, Kamba, Swahili, English and Sheng' in Bitcoin education and onboarding merchants into the Bitcoin standard.",
+    "icon:square": "https://static.btcmap.org/images/areas/882.jpg",
+    "name": "Bitcoin Famba",
+    "population": 61531,
+    "population:date": "2017-06-30",
+    "url_alias": "bitcoin-famba",
     "type": "community",
-    "verified:date": "2026-01-13",
-    "icon:square": "https://static.btcmap.org/images/areas/974.png",
-    "area_km2": 6075.63,
-    "id": 974,
-    "merchantCount": 25
+    "area_km2": 5938.98,
+    "tips:lightning_address": "bitcoinfamba@blink.sv",
+    "contact:website": "https://linktr.ee/BitcoinFamba",
+    "contact:email": "bitcoinfamba@gmail.com",
+    "contact:twitter": "https://x.com/BitcoinFamba",
+    "tips:url": "https://geyser.fund/project/bitcoinfamba",
+    "contact:instagram": "https://www.instagram.com/bitcoinfamba",
+    "contact:nostr": "nprofile1qqspa6xq9dp3enac8d04ejwpczgnfzp6jqw6apcmxk0wdn3wfvmtmccuy30r4",
+    "contact:linkedin": "https://www.linkedin.com/in/bitcoin-famba-82a050365/",
+    "contact:youtube": "https://www.youtube.com/@bitcoinfamba",
+    "contact:facebook": "https://www.facebook.com/bitcoinfamba",
+    "verified:date": "2026-01-06",
+    "id": 882,
+    "merchantCount": 24
   },
   {
     "continent": "europe",
@@ -2996,29 +3019,6 @@
     "population:date": "2021-12-31",
     "language": "de",
     "id": 344,
-    "merchantCount": 23
-  },
-  {
-    "continent": "africa",
-    "icon:square": "https://static.btcmap.org/images/areas/882.jpg",
-    "name": "Bitcoin Famba",
-    "population": 61531,
-    "population:date": "2017-06-30",
-    "url_alias": "bitcoin-famba",
-    "type": "community",
-    "area_km2": 5938.98,
-    "tips:lightning_address": "bitcoinfamba@blink.sv",
-    "contact:website": "https://linktr.ee/BitcoinFamba",
-    "contact:email": "bitcoinfamba@gmail.com",
-    "contact:twitter": "https://x.com/BitcoinFamba",
-    "tips:url": "https://geyser.fund/project/bitcoinfamba",
-    "contact:instagram": "https://www.instagram.com/bitcoinfamba",
-    "contact:nostr": "nprofile1qqspa6xq9dp3enac8d04ejwpczgnfzp6jqw6apcmxk0wdn3wfvmtmccuy30r4",
-    "contact:linkedin": "https://www.linkedin.com/in/bitcoin-famba-82a050365/",
-    "contact:youtube": "https://www.youtube.com/@bitcoinfamba",
-    "contact:facebook": "https://www.facebook.com/bitcoinfamba",
-    "verified:date": "2026-01-06",
-    "id": 882,
     "merchantCount": 23
   },
   {
@@ -7362,6 +7362,29 @@
     "merchantCount": 4
   },
   {
+    "continent": "africa",
+    "name": "Lwandi Bitcoin",
+    "population": 11000,
+    "population:date": "2026-03-26",
+    "url_alias": "lwandi-bitcoin",
+    "contact:instagram": "https://www.instagram.com/lwandi.bitcoin/",
+    "contact:twitter": "https://x.com/LwandiBitcoin",
+    "tips:lightning_address": "lwandibitcoin@blink.sv",
+    "contact:nostr": "npub17w0cveeyluhr8n652hq5n7702u6w5y9gy4q0vzld9rwswnpr3uusk5ktq5",
+    "contact:telegram": "https://t.me/lwandibitcoin",
+    "contact:linkedin": "https://www.linkedin.com/company/lwandi-bitcoin/",
+    "contact:youtube": "https://www.youtube.com/@LwandiBitcoin",
+    "contact:email": "lwandibitcoin@proton.me",
+    "description": "Lwandi Bitcoin is building a Bitcoin Circular Economy coming from the social project Lwandi Surf in Ponta do Ouro Beach, Mozambique, a Portuguese speaking community.",
+    "language": "pt",
+    "type": "community",
+    "verified:date": "2026-03-26",
+    "icon:square": "https://static.btcmap.org/images/areas/993.png",
+    "area_km2": 429.05,
+    "id": 993,
+    "merchantCount": 4
+  },
+  {
     "continent": "europe",
     "name": "Devon Bitcoiners",
     "population": 934000,
@@ -7988,29 +8011,6 @@
     "area_km2": 25.84,
     "contact:meetup": "https://www.meetup.com/bitcoinmeetup/",
     "id": 990,
-    "merchantCount": 3
-  },
-  {
-    "continent": "africa",
-    "name": "Lwandi Bitcoin",
-    "population": 11000,
-    "population:date": "2026-03-26",
-    "url_alias": "lwandi-bitcoin",
-    "contact:instagram": "https://www.instagram.com/lwandi.bitcoin/",
-    "contact:twitter": "https://x.com/LwandiBitcoin",
-    "tips:lightning_address": "lwandibitcoin@blink.sv",
-    "contact:nostr": "npub17w0cveeyluhr8n652hq5n7702u6w5y9gy4q0vzld9rwswnpr3uusk5ktq5",
-    "contact:telegram": "https://t.me/lwandibitcoin",
-    "contact:linkedin": "https://www.linkedin.com/company/lwandi-bitcoin/",
-    "contact:youtube": "https://www.youtube.com/@LwandiBitcoin",
-    "contact:email": "lwandibitcoin@proton.me",
-    "description": "Lwandi Bitcoin is building a Bitcoin Circular Economy coming from the social project Lwandi Surf in Ponta do Ouro Beach, Mozambique, a Portuguese speaking community.",
-    "language": "pt",
-    "type": "community",
-    "verified:date": "2026-03-26",
-    "icon:square": "https://static.btcmap.org/images/areas/993.png",
-    "area_km2": 429.05,
-    "id": 993,
     "merchantCount": 3
   },
   {
