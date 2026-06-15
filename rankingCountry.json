@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9425
+    "merchantCount": 9450
   },
   {
     "gdp_md": 351431,
@@ -159,7 +159,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 792
+    "merchantCount": 794
   },
   {
     "sovereignt": "Canada",
@@ -186,7 +186,7 @@
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
     "id": 186,
-    "merchantCount": 701
+    "merchantCount": 727
   },
   {
     "name": "Germany",
@@ -240,7 +240,7 @@
     "url_alias": "mx",
     "icon:square": "https://static.btcmap.org/images/countries/mx.svg",
     "id": 493,
-    "merchantCount": 554
+    "merchantCount": 557
   },
   {
     "gdp_md": 543548,
@@ -2204,33 +2204,6 @@
     "merchantCount": 8
   },
   {
-    "gdp_md": 23578,
-    "population:rank": 14,
-    "population:year": 2019,
-    "iso_a3": "SEN",
-    "subregion": "Western Africa",
-    "gdp_year": 2019,
-    "lon": -14.778586,
-    "name": "Senegal",
-    "region_un": "Africa",
-    "region_wb": "Sub-Saharan Africa",
-    "economy": "7. Least developed region",
-    "income_grp": "4. Lower middle income",
-    "area_km2": 197769.23,
-    "population": 16296364,
-    "iso_a2": "SN",
-    "country_type": "Sovereign country",
-    "wikidataid": "Q1041",
-    "lat": 15.138125,
-    "type": "country",
-    "continent": "Africa",
-    "sovereignt": "Senegal",
-    "url_alias": "sn",
-    "icon:square": "https://static.btcmap.org/images/countries/sn.svg",
-    "id": 591,
-    "merchantCount": 8
-  },
-  {
     "iso_a3": "URY",
     "wikidataid": "Q77",
     "area_km2": 177958.98,
@@ -2363,6 +2336,33 @@
     "url_alias": "me",
     "icon:square": "https://static.btcmap.org/images/countries/me.svg",
     "id": 467,
+    "merchantCount": 7
+  },
+  {
+    "gdp_md": 23578,
+    "population:rank": 14,
+    "population:year": 2019,
+    "iso_a3": "SEN",
+    "subregion": "Western Africa",
+    "gdp_year": 2019,
+    "lon": -14.778586,
+    "name": "Senegal",
+    "region_un": "Africa",
+    "region_wb": "Sub-Saharan Africa",
+    "economy": "7. Least developed region",
+    "income_grp": "4. Lower middle income",
+    "area_km2": 197769.23,
+    "population": 16296364,
+    "iso_a2": "SN",
+    "country_type": "Sovereign country",
+    "wikidataid": "Q1041",
+    "lat": 15.138125,
+    "type": "country",
+    "continent": "Africa",
+    "sovereignt": "Senegal",
+    "url_alias": "sn",
+    "icon:square": "https://static.btcmap.org/images/countries/sn.svg",
+    "id": 591,
     "merchantCount": 7
   },
   {
