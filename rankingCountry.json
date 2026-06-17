@@ -24,7 +24,7 @@
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
     "id": 633,
-    "merchantCount": 9474
+    "merchantCount": 9504
   },
   {
     "gdp_md": 351431,
@@ -51,7 +51,7 @@
     "url_alias": "za",
     "icon:square": "https://static.btcmap.org/images/countries/za.svg",
     "id": 656,
-    "merchantCount": 2728
+    "merchantCount": 2727
   },
   {
     "wikidataid": "Q155",
@@ -132,7 +132,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1054
+    "merchantCount": 1053
   },
   {
     "iso_a2": "CH",
@@ -159,7 +159,7 @@
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
     "id": 194,
-    "merchantCount": 791
+    "merchantCount": 789
   },
   {
     "sovereignt": "Canada",
@@ -213,7 +213,7 @@
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
     "id": 220,
-    "merchantCount": 612
+    "merchantCount": 611
   },
   {
     "region_un": "Americas",
@@ -375,7 +375,7 @@
     "url_alias": "nl",
     "icon:square": "https://static.btcmap.org/images/countries/nl.svg",
     "id": 507,
-    "merchantCount": 366
+    "merchantCount": 367
   },
   {
     "population:rank": 14,
@@ -405,33 +405,6 @@
     "merchantCount": 363
   },
   {
-    "gdp_md": 17477,
-    "economy": "6. Developing region",
-    "population:year": 2019,
-    "income_grp": "4. Lower middle income",
-    "gdp_year": 2019,
-    "type": "country",
-    "subregion": "Western Asia",
-    "lon": 43.735724,
-    "lat": 41.870087,
-    "area_km2": 69460.61,
-    "country_type": "Sovereign country",
-    "continent": "Asia",
-    "region_un": "Asia",
-    "population": 3720382,
-    "iso_a3": "GEO",
-    "sovereignt": "Georgia",
-    "population:rank": 12,
-    "name": "Georgia",
-    "region_wb": "Europe & Central Asia",
-    "iso_a2": "GE",
-    "wikidataid": "Q230",
-    "url_alias": "ge",
-    "icon:square": "https://static.btcmap.org/images/countries/ge.svg",
-    "id": 366,
-    "merchantCount": 341
-  },
-  {
     "wikidataid": "Q45",
     "sovereignt": "Portugal",
     "population": 10269417,
@@ -456,6 +429,33 @@
     "url_alias": "pt",
     "icon:square": "https://static.btcmap.org/images/countries/pt.svg",
     "id": 541,
+    "merchantCount": 342
+  },
+  {
+    "gdp_md": 17477,
+    "economy": "6. Developing region",
+    "population:year": 2019,
+    "income_grp": "4. Lower middle income",
+    "gdp_year": 2019,
+    "type": "country",
+    "subregion": "Western Asia",
+    "lon": 43.735724,
+    "lat": 41.870087,
+    "area_km2": 69460.61,
+    "country_type": "Sovereign country",
+    "continent": "Asia",
+    "region_un": "Asia",
+    "population": 3720382,
+    "iso_a3": "GEO",
+    "sovereignt": "Georgia",
+    "population:rank": 12,
+    "name": "Georgia",
+    "region_wb": "Europe & Central Asia",
+    "iso_a2": "GE",
+    "wikidataid": "Q230",
+    "url_alias": "ge",
+    "icon:square": "https://static.btcmap.org/images/countries/ge.svg",
+    "id": 366,
     "merchantCount": 341
   },
   {
@@ -802,7 +802,7 @@
     "url_alias": "zm",
     "icon:square": "https://static.btcmap.org/images/countries/zm.svg",
     "id": 657,
-    "merchantCount": 126
+    "merchantCount": 127
   },
   {
     "iso_a2": "SR",
@@ -1146,7 +1146,7 @@
     "url_alias": "py",
     "icon:square": "https://static.btcmap.org/images/countries/py.svg",
     "id": 543,
-    "merchantCount": 57
+    "merchantCount": 56
   },
   {
     "type": "country",
