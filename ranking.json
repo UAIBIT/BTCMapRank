@@ -3,7 +3,7 @@
     "url_alias": "earth",
     "type": "planet",
     "id": 662,
-    "merchantCount": 28388
+    "merchantCount": 28387
   },
   {
     "sovereignt": "United States of America",
@@ -126,7 +126,7 @@
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
     "id": 600,
-    "merchantCount": 1317
+    "merchantCount": 1315
   },
   {
     "contact:website": "https://satoshispritz.it/",
@@ -142,7 +142,7 @@
     "continent": "europe",
     "type": "trash",
     "id": 572,
-    "merchantCount": 1091
+    "merchantCount": 1092
   },
   {
     "subregion": "Southern Europe",
@@ -169,7 +169,7 @@
     "url_alias": "it",
     "icon:square": "https://static.btcmap.org/images/countries/it.svg",
     "id": 406,
-    "merchantCount": 1053
+    "merchantCount": 1054
   },
   {
     "continent": "africa",
@@ -569,7 +569,7 @@
     "url_alias": "cz",
     "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
     "id": 218,
-    "merchantCount": 363
+    "merchantCount": 362
   },
   {
     "name": "Einundzwanzig Portugal",
@@ -1164,7 +1164,7 @@
     "tips:lightning_address": "bitcoinberlin@blink.sv",
     "verified:date": "2026-04-08",
     "id": 77,
-    "merchantCount": 148
+    "merchantCount": 146
   },
   {
     "contact:twitter": "https://twitter.com/BitcoinJungleCR",
@@ -1394,7 +1394,7 @@
     "population": 2709418,
     "url_alias": "jednadvacet-praha",
     "id": 411,
-    "merchantCount": 122
+    "merchantCount": 121
   },
   {
     "type": "trash",
@@ -1409,7 +1409,7 @@
     "url_alias": "paralelni-polis",
     "population:date": "2021",
     "id": 521,
-    "merchantCount": 122
+    "merchantCount": 121
   },
   {
     "area_km2": 699.45,
@@ -3990,6 +3990,33 @@
     "merchantCount": 34
   },
   {
+    "population": 270625568,
+    "economy": "4. Emerging region: MIKT",
+    "iso_a2": "ID",
+    "population:rank": 17,
+    "subregion": "South-Eastern Asia",
+    "area_km2": 1876351.23,
+    "country_type": "Sovereign country",
+    "type": "country",
+    "lon": 101.892949,
+    "name": "Indonesia",
+    "income_grp": "4. Lower middle income",
+    "continent": "Asia",
+    "gdp_md": 1119190,
+    "region_un": "Asia",
+    "gdp_year": 2019,
+    "wikidataid": "Q252",
+    "lat": -0.954404,
+    "population:year": 2019,
+    "sovereignt": "Indonesia",
+    "region_wb": "East Asia & Pacific",
+    "iso_a3": "IDN",
+    "url_alias": "id",
+    "icon:square": "https://static.btcmap.org/images/countries/id.svg",
+    "id": 396,
+    "merchantCount": 34
+  },
+  {
     "continent": "south-america",
     "name": "Satoshi Team - Bogotá",
     "population": 8181047,
@@ -4025,33 +4052,6 @@
     "url_alias": "colombia-p2p",
     "area_km2": 716.21,
     "id": 208,
-    "merchantCount": 33
-  },
-  {
-    "population": 270625568,
-    "economy": "4. Emerging region: MIKT",
-    "iso_a2": "ID",
-    "population:rank": 17,
-    "subregion": "South-Eastern Asia",
-    "area_km2": 1876351.23,
-    "country_type": "Sovereign country",
-    "type": "country",
-    "lon": 101.892949,
-    "name": "Indonesia",
-    "income_grp": "4. Lower middle income",
-    "continent": "Asia",
-    "gdp_md": 1119190,
-    "region_un": "Asia",
-    "gdp_year": 2019,
-    "wikidataid": "Q252",
-    "lat": -0.954404,
-    "population:year": 2019,
-    "sovereignt": "Indonesia",
-    "region_wb": "East Asia & Pacific",
-    "iso_a3": "IDN",
-    "url_alias": "id",
-    "icon:square": "https://static.btcmap.org/images/countries/id.svg",
-    "id": 396,
     "merchantCount": 33
   },
   {
@@ -5733,6 +5733,22 @@
     "merchantCount": 16
   },
   {
+    "contact:telegram": "https://t.me/Einundzwanzig_Suedtirol",
+    "contact:twitter": "https://twitter.com/SudtirolBitcoin",
+    "name": "Einundzwanzig Südtirol",
+    "population:date": "2020-12-31",
+    "continent": "europe",
+    "population": 532080,
+    "organization": "einundzwanzig",
+    "type": "community",
+    "url_alias": "einundzwanzig-suedtirol",
+    "area_km2": 7410.51,
+    "language": "it",
+    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-suedtirol.webp",
+    "id": 337,
+    "merchantCount": 16
+  },
+  {
     "region_un": "Asia",
     "subregion": "Western Asia",
     "country_type": "Disputed",
@@ -5862,22 +5878,6 @@
     "area_km2": 380.37,
     "id": 807,
     "merchantCount": 16
-  },
-  {
-    "contact:telegram": "https://t.me/Einundzwanzig_Suedtirol",
-    "contact:twitter": "https://twitter.com/SudtirolBitcoin",
-    "name": "Einundzwanzig Südtirol",
-    "population:date": "2020-12-31",
-    "continent": "europe",
-    "population": 532080,
-    "organization": "einundzwanzig",
-    "type": "community",
-    "url_alias": "einundzwanzig-suedtirol",
-    "area_km2": 7410.51,
-    "language": "it",
-    "icon:square": "https://static.btcmap.org/images/communities/einundzwanzig-suedtirol.webp",
-    "id": 337,
-    "merchantCount": 15
   },
   {
     "type": "community",
