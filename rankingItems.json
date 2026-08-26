@@ -1320,22 +1320,10 @@
     "merchantCount": null
   },
   {
-    "population": "8636896",
-    "name": "Bitcoin Association Switzerland",
-    "contact:twitter": "https://twitter.com/bitcoin_ch",
-    "continent": "europe",
-    "area_km2": 41260.3,
-    "contact:meetup": "https://www.meetup.com/Bitcoin-Meetup-Switzerland",
-    "population:date": "2020-01-01",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-association-switzerland.png",
-    "contact:website": "https://www.bitcoinassociation.ch",
-    "type": "community",
-    "contact:email": "info@bitcoinassociation.ch",
-    "contact:youtube": "https://www.youtube.com/channel/UC5nVX9C2vM1dFg0BvatKEOg",
-    "url_alias": "bitcoin-association-switzerland",
-    "contact:telegram": "https://t.me/rogerdarin",
     "id": 71,
-    "merchantCount": null
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "contact:email": "tokyocitadel.npm6r@aleeas.com",
@@ -4168,20 +4156,10 @@
     "merchantCount": null
   },
   {
-    "contact:website": "https://dezentralschweiz.ch/",
-    "type": "community",
-    "icon:square": "https://static.btcmap.org/images/communities/dezentralschweiz.jpeg",
-    "population": "8636896",
-    "population:date": "2022-01-01",
-    "contact:twitter": "https://twitter.com/dezentralch",
-    "contact:email": "bitcoiner804@pm.me",
-    "url_alias": "dezentralschweiz",
-    "name": "Dezentralschweiz",
-    "area_km2": 41260.3,
-    "continent": "europe",
-    "contact:telegram": "http://t.me/+ETWFIUzxnlNkZDg0",
     "id": 226,
-    "merchantCount": null
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "type": "community",
@@ -5875,19 +5853,10 @@
     "merchantCount": null
   },
   {
-    "language": "fr",
-    "area_km2": 41284.66,
-    "population": 8738791,
-    "type": "community",
-    "name": "Einundzwanzig Schweiz",
-    "url_alias": "einundzwanzig-schweiz",
-    "population:date": "2021-12-31",
-    "contact:telegram": "https://t.me/joinchat/8-FBDoq3Y9hkODZk",
-    "continent": "europe",
-    "organization": "einundzwanzig",
-    "icon:square": "https://static.btcmap.org/images/areas/331_square.jpg",
     "id": 331,
-    "merchantCount": null
+    "type": null,
+    "merchantCount": 0,
+    "name": null
   },
   {
     "contact:telegram": "https://t.me/einundzwanzig_siegen",
@@ -6655,16 +6624,46 @@
     "merchantCount": null
   },
   {
+    "contact:telegram": "https://t.me/+QmgW2FPIWPpiNWU0",
+    "url_alias": "gipuzkoa-2140",
+    "name": "Gipuzkoa 2140",
+    "type": "community",
+    "organization": "2140-meetups",
+    "continent": "europe",
+    "population:date": "2022",
+    "population": "187849",
+    "area_km2": 209.73,
+    "contact:email": "gipuzkoa2140@proton.me",
+    "icon:square": "https://static.btcmap.org/images/communities/gipuzkoa-2140.png",
     "id": 371,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
+    "region_un": "Americas",
+    "lon": -39.335251,
+    "iso_a3": "GRL",
+    "population:year": 2019,
+    "gdp_year": 2018,
+    "sovereignt": "Denmark",
+    "region_wb": "Europe & Central Asia",
+    "area_km2": 2159632.71,
+    "continent": "North America",
+    "lat": 74.319387,
+    "population": 56225,
+    "type": "country",
+    "population:rank": 8,
+    "income_grp": "2. High income: nonOECD",
+    "gdp_md": 3051,
+    "country_type": "Country",
+    "iso_a2": "GL",
+    "economy": "2. Developed region: nonG7",
+    "wikidataid": "Q223",
+    "subregion": "Northern America",
+    "name": "Greenland",
+    "url_alias": "gl",
+    "icon:square": "https://static.btcmap.org/images/countries/gl.svg",
     "id": 372,
-    "type": null,
-    "merchantCount": 0,
-    "name": null
+    "merchantCount": null
   },
   {
     "continent": "europe",
