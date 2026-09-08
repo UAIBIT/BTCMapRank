@@ -1103,28 +1103,6 @@
     "merchantCount": null
   },
   {
-    "box:north": "51.45837579976947",
-    "contact:email": "admin@bitcoinembassylondon.com",
-    "icon:square": "https://static.btcmap.org/images/communities/bitcoin-embassy-london.jpg",
-    "population:date": "2021-01-01",
-    "contact:eventbrite": "https://www.eventbrite.co.uk/e/bitcoin-embassy-meetup-west-london-tickets-461809523717",
-    "continent": "europe",
-    "contact:instagram": "https://www.instagram.com/bitcoinembassylondon/",
-    "contact:website": "https://bitcoinembassylondon.com/",
-    "box:west": "-0.3055679798126221",
-    "url_alias": "bitcoin-embassy-london",
-    "box:south": "51.45738641562013",
-    "type": "community",
-    "name": "Bitcoin Embassy London",
-    "contact:twitter": "https://twitter.com/bitcoinembassyu",
-    "area_km2": 1598.54,
-    "box:east": "-0.3039801120758057",
-    "contact:facebook": "https://www.facebook.com/bitcoinembassylondon",
-    "population": "14257962",
-    "id": 100,
-    "merchantCount": null
-  },
-  {
     "contact:email": "info@bitembassy.org",
     "population": "3854000",
     "url_alias": "bitcoin-embassy-tel-aviv",
@@ -4826,9 +4804,11 @@
     "population": "8899375",
     "name": "London Bitcoin Space",
     "contact:meetup": "https://www.meetup.com/london-bitcoin-space/",
-    "area_km2": 1601.4,
+    "area_km2": 24.34,
     "box:west": -0.54791,
     "continent": "europe",
+    "contact:website": "https://www.cyphermunkhouse.com/",
+    "verified:date": "2026-09-08",
     "id": 445,
     "merchantCount": null
   },
@@ -7739,20 +7719,6 @@
     "icon:square": "https://static.btcmap.org/images/communities/bitcoin-people-brescia.png",
     "langauge": "it",
     "id": 738,
-    "merchantCount": null
-  },
-  {
-    "continent": "europe",
-    "population": "40000",
-    "url_alias": "tooting-market-bitcoin",
-    "type": "community",
-    "name": "Tooting Market Bitcoin",
-    "contact:twitter": "https://x.com/Jcastweet",
-    "icon:square": "https://static.btcmap.org/images/communities/tooting-market-bitcoin.jpg",
-    "population:date": "2024-01-01",
-    "contact:email": "hello@spendinbitcoin.com",
-    "tips:lightning_address": "hashleygiles@walletofsatoshi.com",
-    "id": 740,
     "merchantCount": null
   },
   {
