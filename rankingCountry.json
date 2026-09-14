@@ -198,6 +198,7 @@
     "url_alias": "ar",
     "icon:square": "https://static.btcmap.org/images/areas/26.png",
     "verified:date": "2026-03-11",
+    "description": "Argentina has emerged as one of the world's most active Bitcoin economies, a response to decades of high inflation and strict currency controls that make saving in pesos difficult. Bitcoin is not legal tender here, but it is legal to hold, trade and mine, and it has become a popular store of value and a channel for remittances.\n\nThe country has a deep grassroots culture: LaBitconf, first held in Buenos Aires in 2013, is among the oldest Bitcoin conferences in Latin America, and a network of meetups and NGOs such as Bitcoin Argentina keeps the community growing. Peer-to-peer trading volumes and wallets like Lemon and Belo have made sats part of everyday life.\n\nPresident Javier Milei, elected in 2023 on a libertarian platform, has been openly pro-Bitcoin and favors currency competition, though the peso remains legal tender. Use this map to find the growing number of Argentine places where you can spend sats.",
     "id": 26,
     "merchantCount": null
   },
@@ -252,6 +253,7 @@
     "name": "Australia",
     "url_alias": "au",
     "icon:square": "https://static.btcmap.org/images/countries/au.svg",
+    "description": "Australia was an early mover on Bitcoin policy, scrapping double taxation in 2017 by removing GST from bitcoin purchases and treating it more like money. Bitcoin is legal, though not legal tender, and exchanges have had to register with AUSTRAC since 2018.\n\nFor tax, the ATO treats bitcoin as a capital gains asset: individuals who hold for more than a year can qualify for a 50% CGT discount, while mining and trading income is taxed differently. Home-grown exchanges such as CoinJar, founded in 2013, and BTC Markets serve a mature local market.\n\nFrom Sydney and Melbourne to Brisbane and Perth, meetups and bitcoin-accepting merchants keep the scene active. Use this map to find the Australian places where you can spend sats.",
     "id": 33,
     "merchantCount": null
   },
@@ -711,6 +713,7 @@
     "iso_a2": "BR",
     "url_alias": "br",
     "icon:square": "https://static.btcmap.org/images/countries/br.svg",
+    "description": "Brazil is Latin America's largest Bitcoin market and home to its first bitcoin ETF, launched in 2021. Bitcoin is legal, though not legal tender, and since 2022 it has been recognised as a virtual asset under a national framework that puts the central bank in charge of licensing service providers.\n\nThe use cases are strong in a country with a large unbanked population and expensive remittances: peer-to-peer trading and exchanges are widely used, and some municipal governments, including Rio de Janeiro, have explored accepting bitcoin for taxes and holding it in public reserves.\n\nFrom São Paulo to Rio and Florianópolis, meetups and bitcoin-accepting merchants keep the scene growing. Use this map to find the Brazilian places where you can spend sats.",
     "id": 173,
     "merchantCount": null
   },
@@ -873,6 +876,7 @@
     "area_km2": 9894187.94,
     "url_alias": "ca",
     "icon:square": "https://static.btcmap.org/images/countries/ca.svg",
+    "description": "Canada has a habit of firsts in Bitcoin: the world's first Bitcoin ATM opened in a Vancouver coffee shop in 2013, and in 2021 the Purpose Bitcoin ETF became the first spot bitcoin ETF to trade anywhere. Bitcoin is legal here, though not legal tender.\n\nExchanges and brokers must register with FINTRAC as money services businesses, and bitcoin is generally treated as a commodity for tax purposes, with gains taxed as capital gains or income. Cheap hydro power in provinces such as Quebec and Alberta has also drawn bitcoin miners.\n\nFrom Toronto and Vancouver to Montreal, active meetups and merchants keep the community growing. Use this map to find the Canadian places where you can spend sats.",
     "id": 186,
     "merchantCount": null
   },
@@ -981,6 +985,7 @@
     "population": 8574832,
     "url_alias": "ch",
     "icon:square": "https://static.btcmap.org/images/countries/ch.svg",
+    "description": "Switzerland has positioned itself as one of Europe's most Bitcoin-friendly countries, with the canton of Zug hosting a dense cluster of Bitcoin companies and foundations. Since 2016 the city of Zug has even accepted bitcoin for municipal tax payments.\n\nRather than write bespoke rules, the Swiss financial regulator FINMA applies existing financial-market law to bitcoin businesses and issues guidance. Capital gains on bitcoin are generally tax-free at the federal level for private investors, though wealth and some cantonal taxes still apply.\n\nCities lead the way: Lugano's Plan B has turned the lakeside city into a Bitcoin hub that accepts BTC for taxes, parking and public services, while meetups and companies in Zurich and Zug keep the community connected. Use this map to find the Swiss places where you can spend sats.",
     "id": 194,
     "merchantCount": null
   },
@@ -1298,6 +1303,7 @@
     "sovereignt": "Czechia",
     "url_alias": "cz",
     "icon:square": "https://static.btcmap.org/images/countries/cz.svg",
+    "description": "Czechia, and Prague in particular, has one of Europe's deepest Bitcoin cultures. The city is home to SatoshiLabs, the company behind the Trezor hardware wallet, and to Paralelní Polis, a Bitcoin-focused cafe and hackerspace founded in 2014.\n\nBitcoin is legal and increasingly mainstream: a growing number of shops, cafes and services accept it, and Prague hosts BTC Prague, one of the continent's largest Bitcoin-only conferences. Czech law treats bitcoin as an asset, and long-term private holdings enjoy capital gains relief.\n\nFrom the Bitcoin cafes of Prague to local meetups around the country, the community is one of the most dedicated in Europe. Use this map to find the Czech places where you can spend sats.",
     "id": 218,
     "merchantCount": null
   },
@@ -1325,6 +1331,7 @@
     "income_grp": "1. High income: OECD",
     "url_alias": "de",
     "icon:square": "https://static.btcmap.org/images/countries/de.svg",
+    "description": "Germany was one of the first major economies to give bitcoin a legal home, when the Federal Ministry of Finance classified it as private money back in 2013. Bitcoin is not legal tender, but it is legal to buy, hold and spend, and it is exempt from VAT when used as payment.\n\nThe tax treatment is famously friendly: private investors who hold bitcoin for more than a year owe no capital gains tax on the sale, while shorter holdings are taxed as income. Regulated banks and custodians can offer bitcoin services, and Berlin's room77 pub has accepted bitcoin since the early days, making it one of the oldest bitcoin merchants anywhere.\n\nFrom Berlin and Munich to the Ruhr, meetups and merchant adoption keep the scene active in Europe's largest economy. Use this map to find the German places where you can spend sats.",
     "id": 220,
     "merchantCount": null
   },
@@ -2768,6 +2775,7 @@
     "area_km2": 370927.36,
     "url_alias": "jp",
     "icon:square": "https://static.btcmap.org/images/countries/jp.svg",
+    "description": "The pseudonymous creator of Bitcoin, Satoshi Nakamoto, chose a Japanese name, and Japan has been central to the currency's story ever since. Tokyo was home to Mt. Gox, the world's largest bitcoin exchange until its collapse in 2014, which at its peak handled roughly 70% of all global trades.\n\nIn April 2017 Japan became one of the first major economies to formally recognize bitcoin as a legal method of payment under its amended Payment Services Act, with exchanges supervised by the Financial Services Agency. Large retailers began accepting BTC around the same time, and bitcoin is treated as property and taxed as miscellaneous income.\n\nToday a lively community keeps the ecosystem alive through meetups in Tokyo, Osaka and beyond, while exchanges and merchants continue to serve an active market in a country with a deep trading history. Use this map to find the places where you can spend sats across Japan.",
     "id": 414,
     "merchantCount": null
   },
@@ -4065,6 +4073,7 @@
     "continent": "Africa",
     "url_alias": "ng",
     "icon:square": "https://static.btcmap.org/images/countries/ng.svg",
+    "description": "Nigeria is one of the world's largest grassroots Bitcoin markets, driven by a fast-depreciating naira, high inflation and a young, mobile-first population looking for a reliable store of value and cheaper remittances.\n\nThe regulatory path has been volatile: in 2021 the Central Bank barred banks from serving bitcoin businesses, then reversed course in late 2023 and issued guidelines allowing them back in, while the SEC began licensing digital-asset exchanges. Bitcoin is not legal tender, but peer-to-peer trading here ranks among the busiest on the planet.\n\nCommunities in Lagos, Abuja and beyond keep the scene vibrant with meetups and education, and merchants from cafes to tech shops increasingly accept sats. Use this map to find the places where you can spend bitcoin across Nigeria.",
     "id": 505,
     "merchantCount": null
   },
@@ -4119,6 +4128,7 @@
     "gdp_md": 907050,
     "url_alias": "nl",
     "icon:square": "https://static.btcmap.org/images/countries/nl.svg",
+    "description": "The Netherlands has been a European Bitcoin pioneer for over a decade. Amsterdam is home to Bitonic, one of the continent's oldest bitcoin brokers, and hosts Bitcoin Amsterdam, one of Europe's largest Bitcoin-only conferences.\n\nThe city of Arnhem is a standout: local shops along the Koningstraat—informally the Bitcoin Boulevard—accept bitcoin, part of a long-running effort to build a circular bitcoin economy. Regulation is clear, with service providers registering with the Dutch central bank.\n\nTaxwise there is no separate capital gains tax on bitcoin; instead holdings form part of the wealth-tax base in Box 3. From Amsterdam to Arnhem and beyond, meetups and merchants keep the scene thriving. Use this map to find the Dutch places where you can spend sats.",
     "id": 507,
     "merchantCount": null
   },
@@ -4578,6 +4588,7 @@
     "region_wb": "Europe & Central Asia",
     "url_alias": "pt",
     "icon:square": "https://static.btcmap.org/images/countries/pt.svg",
+    "description": "Portugal has long been a favourite base for Bitcoiners, thanks to a mild climate, a growing tech scene and a tax regime that for years left individual bitcoin gains untaxed. Bitcoin is not legal tender here, but it is fully legal to buy, hold and spend.\n\nIn 2023 the rules changed: gains on bitcoin held for less than a year are now taxed at 28%, while longer-term holdings remain exempt. The autonomous region of Madeira has gone further, promoting a free-trade zone with generous tax treatment and courting Bitcoin businesses and events.\n\nLisbon and Porto host a dense calendar of meetups and conferences, and bitcoin-accepting merchants can be found in cities across the country. Use this map to find the Portuguese places where you can spend sats.",
     "id": 541,
     "merchantCount": null
   },
@@ -5226,6 +5237,7 @@
     "continent": "North America",
     "url_alias": "sv",
     "icon:square": "https://static.btcmap.org/images/countries/sv.svg",
+    "description": "In September 2021 El Salvador became the first country in the world to adopt Bitcoin as legal tender. The Bitcoin Law, championed by President Nayib Bukele, made BTC official currency alongside the US dollar and launched the government's Chivo wallet, backed by purchases of bitcoin for the national reserve.\n\nThe movement began in the coastal village of El Zonte—known as Bitcoin Beach—where a circular bitcoin economy took root in 2019 and inspired the national policy. Today merchants across the country accept sats, often over the Lightning Network, and the community gathers for meetups in San Salvador and beyond; the planned Bitcoin City is intended to be a tax-friendly hub powered by geothermal energy.\n\nBitcoin remains legal tender, though acceptance is uneven, and a 2024 IMF agreement led to the law being revised so private businesses are no longer required to accept it. Use this map to find the many places where you can spend sats and join El Salvador's pioneering Bitcoin economy.",
     "id": 600,
     "merchantCount": null
   },
@@ -5810,6 +5822,7 @@
     "type": "country",
     "url_alias": "us",
     "icon:square": "https://static.btcmap.org/images/countries/us.svg",
+    "description": "Home to Bitcoin's first real-world purchase (the 2010 Bitcoin Pizza transaction in Florida), the United States has grown into one of the largest Bitcoin economies.\n\nIt hosts a dense network of merchants and meetups plus major conferences such as Bitcoin 2024 in Nashville, and accounts for a significant share of global mining capacity, especially in Texas.\n\nBitcoin is legal at the federal level and treated as property for tax purposes by the IRS, with oversight layered across FinCEN, the SEC, the CFTC and state regimes like New York's BitLicense. Use this map to find thousands of US places where you can spend sats and connect with the local Bitcoin community.",
     "id": 633,
     "merchantCount": null
   },
@@ -6162,6 +6175,7 @@
     "lon": 23.665734,
     "url_alias": "za",
     "icon:square": "https://static.btcmap.org/images/countries/za.svg",
+    "description": "South Africa is one of Africa's most active Bitcoin markets, and home to Luno—founded in Cape Town in 2013—one of the world's oldest bitcoin exchanges. Bitcoin is legal, but not legal tender.\n\nSince 2022, the Financial Sector Conduct Authority has classified crypto assets as a financial product, bringing service providers under formal conduct rules. For tax, SARS treats bitcoin as an asset, so disposals can attract capital gains or income tax depending on intent.\n\nFrom Cape Town and Johannesburg to Durban, a growing community of meetups and merchants is putting sats to work. Use this map to find the South African places where you can spend sats.",
     "id": 656,
     "merchantCount": null
   },
